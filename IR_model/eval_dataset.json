@@ -1,0 +1,967 @@
+[
+    {
+        "context": "bộ luật này quy định địa vị pháp lý, chuẩn mực pháp lý về cách ứng xử của cá nhân, pháp nhân, quyền, nghĩa vụ về nhân thân và tài sản của cá nhân, pháp nhân trong các quan hệ được hình thành trên cơ sở bình đẳng, tự do ý chí, độc lập về tài sản và tự chịu trách nhiệm. ; điều 1.",
+        "question": "quy định chung của bộ luật dân sự là gì ?",
+        "labels": 1
+    },
+    {
+        "context": "bộ luật này quy định địa vị pháp lý, chuẩn mực pháp lý về cách ứng xử của cá nhân, pháp nhân, quyền, nghĩa vụ về nhân thân và tài sản của cá nhân, pháp nhân trong các quan hệ được hình thành trên cơ sở bình đẳng, tự do ý chí, độc lập về tài sản và tự chịu trách nhiệm. ; điều 1.",
+        "question": "tôi muốn biết tổng quan về bộ luật dân sự.",
+        "labels": 1
+    },
+    {
+        "context": "bộ luật này quy định địa vị pháp lý, chuẩn mực pháp lý về cách ứng xử của cá nhân, pháp nhân, quyền, nghĩa vụ về nhân thân và tài sản của cá nhân, pháp nhân trong các quan hệ được hình thành trên cơ sở bình đẳng, tự do ý chí, độc lập về tài sản và tự chịu trách nhiệm. ; điều 1.",
+        "question": "bộ luật dân sự được hình thành dựa vào cái gì ?",
+        "labels": 1
+    },
+    {
+        "context": "ở nước cộng hòa xã hội chủ nghĩa việt nam, các quyền dân sự được công nhận, tôn trọng, bảo vệ và bảo đảm theo hiến pháp và pháp luật. ; điều 2, khoản 1.",
+        "question": "quyền dân sự được công nhận ở đâu ?",
+        "labels": 1
+    },
+    {
+        "context": "ở nước cộng hòa xã hội chủ nghĩa việt nam, các quyền dân sự được công nhận, tôn trọng, bảo vệ và bảo đảm theo hiến pháp và pháp luật. ; điều 2, khoản 1.",
+        "question": "quyền dân sự được công nhận, đảm bảo theo hiến pháp phải không ?",
+        "labels": 1
+    },
+    {
+        "context": "ở nước cộng hòa xã hội chủ nghĩa việt nam, các quyền dân sự được công nhận, tôn trọng, bảo vệ và bảo đảm theo hiến pháp và pháp luật. ; điều 2, khoản 1.",
+        "question": "quyền dân sự được bảo vệ ở đâu ?",
+        "labels": 1
+    },
+    {
+        "context": "quyền dân sự chỉ có thể bị hạn chế theo quy định của luật trong trường hợp cần thiết vì lý do quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội, đạo đức xã hội, sức khỏe của cộng đồng. ; điều 2, khoản 2.",
+        "question": "quyền dân sự bị hạn chế khi nào ?",
+        "labels": 1
+    },
+    {
+        "context": "quyền dân sự chỉ có thể bị hạn chế theo quy định của luật trong trường hợp cần thiết vì lý do quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội, đạo đức xã hội, sức khỏe của cộng đồng. ; điều 2, khoản 2.",
+        "question": "quyền dân sự bị hạn chế bởi lý do gì ?",
+        "labels": 1
+    },
+    {
+        "context": "quyền dân sự chỉ có thể bị hạn chế theo quy định của luật trong trường hợp cần thiết vì lý do quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội, đạo đức xã hội, sức khỏe của cộng đồng. ; điều 2, khoản 2.",
+        "question": "vì sao quyền dân sự bị hạn chế ?",
+        "labels": 1
+    },
+    {
+        "context": "không hạn chế năng lực pháp luật dân sự của cá nhân năng lực pháp luật dân sự của cá nhân không bị hạn chế, trừ trường hợp bộ luật này, luật khác có liên quan quy định khác ; điều 18.",
+        "question": "quyền dân sự bị hạn chế khi nào ?",
+        "labels": 1
+    },
+    {
+        "context": "mọi cá nhân, pháp nhân đều bình đẳng, không được lấy bất kỳ lý do nào để phân biệt đối xử; được pháp luật bảo hộ như nhau về các quyền nhân thân và tài sản ; điều 3 khoản 1. ",
+        "question": "có được phân biệt đối xử không ?",
+        "labels": 1
+    },
+    {
+        "context": "mọi cá nhân, pháp nhân đều bình đẳng, không được lấy bất kỳ lý do nào để phân biệt đối xử; được pháp luật bảo hộ như nhau về các quyền nhân thân và tài sản ; điều 3 khoản 1. ",
+        "question": "có lý do nào để phân biệt đối xử không ?",
+        "labels": 1
+    },
+    {
+        "context": "mọi cá nhân đều bình đẳng về quyền để lại tài sản của mình cho người khác và quyền hưởng di sản theo di chúc hoặc theo pháp luật ; điều 610.",
+        "question": "mọi người có quyền bình đẳng hay không ?",
+        "labels": 1
+    },
+    {
+        "context": "cá nhân, pháp nhân xác lập, thực hiện, chấm dứt quyền, nghĩa vụ dân sự của mình trên cơ sở tự do, tự nguyện cam kết, thỏa thuận. mọi cam kết, thỏa thuận không vi phạm điều cấm của luật, không trái đạo đức xã hội có hiệu lực thực hiện đối với các bên và phải được chủ thể khác tôn trọng ; điều 3 khoản 2. ",
+        "question": "cá nhân muốn cam kết chấm dứt nghĩa vụ quân sự có được không ?",
+        "labels": 1
+    },
+    {
+        "context": "cá nhân, pháp nhân xác lập, thực hiện, chấm dứt quyền, nghĩa vụ dân sự của mình trên cơ sở tự do, tự nguyện cam kết, thỏa thuận. mọi cam kết, thỏa thuận không vi phạm điều cấm của luật, không trái đạo đức xã hội có hiệu lực thực hiện đối với các bên và phải được chủ thể khác tôn trọng ; điều 3 khoản 2. ",
+        "question": "cá nhân muốn cam kết và thỏa thuận nghĩa vụ quân sự có cần để ý gì không ?",
+        "labels": 1
+    },
+    {
+        "context": "việc xác lập, thực hiện, chấm dứt quyền, nghĩa vụ dân sự không được xâm phạm đến lợi ích quốc gia, dân tộc, lợi ích công cộng, quyền và lợi ích hợp pháp của người khác ; điều 3 khoản 4. ",
+        "question": "chấm dứt nghĩa vụ quân sự có xâm phạm đến lợi ích của ai không ?",
+        "labels": 1
+    },
+    {
+        "context": "cá nhân, pháp nhân phải tự chịu trách nhiệm về việc không thực hiện hoặc thực hiện không đúng nghĩa vụ dân sự ; điều 3 khoản 5. ",
+        "question": "cá nhân có chịu trách nhiệm khi trốn nghĩa vụ không ?",
+        "labels": 1
+    },
+    {
+        "context": "cá nhân, pháp nhân phải tự chịu trách nhiệm về việc không thực hiện hoặc thực hiện không đúng nghĩa vụ dân sự ; điều 3 khoản 5. ",
+        "question": "cá nhân có chịu trách nhiệm khi thực hiện không đúng nghĩa vụ không ?",
+        "labels": 1
+    },
+    {
+        "context": "trách nhiệm dân sự do vi phạm nghĩa vụ: bên có nghĩa vụ mà vi phạm nghĩa vụ thì phải chịu trách nhiệm dân sự đối với bên có quyền, vi phạm nghĩa vụ là việc bên có nghĩa vụ không thực hiện nghĩa vụ đúng thời hạn, thực hiện không đầy đủ nghĩa vụ hoặc thực hiện không đúng nội dung của nghĩa vụ,  trường hợp bên có nghĩa vụ không thực hiện đúng nghĩa vụ do sự kiện bất khả kháng thì không phải chịu trách nhiệm dân sự, trừ trường hợp có thoả thuận khác hoặc pháp luật có quy định khác, bên có nghĩa vụ không phải chịu trách nhiệm dân sự nếu chứng minh được nghĩa vụ không thực hiện được là hoàn toàn do lỗi của bên có quyền ; điều 351.",
+        "question": "có chịu trách nhiệm khi thực hiện không đúng nghĩa vụ không ?",
+        "labels": 1
+    },
+    {
+        "context": "luật khác có liên quan điều chỉnh quan hệ dân sự trong các lĩnh vực cụ thể không được trái với các nguyên tắc cơ bản của pháp luật dân sự quy định tại điều 3 của bộ luật này ; điều 4 khoản 2. ",
+        "question": "luật khác có liên quan đến điều chỉnh quan hệ dân sự thì làm sao ?",
+        "labels": 1
+    },
+    {
+        "context": "trường hợp luật khác có liên quan không quy định hoặc có quy định nhưng vi phạm khoản 2 điều này thì quy định của bộ luật này được áp dụng ; điều 4 khoản 3. ",
+        "question": "bộ luật khác ảnh hưởng đến khoản 2 điều 4 thì sao ?",
+        "labels": 1
+    },
+    {
+        "context": "trường hợp có sự khác nhau giữa quy định của bộ luật này và điều ước quốc tế mà cộng hòa xã hội chủ nghĩa việt nam là thành viên về cùng một vấn đề thì áp dụng quy định của điều ước quốc tế ; điều 4 khoản 4. ",
+        "question": "có sự khác nhau giữa bộ luật dân sự và điều ước quốc tế thì áp dụng cái nào ?",
+        "labels": 1
+    },
+    {
+        "context": "trường hợp có sự khác nhau giữa quy định của bộ luật này và điều ước quốc tế mà cộng hòa xã hội chủ nghĩa việt nam là thành viên về cùng một vấn đề thì áp dụng quy định của điều ước quốc tế ; điều 4 khoản 4. ",
+        "question": "có sự khác nhau giữa bộ luật dân sự và điều ước quốc tế mà ta là thành viên thì áp dụng cái nào ?",
+        "labels": 1
+    },
+    {
+        "context": "trường hợp có sự khác nhau giữa quy định của bộ luật này và điều ước quốc tế mà cộng hòa xã hội chủ nghĩa việt nam là thành viên về cùng một vấn đề thì áp dụng quy định của điều ước quốc tế ; điều 4 khoản 4. ",
+        "question": "giữa bộ luật dân sự và điều ước quốc tế mà ta là thành viên thì áp dụng cái nào ?",
+        "labels": 1
+    },
+    {
+        "context": "tập quán là quy tắc xử sự có nội dung rõ ràng để xác định quyền, nghĩa vụ của cá nhân, pháp nhân trong quan hệ dân sự cụ thể, được hình thành và lặp đi lặp lại nhiều lần trong một thời gian dài, được thừa nhận và áp dụng rộng rãi trong một vùng, miền, dân tộc, cộng đồng dân cư hoặc trong một lĩnh vực dân sự ; điều 5 khoản 1. ",
+        "question": "quy tắc của tập quán là gì ?",
+        "labels": 1
+    },
+    {
+        "context": "trường hợp các bên không có thoả thuận và pháp luật không quy định thì có thể áp dụng tập quán nhưng tập quán áp dụng không được trái với các nguyên tắc cơ bản của pháp luật dân sự quy định tại điều 3 của bộ luật này ; điều 5 khoản 2. ",
+        "question": "có thể áp dụng tập quán nếu pháp luật không có quy định không ?",
+        "labels": 1
+    },
+    {
+        "context": "trường hợp các bên không có thoả thuận và pháp luật không quy định thì có thể áp dụng tập quán nhưng tập quán áp dụng không được trái với các nguyên tắc cơ bản của pháp luật dân sự quy định tại điều 3 của bộ luật này ; điều 5 khoản 2. ",
+        "question": "hai bên không có thỏa thuận thì có thể áp dụng tập quán không ?",
+        "labels": 1
+    },
+    {
+        "context": "trường hợp các bên không có thoả thuận và pháp luật không quy định thì có thể áp dụng tập quán nhưng tập quán áp dụng không được trái với các nguyên tắc cơ bản của pháp luật dân sự quy định tại điều 3 của bộ luật này ; điều 5 khoản 2. ",
+        "question": "hai bên không có thỏa thuận thì có thể áp dụng tập quán không ?",
+        "labels": 1
+    },
+    {
+        "context": "trường hợp phát sinh quan hệ thuộc phạm vi điều chỉnh của pháp luật dân sự mà các bên không có thoả thuận, pháp luật không có quy định và không có tập quán được áp dụng thì áp dụng quy định của pháp luật điều chỉnh quan hệ dân sự tương tự ; điều 6 khoản 1. ",
+        "question": "khi nào có thể áp dụng quy định của pháp luật điều chỉnh quan hệ ?",
+        "labels": 1
+    },
+    {
+        "context": "trường hợp phát sinh quan hệ thuộc phạm vi điều chỉnh của pháp luật dân sự mà các bên không có thoả thuận, pháp luật không có quy định và không có tập quán được áp dụng thì áp dụng quy định của pháp luật điều chỉnh quan hệ dân sự tương tự ; điều 6 khoản 1. ",
+        "question": "khi nào có thể áp dụng quy định của pháp luật điều chỉnh quan hệ ?",
+        "labels": 1
+    },
+    {
+        "context": "trường hợp phát sinh quan hệ thuộc phạm vi điều chỉnh của pháp luật dân sự mà các bên không có thoả thuận, pháp luật không có quy định và không có tập quán được áp dụng thì áp dụng quy định của pháp luật điều chỉnh quan hệ dân sự tương tự ; điều 6 khoản 1. ",
+        "question": "trường hợp phát sinh điều chỉnh quan hệ mà không thể áp dụng các luật cũng như tập quán thì áp dụng gì ?",
+        "labels": 1
+    },
+    {
+        "context": "trường hợp phát sinh quan hệ thuộc phạm vi điều chỉnh của pháp luật dân sự mà các bên không có thoả thuận, pháp luật không có quy định và không có tập quán được áp dụng thì áp dụng quy định của pháp luật điều chỉnh quan hệ dân sự tương tự ; điều 6 khoản 1. ",
+        "question": "tôi phát sinh điều chỉnh quan hệ mà không thể áp dụng các luật khác thì sao ?",
+        "labels": 1
+    },
+    {
+        "context": "trường hợp không thể áp dụng tương tự pháp luật theo quy định tại khoản 1 điều này thì áp dụng các nguyên tắc cơ bản của pháp luật dân sự quy định tại điều 3 của bộ luật này, án lệ, lẽ công bằng ; điều 6 khoản 2. ",
+        "question": "không thể áp dụng pháp luật theo quy định tại khoản 1 điều 6 thì sao ?",
+        "labels": 1
+    },
+    {
+        "context": "trong quan hệ dân sự, việc hoà giải giữa các bên phù hợp với quy định của pháp luật được khuyến khích ; điều 7 khoản 2. ",
+        "question": "hòa giải giữa các bên trong quan hệ dân sự có được khuyến khích không ?",
+        "labels": 1
+    },
+    {
+        "context": "căn cứ xác lập quyền dân sự quyền dân sự được xác lập từ các căn cứ sau đây: hợp đồng, hành vi pháp lý đơn phương, quyết định của tòa án, cơ quan có thẩm quyền khác theo quy định của luật, kết quả của lao động, sản xuất, kinh doanh; kết quả của hoạt động sáng tạo ra đối tượng quyền sở hữu trí tuệ, chiếm hữu tài sản, sử dụng tài sản, được lợi về tài sản không có căn cứ pháp luật, bị thiệt hại do hành vi trái pháp luật, thực hiện công việc không có uỷ quyền, căn cứ khác do pháp luật quy định ; điều 8.",
+        "question": "tôi muốn biết các căn cứ xác lập quyền dân sự",
+        "labels": 1
+    },
+    {
+        "context": "giới hạn việc thực hiện quyền dân sự cá nhân, pháp nhân không được lạm dụng quyền dân sự của mình gây thiệt hại cho người khác, để vi phạm nghĩa vụ của mình hoặc thực hiện mục đích khác trái pháp luật ; điều 10 khoản 1. ",
+        "question": "cá nhân có thể lợi dụng quyền dân sự để làm trái pháp luật không ?",
+        "labels": 1
+    },
+    {
+        "context": "hủy quyết định cá biệt trái pháp luật của cơ quan, tổ chức, người có thẩm quyền khi giải quyết yêu cầu bảo vệ quyền dân sự, tòa án hoặc cơ quan có thẩm quyền khác có quyền hủy quyết định cá biệt trái pháp luật của cơ quan, tổ chức, người có thẩm quyền. trường hợp quyết định cá biệt bị hủy thì quyền dân sự bị xâm phạm được khôi phục và có thể được bảo vệ bằng các phương thức quy định tại điều 11 của bộ luật này ; điều 15. ",
+        "question": "có thể lợi dụng quyền dân sự để làm trái pháp luật không ?",
+        "labels": 1
+    },
+    {
+        "context": "trường hợp cá nhân, pháp nhân không tuân thủ quy định tại khoản 1 điều này thì tòa án hoặc cơ quan có thẩm quyền khác căn cứ vào tính chất, hậu quả của hành vi vi phạm mà có thể không bảo vệ một phần hoặc toàn bộ quyền của họ, buộc bồi thường nếu gây thiệt hại và có thể áp dụng chế tài khác do luật quy định ; điều 10 khoản 2.",
+        "question": "cá nhân không tuân thủ quy định tại khoản 1 điều 10 thì sao ?",
+        "labels": 1
+    },
+    {
+        "context": "các phương thức bảo vệ quyền dân sự khi quyền dân sự của cá nhân, pháp nhân bị xâm phạm thì chủ thể đó có quyền tự bảo vệ theo quy định của bộ luật này, luật khác có liên quan hoặc yêu cầu cơ quan, tổ chức có thẩm quyền: công nhận, tôn trọng, bảo vệ và bảo đảm quyền dân sự của mình, buộc chấm dứt hành vi xâm phạm, buộc xin lỗi, cải chính công khai, buộc thực hiện nghĩa vụ, buộc bồi thường thiệt hại , hủy quyết định cá biệt trái pháp luật của cơ quan, tổ chức, người có thẩm quyền ,yêu cầu khác theo quy định của luật ; điều 11.",
+        "question": "các phương thức bảo vệ quyền dân sự khi quyền dân sự bị xâm phạm là gì ?",
+        "labels": 1
+    },
+    {
+        "context": "việc tự bảo vệ quyền dân sự phải phù hợp với tính chất, mức độ xâm phạm đến quyền dân sự đó và không được trái với các nguyên tắc cơ bản của pháp luật dân sự quy định tại điều 3 của bộ luật này ; điều 12.",
+        "question": "tự bảo vệ quyền dân sự nhưng vi phạm pháp luật có được không ?",
+        "labels": 1
+    },
+    {
+        "context": "việc tự bảo vệ quyền dân sự phải phù hợp với tính chất, mức độ xâm phạm đến quyền dân sự đó và không được trái với các nguyên tắc cơ bản của pháp luật dân sự quy định tại điều 3 của bộ luật này ; điều 12.",
+        "question": "phải làm sao để tự bảo vệ quyền dân sự ?",
+        "labels": 1
+    },
+    {
+        "context": "cá nhân, pháp nhân có quyền dân sự bị xâm phạm được bồi thường toàn bộ thiệt hại, trừ trường hợp các bên có thỏa thuận khác hoặc luật có quy định khác ; điều 13.",
+        "question": "bị xâm phạm quyền dân sự có được bồi thường không ?",
+        "labels": 1
+    },
+    {
+        "context": "cá nhân, pháp nhân có quyền dân sự bị xâm phạm được bồi thường toàn bộ thiệt hại, trừ trường hợp các bên có thỏa thuận khác hoặc luật có quy định khác ; điều 13.",
+        "question": "bị xâm phạm quyền dân sự có được bồi thường những gì ?",
+        "labels": 1
+    },
+    {
+        "context": "cá nhân, pháp nhân có quyền dân sự bị xâm phạm được bồi thường toàn bộ thiệt hại, trừ trường hợp các bên có thỏa thuận khác hoặc luật có quy định khác ; điều 13.",
+        "question": "có trường hợp nào bị xâm phạm quyền dân sự mà không được bồi thường không ?",
+        "labels": 1
+    },
+    {
+        "context": "tòa án, cơ quan có thẩm quyền khác có trách nhiệm tôn trọng, bảo vệ quyền dân sự của cá nhân, pháp nhân.trường hợp quyền dân sự bị xâm phạm hoặc có tranh chấp thì việc bảo vệ quyền được thực hiện theo pháp luật tố tụng tại tòa án hoặc trọng tài. việc bảo vệ quyền dân sự theo thủ tục hành chính được thực hiện trong trường hợp luật quy định. quyết định giải quyết vụ việc theo thủ tục hành chính có thể được xem xét lại tại tòa án ; điều 14 khoản 1. ",
+        "question": "ai có trách nhiệm bảo vệ quyền dân sự ?",
+        "labels": 1
+    },
+    {
+        "context": "tòa án, cơ quan có thẩm quyền khác có trách nhiệm tôn trọng, bảo vệ quyền dân sự của cá nhân, pháp nhân.trường hợp quyền dân sự bị xâm phạm hoặc có tranh chấp thì việc bảo vệ quyền được thực hiện theo pháp luật tố tụng tại tòa án hoặc trọng tài. việc bảo vệ quyền dân sự theo thủ tục hành chính được thực hiện trong trường hợp luật quy định. quyết định giải quyết vụ việc theo thủ tục hành chính có thể được xem xét lại tại tòa án ; điều 14 khoản 1. ",
+        "question": "ai có trách nhiệm bảo vệ quyền dân sự khi có tranh chấp ?",
+        "labels": 1
+    },
+    {
+        "context": "tòa án, cơ quan có thẩm quyền khác có trách nhiệm tôn trọng, bảo vệ quyền dân sự của cá nhân, pháp nhân.trường hợp quyền dân sự bị xâm phạm hoặc có tranh chấp thì việc bảo vệ quyền được thực hiện theo pháp luật tố tụng tại tòa án hoặc trọng tài. việc bảo vệ quyền dân sự theo thủ tục hành chính được thực hiện trong trường hợp luật quy định. quyết định giải quyết vụ việc theo thủ tục hành chính có thể được xem xét lại tại tòa án ; điều 14 khoản 1. ",
+        "question": "khi có tranh chấp quyền dân sự thì việc bảo vệ quyền được thực hiện như thế nào ?",
+        "labels": 1
+    },
+    {
+        "context": "tòa án không được từ chối giải quyết vụ, việc dân sự vì lý do chưa có điều luật để áp dụng; trong trường hợp này, quy định tại điều 5 và điều 6 của bộ luật này được áp dụng ; điều 14 khoản 2. ",
+        "question": "tòa án có quyền từ chối giải quyết vụ việc dân sự nếu chưa có điều luật không ?",
+        "labels": 1
+    },
+    {
+        "context": "tòa án không được từ chối giải quyết vụ, việc dân sự vì lý do chưa có điều luật để áp dụng; trong trường hợp này, quy định tại điều 5 và điều 6 của bộ luật này được áp dụng ; điều 14 khoản 2. ",
+        "question": "nếu chưa có điều luật để áp dụng khi giải quyết quyền dân sự thì sao ?",
+        "labels": 1
+    },
+    {
+        "context": "năng lực pháp luật dân sự của cá nhân, năng lực pháp luật dân sự của cá nhân là khả năng của cá nhân có quyền dân sự và nghĩa vụ dân sự, mọi cá nhân đều có năng lực pháp luật dân sự như nhau, năng lực pháp luật dân sự của cá nhân có từ khi người đó sinh ra và chấm dứt khi người đó chết ; điều 16. ",
+        "question": "năng lực pháp luật dân sự của cá nhân là gì ?",
+        "labels": 1
+    },
+    {
+        "context": "không hạn chế năng lực pháp luật dân sự của cá nhân năng lực pháp luật dân sự của cá nhân không bị hạn chế, trừ trường hợp bộ luật này, luật khác có liên quan quy định khác ; điều 18. ",
+        "question": "năng lực pháp luật dân sự của cá nhân có bị hạn chế không ?",
+        "labels": 1
+    },
+    {
+        "context": "không hạn chế năng lực pháp luật dân sự của cá nhân năng lực pháp luật dân sự của cá nhân không bị hạn chế, trừ trường hợp bộ luật này, luật khác có liên quan quy định khác ; điều 18. ",
+        "question": "có trường hợp nào năng lực pháp luật dân sự của cá nhân bị hạn chế không ?",
+        "labels": 1
+    },
+    {
+        "context": "năng lực hành vi dân sự của cá nhân năng lực hành vi dân sự của cá nhân là khả năng của cá nhân bằng hành vi của mình xác lập, thực hiện quyền, nghĩa vụ dân sự ; điều 19.",
+        "question": "năng lực hành vi dân sự của cá nhân là gì ?",
+        "labels": 1
+    },
+    {
+        "context": "người thành niên : người thành niên là người từ đủ mười tám tuổi trở lên, người thành niên có năng lực hành vi dân sự đầy đủ, trừ trường hợp quy định tại các điều 22, 23 và 24 của bộ luật này ; điều 20. ",
+        "question": "người thành niên là gì ?",
+        "labels": 1
+    },
+    {
+        "context": "người thành niên : người thành niên là người từ đủ mười tám tuổi trở lên, người thành niên có năng lực hành vi dân sự đầy đủ, trừ trường hợp quy định tại các điều 22, 23 và 24 của bộ luật này ; điều 20. ",
+        "question": "người từ đủ mười tám tuổi trở lên được gọi là gì ?",
+        "labels": 1
+    },
+    {
+        "context": "người thành niên : người thành niên là người từ đủ mười tám tuổi trở lên, người thành niên có năng lực hành vi dân sự đầy đủ, trừ trường hợp quy định tại các điều 22, 23 và 24 của bộ luật này ; điều 20. ",
+        "question": "người thành niên được quy định như thế nào ?",
+        "labels": 1
+    },
+    {
+        "context": "người chưa thành niên: người chưa thành niên là người chưa đủ mười tám tuổi ,giao dịch dân sự của người chưa đủ sáu tuổi do người đại diện theo pháp luật của người đó xác lập, thực hiện, người từ đủ sáu tuổi đến chưa đủ mười lăm tuổi khi xác lập, thực hiện giao dịch dân sự phải được người đại diện theo pháp luật đồng ý, trừ giao dịch dân sự phục vụ nhu cầu sinh hoạt hàng ngày phù hợp với lứa tuổi, người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi tự mình xác lập, thực hiện giao dịch dân sự, trừ giao dịch dân sự liên quan đến bất động sản, động sản phải đăng ký và giao dịch dân sự khác theo quy định của luật phải được người đại diện theo pháp luật đồng ý ; điều 21.",
+        "question": "người chưa đủ mười tám tuổi được gọi người chưa thành niên phải không ?",
+        "labels": 1
+    },
+    {
+        "context": "người chưa thành niên: người chưa thành niên là người chưa đủ mười tám tuổi ,giao dịch dân sự của người chưa đủ sáu tuổi do người đại diện theo pháp luật của người đó xác lập, thực hiện, người từ đủ sáu tuổi đến chưa đủ mười lăm tuổi khi xác lập, thực hiện giao dịch dân sự phải được người đại diện theo pháp luật đồng ý, trừ giao dịch dân sự phục vụ nhu cầu sinh hoạt hàng ngày phù hợp với lứa tuổi, người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi tự mình xác lập, thực hiện giao dịch dân sự, trừ giao dịch dân sự liên quan đến bất động sản, động sản phải đăng ký và giao dịch dân sự khác theo quy định của luật phải được người đại diện theo pháp luật đồng ý ; điều 21.",
+        "question": "những giao dịch dân sự của người chưa thành niên sẽ do ai đại diện ?",
+        "labels": 1
+    },
+    {
+        "context": "người chưa thành niên: người chưa thành niên là người chưa đủ mười tám tuổi ,giao dịch dân sự của người chưa đủ sáu tuổi do người đại diện theo pháp luật của người đó xác lập, thực hiện, người từ đủ sáu tuổi đến chưa đủ mười lăm tuổi khi xác lập, thực hiện giao dịch dân sự phải được người đại diện theo pháp luật đồng ý, trừ giao dịch dân sự phục vụ nhu cầu sinh hoạt hàng ngày phù hợp với lứa tuổi, người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi tự mình xác lập, thực hiện giao dịch dân sự, trừ giao dịch dân sự liên quan đến bất động sản, động sản phải đăng ký và giao dịch dân sự khác theo quy định của luật phải được người đại diện theo pháp luật đồng ý ; điều 21.",
+        "question": "những giao dịch dân sự của người chưa đủ sáu tuổi sẽ do ai đại diện ?",
+        "labels": 1
+    },
+    {
+        "context": "người chưa thành niên: người chưa thành niên là người chưa đủ mười tám tuổi ,giao dịch dân sự của người chưa đủ sáu tuổi do người đại diện theo pháp luật của người đó xác lập, thực hiện, người từ đủ sáu tuổi đến chưa đủ mười lăm tuổi khi xác lập, thực hiện giao dịch dân sự phải được người đại diện theo pháp luật đồng ý, trừ giao dịch dân sự phục vụ nhu cầu sinh hoạt hàng ngày phù hợp với lứa tuổi, người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi tự mình xác lập, thực hiện giao dịch dân sự, trừ giao dịch dân sự liên quan đến bất động sản, động sản phải đăng ký và giao dịch dân sự khác theo quy định của luật phải được người đại diện theo pháp luật đồng ý ; điều 21.",
+        "question": "những giao dịch dân sự của người từ đủ sáu tuổi đến chưa đủ mười lăm tuổi sẽ do ai đại diện ?",
+        "labels": 1
+    },
+    {
+        "context": "người chưa thành niên: người chưa thành niên là người chưa đủ mười tám tuổi ,giao dịch dân sự của người chưa đủ sáu tuổi do người đại diện theo pháp luật của người đó xác lập, thực hiện, người từ đủ sáu tuổi đến chưa đủ mười lăm tuổi khi xác lập, thực hiện giao dịch dân sự phải được người đại diện theo pháp luật đồng ý, trừ giao dịch dân sự phục vụ nhu cầu sinh hoạt hàng ngày phù hợp với lứa tuổi, người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi tự mình xác lập, thực hiện giao dịch dân sự, trừ giao dịch dân sự liên quan đến bất động sản, động sản phải đăng ký và giao dịch dân sự khác theo quy định của luật phải được người đại diện theo pháp luật đồng ý ; điều 21.",
+        "question": "những giao dịch dân sự của người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi sẽ do ai đại diện ?",
+        "labels": 1
+    },
+    {
+        "context": "khi một người do bị bệnh tâm thần hoặc mắc bệnh khác mà không thể nhận thức, làm chủ được hành vi thì theo yêu cầu của người có quyền, lợi ích liên quan hoặc của cơ quan, tổ chức hữu quan, tòa án ra quyết định tuyên bố người này là người mất năng lực hành vi dân sự trên cơ sở kết luận giám định pháp y tâm thần, khi không còn căn cứ tuyên bố một người mất năng lực hành vi dân sự thì theo yêu cầu của chính người đó hoặc của người có quyền, lợi ích liên quan hoặc của cơ quan, tổ chức hữu quan, tòa án ra quyết định huỷ bỏ quyết định tuyên bố mất năng lực hành vi dân sự ; điều 21 khoản 1. ",
+        "question": "khi nào tòa án có thể ra quyết định tuyên bố một người bị mất năng lực hành vi dân sự ?",
+        "labels": 1
+    },
+    {
+        "context": "giao dịch dân sự của người mất năng lực hành vi dân sự phải do người đại diện theo pháp luật xác lập, thực hiện ; điều 22 khoản 2.",
+        "question": "giao dịch dân sự của người mất năng lực hành vi dân sự do ai đại diện ?",
+        "labels": 1
+    },
+    {
+        "context": "người nghiện ma túy, nghiện các chất kích thích khác dẫn đến phá tán tài sản của gia đình thì theo yêu cầu của người có quyền, lợi ích liên quan hoặc của cơ quan, tổ chức hữu quan, tòa án có thể ra quyết định tuyên bố người này là người bị hạn chế năng lực hành vi dân sự, tòa án quyết định người đại diện theo pháp luật của người bị hạn chế năng lực hành vi dân sự và phạm vi đại diện ; điều 24 khoản 1. ",
+        "question": "khi nào tòa có thể tuyên bố một người bị hạn chế năng lực hành vi dân sự ?",
+        "labels": 1
+    },
+    {
+        "context": "người nghiện ma túy, nghiện các chất kích thích khác dẫn đến phá tán tài sản của gia đình thì theo yêu cầu của người có quyền, lợi ích liên quan hoặc của cơ quan, tổ chức hữu quan, tòa án có thể ra quyết định tuyên bố người này là người bị hạn chế năng lực hành vi dân sự, tòa án quyết định người đại diện theo pháp luật của người bị hạn chế năng lực hành vi dân sự và phạm vi đại diện ; điều 24 khoản 1. ",
+        "question": "người nghiện ma túy và phá tài sản có bị tước năng lực hành vi dân sự không ?",
+        "labels": 1
+    },
+    {
+        "context": "người nghiện ma túy, nghiện các chất kích thích khác dẫn đến phá tán tài sản của gia đình thì theo yêu cầu của người có quyền, lợi ích liên quan hoặc của cơ quan, tổ chức hữu quan, tòa án có thể ra quyết định tuyên bố người này là người bị hạn chế năng lực hành vi dân sự, tòa án quyết định người đại diện theo pháp luật của người bị hạn chế năng lực hành vi dân sự và phạm vi đại diện ; điều 24 khoản 1. ",
+        "question": "người nghiện ma túy và phá tài sản có bị hạn chế năng lực hành vi dân sự không ?",
+        "labels": 1
+    },
+    {
+        "context": "khi không còn căn cứ tuyên bố một người có khó khăn trong nhận thức, làm chủ hành vi thì theo yêu cầu của chính người đó hoặc của người có quyền, lợi ích liên quan hoặc của cơ quan, tổ chức hữu quan, tòa án ra quyết định huỷ bỏ quyết định tuyên bố người có khó khăn trong nhận thức, làm chủ hành vi ; điều 23 khoản 2.",
+        "question": "khi nào tòa có thể tuyên bố một người bị hạn chế năng lực hành vi dân sự ?",
+        "labels": 1
+    },
+    {
+        "context": "việc xác lập, thực hiện giao dịch dân sự liên quan đến tài sản của người bị tòa án tuyên bố hạn chế năng lực hành vi dân sự phải có sự đồng ý của người đại diện theo pháp luật, trừ giao dịch nhằm phục vụ nhu cầu sinh hoạt hàng ngày hoặc luật liên quan có quy định khác ; điều 24 khoản 2. ",
+        "question": "giao dịch dân sự liên quan đến tài sản của người bị hạn chế năng lực hành vi dân sự do ai đại diện ?",
+        "labels": 1
+    },
+    {
+        "context": "khi không còn căn cứ tuyên bố một người bị hạn chế năng lực hành vi dân sự thì theo yêu cầu của chính người đó hoặc của người có quyền, lợi ích liên quan hoặc của cơ quan, tổ chức hữu quan, tòa án ra quyết định huỷ bỏ quyết định tuyên bố hạn chế năng lực hành vi dân sự ; điều 24 khoản 3. ",
+        "question": "khi nào giao dịch dân sự liên quan đến tài sản của người bị hạn chế năng lực hành vi dân sự sẽ do họ quyết định ?",
+        "labels": 1
+    },
+    {
+        "context": "quyền nhân thân được quy định trong bộ luật này là quyền dân sự gắn liền với mỗi cá nhân, không thể chuyển giao cho người khác, trừ trường hợp luật khác có liên quan quy định khác ; điều 25 khoản 1.",
+        "question": "quyền nhân thân được quy định trong bộ luật dân sự là gì ?",
+        "labels": 1
+    },
+    {
+        "context": "quyền nhân thân được quy định trong bộ luật này là quyền dân sự gắn liền với mỗi cá nhân, không thể chuyển giao cho người khác, trừ trường hợp luật khác có liên quan quy định khác ; điều 25 khoản 1.",
+        "question": "quyền nhân thân được quy định trong bộ luật dân sự là gì ?",
+        "labels": 1
+    },
+    {
+        "context": "việc xác lập, thực hiện quan hệ dân sự liên quan đến quyền nhân thân của người chưa thành niên, người mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi phải được người đại diện theo pháp luật của người này đồng ý theo quy định của bộ luật này, luật khác có liên quan hoặc theo quyết định của tòa án, việc xác lập, thực hiện quan hệ dân sự liên quan đến quyền nhân thân của người bị tuyên bố mất tích, người đã chết phải được sự đồng ý của vợ, chồng hoặc con thành niên của người đó; trường hợp không có những người này thì phải được sự đồng ý của cha, mẹ của người bị tuyên bố mất tích, người đã chết, trừ trường hợp bộ luật này, luật khác có liên quan quy định khác ; điều 25 khoản 2.",
+        "question": "ai sẽ là người đại diện thực hiện quan hệ dân sự liên quan đến quyền nhân thân của người bị tuyên bố mất tích ?",
+        "labels": 1
+    },
+    {
+        "context": "việc xác lập, thực hiện quan hệ dân sự liên quan đến quyền nhân thân của người chưa thành niên, người mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi phải được người đại diện theo pháp luật của người này đồng ý theo quy định của bộ luật này, luật khác có liên quan hoặc theo quyết định của tòa án, việc xác lập, thực hiện quan hệ dân sự liên quan đến quyền nhân thân của người bị tuyên bố mất tích, người đã chết phải được sự đồng ý của vợ, chồng hoặc con thành niên của người đó; trường hợp không có những người này thì phải được sự đồng ý của cha, mẹ của người bị tuyên bố mất tích, người đã chết, trừ trường hợp bộ luật này, luật khác có liên quan quy định khác ; điều 25 khoản 2.",
+        "question": "ai sẽ là người đại diện thực hiện quan hệ dân sự liên quan đến quyền nhân thân của người bị tuyên bố đã chết ?",
+        "labels": 1
+    },
+    {
+        "context": "việc xác lập, thực hiện quan hệ dân sự liên quan đến quyền nhân thân của người chưa thành niên, người mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi phải được người đại diện theo pháp luật của người này đồng ý theo quy định của bộ luật này, luật khác có liên quan hoặc theo quyết định của tòa án, việc xác lập, thực hiện quan hệ dân sự liên quan đến quyền nhân thân của người bị tuyên bố mất tích, người đã chết phải được sự đồng ý của vợ, chồng hoặc con thành niên của người đó; trường hợp không có những người này thì phải được sự đồng ý của cha, mẹ của người bị tuyên bố mất tích, người đã chết, trừ trường hợp bộ luật này, luật khác có liên quan quy định khác ; điều 25 khoản 2.",
+        "question": "ai sẽ là người đại diện thực hiện quan hệ dân sự liên quan đến quyền nhân thân của người chưa thành niên ?",
+        "labels": 1
+    },
+    {
+        "context": "việc xác lập, thực hiện quan hệ dân sự liên quan đến quyền nhân thân của người chưa thành niên, người mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi phải được người đại diện theo pháp luật của người này đồng ý theo quy định của bộ luật này, luật khác có liên quan hoặc theo quyết định của tòa án, việc xác lập, thực hiện quan hệ dân sự liên quan đến quyền nhân thân của người bị tuyên bố mất tích, người đã chết phải được sự đồng ý của vợ, chồng hoặc con thành niên của người đó; trường hợp không có những người này thì phải được sự đồng ý của cha, mẹ của người bị tuyên bố mất tích, người đã chết, trừ trường hợp bộ luật này, luật khác có liên quan quy định khác ; điều 25 khoản 2.",
+        "question": "ai sẽ là người đại diện thực hiện quan hệ dân sự liên quan đến quyền nhân thân của người mất năng lực hành vi dân sự ?",
+        "labels": 1
+    },
+    {
+        "context": "cá nhân có quyền có họ, tên (bao gồm cả chữ đệm, nếu có). họ, tên của một người được xác định theo họ, tên khai sinh của người đó ; điều 26 khoản 1. ",
+        "question": "họ và tên của một cá nhân được xác định như thế nào ?",
+        "labels": 1
+    },
+    {
+        "context": "cá nhân có quyền có họ, tên (bao gồm cả chữ đệm, nếu có). họ, tên của một người được xác định theo họ, tên khai sinh của người đó ; điều 26 khoản 1. ",
+        "question": "họ và tên của một cá nhân được xác định như thế nào ?",
+        "labels": 1
+    },
+    {
+        "context": "họ của cá nhân được xác định là họ của cha đẻ hoặc họ của mẹ đẻ theo thỏa thuận của cha mẹ; nếu không có thỏa thuận thì họ của con được xác định theo tập quán. trường hợp chưa xác định được cha đẻ thì họ của con được xác định theo họ của mẹ đẻ, trường hợp trẻ em bị bỏ rơi, chưa xác định được cha đẻ, mẹ đẻ và được nhận làm con nuôi thì họ của trẻ em được xác định theo họ của cha nuôi hoặc họ của mẹ nuôi theo thỏa thuận của cha mẹ nuôi. trường hợp chỉ có cha nuôi hoặc mẹ nuôi thì họ của trẻ em được xác định theo họ của người đó, trường hợp trẻ em bị bỏ rơi, chưa xác định được cha đẻ, mẹ đẻ và chưa được nhận làm con nuôi thì họ của trẻ em được xác định theo đề nghị của người đứng đầu cơ sở nuôi dưỡng trẻ em đó hoặc theo đề nghị của người có yêu cầu đăng ký khai sinh cho trẻ em, nếu trẻ em đang được người đó tạm thời nuôi dưỡng, cha đẻ, mẹ đẻ được quy định trong bộ luật này là cha, mẹ được xác định dựa trên sự kiện sinh đẻ; người nhờ mang thai hộ với người được sinh ra từ việc mang thai hộ theo quy định của luật hôn nhân và gia đình ; điều 26 khoản 2.",
+        "question": "họ của cá nhân được xác định là họ của ba hay mẹ ?",
+        "labels": 1
+    },
+    {
+        "context": "họ của cá nhân được xác định là họ của cha đẻ hoặc họ của mẹ đẻ theo thỏa thuận của cha mẹ; nếu không có thỏa thuận thì họ của con được xác định theo tập quán. trường hợp chưa xác định được cha đẻ thì họ của con được xác định theo họ của mẹ đẻ, trường hợp trẻ em bị bỏ rơi, chưa xác định được cha đẻ, mẹ đẻ và được nhận làm con nuôi thì họ của trẻ em được xác định theo họ của cha nuôi hoặc họ của mẹ nuôi theo thỏa thuận của cha mẹ nuôi. trường hợp chỉ có cha nuôi hoặc mẹ nuôi thì họ của trẻ em được xác định theo họ của người đó, trường hợp trẻ em bị bỏ rơi, chưa xác định được cha đẻ, mẹ đẻ và chưa được nhận làm con nuôi thì họ của trẻ em được xác định theo đề nghị của người đứng đầu cơ sở nuôi dưỡng trẻ em đó hoặc theo đề nghị của người có yêu cầu đăng ký khai sinh cho trẻ em, nếu trẻ em đang được người đó tạm thời nuôi dưỡng, cha đẻ, mẹ đẻ được quy định trong bộ luật này là cha, mẹ được xác định dựa trên sự kiện sinh đẻ; người nhờ mang thai hộ với người được sinh ra từ việc mang thai hộ theo quy định của luật hôn nhân và gia đình ; điều 26 khoản 2.",
+        "question": "họ của cá nhân được xác định là họ của cha hay mẹ ?",
+        "labels": 1
+    },
+    {
+        "context": "họ của cá nhân được xác định là họ của cha đẻ hoặc họ của mẹ đẻ theo thỏa thuận của cha mẹ; nếu không có thỏa thuận thì họ của con được xác định theo tập quán. trường hợp chưa xác định được cha đẻ thì họ của con được xác định theo họ của mẹ đẻ, trường hợp trẻ em bị bỏ rơi, chưa xác định được cha đẻ, mẹ đẻ và được nhận làm con nuôi thì họ của trẻ em được xác định theo họ của cha nuôi hoặc họ của mẹ nuôi theo thỏa thuận của cha mẹ nuôi. trường hợp chỉ có cha nuôi hoặc mẹ nuôi thì họ của trẻ em được xác định theo họ của người đó, trường hợp trẻ em bị bỏ rơi, chưa xác định được cha đẻ, mẹ đẻ và chưa được nhận làm con nuôi thì họ của trẻ em được xác định theo đề nghị của người đứng đầu cơ sở nuôi dưỡng trẻ em đó hoặc theo đề nghị của người có yêu cầu đăng ký khai sinh cho trẻ em, nếu trẻ em đang được người đó tạm thời nuôi dưỡng, cha đẻ, mẹ đẻ được quy định trong bộ luật này là cha, mẹ được xác định dựa trên sự kiện sinh đẻ; người nhờ mang thai hộ với người được sinh ra từ việc mang thai hộ theo quy định của luật hôn nhân và gia đình ; điều 26 khoản 2.",
+        "question": "họ của cá nhân được xác định là họ của ai khi được nhận nuôi ?",
+        "labels": 1
+    },
+    {
+        "context": "họ của cá nhân được xác định là họ của cha đẻ hoặc họ của mẹ đẻ theo thỏa thuận của cha mẹ; nếu không có thỏa thuận thì họ của con được xác định theo tập quán. trường hợp chưa xác định được cha đẻ thì họ của con được xác định theo họ của mẹ đẻ, trường hợp trẻ em bị bỏ rơi, chưa xác định được cha đẻ, mẹ đẻ và được nhận làm con nuôi thì họ của trẻ em được xác định theo họ của cha nuôi hoặc họ của mẹ nuôi theo thỏa thuận của cha mẹ nuôi. trường hợp chỉ có cha nuôi hoặc mẹ nuôi thì họ của trẻ em được xác định theo họ của người đó, trường hợp trẻ em bị bỏ rơi, chưa xác định được cha đẻ, mẹ đẻ và chưa được nhận làm con nuôi thì họ của trẻ em được xác định theo đề nghị của người đứng đầu cơ sở nuôi dưỡng trẻ em đó hoặc theo đề nghị của người có yêu cầu đăng ký khai sinh cho trẻ em, nếu trẻ em đang được người đó tạm thời nuôi dưỡng, cha đẻ, mẹ đẻ được quy định trong bộ luật này là cha, mẹ được xác định dựa trên sự kiện sinh đẻ; người nhờ mang thai hộ với người được sinh ra từ việc mang thai hộ theo quy định của luật hôn nhân và gia đình ; điều 26 khoản 2.",
+        "question": "họ của cá nhân được xác định là họ của ai khi được nhận nuôi ?",
+        "labels": 1
+    },
+    {
+        "context": "cá nhân có quyền yêu cầu cơ quan nhà nước có thẩm quyền công nhận việc thay đổi họ trong trường hợp sau đây: thay đổi họ cho con đẻ từ họ của cha đẻ sang họ của mẹ đẻ hoặc ngược lại, thay đổi họ cho con nuôi từ họ của cha đẻ hoặc mẹ đẻ sang họ của cha nuôi hoặc họ của mẹ nuôi theo yêu cầu của cha nuôi, mẹ nuôi, khi người con nuôi thôi làm con nuôi và người này hoặc cha đẻ, mẹ đẻ yêu cầu lấy lại họ cho người đó theo họ của cha đẻ hoặc mẹ đẻ, thay đổi họ cho con theo yêu cầu của cha đẻ, mẹ đẻ hoặc của con khi xác định cha, mẹ cho con, thay đổi họ của người bị lưu lạc đã tìm ra nguồn gốc huyết thống của mình, thay đổi họ theo họ của vợ, họ của chồng trong quan hệ hôn nhân và gia đình có yếu tố nước ngoài để phù hợp với pháp luật của nước mà vợ, chồng người nước ngoài là công dân hoặc lấy lại họ trước khi thay đổi, thay đổi họ của con khi cha, mẹ thay đổi họ, trường hợp khác do pháp luật về hộ tịch quy định ; điều 27 khoản 1.",
+        "question": "nếu được nhận nuôi thì sẽ lấy họ của ai ?",
+        "labels": 1
+    },
+    {
+        "context": "cá nhân có quyền yêu cầu cơ quan nhà nước có thẩm quyền công nhận việc thay đổi họ trong trường hợp sau đây: thay đổi họ cho con đẻ từ họ của cha đẻ sang họ của mẹ đẻ hoặc ngược lại, thay đổi họ cho con nuôi từ họ của cha đẻ hoặc mẹ đẻ sang họ của cha nuôi hoặc họ của mẹ nuôi theo yêu cầu của cha nuôi, mẹ nuôi, khi người con nuôi thôi làm con nuôi và người này hoặc cha đẻ, mẹ đẻ yêu cầu lấy lại họ cho người đó theo họ của cha đẻ hoặc mẹ đẻ, thay đổi họ cho con theo yêu cầu của cha đẻ, mẹ đẻ hoặc của con khi xác định cha, mẹ cho con, thay đổi họ của người bị lưu lạc đã tìm ra nguồn gốc huyết thống của mình, thay đổi họ theo họ của vợ, họ của chồng trong quan hệ hôn nhân và gia đình có yếu tố nước ngoài để phù hợp với pháp luật của nước mà vợ, chồng người nước ngoài là công dân hoặc lấy lại họ trước khi thay đổi, thay đổi họ của con khi cha, mẹ thay đổi họ, trường hợp khác do pháp luật về hộ tịch quy định ; điều 27 khoản 1.",
+        "question": "các trường hợp nào có quyền thay đổi họ ?",
+        "labels": 1
+    },
+    {
+        "context": "việc đặt tên bị hạn chế trong trường hợp xâm phạm đến quyền, lợi ích hợp pháp của người khác hoặc trái với các nguyên tắc cơ bản của pháp luật dân sự quy định tại điều 3 của bộ luật này, tên của công dân việt nam phải bằng tiếng việt hoặc tiếng dân tộc khác của việt nam; không đặt tên bằng số, bằng một ký tự mà không phải là chữ ; điều 26 khoản 3.",
+        "question": "có hạn chế khi đặt tên ở việt nam hay không ?",
+        "labels": 1
+    },
+    {
+        "context": "việc đặt tên bị hạn chế trong trường hợp xâm phạm đến quyền, lợi ích hợp pháp của người khác hoặc trái với các nguyên tắc cơ bản của pháp luật dân sự quy định tại điều 3 của bộ luật này, tên của công dân việt nam phải bằng tiếng việt hoặc tiếng dân tộc khác của việt nam; không đặt tên bằng số, bằng một ký tự mà không phải là chữ ; điều 26 khoản 3.",
+        "question": "có hạn chế khi đặt tên cho con ở việt nam hay không ?",
+        "labels": 1
+    },
+    {
+        "context": "việc đặt tên bị hạn chế trong trường hợp xâm phạm đến quyền, lợi ích hợp pháp của người khác hoặc trái với các nguyên tắc cơ bản của pháp luật dân sự quy định tại điều 3 của bộ luật này, tên của công dân việt nam phải bằng tiếng việt hoặc tiếng dân tộc khác của việt nam; không đặt tên bằng số, bằng một ký tự mà không phải là chữ ; điều 26 khoản 3.",
+        "question": "đặt tên cho con bị hạn chế như thế nào ?",
+        "labels": 1
+    },
+    {
+        "context": "việc sử dụng bí danh, bút danh không được gây thiệt hại đến quyền, lợi ích hợp pháp của người khác ; điều 26 khoản 5.",
+        "question": "có thể sử dụng bí danh không ?",
+        "labels": 1
+    },
+    {
+        "context": "việc sử dụng bí danh, bút danh không được gây thiệt hại đến quyền, lợi ích hợp pháp của người khác ; điều 26 khoản 5.",
+        "question": "có thể sử dụng bút danh không ?",
+        "labels": 1
+    },
+    {
+        "context": "việc thay đổi họ cho người từ đủ chín tuổi trở lên phải có sự đồng ý của người đó ; điều 27 khoản 2.",
+        "question": "thay đổi họ cần sự đồng ý của ai ?",
+        "labels": 1
+    },
+    {
+        "context": "việc thay đổi họ cho người từ đủ chín tuổi trở lên phải có sự đồng ý của người đó ; điều 27 khoản 2.",
+        "question": "mấy tuổi thì có thể thay đổi họ ?",
+        "labels": 1
+    },
+    {
+        "context": "việc thay đổi họ của cá nhân không làm thay đổi, chấm dứt quyền, nghĩa vụ dân sự được xác lập theo họ cũ ; điều 27 khoản 3.cá nhân có quyền yêu cầu cơ quan nhà nước có thẩm quyền công nhận việc thay đổi tên trong trường hợp sau đây: theo yêu cầu của người có tên mà việc sử dụng tên đó gây nhầm lẫn, ảnh hưởng đến tình cảm gia đình, đến danh dự, quyền, lợi ích hợp pháp của người đó, theo yêu cầu của cha nuôi, mẹ nuôi về việc thay đổi tên cho con nuôi hoặc khi người con nuôi thôi làm con nuôi và người này hoặc cha đẻ, mẹ đẻ yêu cầu lấy lại tên mà cha đẻ, mẹ đẻ đã đặt, theo yêu cầu của cha đẻ, mẹ đẻ hoặc người con khi xác định cha, mẹ cho con;, thay đổi tên của người bị lưu lạc đã tìm ra nguồn gốc huyết thống của mình, thay đổi tên của vợ, chồng trong quan hệ hôn nhân và gia đình có yếu tố nước ngoài để phù hợp với pháp luật của nước mà vợ, chồng người nước ngoài là công dân hoặc lấy lại tên trước khi thay đổi;, thay đổi tên của người đã xác định lại giới tính, người đã chuyển đổi giới tính;, trường hợp khác do pháp luật về hộ tịch quy định ; điều 28 khoản 1.",
+        "question": "cá nhân có quyền yêu cầu cơ quan nhà nước có thẩm quyền công nhận việc thay đổi tên trong trường hợp nào ?",
+        "labels": 1
+    },
+    {
+        "context": "việc thay đổi họ của cá nhân không làm thay đổi, chấm dứt quyền, nghĩa vụ dân sự được xác lập theo họ cũ ; điều 27 khoản 3.cá nhân có quyền yêu cầu cơ quan nhà nước có thẩm quyền công nhận việc thay đổi tên trong trường hợp sau đây: theo yêu cầu của người có tên mà việc sử dụng tên đó gây nhầm lẫn, ảnh hưởng đến tình cảm gia đình, đến danh dự, quyền, lợi ích hợp pháp của người đó, theo yêu cầu của cha nuôi, mẹ nuôi về việc thay đổi tên cho con nuôi hoặc khi người con nuôi thôi làm con nuôi và người này hoặc cha đẻ, mẹ đẻ yêu cầu lấy lại tên mà cha đẻ, mẹ đẻ đã đặt, theo yêu cầu của cha đẻ, mẹ đẻ hoặc người con khi xác định cha, mẹ cho con;, thay đổi tên của người bị lưu lạc đã tìm ra nguồn gốc huyết thống của mình, thay đổi tên của vợ, chồng trong quan hệ hôn nhân và gia đình có yếu tố nước ngoài để phù hợp với pháp luật của nước mà vợ, chồng người nước ngoài là công dân hoặc lấy lại tên trước khi thay đổi;, thay đổi tên của người đã xác định lại giới tính, người đã chuyển đổi giới tính;, trường hợp khác do pháp luật về hộ tịch quy định ; điều 28 khoản 1.",
+        "question": "có quyền yêu cầu công nhận việc thay đổi tên trong trường hợp nào ?",
+        "labels": 1
+    },
+    {
+        "context": "việc thay đổi tên cho người từ đủ chín tuổi trở lên phải có sự đồng ý của người đó ; điều 28 khoản 2.",
+        "question": "thay đổi tên cần sự đồng ý của ai ?",
+        "labels": 1
+    },
+    {
+        "context": "việc thay đổi tên cho người từ đủ chín tuổi trở lên phải có sự đồng ý của người đó ; điều 28 khoản 2.",
+        "question": "mấy tuổi thì có thể thay đổi tên ?",
+        "labels": 1
+    },
+    {
+        "context": "quyền xác định, xác định lại dân tộc cá nhân có quyền xác định, xác định lại dân tộc của mình ; điều 29 khoản 1.",
+        "question": "cá nhân có quyền xác định lại dân tộc của mình không ?",
+        "labels": 1
+    },
+    {
+        "context": "cá nhân khi sinh ra được xác định dân tộc theo dân tộc của cha đẻ, mẹ đẻ. trường hợp cha đẻ, mẹ đẻ thuộc hai dân tộc khác nhau thì dân tộc của con được xác định theo dân tộc của cha đẻ hoặc mẹ đẻ theo thoả thuận của cha đẻ, mẹ đẻ; trường hợp không có thỏa thuận thì dân tộc của con được xác định theo tập quán; trường hợp tập quán khác nhau thì dân tộc của con được xác định theo tập quán của dân tộc ít người hơn, trường hợp trẻ em bị bỏ rơi, chưa xác định được cha đẻ, mẹ đẻ và được nhận làm con nuôi thì được xác định dân tộc theo dân tộc của cha nuôi hoặc mẹ nuôi theo thỏa thuận của cha mẹ nuôi. trường hợp chỉ có cha nuôi hoặc mẹ nuôi thì dân tộc của trẻ em được xác định theo dân tộc của người đó, trường hợp trẻ em bị bỏ rơi, chưa xác định được cha đẻ, mẹ đẻ và chưa được nhận làm con nuôi thì được xác định dân tộc theo đề nghị của người đứng đầu cơ sở nuôi dưỡng trẻ em đó hoặc theo đề nghị của người đang tạm thời nuôi dưỡng trẻ em vào thời điểm đăng ký khai sinh cho trẻ em ; điều 29 khoản 2.",
+        "question": "em bé được sinh ra thì được cho là dân tộc nào ?",
+        "labels": 1
+    },
+    {
+        "context": "cá nhân khi sinh ra được xác định dân tộc theo dân tộc của cha đẻ, mẹ đẻ. trường hợp cha đẻ, mẹ đẻ thuộc hai dân tộc khác nhau thì dân tộc của con được xác định theo dân tộc của cha đẻ hoặc mẹ đẻ theo thoả thuận của cha đẻ, mẹ đẻ; trường hợp không có thỏa thuận thì dân tộc của con được xác định theo tập quán; trường hợp tập quán khác nhau thì dân tộc của con được xác định theo tập quán của dân tộc ít người hơn, trường hợp trẻ em bị bỏ rơi, chưa xác định được cha đẻ, mẹ đẻ và được nhận làm con nuôi thì được xác định dân tộc theo dân tộc của cha nuôi hoặc mẹ nuôi theo thỏa thuận của cha mẹ nuôi. trường hợp chỉ có cha nuôi hoặc mẹ nuôi thì dân tộc của trẻ em được xác định theo dân tộc của người đó, trường hợp trẻ em bị bỏ rơi, chưa xác định được cha đẻ, mẹ đẻ và chưa được nhận làm con nuôi thì được xác định dân tộc theo đề nghị của người đứng đầu cơ sở nuôi dưỡng trẻ em đó hoặc theo đề nghị của người đang tạm thời nuôi dưỡng trẻ em vào thời điểm đăng ký khai sinh cho trẻ em ; điều 29 khoản 2.",
+        "question": "trường hợp cha mẹ thuộc hai dân tộc khác nhau thì con của họ sẽ theo dân tộc của ai ?",
+        "labels": 1
+    },
+    {
+        "context": "cá nhân có quyền yêu cầu cơ quan nhà nước có thẩm quyền xác định lại dân tộc trong trường hợp sau đây: xác định lại theo dân tộc của cha đẻ hoặc mẹ đẻ trong trường hợp cha đẻ, mẹ đẻ thuộc hai dân tộc khác nhau, xác định lại theo dân tộc của cha đẻ hoặc mẹ đẻ trong trường hợp con nuôi đã xác định được cha đẻ, mẹ đẻ của mình ; điều 29 khoản 3.",
+        "question": "trường hợp nào có thể yêu cầu nhà nước xác định lại dân tộc ?",
+        "labels": 1
+    },
+    {
+        "context": "cá nhân có quyền yêu cầu cơ quan nhà nước có thẩm quyền xác định lại dân tộc trong trường hợp sau đây: xác định lại theo dân tộc của cha đẻ hoặc mẹ đẻ trong trường hợp cha đẻ, mẹ đẻ thuộc hai dân tộc khác nhau, xác định lại theo dân tộc của cha đẻ hoặc mẹ đẻ trong trường hợp con nuôi đã xác định được cha đẻ, mẹ đẻ của mình ; điều 29 khoản 3.",
+        "question": "cá nhân có quyền yêu cầu nhà nước xác định lại dân tộc không ?",
+        "labels": 1
+    },
+    {
+        "context": "việc xác định lại dân tộc cho người từ đủ mười lăm tuổi đến dưới mười tám tuổi phải được sự đồng ý của người đó ; điều 29 khoản 4.",
+        "question": "mấy tuổi thì có thể thay đổi dân tộc ?",
+        "labels": 1
+    },
+    {
+        "context": "việc xác định lại dân tộc cho người từ đủ mười lăm tuổi đến dưới mười tám tuổi phải được sự đồng ý của người đó ; điều 29 khoản 4.",
+        "question": "mấy tuổi thì có thể xác định lại dân tộc ?",
+        "labels": 1
+    },
+    {
+        "context": "việc xác định lại dân tộc cho người từ đủ mười lăm tuổi đến dưới mười tám tuổi phải được sự đồng ý của người đó ; điều 29 khoản 4.",
+        "question": "người muốn thay đổi dân tộc cần sự đồng ý của ai ?",
+        "labels": 1
+    },
+    {
+        "context": "cấm lợi dụng việc xác định lại dân tộc nhằm mục đích trục lợi hoặc gây chia rẽ, phương hại đến sự đoàn kết của các dân tộc việt nam ; điều 29 khoản 5. ",
+        "question": "trường hợp nào bị cấm khi xác định lại dân tộc ?",
+        "labels": 1
+    },
+    {
+        "context": "cấm lợi dụng việc xác định lại dân tộc nhằm mục đích trục lợi hoặc gây chia rẽ, phương hại đến sự đoàn kết của các dân tộc việt nam ; điều 29 khoản 5. ",
+        "question": "việc lợi dụng xác định lại dân tộc có bị cấm không ?",
+        "labels": 1
+    },
+    {
+        "context": "quyền được khai sinh, khai tử: cá nhân từ khi sinh ra có quyền được khai sinh,cá nhân chết phải được khai tử, trẻ em sinh ra mà sống được từ hai mươi bốn giờ trở lên mới chết thì phải được khai sinh và khai tử; nếu sinh ra mà sống dưới hai mươi bốn giờ thì không phải khai sinh và khai tử, trừ trường hợp cha đẻ, mẹ đẻ có yêu cầu, việc khai sinh, khai tử do pháp luật về hộ tịch quy định ; điều 30. ",
+        "question": "việc khai sinh, khai tử do ai quy định ?",
+        "labels": 1
+    },
+    {
+        "context": "quyền được khai sinh, khai tử: cá nhân từ khi sinh ra có quyền được khai sinh,cá nhân chết phải được khai tử, trẻ em sinh ra mà sống được từ hai mươi bốn giờ trở lên mới chết thì phải được khai sinh và khai tử; nếu sinh ra mà sống dưới hai mươi bốn giờ thì không phải khai sinh và khai tử, trừ trường hợp cha đẻ, mẹ đẻ có yêu cầu, việc khai sinh, khai tử do pháp luật về hộ tịch quy định ; điều 30. ",
+        "question": "việc khai sinh do ai quy định ?",
+        "labels": 1
+    },
+    {
+        "context": "quyền được khai sinh, khai tử: cá nhân từ khi sinh ra có quyền được khai sinh,cá nhân chết phải được khai tử, trẻ em sinh ra mà sống được từ hai mươi bốn giờ trở lên mới chết thì phải được khai sinh và khai tử; nếu sinh ra mà sống dưới hai mươi bốn giờ thì không phải khai sinh và khai tử, trừ trường hợp cha đẻ, mẹ đẻ có yêu cầu, việc khai sinh, khai tử do pháp luật về hộ tịch quy định ; điều 30. ",
+        "question": "việc khai tử do ai quy định ?",
+        "labels": 1
+    },
+    {
+        "context": "quyền được khai sinh, khai tử: cá nhân từ khi sinh ra có quyền được khai sinh,cá nhân chết phải được khai tử, trẻ em sinh ra mà sống được từ hai mươi bốn giờ trở lên mới chết thì phải được khai sinh và khai tử; nếu sinh ra mà sống dưới hai mươi bốn giờ thì không phải khai sinh và khai tử, trừ trường hợp cha đẻ, mẹ đẻ có yêu cầu, việc khai sinh, khai tử do pháp luật về hộ tịch quy định ; điều 30. ",
+        "question": "trường hợp nào không cần làm khai sinh ?",
+        "labels": 1
+    },
+    {
+        "context": "quyền được khai sinh, khai tử: cá nhân từ khi sinh ra có quyền được khai sinh,cá nhân chết phải được khai tử, trẻ em sinh ra mà sống được từ hai mươi bốn giờ trở lên mới chết thì phải được khai sinh và khai tử; nếu sinh ra mà sống dưới hai mươi bốn giờ thì không phải khai sinh và khai tử, trừ trường hợp cha đẻ, mẹ đẻ có yêu cầu, việc khai sinh, khai tử do pháp luật về hộ tịch quy định ; điều 30. ",
+        "question": "trường hợp nào không cần làm khai tử ?",
+        "labels": 1
+    },
+    {
+        "context": "quyền được khai sinh, khai tử: cá nhân từ khi sinh ra có quyền được khai sinh,cá nhân chết phải được khai tử, trẻ em sinh ra mà sống được từ hai mươi bốn giờ trở lên mới chết thì phải được khai sinh và khai tử; nếu sinh ra mà sống dưới hai mươi bốn giờ thì không phải khai sinh và khai tử, trừ trường hợp cha đẻ, mẹ đẻ có yêu cầu, việc khai sinh, khai tử do pháp luật về hộ tịch quy định ; điều 30. ",
+        "question": "trường hợp nào không cần làm khai sinh, khai tử ?",
+        "labels": 1
+    },
+    {
+        "context": "quyền được khai sinh, khai tử: cá nhân từ khi sinh ra có quyền được khai sinh,cá nhân chết phải được khai tử, trẻ em sinh ra mà sống được từ hai mươi bốn giờ trở lên mới chết thì phải được khai sinh và khai tử; nếu sinh ra mà sống dưới hai mươi bốn giờ thì không phải khai sinh và khai tử, trừ trường hợp cha đẻ, mẹ đẻ có yêu cầu, việc khai sinh, khai tử do pháp luật về hộ tịch quy định ; điều 30. ",
+        "question": "trường hợp nào phải làm khai sinh, khai tử ?",
+        "labels": 1
+    },
+    {
+        "context": "quyền được khai sinh, khai tử: cá nhân từ khi sinh ra có quyền được khai sinh,cá nhân chết phải được khai tử, trẻ em sinh ra mà sống được từ hai mươi bốn giờ trở lên mới chết thì phải được khai sinh và khai tử; nếu sinh ra mà sống dưới hai mươi bốn giờ thì không phải khai sinh và khai tử, trừ trường hợp cha đẻ, mẹ đẻ có yêu cầu, việc khai sinh, khai tử do pháp luật về hộ tịch quy định ; điều 30. ",
+        "question": "trường hợp nào phải làm khai tử ?",
+        "labels": 1
+    },
+    {
+        "context": "quyền được khai sinh, khai tử: cá nhân từ khi sinh ra có quyền được khai sinh,cá nhân chết phải được khai tử, trẻ em sinh ra mà sống được từ hai mươi bốn giờ trở lên mới chết thì phải được khai sinh và khai tử; nếu sinh ra mà sống dưới hai mươi bốn giờ thì không phải khai sinh và khai tử, trừ trường hợp cha đẻ, mẹ đẻ có yêu cầu, việc khai sinh, khai tử do pháp luật về hộ tịch quy định ; điều 30. ",
+        "question": "trường hợp nào phải làm khai sinh ?",
+        "labels": 1
+    },
+    {
+        "context": "quyền đối với quốc tịch: cá nhân có quyền có quốc tịch, việc xác định, thay đổi, nhập, thôi, trở lại quốc tịch việt nam do luật quốc tịch việt nam quy định, quyền của người không quốc tịch cư trú, sinh sống trên lãnh thổ việt nam được bảo đảm theo luật ; điều 31. ",
+        "question": "cá nhân có quyền với quốc tịch hay không ?",
+        "labels": 1
+    },
+    {
+        "context": "quyền đối với quốc tịch: cá nhân có quyền có quốc tịch, việc xác định, thay đổi, nhập, thôi, trở lại quốc tịch việt nam do luật quốc tịch việt nam quy định, quyền của người không quốc tịch cư trú, sinh sống trên lãnh thổ việt nam được bảo đảm theo luật ; điều 31. ",
+        "question": "cá nhân có quyền gì đối với quốc tịch ?",
+        "labels": 1
+    },
+    {
+        "context": "cá nhân có quyền đối với hình ảnh của mình: việc sử dụng hình ảnh của cá nhân phải được người đó đồng ý, việc sử dụng hình ảnh của người khác vì mục đích thương mại thì phải trả thù lao cho người có hình ảnh, trừ trường hợp các bên có thỏa thuận khác ; điều 32 khoản 1.",
+        "question": "tôi muốn biết quyền sử dụng hình ảnh cá nhân",
+        "labels": 1
+    },
+    {
+        "context": "cá nhân có quyền đối với hình ảnh của mình: việc sử dụng hình ảnh của cá nhân phải được người đó đồng ý, việc sử dụng hình ảnh của người khác vì mục đích thương mại thì phải trả thù lao cho người có hình ảnh, trừ trường hợp các bên có thỏa thuận khác ; điều 32 khoản 1.",
+        "question": "sử dụng hình ảnh cá nhân với mục đích thương mai thì có cần trả tiền không ?",
+        "labels": 1
+    },
+    {
+        "context": "cá nhân có quyền đối với hình ảnh của mình: việc sử dụng hình ảnh của cá nhân phải được người đó đồng ý, việc sử dụng hình ảnh của người khác vì mục đích thương mại thì phải trả thù lao cho người có hình ảnh, trừ trường hợp các bên có thỏa thuận khác ; điều 32 khoản 1.",
+        "question": "sử dụng hình ảnh trái phép sẽ bị gì ?",
+        "labels": 1
+    },
+    {
+        "context": "việc sử dụng hình ảnh trong trường hợp sau đây không cần có sự đồng ý của người có hình ảnh hoặc người đại diện theo pháp luật của họ: hình ảnh được sử dụng vì lợi ích quốc gia, dân tộc, lợi ích công cộng, hình ảnh được sử dụng từ các hoạt động công cộng, bao gồm hội nghị, hội thảo, hoạt động thi đấu thể thao, biểu diễn nghệ thuật và hoạt động công cộng khác mà không làm tổn hại đến danh dự, nhân phẩm, uy tín của người có hình ảnh ; điều 32 khoản 2.",
+        "question": "hình ảnh được sử dụng vì lời ích quốc gia có cần sự đồng ý không ?",
+        "labels": 1
+    },
+    {
+        "context": "việc sử dụng hình ảnh trong trường hợp sau đây không cần có sự đồng ý của người có hình ảnh hoặc người đại diện theo pháp luật của họ: hình ảnh được sử dụng vì lợi ích quốc gia, dân tộc, lợi ích công cộng, hình ảnh được sử dụng từ các hoạt động công cộng, bao gồm hội nghị, hội thảo, hoạt động thi đấu thể thao, biểu diễn nghệ thuật và hoạt động công cộng khác mà không làm tổn hại đến danh dự, nhân phẩm, uy tín của người có hình ảnh ; điều 32 khoản 2.",
+        "question": "hình ảnh được sử dụng từ các hoạt động công cộng có cần sự đồng ý không ?",
+        "labels": 1
+    },
+    {
+        "context": "việc sử dụng hình ảnh mà vi phạm quy định tại điều này thì người có hình ảnh có quyền yêu cầu tòa án ra quyết định buộc người vi phạm, cơ quan, tổ chức, cá nhân có liên quan phải thu hồi, tiêu hủy, chấm dứt việc sử dụng hình ảnh, bồi thường thiệt hại và áp dụng các biện pháp xử lý khác theo quy định của pháp luật ; điều 32 khoản 3. ",
+        "question": "việc sử dụng hình ảnh mà vi phạm quy định thì sẽ bị gì ?",
+        "labels": 1
+    },
+    {
+        "context": "việc sử dụng hình ảnh mà vi phạm quy định tại điều này thì người có hình ảnh có quyền yêu cầu tòa án ra quyết định buộc người vi phạm, cơ quan, tổ chức, cá nhân có liên quan phải thu hồi, tiêu hủy, chấm dứt việc sử dụng hình ảnh, bồi thường thiệt hại và áp dụng các biện pháp xử lý khác theo quy định của pháp luật ; điều 32 khoản 3. ",
+        "question": "có thể kiện người vi phạm sử dụng hình ảnh ra tòa không ?",
+        "labels": 1
+    },
+    {
+        "context": "cá nhân có quyền sống, quyền bất khả xâm phạm về tính mạng, thân thể, quyền được pháp luật bảo hộ về sức khỏe. không ai bị tước đoạt tính mạng trái luật ; điều 33 khoản 1. ",
+        "question": "mỗi cá nhân có quyền gì về tính mạng của mình ?",
+        "labels": 1
+    },
+    {
+        "context": "cá nhân có quyền sống, quyền bất khả xâm phạm về tính mạng, thân thể, quyền được pháp luật bảo hộ về sức khỏe. không ai bị tước đoạt tính mạng trái luật ; điều 33 khoản 1. ",
+        "question": "mỗi cá nhân có quyền gì về tính mạng của mình ?",
+        "labels": 1
+    },
+    {
+        "context": "khi phát hiện người bị tai nạn, bệnh tật mà tính mạng bị đe dọa thì người phát hiện có trách nhiệm hoặc yêu cầu cá nhân, cơ quan, tổ chức khác có điều kiện cần thiết đưa ngay đến cơ sở khám bệnh, chữa bệnh nơi gần nhất; cơ sở khám bệnh, chữa bệnh có trách nhiệm thực hiện việc khám bệnh, chữa bệnh theo quy định của pháp luật về khám bệnh, chữa bệnh ; điều 33 khoản 2.  ",
+        "question": "gặp người bị tai nạn thì cá nhân có cần phải làm gì ?",
+        "labels": 1
+    },
+    {
+        "context": "khi phát hiện người bị tai nạn, bệnh tật mà tính mạng bị đe dọa thì người phát hiện có trách nhiệm hoặc yêu cầu cá nhân, cơ quan, tổ chức khác có điều kiện cần thiết đưa ngay đến cơ sở khám bệnh, chữa bệnh nơi gần nhất; cơ sở khám bệnh, chữa bệnh có trách nhiệm thực hiện việc khám bệnh, chữa bệnh theo quy định của pháp luật về khám bệnh, chữa bệnh ; điều 33 khoản 2.  ",
+        "question": "cá nhân có trách nhiệm gì khi gặp người bị tai nạn sắp chết ?",
+        "labels": 1
+    },
+    {
+        "context": "khi phát hiện người bị tai nạn, bệnh tật mà tính mạng bị đe dọa thì người phát hiện có trách nhiệm hoặc yêu cầu cá nhân, cơ quan, tổ chức khác có điều kiện cần thiết đưa ngay đến cơ sở khám bệnh, chữa bệnh nơi gần nhất; cơ sở khám bệnh, chữa bệnh có trách nhiệm thực hiện việc khám bệnh, chữa bệnh theo quy định của pháp luật về khám bệnh, chữa bệnh ; điều 33 khoản 2.  ",
+        "question": "cơ sở khám bệnh có trách nhiệm như thế nào đối với những trường hợp gặp tai nạn ?",
+        "labels": 1
+    },
+    {
+        "context": "việc khám nghiệm tử thi được thực hiện khi thuộc một trong các trường hợp sau đây: có sự đồng ý của người đó trước khi chết, có sự đồng ý của cha, mẹ, vợ, chồng, con thành niên hoặc người giám hộ nếu không có ý kiến của người đó trước khi chết, theo quyết định của người đứng đầu cơ sở khám bệnh, chữa bệnh hoặc của cơ quan nhà nước có thẩm quyền trong trường hợp luật quy định ; điều 33 khoản 4. ",
+        "question": "trường hợp nào thì có thể khám nghiệm tử thi ?",
+        "labels": 1
+    },
+    {
+        "context": "cá nhân có quyền yêu cầu tòa án bác bỏ thông tin làm ảnh hưởng xấu đến danh dự, nhân phẩm, uy tín của mình,việc bảo vệ danh dự, nhân phẩm, uy tín có thể được thực hiện sau khi cá nhân chết theo yêu cầu của vợ, chồng hoặc con thành niên; trường hợp không có những người này thì theo yêu cầu của cha, mẹ của người đã chết, trừ trường hợp luật liên quan có quy định khác ; điều 34 khoản 2.",
+        "question": "cá nhân có những quyền gì đối với danh dự của mình ?",
+        "labels": 1
+    },
+    {
+        "context": "cá nhân có quyền yêu cầu tòa án bác bỏ thông tin làm ảnh hưởng xấu đến danh dự, nhân phẩm, uy tín của mình,việc bảo vệ danh dự, nhân phẩm, uy tín có thể được thực hiện sau khi cá nhân chết theo yêu cầu của vợ, chồng hoặc con thành niên; trường hợp không có những người này thì theo yêu cầu của cha, mẹ của người đã chết, trừ trường hợp luật liên quan có quy định khác ; điều 34 khoản 2.",
+        "question": "nếu cá nhân bị chết thì việc bảo vệ danh dự sẽ do ai đại diện ?",
+        "labels": 1
+    },
+    {
+        "context": "người chịu trách nhiệm bồi thường trong trường hợp danh dự, nhân phẩm, uy tín của người khác bị xâm phạm phải bồi thường thiệt hại theo quy định tại khoản 1 điều này và một khoản tiền khác để bù đắp tổn thất về tinh thần mà người đó gánh chịu. mức bồi thường bù đắp tổn thất về tinh thần do các bên thoả thuận; nếu không thoả thuận được thì mức tối đa cho một người có danh dự, nhân phẩm, uy tín bị xâm phạm không quá mười lần mức lương cơ sở do nhà nước quy định ; điều 592 khoản 2.",
+        "question": "bị xúc phạm danh dự thì có được bồi thường không ?",
+        "labels": 1
+    },
+    {
+        "context": "cá nhân bị thông tin làm ảnh hưởng xấu đến danh dự, nhân phẩm, uy tín thì ngoài quyền yêu cầu bác bỏ thông tin đó còn có quyền yêu cầu người đưa ra thông tin xin lỗi, cải chính công khai và bồi thường thiệt hại ; điều 34 khoản 5. ",
+        "question": "bị xúc phạm danh dự thì có được bồi thường không ?",
+        "labels": 1
+    },
+    {
+        "context": "việc hiến, lấy mô, bộ phận cơ thể người, hiến, lấy xác phải tuân thủ theo các điều kiện và được thực hiện theo quy định của bộ luật này, luật hiến, lấy, ghép mô, bộ phận cơ thể người và hiến, lấy xác và luật khác có liên quan ; điều 35 khoản 3.",
+        "question": "hiến tạng có được không ?",
+        "labels": 1
+    },
+    {
+        "context": "cá nhân có quyền hiến mô, bộ phận cơ thể của mình khi còn sống hoặc hiến mô, bộ phận cơ thể, hiến xác của mình sau khi chết vì mục đích chữa bệnh cho người khác hoặc nghiên cứu y học, dược học và các nghiên cứu khoa học khác ; điều 35 khoản 1.",
+        "question": "mua bán bộ phận cơ thể có bị cho là phạm pháp không ?",
+        "labels": 1
+    },
+    {
+        "context": "cá nhân có quyền xác định lại giới tính, việc xác định lại giới tính của một người được thực hiện trong trường hợp giới tính của người đó bị khuyết tật bẩm sinh hoặc chưa định hình chính xác mà cần có sự can thiệp của y học nhằm xác định rõ giới tính ; điều 36 khoản 1.",
+        "question": "một người có thể xác định lại giới tính của mình trong tường hợp nào ?",
+        "labels": 1
+    },
+    {
+        "context": "cá nhân có quyền xác định lại giới tính, việc xác định lại giới tính của một người được thực hiện trong trường hợp giới tính của người đó bị khuyết tật bẩm sinh hoặc chưa định hình chính xác mà cần có sự can thiệp của y học nhằm xác định rõ giới tính ; điều 36 khoản 1.",
+        "question": "có quyền xác định lại giới tính không ?",
+        "labels": 1
+    },
+    {
+        "context": "cá nhân có quyền xác định lại giới tính, việc xác định lại giới tính của một người được thực hiện trong trường hợp giới tính của người đó bị khuyết tật bẩm sinh hoặc chưa định hình chính xác mà cần có sự can thiệp của y học nhằm xác định rõ giới tính ; điều 36 khoản 1.",
+        "question": "có quyền chọn lại giới tính không ?",
+        "labels": 1
+    },
+    {
+        "context": "đời sống riêng tư, bí mật cá nhân, bí mật gia đình là bất khả xâm phạm và được pháp luật bảo vệ ; điều 38 khoản 1.",
+        "question": "đời sống riêng tư có được bảo vệ không ?",
+        "labels": 1
+    },
+    {
+        "context": "đời sống riêng tư, bí mật cá nhân, bí mật gia đình là bất khả xâm phạm và được pháp luật bảo vệ ; điều 38 khoản 1.",
+        "question": "bí mật cá nhân có được bảo vệ không ?",
+        "labels": 1
+    },
+    {
+        "context": "đời sống riêng tư, bí mật cá nhân, bí mật gia đình là bất khả xâm phạm và được pháp luật bảo vệ ; điều 38 khoản 1.",
+        "question": "bí mật gia đình có được bảo vệ không ?",
+        "labels": 1
+    },
+    {
+        "context": "đời sống riêng tư, bí mật cá nhân, bí mật gia đình là bất khả xâm phạm và được pháp luật bảo vệ ; điều 38 khoản 1.",
+        "question": "đời sống riêng tư bị xâm phạm thì phải làm sao ?",
+        "labels": 1
+    },
+    {
+        "context": "việc thu thập, lưu giữ, sử dụng, công khai thông tin liên quan đến đời sống riêng tư, bí mật cá nhân phải được người đó đồng ý, việc thu thập, lưu giữ, sử dụng, công khai thông tin liên quan đến bí mật gia đình phải được các thành viên gia đình đồng ý, trừ trường hợp luật có quy định khác ; điều 38 khoản 2. ",
+        "question": "có được quyền thu thập thông tin về đời sống riêng tư của một người không ?",
+        "labels": 1
+    },
+    {
+        "context": "việc thu thập, lưu giữ, sử dụng, công khai thông tin liên quan đến đời sống riêng tư, bí mật cá nhân phải được người đó đồng ý, việc thu thập, lưu giữ, sử dụng, công khai thông tin liên quan đến bí mật gia đình phải được các thành viên gia đình đồng ý, trừ trường hợp luật có quy định khác ; điều 38 khoản 2. ",
+        "question": "có được quyền thu thập thông tin về bí mật của một gia đình không ?",
+        "labels": 1
+    },
+    {
+        "context": "trường hợp không xác định được nơi cư trú của cá nhân theo quy định tại khoản 1 điều này thì nơi cư trú của cá nhân là nơi người đó đang sinh sống ; điều 40 khoản 2.",
+        "question": "nơi cư trú của cá nhân là gì ?",
+        "labels": 1
+    },
+    {
+        "context": "nơi cư trú của người chưa thành niên là nơi cư trú của cha, mẹ; nếu cha, mẹ có nơi cư trú khác nhau thì nơi cư trú của người chưa thành niên là nơi cư trú của cha hoặc mẹ mà người chưa thành niên thường xuyên chung sống ; điều 41 khoản 1.",
+        "question": "nơi cư trú là gì ?",
+        "labels": 1
+    },
+    {
+        "context": "nơi cư trú của người chưa thành niên là nơi cư trú của cha, mẹ; nếu cha, mẹ có nơi cư trú khác nhau thì nơi cư trú của người chưa thành niên là nơi cư trú của cha hoặc mẹ mà người chưa thành niên thường xuyên chung sống ; điều 41 khoản 1.",
+        "question": "nơi cư trú của người chưa thành niên là ở đâu ?",
+        "labels": 1
+    },
+    {
+        "context": "trường hợp một bên trong quan hệ dân sự thay đổi nơi cư trú gắn với việc thực hiện quyền, nghĩa vụ thì phải thông báo cho bên kia biết về nơi cư trú mới ; điều 40 khoản 3.",
+        "question": "thay đổi nơi cư trú thì phải làm gì ?",
+        "labels": 1
+    },
+    {
+        "context": "nơi cư trú của người được giám hộ là nơi cư trú của người giám hộ ; điều 42 khoản 1.",
+        "question": "nơi cư trú của người giám hộ là ở đâu ?",
+        "labels": 1
+    },
+    {
+        "context": "người được giám hộ có thể có nơi cư trú khác với nơi cư trú của người giám hộ nếu được người giám hộ đồng ý hoặc pháp luật có quy định ; điều 42 khoản 2.",
+        "question": "người được giám hộ có thể có nơi cư trú khác không ?",
+        "labels": 1
+    },
+    {
+        "context": "nơi cư trú của quân nhân đang thực hiện nghĩa vụ quân sự là nơi đơn vị của quân nhân đó đóng quân ; điều 44 khoản 1.",
+        "question": "nơi cư trú của quân nhân là ở đâu ?",
+        "labels": 1
+    },
+    {
+        "context": "nơi cư trú của quân nhân đang thực hiện nghĩa vụ quân sự là nơi đơn vị của quân nhân đó đóng quân ; điều 44 khoản 1.",
+        "question": "nơi cư trú của quân nhân ở đâu ?",
+        "labels": 1
+    },
+    {
+        "context": "nơi cư trú của sĩ quan quân đội, quân nhân chuyên nghiệp, công nhân, viên chức quốc phòng là nơi đơn vị của người đó đóng quân, trừ trường hợp họ có nơi cư trú theo quy định tại khoản 1 ðiều 40 của bộ luật này ; điều 44 khoản 2.",
+        "question": "nơi cư trú của quân đội là ở đâu ?",
+        "labels": 1
+    },
+    {
+        "context": "nơi cư trú của sĩ quan quân đội, quân nhân chuyên nghiệp, công nhân, viên chức quốc phòng là nơi đơn vị của người đó đóng quân, trừ trường hợp họ có nơi cư trú theo quy định tại khoản 1 ðiều 40 của bộ luật này ; điều 44 khoản 2.",
+        "question": "nơi cư trú của công nhân là ở đâu ?",
+        "labels": 1
+    },
+    {
+        "context": "nơi cư trú của người làm nghề lưu động trên tàu, thuyền, phương tiện hành nghề lưu động khác là nơi đăng ký tàu, thuyền, phương tiện đó, trừ trường hợp họ có nơi cư trú theo quy định tại khoản 1 ðiều 40 của bộ luật này ; điều 45.",
+        "question": "nơi cư trú của người làm trên tàu là ở đâu ?",
+        "labels": 1
+    },
+    {
+        "context": "nơi cư trú của người làm nghề lưu động trên tàu, thuyền, phương tiện hành nghề lưu động khác là nơi đăng ký tàu, thuyền, phương tiện đó, trừ trường hợp họ có nơi cư trú theo quy định tại khoản 1 ðiều 40 của bộ luật này ; điều 45.",
+        "question": "nơi cư trú của người làm trên thuyền là ở đâu ?",
+        "labels": 1
+    },
+    {
+        "context": "việc giám hộ phải được đăng ký tại cơ quan nhà nước có thẩm quyền theo quy định của pháp luật về hộ tịch, người giám hộ đương nhiên mà không đăng ký việc giám hộ thì vẫn phải thực hiện nghĩa vụ của người giám hộ ; điều 46 khoản 3.",
+        "question": "muốn giám hộ phải đăng ký ở đâu ?",
+        "labels": 1
+    },
+    {
+        "context": "người giám hộ của người chưa thành niên, người mất năng lực hành vi dân sự có trách nhiệm quản lý tài sản của người được giám hộ như tài sản của chính mình; được thực hiện giao dịch dân sự liên quan đến tài sản của người được giám hộ vì lợi ích của người được giám hộ, việc bán, trao đổi, cho thuê, cho mượn, cho vay, cầm cố, thế chấp, đặt cọc và giao dịch dân sự khác đối với tài sản có giá trị lớn của người được giám hộ phải được sự đồng ý của người giám sát việc giám hộ, người giám hộ không được đem tài sản của người được giám hộ tặng cho người khác. các giao dịch dân sự giữa người giám hộ với người được giám hộ có liên quan đến tài sản của người được giám hộ đều vô hiệu, trừ trường hợp giao dịch được thực hiện vì lợi ích của người được giám hộ và có sự đồng ý của người giám sát việc giám hộ ; điều 59 khoản 1.",
+        "question": "người được giám hộ bao gồm những ai ?",
+        "labels": 1
+    },
+    {
+        "context": "một người chỉ có thể được một người giám hộ, trừ trường hợp cha, mẹ cùng giám hộ cho con hoặc ông, bà cùng giám hộ cho cháu ; điều 47 khoản 2.",
+        "question": "một người có thể bao nhiêu người giám hộ ?",
+        "labels": 1
+    },
+    {
+        "context": "một cá nhân, pháp nhân có thể giám hộ cho nhiều người ; điều 48 khoản 3.",
+        "question": "cá nhân có thể giám hộ cho bao nhiêu người ?",
+        "labels": 1
+    },
+    {
+        "context": "cá nhân có đủ các điều kiện sau đây có thể làm người giám hộ: có năng lực hành vi dân sự đầy đủ, có tư cách đạo đức tốt và các điều kiện cần thiết để thực hiện quyền, nghĩa vụ của người giám hộ, không phải là người đang bị truy cứu trách nhiệm hình sự hoặc người bị kết án nhưng chưa được xoá án tích về một trong các tội cố ý xâm phạm tính mạng, sức khoẻ, danh dự, nhân phẩm, tài sản của người khác, không phải là người bị tòa án tuyên bố hạn chế quyền đối với con chưa thành niên ; điều 49.",
+        "question": "cần những điều kiện gì để trở thành người giám hộ ?",
+        "labels": 1
+    },
+    {
+        "context": "người giám sát việc giám hộ có quyền và nghĩa vụ sau đây: theo dõi, kiểm tra người giám hộ trong việc thực hiện giám hộ, xem xét, có ý kiến kịp thời bằng văn bản về việc xác lập, thực hiện giao dịch dân sự quy định tại điều 59 của bộ luật này, yêu cầu cơ quan nhà nước có thẩm quyền về giám hộ xem xét thay đổi hoặc chấm dứt việc giám hộ, giám sát việc giám hộ ; điều 51 khoản 4.",
+        "question": "người giám sát việc giám hộ có quyền và nghĩa vụ gì ?",
+        "labels": 1
+    },
+    {
+        "context": "trường hợp người chưa thành niên, người mất năng lực hành vi dân sự không có người giám hộ đương nhiên theo quy định tại điều 52 và điều 53 của bộ luật này thì uỷ ban nhân dân cấp xã nơi cư trú của người được giám hộ có trách nhiệm cử người giám hộ, trường hợp có tranh chấp giữa những người giám hộ quy định tại điều 52 và điều 53 của bộ luật này về người giám hộ hoặc tranh chấp về việc cử người giám hộ thì tòa án chỉ định người giám hộ, trường hợp cử, chỉ định người giám hộ cho người chưa thành niên từ đủ sáu tuổi trở lên thì phải xem xét nguyện vọng của người này ; điều 54 khoản 1.",
+        "question": "trường hợp không có người giám hộ thì như thế nào ?",
+        "labels": 1
+    },
+    {
+        "context": "việc cử người giám hộ phải được sự đồng ý của người được cử làm người giám hộ ; điều 54 khoản 2.",
+        "question": "việc cử người giám hộ cần sự đồng ý của ai ?",
+        "labels": 1
+    },
+    {
+        "context": "việc cử người giám hộ phải được lập thành văn bản, trong đó ghi rõ lý do cử người giám hộ, quyền, nghĩa vụ cụ thể của người giám hộ, tình trạng tài sản của người được giám hộ ; điều 54 khoản 3. ",
+        "question": "việc cử người giám hộ có cần giấy tờ văn bản gì không ?",
+        "labels": 1
+    },
+    {
+        "context": "nghĩa vụ của người giám hộ đối với người được giám hộ chưa đủ mười lăm tuổi chăm sóc, giáo dục người được giám hộ đại diện cho người được giám hộ trong các giao dịch dân sự, trừ trường hợp pháp luật quy định người chưa đủ mười lăm tuổi có thể tự mình xác lập, thực hiện giao dịch dân sự quản lý tài sản của người được giám hộ bảo vệ quyền, lợi ích hợp pháp của người được giám hộ ; điều 55. ",
+        "question": "nghĩa vụ của người giám hộ đối với người chưa đủ mười lăm tuổi là gì ?",
+        "labels": 1
+    },
+    {
+        "context": "nghĩa vụ của người giám hộ đối với người được giám hộ từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi đại diện cho người được giám hộ trong các giao dịch dân sự, trừ trường hợp pháp luật quy định người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi có thể tự mình xác lập, thực hiện giao dịch dân sự quản lý tài sản của người được giám hộ, trừ trường hợp pháp luật có quy định khác bảo vệ quyền, lợi ích hợp pháp của người được giám hộ ; điều 56.",
+        "question": "nghĩa vụ của người giám hộ đối với người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi là gì ?",
+        "labels": 1
+    },
+    {
+        "context": "người giám hộ được thay đổi trong trường hợp sau đây: người giám hộ không còn đủ các điều kiện quy định tại điều 49, điều 50 của bộ luật này, người giám hộ là cá nhân chết hoặc bị tòa án tuyên bố hạn chế năng lực hành vi dân sự, có khó khăn trong nhận thức, làm chủ hành vi, mất năng lực hành vi dân sự, mất tích; pháp nhân làm giám hộ chấm dứt tồn tại, người giám hộ vi phạm nghiêm trọng nghĩa vụ giám hộ, người giám hộ đề nghị được thay đổi và có người khác nhận làm giám hộ ; điều 60 khoản 1.  ",
+        "question": "muốn thay đổi người giám hộ có được không ?",
+        "labels": 1
+    },
+    {
+        "context": "việc chuyển giao giám hộ phải được lập thành văn bản, trong đó ghi rõ lý do chuyển giao và tình trạng tài sản, vấn đề khác có liên quan của người được giám hộ tại thời điểm chuyển giao. cơ quan cử, chỉ định người giám hộ, người giám sát việc giám hộ chứng kiến việc chuyển giao giám hộ ; điều 61 khoản 2.",
+        "question": "chuyển giao người giám hộ có cần gì không ?",
+        "labels": 1
+    },
+    {
+        "context": "trường hợp chấm dứt việc giám hộ quy định tại điểm c và điểm d khoản 1 điều 62 của bộ luật này thì trong thời hạn 15 ngày, kể từ ngày chấm dứt việc giám hộ, người giám hộ thanh toán tài sản và chuyển giao quyền, nghĩa vụ phát sinh từ giao dịch dân sự vì lợi ích của người được giám hộ cho cha, mẹ của người được giám hộ ; điều 63 khoản 3.",
+        "question": "trong trường hợp nào việc giám hộ bị chấm dứt ?",
+        "labels": 1
+    },
+    {
+        "context": "trường hợp chấm dứt việc giám hộ quy định tại điểm c và điểm d khoản 1 điều 62 của bộ luật này thì trong thời hạn 15 ngày, kể từ ngày chấm dứt việc giám hộ, người giám hộ thanh toán tài sản và chuyển giao quyền, nghĩa vụ phát sinh từ giao dịch dân sự vì lợi ích của người được giám hộ cho cha, mẹ của người được giám hộ ; điều 63 khoản 3.",
+        "question": "trường hợp nào việc giám hộ bị chấm dứt ?",
+        "labels": 1
+    },
+    {
+        "context": "thủ tục chấm dứt việc giám hộ thực hiện theo quy định của pháp luật về hộ tịch ; điều 62 khoản 2. ",
+        "question": "thủ tục chấm dứt việc giám hộ thực hiện như thế nào ?",
+        "labels": 1
+    },
+    {
+        "context": "việc giám hộ chấm dứt trong trường hợp sau đây: người được giám hộ đã có năng lực hành vi dân sự đầy đủ, người được giám hộ chết, cha, mẹ của người được giám hộ là người chưa thành niên đã có đủ điều kiện để thực hiện quyền, nghĩa vụ của mình, người được giám hộ được nhận làm con nuôi ; điều 62 khoản 1.",
+        "question": "trường hợp người được giám hộ chết thì sẽ như thế nào ?",
+        "labels": 1
+    },
+    {
+        "context": "yêu cầu thông báo tìm kiếm người vắng mặt tại nơi cư trú và quản lý tài sản của người đó khi một người biệt tích 06 tháng liền trở lên thì những người có quyền, lợi ích liên quan có quyền yêu cầu tòa án thông báo tìm kiếm người vắng mặt tại nơi cư trú theo quy định của pháp luật về tố tụng dân sự và có thể yêu cầu tòa án áp dụng biện pháp quản lý tài sản của người vắng mặt tại nơi cư trú quy định tại điều 65 của bộ luật này ; điều 64.",
+        "question": "có thể thông báo tìm kiếm người mất tích khi nào ?",
+        "labels": 1
+    },
+    {
+        "context": "yêu cầu thông báo tìm kiếm người vắng mặt tại nơi cư trú và quản lý tài sản của người đó khi một người biệt tích 06 tháng liền trở lên thì những người có quyền, lợi ích liên quan có quyền yêu cầu tòa án thông báo tìm kiếm người vắng mặt tại nơi cư trú theo quy định của pháp luật về tố tụng dân sự và có thể yêu cầu tòa án áp dụng biện pháp quản lý tài sản của người vắng mặt tại nơi cư trú quy định tại điều 65 của bộ luật này ; điều 64.",
+        "question": "một người bị mất tích bao lâu thì có thể thông báo tìm kiếm ?",
+        "labels": 1
+    },
+    {
+        "context": "quyền của người quản lý tài sản của người vắng mặt tại nơi cư trú: quản lý tài sản của người vắng mặt, trích một phần tài sản của người vắng mặt để thực hiện nghĩa vụ cấp dưỡng, nghĩa vụ thanh toán nợ đến hạn, nghĩa vụ tài chính khác của người vắng mặt, được thanh toán các chi phí cần thiết trong việc quản lý tài sản của người vắng mặt ; điều 67.",
+        "question": "người quản lý tài sản của người vắng mặt tại nơi cư trú có quyền gì ?",
+        "labels": 1
+    },
+    {
+        "context": "quyền của người quản lý tài sản của người vắng mặt tại nơi cư trú: quản lý tài sản của người vắng mặt, trích một phần tài sản của người vắng mặt để thực hiện nghĩa vụ cấp dưỡng, nghĩa vụ thanh toán nợ đến hạn, nghĩa vụ tài chính khác của người vắng mặt, được thanh toán các chi phí cần thiết trong việc quản lý tài sản của người vắng mặt ; điều 67.",
+        "question": "người quản lý tài sản của người vắng mặt tại nơi cư trú có quyền gì ?",
+        "labels": 1
+    },
+    {
+        "context": "bộ luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2017, bộ luật dân sự số 33/2005/qh11 hết hiệu lực kể từ ngày bộ luật này có hiệu lực, bộ luật này đã được quốc hội nước cộng hòa xã hội chủ nghĩa việt nam khóa xiii, kỳ họp thứ 10 thông qua ngày 24 tháng 11 năm 2015 ; điều 689.",
+        "question": "bộ luật này được xử dụng vào năm nào ?",
+        "labels": 1
+    },
+    {
+        "context": "bộ luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2017, bộ luật dân sự số 33/2005/qh11 hết hiệu lực kể từ ngày bộ luật này có hiệu lực, bộ luật này đã được quốc hội nước cộng hòa xã hội chủ nghĩa việt nam khóa xiii, kỳ họp thứ 10 thông qua ngày 24 tháng 11 năm 2015 ; điều 689.",
+        "question": "bộ luật này có hiệu lực từ bao giờ ?",
+        "labels": 1
+    },
+    {
+        "context": "bộ luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2017, bộ luật dân sự số 33/2005/qh11 hết hiệu lực kể từ ngày bộ luật này có hiệu lực, bộ luật này đã được quốc hội nước cộng hòa xã hội chủ nghĩa việt nam khóa xiii, kỳ họp thứ 10 thông qua ngày 24 tháng 11 năm 2015 ; điều 689.",
+        "question": "bộ luật dân sự có hiệu lực từ bao giờ ?",
+        "labels": 1
+    },
+    {
+        "context": "bộ luật này là luật chung điều chỉnh các quan hệ dân sự điều 4 khoản 1. ",
+        "question": "luật dân sự điều chỉnh những quan hệ nào ?",
+        "labels": 1
+    },
+    {
+        "context": "bộ luật này là luật chung điều chỉnh các quan hệ dân sự điều 4 khoản 1. ",
+        "question": "bộ luật dân sự là gì ?",
+        "labels": 1
+    },
+    {
+        "context": "bộ luật này là luật chung điều chỉnh các quan hệ dân sự điều 4 khoản 1.",
+        "question": "bộ luật này được xử dụng vào năm nào ?",
+        "labels": 0
+    },
+    {
+        "context": "bộ luật này là luật chung điều chỉnh các quan hệ dân sự điều 4 khoản 1.",
+        "question": "hai bên không có thỏa thuận thì có thể áp dụng tập quán không ?",
+        "labels": 0
+    },
+    {
+        "context": "bộ luật này là luật chung điều chỉnh các quan hệ dân sự điều 4 khoản 1.",
+        "question": "việc cử người giám hộ cần sự đồng ý của ai ?",
+        "labels": 0
+    },
+    {
+        "context": "bộ luật này là luật chung điều chỉnh các quan hệ dân sự điều 4 khoản 1.",
+        "question": "người giám sát việc giám hộ có quyền và nghĩa vụ gì ?",
+        "labels": 0
+    },
+    {
+        "context": "bộ luật này là luật chung điều chỉnh các quan hệ dân sự điều 4 khoản 1.",
+        "question": "thủ tục chấm dứt việc giám hộ thực hiện như thế nào ?",
+        "labels": 0
+    },
+    {
+        "context": "bộ luật này là luật chung điều chỉnh các quan hệ dân sự điều 4 khoản 1.",
+        "question": "muốn thay đổi người giám hộ có được không ?",
+        "labels": 0
+    },
+    {
+        "context": "bộ luật này là luật chung điều chỉnh các quan hệ dân sự điều 4 khoản 1.",
+        "question": "trường hợp người được giám hộ chết thì sẽ như thế nào ?",
+        "labels": 0
+    },
+    {
+        "context": "bộ luật này là luật chung điều chỉnh các quan hệ dân sự điều 4 khoản 1.",
+        "question": "hai bên không có thỏa thuận thì có thể áp dụng tập quán không ?",
+        "labels": 0
+    },
+    {
+        "context": "bộ luật này là luật chung điều chỉnh các quan hệ dân sự điều 4 khoản 1.",
+        "question": "người quản lý tài sản của người vắng mặt tại nơi cư trú có quyền gì ?",
+        "labels": 0
+    },
+    {
+        "context": "nơi cư trú của người làm nghề lưu động trên tàu, thuyền, phương tiện hành nghề lưu động khác là nơi đăng ký tàu, thuyền, phương tiện đó, trừ trường hợp họ có nơi cư trú theo quy định tại khoản 1 ðiều 40 của bộ luật này ; điều 45.",
+        "question": "muốn thay đổi người giám hộ có được không ?",
+        "labels": 0
+    },
+    {
+        "context": "nơi cư trú của người làm nghề lưu động trên tàu, thuyền, phương tiện hành nghề lưu động khác là nơi đăng ký tàu, thuyền, phương tiện đó, trừ trường hợp họ có nơi cư trú theo quy định tại khoản 1 ðiều 40 của bộ luật này ; điều 45.",
+        "question": "tôi muốn biết tổng quan về bộ ",
+        "labels": 0
+    },
+    {
+        "context": "nơi cư trú của người làm nghề lưu động trên tàu, thuyền, phương tiện hành nghề lưu động khác là nơi đăng ký tàu, thuyền, phương tiện đó, trừ trường hợp họ có nơi cư trú theo quy định tại khoản 1 ðiều 40 của bộ luật này ; điều 45.",
+        "question": "ai có trách nhiệm bảo vệ quyền dân sự khi có tranh chấp ?",
+        "labels": 0
+    }
+]
