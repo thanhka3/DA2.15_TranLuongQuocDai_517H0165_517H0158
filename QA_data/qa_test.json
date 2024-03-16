@@ -1,0 +1,350 @@
+[
+    {
+        "question": "Quyền dân sự được công nhận ở đâu ?",
+        "answer": "quyền dân sự được công nhận, tôn trọng, bảo vệ và bảo đảm theo Hiến pháp"
+    },
+    {
+        "question": "bộ luật dân sự quy định như thế nào ?",
+        "answer": "quy định địa vị pháp lý, chuẩn mực pháp lý về cách ứng xử của cá nhân, pháp nhân, quyền, nghĩa vụ về nhân thân và tài sản của cá nhân"
+    },
+    {
+        "question": "ai công nhận các quyền của công dân ?",
+        "answer": "nước cộng hòa xã hội chủ nghĩa việt nam"
+    },
+    {
+        "question": "những trường hợp bị hạn chế quyền công dân ?",
+        "answer": "luật khác có liên quan quy định khác"
+    },
+    {
+        "question": "những lý do bị hạn chế quyền công dân ?",
+        "answer": "lý do quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội, đạo đức xã hội, sức khỏe của cộng đồng"
+    },
+    {
+        "question": "chưa có điều luật toà án có được từ chối sử lý không ?",
+        "answer": "không được từ chối giải quyết vụ"
+    },
+    {
+        "question": "năng lực pháp luật dân sự là gì ?",
+        "answer": "khả năng của cá nhân có quyền dân sự và nghĩa vụ dân sự, mọi cá nhân đều có năng lực pháp luật dân sự như nhau"
+    },
+    {
+        "question": "năng lực hành vi dân sự được pháp luật quy định như thế nào ?",
+        "answer": "xác định theo pháp luật của nước mà người đó có quốc tịch"
+    },
+    {
+        "question": "như thế nào về quyền xác định lại giới tính ?",
+        "answer": "giới tính của người đó bị khuyết tật bẩm sinh hoặc chưa định hình chính xác"
+    },
+    {
+        "question": "vợ hoặc chồng của người bị tuyên bố mất tích xin ly hôn ?",
+        "answer": "cho ly hôn"
+    },
+    {
+        "question": "huỷ bỏ quyết định tuyên bố mất tích như thế nào ?",
+        "answer": "phải được gửi cho ủy ban nhân dân cấp xã nơi cư trú của người bị tuyên bố mất tích"
+    },
+    {
+        "question": "người bị tuyên bố là đã chết trở về làm như thế nào về việc huỷ bỏ quyết định tuyên bố chết ?",
+        "answer": "người đó còn sống thì theo yêu cầu của người đó hoặc của người có quyền, lợi ích liên quan, tòa án ra quyết định huỷ bỏ quyết định tuyên bố người đó là đã chết"
+    },
+    {
+        "question": "pháp nhân thương mại là gì ?",
+        "answer": "pháp nhân có mục tiêu chính là tìm kiếm lợi nhuận và lợi nhuận được chia cho các thành viên"
+    },
+    {
+        "question": "tên gọi của pháp nhân quy định như thế nào ?",
+        "answer": "tên gọi bằng tiếng việt, thể hiện rõ loại hình tổ chức của pháp nhân và phân biệt với các pháp nhân khác trong cùng một lĩnh vực hoạt động, phải sử dụng tên gọi của mình trong giao dịch dân sự"
+    },
+    {
+        "question": "tài sản của pháp nhân quy định như thế nào ?",
+        "answer": "vốn góp của chủ sở hữu, sáng lập viên, thành viên của pháp nhân và tài sản khác"
+    },
+    {
+        "question": "chi nhánh,văn phòng đại diện của pháp nhân quy định như thế nào ?",
+        "answer": "đơn vị phụ thuộc của pháp nhân, không phải là pháp nhân"
+    },
+    {
+        "question": "pháp luật dân sự của pháp nhân có bị hạn chế không ?",
+        "answer": "không bị hạn chế"
+    },
+    {
+        "question": "chuyển giao giám hộ ra sao ?",
+        "answer": "phải được lập thành văn bản, trong đó ghi rõ lý do chuyển giao và tình trạng tài sản"
+    },
+    {
+        "question": "tài sản chung một trong hai người vắng mặt người còn lại được quản lý không ?",
+        "answer": "chủ sở hữu chung còn lại quản lý"
+    },
+    {
+        "question": "người quản lý tài sản có nghĩa vụ gì với tài sản của người vắng mặt ?",
+        "answer": "quản lý tài sản của người vắng mặt, trích một phần tài sản của người vắng mặt thanh toán nợ đến hạn"
+    },
+    {
+        "question": "quản lý tài sản có được bán hoa màu của người vắng mặt không ?",
+        "answer": "bán ngay tài sản là hoa màu, sản phẩm khác có nguy cơ bị hư hỏng"
+    },
+    {
+        "question": "một người biệt tích 2 năm được tuyên bố chết ?",
+        "answer": "biệt tích 05 năm liền trở lên và không có tin tức xác thực là còn sống"
+    },
+    {
+        "question": "có được từ chối nhận di sản theo di chúc không ?",
+        "answer": "có quyền từ chối nhận di sản"
+    },
+    {
+        "question": "Người phân chia di sản có thể đồng thời là người quản lý di sản không?",
+        "answer": "có thể đồng thời là người quản lý di"
+    },
+    {
+        "question": "Người phân chia di sản được hưởng thù lao không ?",
+        "answer": "người phân chia di sản được hưởng thù lao, nếu người để lại di sản cho phép trong di chúc hoặc những người thừa kế có thoả thuận"
+    },
+    {
+        "question": "tài sản chung khi hôn nhân còn tồn tại ai là người được hưởng ?",
+        "answer": "một người chết thì người còn sống vẫn được thừa kế di sản"
+    },
+    {
+        "question": "Con nuôi được thừa kế di sản không  ?",
+        "answer": "con nuôi và cha nuôi, mẹ nuôi được thừa kế di sản của nhau"
+    },
+    {
+        "question": "áp dụng thừa kế theo pháp luật trong trường hợp nào ?",
+        "answer": "không có di chúc, di chúc không hợp pháp"
+    },
+    {
+        "question": "Thừa kế theo pháp luật là gì ?",
+        "answer": "thừa kế theo hàng thừa kế, điều kiện và trình tự thừa kế do pháp luật quy định"
+    },
+    {
+        "question": "nội dung di chúc nhiều cách hiểu khác nhau thì phải làm sao ?",
+        "answer": "phải cùng nhau giải thích nội dung di chúc dựa trên ý nguyện đích thực trước đây của người chết"
+    },
+    {
+        "question": "di chúc bằng văn bản được lưu giữ ở đâu ?",
+        "answer": "tổ chức hành nghề công chứng lưu giữ hoặc gửi người khác giữ bản di chúc"
+    },
+    {
+        "question": "Di tặng là gì ?",
+        "answer": "việc người lập di chúc dành một phần di sản để tặng cho người khác"
+    },
+    {
+        "question": "đối tượng được di tặng là ai ?",
+        "answer": "cá nhân phải còn sống vào thời điểm mở thừa kế hoặc sinh ra và còn sống sau thời điểm mở thừa kế"
+    },
+    {
+        "question": "di sản dùng vào việc thờ cúng thì phải làm sao?",
+        "answer": "không được chia thừa kế và được giao cho người đã được chỉ định trong di chúc quản lý để thực hiện việc thờ cúng"
+    },
+    {
+        "question": "hiệu lực di chúc khi nào ?",
+        "answer": "từ thời điểm mở thừa kế"
+    },
+    {
+        "question": "di chúc bị thất lạc hoặc bị hư hại thì phải làm sao ?",
+        "answer": "coi như không có di chúc và áp dụng các quy định về thừa kế theo pháp luật"
+    },
+    {
+        "question": "Người lập di chúc có thể bô sung di chúc không ?",
+        "answer": "có thể sửa đổi, bổ sung, thay thế, huỷ bỏ di chúc đã lập"
+    },
+    {
+        "question": "di chúc có cầu công chứng không ?",
+        "answer": "có thể yêu cầu công chứng hoặc chứng thực bản di chúc"
+    },
+    {
+        "question": "quân nhân lập di chúc có xác nhận của ai ?",
+        "answer": "thủ trưởng đơn vị từ cấp đại đội trở lên"
+    },
+    {
+        "question": "người đang đi trên tàu biển muốn lập di chúc cần xác nhận của ai ?",
+        "answer": "người chỉ huy phương tiện đó"
+    },
+    {
+        "question": "người đang điều trị tại bệnh viện muốn lập di chúc cần xác nhận của ai ?",
+        "answer": "người phụ trách bệnh viện, cơ sở đó"
+    },
+    {
+        "question": "người đang làm công việc khảo sát muốn lập di chúc cần xác nhận của ai ?",
+        "answer": "của người phụ trách đơn vị"
+    },
+    {
+        "question": "Di chúc của công dân Việt Nam đang ở nước ngoài cần xác nhận của ai ?",
+        "answer": "chứng nhận của cơ quan lãnh sự, đại diện ngoại giao việt nam ở nước đó"
+    },
+    {
+        "question": "di chúc hợp pháp đáp ứng đủ điều kiện gì ?",
+        "answer": "người lập di chúc minh mẫn, sáng suốt trong khi lập di chúc; không bị lừa dối, đe doạ, cưỡng ép"
+    },
+    {
+        "question": "di chúc miệng có thể lập khi nào ?",
+        "answer": "tính mạng một người bị cái chết đe dọa và không thể lập di chúc bằng văn bản"
+    },
+    {
+        "question": "ngoài di chúc lập thành văn bản thì có thể lập bằng hình thức nào ?",
+        "answer": "di chúc miệng"
+    },
+    {
+        "question": "quy định pháp nhân phi thương mại là gì?",
+        "answer": "pháp nhân không có mục tiêu chính là tìm kiếm lợi nhuận"
+    },
+    {
+        "question": "Quyền sở hữu, quyền khác đối với tài sản là bất động sản có được đăng ký tại cơ quan nhà nước có thẩm quyền không?",
+        "answer": "Được đăng ký theo quy định của Bộ luật này và pháp luật về đăng ký tài sản."
+    },
+    {
+        "question": "người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi được lập di chúc khi nào ?",
+        "answer": "được cha, mẹ hoặc người giám hộ đồng ý về việc lập di chúc"
+    },
+    {
+        "question": "Thời gian để người thừa kế yêu cầu chia di sản là bao lâu?",
+        "answer": "30 năm đối với bất động sản, 10 năm đối với động sản"
+    },
+    {
+        "question": "Luật dân sự điều chỉnh những quan hệ nào ?",
+        "answer": "điều chỉnh các quan hệ dân sự"
+    },
+    {
+        "question": "bộ luật này có hiệu lực từ bao giờ ?",
+        "answer": "bộ luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2017"
+    },
+    {
+        "question": "bao lâu thì có thể thông báo tìm kiếm một người bị mất tích ?",
+        "answer": "6 tháng liền trở lên"
+    },
+    {
+        "question": "khi nào thì có thể thông báo tìm người bị mất tích ?",
+        "answer": "Khi một người biệt tích 06 tháng liền trở lên"
+    },
+    {
+        "question": "trong trường hợp nào việc giám hộ bị chấm dứt ?",
+        "answer": "quy định tại điểm c và điểm d khoản 1 điều 62 của bộ luật này"
+    },
+    {
+        "question": "chuyển giao người giám hộ có cần gì không ?",
+        "answer": "phải được lập thành văn bản, trong đó ghi rõ lý do chuyển giao và tình trạng tài sản, vấn đề khác có liên quan của người được giám hộ tại thời điểm chuyển giao. Cơ quan cử, chỉ định người giám hộ, người giám sát việc giám hộ chứng kiến việc chuyển giao giám hộ"
+    },
+    {
+        "question": "người được giám hộ bao gồm những ai ?",
+        "answer": "người chưa thành niên, người mất năng lực hành vi dân sự"
+    },
+    {
+        "question": "Sở hữu chung chấm dứt trong trường hợp nào ?",
+        "answer": "tài sản chung đã được chia, một trong số các chủ sở hữu chung được hưởng toàn bộ tài sản chung, tài sản chung không còn, trường hợp khác theo quy định của luật"
+    },
+    {
+        "question": "một người nếu được nhận nuôi thì sẽ lấy họ của ai ?",
+        "answer": "họ của cha nuôi hoặc họ của mẹ nuôi theo yêu cầu của cha nuôi, mẹ nuôi"
+    },
+    {
+        "question": "Họ của cá nhân được xác định là họ của ba hay mẹ ?",
+        "answer": "là họ của cha đẻ hoặc họ của mẹ đẻ theo thỏa thuận của cha mẹ"
+    },
+    {
+        "question": "Quyền nhân thân được quy định trong bộ luật dân sự là gì ?",
+        "answer": "là quyền dân sự gắn liền với mỗi cá nhân, không thể chuyển giao cho người khác, trừ trường hợp luật khác có liên quan quy định kháclà họ của cha đẻ hoặc họ của mẹ đẻ theo thỏa thuận của cha mẹ"
+    },
+    {
+        "question": "Người nghiện ma túy và phá tài sản có bị tước năng lực hành vi dân sự không ?",
+        "answer": " theo yêu cầu của người có quyền, lợi ích liên quan hoặc của cơ quan, tổ chức hữu quan, Tòa án có thể ra quyết định tuyên bố người này là người bị hạn chế năng lực hành vi dân sự"
+    },
+    {
+        "question": "người chưa đủ mười tám tuổi được gọi người chưa thành niên phải không ?",
+        "answer": "người chưa thành niên là người chưa đủ mười tám tuổi"
+    },
+    {
+        "question": "người chưa thành niên được gọi là gì ?",
+        "answer": "là người chưa đủ mười tám tuổi"
+    },
+    {
+        "question": "có trường hợp nào năng lực pháp luật dân sự của cá nhân bị hạn chế không ?",
+        "answer": "trường hợp Bộ luật này, luật khác có liên quan quy định khác"
+    },
+    {
+        "question": "ai có trách nhiệm bảo vệ quyền dân sự khi có tranh chấp ?",
+        "answer": "Tòa án, cơ quan có thẩm quyền"
+    },
+    {
+        "question": "bị xâm phạm quyền dân sự có được bồi thường những gì ?",
+        "answer": "được bồi thường toàn bộ thiệt hại, trừ trường hợp các bên có thỏa thuận khác hoặc luật có quy định khác"
+    },
+    {
+        "question": "Quyền dân sự bị hạn chế khi nào  ?",
+        "answer": "pháp luật dân sự của cá nhân không bị hạn chế, trừ trường hợp bộ luật này, luật khác có liên quan quy định khác"
+    },
+    {
+        "question": "Quyền dân sự bị hạn chế bởi lý do gì ?",
+        "answer": "vì lý do quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội, đạo đức xã hội, sức khỏe của cộng đồng."
+    },
+    {
+        "question": "Quyền dân sự được công nhận ở đâu ?",
+        "answer": "quyền dân sự được công nhận, tôn trọng, bảo vệ và bảo đảm theo Hiến pháp và pháp luật."
+    },
+    {
+        "question": "thay đổi nơi cư trú thì phải làm gì ?",
+        "answer": "phải thông báo cho chính quyền biết về nơi cư trú mới"
+    },
+    {
+        "question": "một cá nhân có thể giám hộ cho bao nhiêu người ?",
+        "answer": "có thể giám hộ cho nhiều người"
+    },
+    {
+        "question": "việc cử người giám hộ cần sự đồng ý của ai ?",
+        "answer": "phải được sự đồng ý của người được cử làm người giám hộ"
+    },
+    {
+        "question": "Sở hữu chung hỗn hợp là gì ?",
+        "answer": "là sở hữu đối với tài sản do các chủ sở hữu thuộc các thành phần kinh tế khác nhau góp vốn để sản xuất, kinh doanh thu lợi nhuận"
+    },
+    {
+        "question": "tài sản của pháp nhân gồm những gì ?",
+        "answer": "vốn góp của chủ sở hữu, sáng lập viên, thành viên của pháp nhân và tài sản khác"
+    },
+    {
+        "question": "Tập quán pháp có thể được áp dụng khi nào?",
+        "answer": "Khi các bên không có thỏa thuận và pháp luật không quy định"
+    },
+    {
+        "question": "Đăng ảnh của người khác phải được người đó đồng ý và phải trả thù lao?",
+        "answer": "phải trả thù lao cho người có hình ảnh, trừ trường hợp các bên có thỏa thuận khác"
+    },
+    {
+        "question": "có thể kiện người vi phạm sử dụng hình ảnh ra tòa không ?",
+        "answer": "người có hình ảnh có quyền yêu cầu Tòa án ra quyết định buộc người vi phạm, cơ quan, tổ chức, cá nhân có liên quan"
+    },
+    {
+        "question": "thời hiệu là gì ?",
+        "answer": "là thời hạn do luật quy định mà khi kết thúc thời hạn đó thì phát sinh hậu quả pháp lý đối với chủ thể theo điều kiện do luật quy định"
+    },
+    {
+        "question": "Thủ tục chấm dứt việc giám hộ thực hiện như thế nào ?",
+        "answer": "thực hiện theo quy định của pháp luật về hộ tịch"
+    },
+    {
+        "question": "mỗi cá nhân có quyền gì về tính mạng của mình ?",
+        "answer": "có quyền sống, quyền bất khả xâm phạm về tính mạng, thân thể, quyền được pháp luật bảo hộ về sức khỏe. Không ai bị tước đoạt tính mạng trái luật"
+    },
+    {
+        "question": "hình ảnh được sử dụng vì lời ích quốc gia có cần sự đồng ý không ?",
+        "answer": "không cần có sự đồng ý của người có hình ảnh hoặc người đại diện theo pháp luật của họ"
+    },
+    {
+        "question": "Chiếm hữu là gì?",
+        "answer": "Chiếm hữu là việc chủ thể nắm giữ, chi phối tài sản một cách trực tiếp hoặc gián tiếp như chủ thể có quyền đối với tài sản."
+    },
+    {
+        "question": "Căn cứ xác lập quyền đối với bất động sản liền kề gồm",
+        "answer": "được xác lập do địa thế tự nhiên, theo quy định của luật, theo thoả thuận hoặc theo di chúc"
+    },
+    {
+        "question": "Tài sản bảo đảm phải như thế nào?",
+        "answer": "tài sản bảo đảm phải thuộc quyền sở hữu của bên bảo đảm, trừ trường hợp cầm giữ tài sản, bảo lưu quyền sở hữu, tài sản bảo đảm có thể được mô tả chung, nhưng phải xác định được, tài sản bảo đảm có thể là tài sản hiện có hoặc tài sản hình thành trong tương lai, giá trị của tài sản bảo đảm có thể lớn hơn, bằng hoặc nhỏ hơn giá trị nghĩa vụ được bảo đảm"
+    },
+    {
+        "question": "Có được cầm cố bất động sản hay không?",
+        "answer": "trường hợp bất động sản là đối tượng của cầm cố theo quy định của luật thì việc cầm cố bất động sản có hiệu lực đối kháng với người thứ ba kể từ thời điểm đăng ký"
+    },
+    {
+        "question": "Hiệu lực của thế chấp tài sản khi nào ?",
+        "answer": "từ thời điểm giao kết"
+    }
+]
