@@ -1,0 +1,1312 @@
+[
+    {
+        "context": "nghĩa vụ phát sinh từ căn cứ sau đây: hợp đồng, hành vi pháp lý đơn phương, thực hiện công việc không có uỷ quyền, chiếm hữu, sử dụng tài sản hoặc được lợi về tài sản không có căn cứ pháp luật, gây thiệt hại do hành vi trái pháp luật, căn cứ khác do pháp luật quy định ; điều 275.",
+        "qas": [
+            {
+                "question": "Nghĩa vụ phát sinh từ căn cứ nào ?",
+                "answer": {
+                    "text": [
+                        "nghĩa vụ phát sinh từ căn cứ sau đây: hợp đồng, hành vi pháp lý đơn phương, thực hiện công việc không có uỷ quyền, chiếm hữu, sử dụng tài sản hoặc được lợi về tài sản không có căn cứ pháp luật, gây thiệt hại do hành vi trái pháp luật, căn cứ khác do pháp luật quy định"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "nghĩa vụ phát sinh từ căn cứ sau đây: hợp đồng, hành vi pháp lý đơn phương, thực hiện công việc không có uỷ quyền, chiếm hữu, sử dụng tài sản hoặc được lợi về tài sản không có căn cứ pháp luật, gây thiệt hại do hành vi trái pháp luật, căn cứ khác do pháp luật quy định ; điều 275.",
+        "qas": [
+            {
+                "question": "Căn cứ nào vừa phát sinh nghĩa vụ, vừa phát sinh quyền dân sự?",
+                "answer": {
+                    "text": [
+                        "hợp đồng, hành vi pháp lý đơn phương"
+                    ],
+                    "start": [
+                        38
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "đối tượng của nghĩa vụ là tài sản, công việc phải thực hiện hoặc không được thực hiện, đối tượng của nghĩa vụ phải được xác định ; điều 276.",
+        "qas": [
+            {
+                "question": "Đối tượng của nghĩa vụ là gì ?",
+                "answer": {
+                    "text": [
+                        "đối tượng của nghĩa vụ là tài sản, công việc phải thực hiện hoặc không được thực hiện, đối tượng của nghĩa vụ phải được xác định"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "Đối tượng của nghĩa vụ là ?",
+                "answer": {
+                    "text": [
+                        "đối tượng của nghĩa vụ là tài sản, công việc phải thực hiện hoặc không được thực hiện"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "đối tượng của nghĩa vụ là tài sản, công việc phải thực hiện hoặc không được thực hiện, đối tượng của nghĩa vụ phải được xác định ; điều 276.",
+        "qas": [
+            {
+                "question": "Đối tượng của nghĩa vụ là?",
+                "answer": {
+                    "text": [
+                        "tài sản"
+                    ],
+                    "start": [
+                        26
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "đối tượng của nghĩa vụ là tài sản, công việc phải thực hiện hoặc không được thực hiện, đối tượng của nghĩa vụ phải được xác định ; điều 276.",
+        "qas": [
+            {
+                "question": "Đối tượng của nghĩa vụ ?",
+                "answer": {
+                    "text": [
+                        "tài sản"
+                    ],
+                    "start": [
+                        26
+                    ]
+                }
+            },
+            {
+                "question": "Đối tượng của nghĩa vụ cần xác định",
+                "answer": {
+                    "text": [
+                        "đối tượng của nghĩa vụ phải được xác định"
+                    ],
+                    "start": [
+                        87
+                    ]
+                }
+            },
+            {
+                "question": "Đối tượng của nghĩa vụ công việc cần thực hiện không",
+                "answer": {
+                    "text": [
+                        "công việc phải thực hiện hoặc không được thực hiện"
+                    ],
+                    "start": [
+                        35
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "địa điểm giao tài sản do các bên thoả thuận; nếu không có thoả thuận thì áp dụng quy định tại khoản 2 điều 277 của bộ luật này ; điều 435.",
+        "qas": [
+            {
+                "question": "Địa điểm giao tài sản do bên nào quyết định ?",
+                "answer": {
+                    "text": [
+                        "địa điểm giao tài sản do các bên thoả thuận"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "địa điểm thực hiện nghĩa vụ do các bên thoả thuận ; điều 277 khoản 1.",
+        "qas": [
+            {
+                "question": "Địa điểm thực hiện nghĩa vụ ở đâu ?",
+                "answer": {
+                    "text": [
+                        "địa điểm thực hiện nghĩa vụ do các bên thoả thuận"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "thời hạn thực hiện nghĩa vụ do các bên thoả thuận, theo quy định của pháp luật hoặc theo quyết định của cơ quan có thẩm quyền, bên có nghĩa vụ phải thực hiện nghĩa vụ đúng thời hạn, trừ trường hợp bộ luật này, luật khác có liên quan quy định khác, trường hợp bên có nghĩa vụ đã tự ý thực hiện nghĩa vụ trước thời hạn và bên có quyền đã chấp nhận việc thực hiện nghĩa vụ thì nghĩa vụ được coi là đã hoàn thành đúng thời hạn ; điều 278 khoản 2.",
+        "qas": [
+            {
+                "question": "thời hạn thực hiện nghĩa vụ khi nào ?",
+                "answer": {
+                    "text": [
+                        "thời hạn thực hiện nghĩa vụ do các bên thoả thuận"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "bên có nghĩa vụ giao vật phải bảo quản, giữ gìn vật cho đến khi giao, khi vật phải giao là vật đặc định thì bên có nghĩa vụ phải giao đúng vật đó và đúng tình trạng như đã cam kết; nếu là vật cùng loại thì phải giao đúng số lượng và chất lượng như đã thoả thuận, nếu không có thoả thuận về chất lượng thì phải giao vật đó với chất lượng trung bình; nếu là vật đồng bộ thì phải giao đồng bộ, bên có nghĩa vụ phải chịu mọi chi phí về việc giao vật, trừ trường hợp có thoả thuận khác ; điều 279.",
+        "qas": [
+            {
+                "question": "Thực hiện nghĩa vụ giao vật của bên có nghĩ vụ giao vật ?",
+                "answer": {
+                    "text": [
+                        "bên có nghĩa vụ giao vật phải bảo quản, giữ gìn vật cho đến khi giao, khi vật phải giao là vật đặc định thì bên có nghĩa vụ phải giao đúng vật đó và đúng tình trạng như đã cam kết"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "nghĩa vụ trả tiền phải được thực hiện đầy đủ, đúng thời hạn, đúng địa điểm và phương thức đã thoả thuận, nghĩa vụ trả tiền bao gồm cả tiền lãi trên nợ gốc, trừ trường hợp có thoả thuận khác ; điều 280.",
+        "qas": [
+            {
+                "question": "Thực hiện nghĩa vụ trả tiền ra sao ?",
+                "answer": {
+                    "text": [
+                        "nghĩa vụ trả tiền phải được thực hiện đầy đủ, đúng thời hạn, đúng địa điểm và phương thức đã thoả thuận, nghĩa vụ trả tiền bao gồm cả tiền lãi trên nợ gốc, trừ trường hợp có thoả thuận khác"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "nghĩa vụ phân chia được theo phần là nghĩa vụ mà đối tượng của nghĩa vụ có thể chia thành nhiều phần để thực hiện, bên có nghĩa vụ có thể thực hiện từng phần nghĩa vụ, trừ trường hợp có thoả thuận khác ; điều 290.",
+        "qas": [
+            {
+                "question": "Tất cả các nghĩa vụ đều có thể phân chia theo phần?",
+                "answer": {
+                    "text": [
+                        "có thể thực hiện từng phần nghĩa vụ, trừ trường hợp có thoả thuận khác"
+                    ],
+                    "start": [
+                        131
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "nghĩa vụ không phân chia được theo phần là nghĩa vụ mà đối tượng của nghĩa vụ phải được thực hiện cùng một lúc, trường hợp nhiều người cùng phải thực hiện một nghĩa vụ không phân chia được theo phần thì họ phải thực hiện nghĩa vụ cùng một lúc ; điều 291.",
+        "qas": [
+            {
+                "question": "Tất cả các nghĩa vụ đều có thể phân chia theo phần?",
+                "answer": {
+                    "text": [
+                        "nhiều người cùng phải thực hiện một nghĩa vụ không phân chia được theo phần thì họ phải thực hiện nghĩa vụ cùng một lúc"
+                    ],
+                    "start": [
+                        123
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "các biện pháp bảo đảm thực hiện nghĩa vụ bao gồm: cầm cố tài sản, thế chấp tài sản, đặt cọc, ký cược, ký quỹ, bảo lưu quyền sở hữu, bảo lãnh, tín chấp, cầm giữ tài sản ; điều 292",
+        "qas": [
+            {
+                "question": "Các biện pháp bảo đảm thực hiện nghĩa vụ bao gồm những gì ?",
+                "answer": {
+                    "text": [
+                        "các biện pháp bảo đảm thực hiện nghĩa vụ bao gồm: cầm cố tài sản, thế chấp tài sản, đặt cọc, ký cược, ký quỹ, bảo lưu quyền sở hữu, bảo lãnh, tín chấp, cầm giữ tài sản "
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "nghĩa vụ có thể được bảo đảm một phần hoặc toàn bộ theo thoả thuận hoặc theo quy định của pháp luật; nếu không có thoả thuận và pháp luật không quy định phạm vi bảo đảm thì nghĩa vụ coi như được bảo đảm toàn bộ, kể cả nghĩa vụ trả lãi, tiền phạt và bồi thường thiệt hại ; điều 293 khoản 1.",
+        "qas": [
+            {
+                "question": "Phạm vi nghĩa vụ được bảo đảm ?",
+                "answer": {
+                    "text": [
+                        "nghĩa vụ có thể được bảo đảm một phần hoặc toàn bộ theo thoả thuận hoặc theo quy định của pháp luật; nếu không có thoả thuận và pháp luật không quy định phạm vi bảo đảm thì nghĩa vụ coi như được bảo đảm toàn bộ, kể cả nghĩa vụ trả lãi, tiền phạt và bồi thường thiệt hại"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "tài sản bảo đảm phải thuộc quyền sở hữu của bên bảo đảm, trừ trường hợp cầm giữ tài sản, bảo lưu quyền sở hữu, tài sản bảo đảm có thể được mô tả chung, nhưng phải xác định được, tài sản bảo đảm có thể là tài sản hiện có hoặc tài sản hình thành trong tương lai, giá trị của tài sản bảo đảm có thể lớn hơn, bằng hoặc nhỏ hơn giá trị nghĩa vụ được bảo đảm ; điều 295.",
+        "qas": [
+            {
+                "question": "Tài sản bảo đảm là gì ?",
+                "answer": {
+                    "text": [
+                        "tài sản bảo đảm phải thuộc quyền sở hữu của bên bảo đảm, trừ trường hợp cầm giữ tài sản, bảo lưu quyền sở hữu, tài sản bảo đảm có thể được mô tả chung, nhưng phải xác định được, tài sản bảo đảm có thể là tài sản hiện có hoặc tài sản hình thành trong tương lai, giá trị của tài sản bảo đảm có thể lớn hơn, bằng hoặc nhỏ hơn giá trị nghĩa vụ được bảo đảm "
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "Tài sản bảo đảm phải như thế nào?",
+                "answer": {
+                    "text": [
+                        "tài sản bảo đảm phải thuộc quyền sở hữu của bên bảo đảm, trừ trường hợp cầm giữ tài sản, bảo lưu quyền sở hữu, tài sản bảo đảm có thể được mô tả chung, nhưng phải xác định được, tài sản bảo đảm có thể là tài sản hiện có hoặc tài sản hình thành trong tương lai, giá trị của tài sản bảo đảm có thể lớn hơn, bằng hoặc nhỏ hơn giá trị nghĩa vụ được bảo đảm "
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "hợp đồng cầm cố tài sản có hiệu lực từ thời điểm giao kết, trừ trường hợp có thỏa thuận khác hoặc luật có quy định khác, cầm cố tài sản có hiệu lực đối kháng với người thứ ba kể từ thời điểm bên nhận cầm cố nắm giữ tài sản cầm cố, trường hợp bất động sản là đối tượng của cầm cố theo quy định của luật thì việc cầm cố bất động sản có hiệu lực đối kháng với người thứ ba kể từ thời điểm đăng ký ; điều 310.",
+        "qas": [
+            {
+                "question": "Hiệu lực của cầm cố tài sản từ khi nào ?",
+                "answer": {
+                    "text": [
+                        "hợp đồng cầm cố tài sản có hiệu lực từ thời điểm giao kết"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "Có được cầm cố bất động sản hay không?",
+                "answer": {
+                    "text": [
+                        "trường hợp bất động sản là đối tượng của cầm cố theo quy định của luật thì việc cầm cố bất động sản có hiệu lực đối kháng với người thứ ba kể từ thời điểm đăng ký "
+                    ],
+                    "start": [
+                        231
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "hợp đồng cầm cố tài sản có hiệu lực từ thời điểm giao kết, trừ trường hợp có thỏa thuận khác hoặc luật có quy định khác, cầm cố tài sản có hiệu lực đối kháng với người thứ ba kể từ thời điểm bên nhận cầm cố nắm giữ tài sản cầm cố, trường hợp bất động sản là đối tượng của cầm cố theo quy định của luật thì việc cầm cố bất động sản có hiệu lực đối kháng với người thứ ba kể từ thời điểm đăng ký ; điều 310.",
+        "qas": [
+            {
+                "question": "Nếu không có thỏa thuận khác hoặc luật khác không có quy định thì Hợp đồng cầm cố tài sản có hiệu lực từ khi nào",
+                "answer": {
+                    "text": [
+                        "thời điểm giao kết"
+                    ],
+                    "start": [
+                        39
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "nghĩa vụ của bên cầm cố: giao tài sản cầm cố cho bên nhận cầm cố theo đúng thoả thuận, báo cho bên nhận cầm cố về quyền của người thứ ba đối với tài sản cầm cố, nếu có; trường hợp không thông báo thì bên nhận cầm cố có quyền huỷ hợp đồng cầm cố tài sản và yêu cầu bồi thường thiệt hại hoặc duy trì hợp đồng và chấp nhận quyền của người thứ ba đối với tài sản cầm cố, thanh toán cho bên nhận cầm cố chi phí hợp lý để bảo quản tài sản cầm cố, trừ trường hợp có thoả thuận khác ; điều 311.",
+        "qas": [
+            {
+                "question": "Nghĩa vụ của bên cầm cố ?",
+                "answer": {
+                    "text": [
+                        "giao tài sản cầm cố cho bên nhận cầm cố theo đúng thoả thuận, báo cho bên nhận cầm cố về quyền của người thứ ba đối với tài sản cầm cố, nếu có; trường hợp không thông báo thì bên nhận cầm cố có quyền huỷ hợp đồng cầm cố tài sản và yêu cầu bồi thường thiệt hại hoặc duy trì hợp đồng và chấp nhận quyền của người thứ ba đối với tài sản cầm cố, thanh toán cho bên nhận cầm cố chi phí hợp lý để bảo quản tài sản cầm cố, trừ trường hợp có thoả thuận khác"
+                    ],
+                    "start": [
+                        25
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "nghĩa vụ của bên nhận cầm cố: bảo quản, giữ gìn tài sản cầm cố; nếu làm mất, thất lạc hoặc hư hỏng tài sản cầm cố thì phải bồi thường thiệt hại cho bên cầm cố, không được bán, trao đổi, tặng cho, sử dụng tài sản cầm cố để bảo đảm thực hiện nghĩa vụ khác, không được cho thuê, cho mượn, khai thác công dụng, hưởng hoa lợi, lợi tức từ tài sản cầm cố, trừ trường hợp có thỏa thuận khác, trả lại tài sản cầm cố và giấy tờ liên quan, nếu có khi nghĩa vụ được bảo đảm bằng cầm cố chấm dứt hoặc được thay thế bằng biện pháp bảo đảm khác ; điều 313.",
+        "qas": [
+            {
+                "question": "Nghĩa vụ của bên nhận cầm cố?",
+                "answer": {
+                    "text": [
+                        "bảo quản, giữ gìn tài sản cầm cố; nếu làm mất, thất lạc hoặc hư hỏng tài sản cầm cố thì phải bồi thường thiệt hại cho bên cầm cố, không được bán, trao đổi, tặng cho, sử dụng tài sản cầm cố để bảo đảm thực hiện nghĩa vụ khác, không được cho thuê, cho mượn, khai thác công dụng, hưởng hoa lợi, lợi tức từ tài sản cầm cố, trừ trường hợp có thỏa thuận khác, trả lại tài sản cầm cố và giấy tờ liên quan"
+                    ],
+                    "start": [
+                        31
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "hợp đồng cầm cố tài sản có hiệu lực từ thời điểm giao kết, trừ trường hợp có thỏa thuận khác hoặc luật có quy định khác, cầm cố tài sản có hiệu lực đối kháng với người thứ ba kể từ thời điểm bên nhận cầm cố nắm giữ tài sản cầm cố, trường hợp bất động sản là đối tượng của cầm cố theo quy định của luật thì việc cầm cố bất động sản có hiệu lực đối kháng với người thứ ba kể từ thời điểm đăng ký ; điều 310.",
+        "qas": [
+            {
+                "question": "Hiệu lực của cầm cố tài sản từ khi nào ?",
+                "answer": {
+                    "text": [
+                        "hợp đồng cầm cố tài sản có hiệu lực từ thời điểm giao kết"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "Có được cầm cố bất động sản hay không?",
+                "answer": {
+                    "text": [
+                        "trường hợp bất động sản là đối tượng của cầm cố theo quy định của luật thì việc cầm cố bất động sản có hiệu lực đối kháng với người thứ ba kể từ thời điểm đăng ký "
+                    ],
+                    "start": [
+                        231
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "quyền sở hữu chấm dứt trong trường hợp sau đây: chủ sở hữu chuyển quyền sở hữu của mình cho người khác, chủ sở hữu từ bỏ quyền sở hữu của mình, tài sản đã được tiêu dùng hoặc bị tiêu huỷ, tài sản bị xử lý để thực hiện nghĩa vụ của chủ sở hữu, tài sản bị trưng mua, tài sản bị tịch thu, tài sản đã được xác lập quyền sở hữu cho người khác theo quy định của bộ luật này, trường hợp khác do luật quy định ; điều 237.",
+        "qas": [
+            {
+                "question": "Quyền sở hữu chấm dứt trong trường hợp nào ?",
+                "answer": {
+                    "text": [
+                        "chủ sở hữu chuyển quyền sở hữu của mình cho người khác, chủ sở hữu từ bỏ quyền sở hữu của mình, tài sản đã được tiêu dùng hoặc bị tiêu huỷ, tài sản bị xử lý để thực hiện nghĩa vụ của chủ sở hữu, tài sản bị trưng mua, tài sản bị tịch thu, tài sản đã được xác lập quyền sở hữu cho người khác theo quy định của bộ luật này, trường hợp khác do luật quy định"
+                    ],
+                    "start": [
+                        48
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "khi chủ sở hữu chuyển giao quyền sở hữu của mình cho người khác thông qua hợp đồng mua bán, trao đổi, tặng cho, cho vay, hợp đồng chuyển quyền sở hữu khác theo quy định của pháp luật hoặc thông qua việc để thừa kế thì quyền sở hữu đối với tài sản của người đó chấm dứt kể từ thời điểm phát sinh quyền sở hữu của người được chuyển giao ; điều 238.",
+        "qas": [
+            {
+                "question": "chủ sở hữu chuyển giao quyền sở hữu của mình cho người khác thông qua hình thức nào ?",
+                "answer": {
+                    "text": [
+                        "khi chủ sở hữu chuyển giao quyền sở hữu của mình cho người khác thông qua hợp đồng mua bán, trao đổi, tặng cho, cho vay, hợp đồng chuyển quyền sở hữu khác theo quy định của pháp luật"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "chủ sở hữu có thể tự chấm dứt quyền sở hữu đối với tài sản của mình bằng cách tuyên bố công khai hoặc thực hiện hành vi chứng tỏ việc mình từ bỏ quyền chiếm hữu, sử dụng và định đoạt tài sản đó, đối với tài sản mà việc từ bỏ tài sản đó có thể gây hại đến trật tự, an toàn xã hội, ô nhiễm môi trường thì việc từ bỏ quyền sở hữu phải tuân theo quy định của pháp luật ; điều 239.",
+        "qas": [
+            {
+                "question": "Chủ sở hữu có thể tự chấm dứt quyền sở hữu bằng cách nào ?",
+                "answer": {
+                    "text": [
+                        "chủ sở hữu có thể tự chấm dứt quyền sở hữu đối với tài sản của mình bằng cách tuyên bố công khai hoặc thực hiện hành vi chứng tỏ việc mình từ bỏ quyền chiếm hữu"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "tài sản không xác định được chủ sở hữu; tài sản bị chôn, giấu, bị vùi lấp, chìm đắm được tìm thấy; tài sản bị đánh rơi, bị bỏ quên; gia súc, gia cầm bị thất lạc; vật nuôi dưới nước di chuyển tự nhiên đã được xác lập quyền sở hữu cho người khác theo quy định tại các điều từ điều 228 đến điều 233 của bộ luật này thì quyền sở hữu của những người có tài sản đó chấm dứt, khi quyền sở hữu của người chiếm hữu, người được lợi về tài sản đã được xác lập theo quy định tại điều 236 của bộ luật này hoặc quy định khác của luật có liên quan thì chấm dứt quyền sở hữu của người có tài sản bị chiếm hữu ; điều 240.",
+        "qas": [
+            {
+                "question": "Tài sản đã được xác lập quyền sở hữu cho người khác khi nào ?",
+                "answer": {
+                    "text": [
+                        "tài sản không xác định được chủ sở hữu; tài sản bị chôn, giấu, bị vùi lấp, chìm đắm được tìm thấy; tài sản bị đánh rơi, bị bỏ quên; gia súc, gia cầm bị thất lạc, thì quyền sở hữu của những người có tài sản đó chấm dứt"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "quyền sở hữu đối với một tài sản chấm dứt khi tài sản đó bị xử lý để thực hiện nghĩa vụ của chủ sở hữu theo quyết định của tòa án hoặc cơ quan nhà nước có thẩm quyền khác, nếu pháp luật không có quy định khác ; điều 241 khoản 1.",
+        "qas": [
+            {
+                "question": "Xử lý tài sản để thực hiện nghĩa vụ của chủ sở hữu như thế nào ?",
+                "answer": {
+                    "text": [
+                        "quyền sở hữu đối với một tài sản chấm dứt khi tài sản đó bị xử lý để thực hiện nghĩa vụ của chủ sở hữu theo quyết định của tòa án hoặc cơ quan nhà nước có thẩm quyền khác, nếu pháp luật không có quy định khác"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "khi tài sản được tiêu dùng hoặc bị tiêu huỷ thì quyền sở hữu đối với tài sản đó chấm dứt ; điều 242.",
+        "qas": [
+            {
+                "question": "Tài sản được tiêu dùng hoặc bị tiêu hủy thì quyền sở hữu còn không ?",
+                "answer": {
+                    "text": [
+                        "khi tài sản được tiêu dùng hoặc bị tiêu huỷ thì quyền sở hữu đối với tài sản đó chấm dứt "
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "khi tài sản của chủ sở hữu do phạm tội, vi phạm hành chính mà bị tịch thu, sung quỹ nhà nước thì quyền sở hữu đối với tài sản đó chấm dứt kể từ thời điểm bản án, quyết định của tòa án, cơ quan nhà nước có thẩm quyền khác có hiệu lực pháp luật ; điều 244.",
+        "qas": [
+            {
+                "question": "Tài sản bị tịch thu khi nào ?",
+                "answer": {
+                    "text": [
+                        "khi tài sản của chủ sở hữu do phạm tội, vi phạm hành chính mà bị tịch thu, sung quỹ nhà nước thì quyền sở hữu đối với tài sản đó chấm dứt kể từ thời điểm bản án, quyết định của tòa án, cơ quan nhà nước có thẩm quyền khác có hiệu lực pháp luật"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "quyền đối với bất động sản liền kề là quyền được thực hiện trên một bất động sản (gọi là bất động sản chịu hưởng quyền) nhằm phục vụ cho việc khai thác một bất động sản khác thuộc quyền sở hữu của người khác (gọi là bất động sản hưởng quyền) ; điều 245.",
+        "qas": [
+            {
+                "question": "Quyền đối với bất động sản liền kề là gì ?",
+                "answer": {
+                    "text": [
+                        "quyền đối với bất động sản liền kề là quyền được thực hiện trên một bất động sản (gọi là bất động sản chịu hưởng quyền) nhằm phục vụ cho việc khai thác một bất động sản khác thuộc quyền sở hữu của người khác (gọi là bất động sản hưởng quyền)"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "quyền đối với bất động sản liền kề được xác lập do địa thế tự nhiên, theo quy định của luật, theo thoả thuận hoặc theo di chúc ; điều 246.",
+        "qas": [
+            {
+                "question": "Căn cứ xác lập quyền đối với bất động sản liền kề ra sao ?",
+                "answer": {
+                    "text": [
+                        "quyền đối với bất động sản liền kề được xác lập do địa thế tự nhiên, theo quy định của luật, theo thoả thuận hoặc theo di chúc"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "Căn cứ xác lập quyền đối với bất động sản liền kề gồm",
+                "answer": {
+                    "text": [
+                        "được xác lập do địa thế tự nhiên, theo quy định của luật, theo thoả thuận hoặc theo di chúc"
+                    ],
+                    "start": [
+                        35
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "quyền đối với bất động sản liền kề có hiệu lực đối với mọi cá nhân, pháp nhân và được chuyển giao khi bất động sản được chuyển giao, trừ trường hợp luật liên quan có quy định khác ; điều 247.",
+        "qas": [
+            {
+                "question": "Hiệu lực của quyền đối với bất động sản liền kề ra sao ?",
+                "answer": {
+                    "text": [
+                        "quyền đối với bất động sản liền kề có hiệu lực đối với mọi cá nhân, pháp nhân và được chuyển giao khi bất động sản được chuyển giao, trừ trường hợp luật liên quan có quy định khác "
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "việc thực hiện quyền đối với bất động sản liền kề theo thỏa thuận của các bên. trường hợp các bên không có thỏa thuận thì thực hiện theo các nguyên tắc sau đây: bảo đảm nhu cầu hợp lý của việc khai thác bất động sản hưởng quyền phù hợp với mục đích sử dụng của cả bất động sản hưởng quyền và bất động sản chịu hưởng quyền, không được lạm dụng quyền đối với bất động sản chịu hưởng quyền, không được thực hiện hành vi ngăn cản hoặc làm cho việc thực hiện quyền đối với bất động sản hưởng quyền trở nên khó khăn ; điều 248.",
+        "qas": [
+            {
+                "question": "nguyên tắc thực hiện quyền đối với bất động sản liền kề như thế nào ?",
+                "answer": {
+                    "text": [
+                        "bảo đảm nhu cầu hợp lý của việc khai thác bất động sản hưởng quyền phù hợp với mục đích sử dụng của cả bất động sản hưởng quyền và bất động sản chịu hưởng quyền, không được lạm dụng quyền đối với bất động sản chịu hưởng quyền, không được thực hiện hành vi ngăn cản hoặc làm cho việc thực hiện quyền đối với bất động sản hưởng quyền trở nên khó khăn"
+                    ],
+                    "start": [
+                        161
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp có sự thay đổi về sử dụng, khai thác bất động sản chịu hưởng quyền dẫn đến thay đổi việc thực hiện quyền đối với bất động sản hưởng quyền thì chủ sở hữu bất động sản chịu hưởng quyền phải thông báo trước cho chủ sở hữu bất động sản hưởng quyền trong một thời hạn hợp lý. chủ sở hữu bất động sản chịu hưởng quyền phải tạo điều kiện thuận lợi cho chủ sở hữu bất động sản hưởng quyền phù hợp với thay đổi này ; điều 249.",
+        "qas": [
+            {
+                "question": "thay đổi việc thực hiện quyền đối với bất động sản liền kề ra sao? ",
+                "answer": {
+                    "text": [
+                        "trường hợp có sự thay đổi về sử dụng, khai thác bất động sản chịu hưởng quyền dẫn đến thay đổi việc thực hiện quyền đối với bất động sản hưởng quyền thì chủ sở hữu bất động sản chịu hưởng quyền phải thông báo trước cho chủ sở hữu bất động sản hưởng quyền trong một thời hạn hợp lý"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "chủ sở hữu nhà, công trình xây dựng khác phải lắp đặt đường dẫn nước sao cho nước mưa từ mái nhà, công trình xây dựng của mình không được chảy xuống bất động sản của chủ sở hữu bất động sản liền kề ; điều 250.",
+        "qas": [
+            {
+                "question": "Nghĩa vụ của chủ sở hữu trong việc thoát nước mưa ?",
+                "answer": {
+                    "text": [
+                        "chủ sở hữu nhà, công trình xây dựng khác phải lắp đặt đường dẫn nước sao cho nước mưa từ mái nhà, công trình xây dựng của mình không được chảy xuống bất động sản của chủ sở hữu bất động sản liền kề"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "chủ sở hữu nhà, công trình xây dựng khác phải làm cống ngầm hoặc rãnh thoát nước để đưa nước thải ra nơi quy định, sao cho nước thải không chảy tràn sang bất động sản của chủ sở hữu bất động sản liền kề, ra đường công cộng hoặc nơi sinh hoạt công cộng ; điều 251. ",
+        "qas": [
+            {
+                "question": "Nghĩa vụ của chủ sở hữu trong việc thoát nước thải ?",
+                "answer": {
+                    "text": [
+                        "chủ sở hữu nhà, công trình xây dựng khác phải làm cống ngầm hoặc rãnh thoát nước để đưa nước thải ra nơi quy định, sao cho nước thải không chảy tràn sang bất động sản của chủ sở hữu bất động sản liền kề, ra đường công cộng hoặc nơi sinh hoạt công cộng"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp do vị trí tự nhiên của bất động sản mà việc cấp, thoát nước buộc phải qua một bất động sản khác thì chủ sở hữu bất động sản có nước chảy qua phải dành một lối cấp, thoát nước thích hợp, không được cản trở hoặc ngăn chặn dòng nước chảy, người sử dụng lối cấp, thoát nước phải hạn chế đến mức thấp nhất thiệt hại cho chủ sở hữu bất động sản có nước chảy qua khi lắp đặt đường dẫn nước; nếu gây thiệt hại thì phải bồi thường. trường hợp nước tự nhiên chảy từ vị trí cao xuống vị trí thấp mà gây thiệt hại cho chủ sở hữu bất động sản có nước chảy qua thì người sử dụng lối cấp, thoát nước không phải bồi thường thiệt hại ; điều 252.",
+        "qas": [
+            {
+                "question": "vị trí tự nhiên của bất động sản mà việc cấp, thoát nước buộc phải qua một bất động sản khác thì chủ sở hữu sử lý như thế nào ?",
+                "answer": {
+                    "text": [
+                        "trường hợp do vị trí tự nhiên của bất động sản mà việc cấp, thoát nước buộc phải qua một bất động sản khác thì chủ sở hữu bất động sản có nước chảy qua phải dành một lối cấp, thoát nước thích hợp, không được cản trở hoặc ngăn chặn dòng nước chảy, người sử dụng lối cấp, thoát nước phải hạn chế đến mức thấp nhất thiệt hại cho chủ sở hữu bất động sản có nước chảy qua khi lắp đặt đường dẫn nước"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "người có quyền sử dụng đất canh tác khi có nhu cầu về tưới nước, tiêu nước, có quyền yêu cầu những người sử dụng đất xung quanh để cho mình một lối dẫn nước thích hợp, thuận tiện cho việc tưới, tiêu; người được yêu cầu có nghĩa vụ đáp ứng yêu cầu đó; nếu người sử dụng lối dẫn nước gây thiệt hại cho người sử dụng đất xung quanh thì phải bồi thường ; điều 253.",
+        "qas": [
+            {
+                "question": "Quyền về tưới nước, tiêu nước trong canh tác ?",
+                "answer": {
+                    "text": [
+                        "người có quyền sử dụng đất canh tác khi có nhu cầu về tưới nước, tiêu nước, có quyền yêu cầu những người sử dụng đất xung quanh để cho mình một lối dẫn nước thích hợp, thuận tiện cho việc tưới, tiêu"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "chủ sở hữu có bất động sản bị vây bọc bởi các bất động sản của các chủ sở hữu khác mà không có hoặc không đủ lối đi ra đường công cộng, có quyền yêu cầu chủ sở hữu bất động sản vây bọc dành cho mình một lối đi hợp lý trên phần đất của họ, lối đi được mở trên bất động sản liền kề nào mà được coi là thuận tiện và hợp lý nhất, có tính đến đặc điểm cụ thể của địa điểm, lợi ích của bất động sản bị vây bọc và thiệt hại gây ra là ít nhất cho bất động sản có mở lối đi, chủ sở hữu bất động sản hưởng quyền về lối đi qua phải đền bù cho chủ sở hữu bất động sản chịu hưởng quyền, trừ trường hợp có thỏa thuận khác ; điều 254 khoản 1.",
+        "qas": [
+            {
+                "question": "Quyền về lối đi qua ?",
+                "answer": {
+                    "text": [
+                        "chủ sở hữu có bất động sản bị vây bọc bởi các bất động sản của các chủ sở hữu khác mà không có hoặc không đủ lối đi ra đường công cộng, có quyền yêu cầu chủ sở hữu bất động sản vây bọc dành cho mình một lối đi hợp lý trên phần đất của họ"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "chủ sở hữu bất động sản có quyền mắc đường dây tải điện, thông tin liên lạc qua bất động sản của các chủ sở hữu khác một cách hợp lý, nhưng phải bảo đảm an toàn và thuận tiện cho các chủ sở hữu đó; nếu gây thiệt hại thì phải bồi thường ; điều 255.",
+        "qas": [
+            {
+                "question": "Mắc đường dây tải điện, thông tin liên lạc qua bất động sản khác như thế nào ?",
+                "answer": {
+                    "text": [
+                        "chủ sở hữu bất động sản có quyền mắc đường dây tải điện, thông tin liên lạc qua bất động sản của các chủ sở hữu khác một cách hợp lý, nhưng phải bảo đảm an toàn và thuận tiện cho các chủ sở hữu đó; nếu gây thiệt hại thì phải bồi thường"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "quyền đối với bất động sản liền kề chấm dứt trong trường hợp sau đây: bất động sản hưởng quyền và bất động sản chịu hưởng quyền thuộc quyền sở hữu của một người, việc sử dụng, khai thác bất động sản không còn làm phát sinh nhu cầu hưởng quyền, theo thỏa thuận của các bên, trường hợp khác theo quy định của luật ; điều 256.",
+        "qas": [
+            {
+                "question": "Quyền đối với bất động sản liền kề chấm dứt trong trường hợp nào ?",
+                "answer": {
+                    "text": [
+                        "quyền đối với bất động sản liền kề chấm dứt trong trường hợp sau đây: bất động sản hưởng quyền và bất động sản chịu hưởng quyền thuộc quyền sở hữu của một người, việc sử dụng, khai thác bất động sản không còn làm phát sinh nhu cầu hưởng quyền, theo thỏa thuận của các bên"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "quyền hưởng dụng được xác lập theo quy định của luật, theo thoả thuận hoặc theo di chúc ; điều 258.",
+        "qas": [
+            {
+                "question": "căn cứ xác lập quyền hưởng dụng như thế nào ? ",
+                "answer": {
+                    "text": [
+                        "quyền hưởng dụng được xác lập theo quy định của luật, theo thoả thuận hoặc theo di chúc"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "quyền hưởng dụng được xác lập từ thời điểm nhận chuyển giao tài sản, trừ trường hợp có thỏa thuận khác hoặc luật liên quan có quy định khác, quyền hưởng dụng đã được xác lập có hiệu lực đối với mọi cá nhân, pháp nhân, trừ trường hợp luật liên quan có quy định khác ;điều 259.",
+        "qas": [
+            {
+                "question": "Hiệu lực của quyền hưởng dụng khi nào ?",
+                "answer": {
+                    "text": [
+                        "quyền hưởng dụng được xác lập từ thời điểm nhận chuyển giao tài sản"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "thời hạn của quyền hưởng dụng do các bên thỏa thuận hoặc do luật quy định nhưng tối đa đến hết cuộc đời của người hưởng dụng đầu tiên nếu người hưởng dụng là cá nhân và đến khi pháp nhân chấm dứt tồn tại nhưng tối đa 30 năm nếu người hưởng dụng đầu tiên là pháp nhân ; điều 260 khoản 1.",
+        "qas": [
+            {
+                "question": "thời hạn của quyền hưởng dụng ra sao ?",
+                "answer": {
+                    "text": [
+                        "thời hạn của quyền hưởng dụng do các bên thỏa thuận hoặc do luật quy định nhưng tối đa đến hết cuộc đời của người hưởng dụng đầu tiên nếu người hưởng dụng là cá nhân và đến khi pháp nhân chấm dứt tồn tại nhưng tối đa 30 năm nếu người hưởng dụng đầu tiên là pháp nhân"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "quyền hưởng dụng chấm dứt trong trường hợp sau đây: thời hạn của quyền hưởng dụng đã hết, theo thỏa thuận của các bên, người hưởng dụng trở thành chủ sở hữu tài sản là đối tượng của quyền hưởng dụng, người hưởng dụng từ bỏ hoặc không thực hiện quyền hưởng dụng trong thời hạn do luật quy định, tài sản là đối tượng của quyền hưởng dụng không còn, theo quyết định của tòa án, căn cứ khác theo quy định của luật ; điều 265.",
+        "qas": [
+            {
+                "question": "Quyền hưởng dụng chấm dứt trong trường hợp nào ?",
+                "answer": {
+                    "text": [
+                        "thời hạn của quyền hưởng dụng đã hết, theo thỏa thuận của các bên, người hưởng dụng trở thành chủ sở hữu tài sản là đối tượng của quyền hưởng dụng, người hưởng dụng từ bỏ hoặc không thực hiện quyền hưởng dụng trong thời hạn do luật quy định, tài sản là đối tượng của quyền hưởng dụng không còn, theo quyết định của tòa án, căn cứ khác theo quy định của luật"
+                    ],
+                    "start": [
+                        52
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "tài sản là đối tượng của quyền hưởng dụng phải được hoàn trả cho chủ sở hữu khi chấm dứt quyền hưởng dụng, trừ trường hợp có thỏa thuận khác hoặc luật có quy định khác ; điều 266.",
+        "qas": [
+            {
+                "question": "Hoàn trả tài sản khi chấm dứt quyền hưởng dụng như thế nào ?",
+                "answer": {
+                    "text": [
+                        "tài sản là đối tượng của quyền hưởng dụng phải được hoàn trả cho chủ sở hữu khi chấm dứt quyền hưởng dụng, trừ trường hợp có thỏa thuận khác hoặc luật có quy định khác"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "quyền bề mặt được xác lập theo quy định của luật, theo thỏa thuận hoặc theo di chúc ; điều 268.",
+        "qas": [
+            {
+                "question": "Căn cứ xác lập quyền bề mặt ra sao ?",
+                "answer": {
+                    "text": [
+                        "quyền bề mặt được xác lập theo quy định của luật, theo thỏa thuận hoặc theo di chúc"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "quyền bề mặt có hiệu lực từ thời điểm chủ thể có quyền sử dụng đất chuyển giao mặt đất, mặt nước, khoảng không gian trên mặt đất, mặt nước và lòng đất cho chủ thể có quyền bề mặt, trừ trường hợp có thỏa thuận khác hoặc luật liên quan có quy định khác, quyền bề mặt có hiệu lực đối với mọi cá nhân, pháp nhân, trừ trường hợp luật liên quan có quy định khác ; điều 269.",
+        "qas": [
+            {
+                "question": "Hiệu lực của quyền bề mặt ?",
+                "answer": {
+                    "text": [
+                        "quyền bề mặt có hiệu lực từ thời điểm chủ thể có quyền sử dụng đất chuyển giao mặt đất, mặt nước, khoảng không gian trên mặt đất, mặt nước và lòng đất cho chủ thể có quyền bề mặt"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "thời hạn của quyền bề mặt được xác định theo quy định của luật, theo thoả thuận hoặc di chúc nhưng không vượt quá thời hạn của quyền sử dụng đất ; điều 270 khoản 1.",
+        "qas": [
+            {
+                "question": "Thời hạn của quyền bề mặt khi nào ?",
+                "answer": {
+                    "text": [
+                        "thời hạn của quyền bề mặt được xác định theo quy định của luật, theo thoả thuận hoặc di chúc nhưng không vượt quá thời hạn của quyền sử dụng đất"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "quyền bề mặt chấm dứt trong trường hợp sau đây: thời hạn hưởng quyền bề mặt đã hết, chủ thể có quyền bề mặt và chủ thể có quyền sử dụng đất là một, chủ thể có quyền bề mặt từ bỏ quyền của mình, quyền sử dụng đất có quyền bề mặt bị thu hồi theo quy định của luật đất đai, theo thỏa thuận của các bên hoặc theo quy định của luật ; điều 272.",
+        "qas": [
+            {
+                "question": "Quyền bề mặt chấm dứt trong trường hợp nào ?",
+                "answer": {
+                    "text": [
+                        "thời hạn hưởng quyền bề mặt đã hết, chủ thể có quyền bề mặt và chủ thể có quyền sử dụng đất là một, chủ thể có quyền bề mặt từ bỏ quyền của mình, quyền sử dụng đất có quyền bề mặt bị thu hồi theo quy định của luật đất đai, theo thỏa thuận của các bên hoặc theo quy định của luật"
+                    ],
+                    "start": [
+                        48
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "khi quyền bề mặt chấm dứt, chủ thể quyền bề mặt phải trả lại mặt đất, mặt nước, khoảng không gian trên mặt đất, mặt nước và lòng đất cho chủ thể có quyền sử dụng đất theo thỏa thuận hoặc theo quy định của pháp luật ; điều 273 khoản 1.",
+        "qas": [
+            {
+                "question": "Xử lý tài sản khi quyền bề mặt chấm dứt như thế nào ? ",
+                "answer": {
+                    "text": [
+                        "khi quyền bề mặt chấm dứt, chủ thể quyền bề mặt phải trả lại mặt đất, mặt nước, khoảng không gian trên mặt đất, mặt nước và lòng đất cho chủ thể có quyền sử dụng đất theo thỏa thuận hoặc theo quy định của pháp luật"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "nghĩa vụ phát sinh từ căn cứ sau đây: hợp đồng, hành vi pháp lý đơn phương, thực hiện công việc không có uỷ quyền, chiếm hữu, sử dụng tài sản hoặc được lợi về tài sản không có căn cứ pháp luật, gây thiệt hại do hành vi trái pháp luật, căn cứ khác do pháp luật quy định ; điều 275.",
+        "qas": [
+            {
+                "question": "Nghĩa vụ phát sinh từ căn cứ nào ?",
+                "answer": {
+                    "text": [
+                        "nghĩa vụ phát sinh từ căn cứ sau đây: hợp đồng, hành vi pháp lý đơn phương, thực hiện công việc không có uỷ quyền, chiếm hữu, sử dụng tài sản hoặc được lợi về tài sản không có căn cứ pháp luật, gây thiệt hại do hành vi trái pháp luật, căn cứ khác do pháp luật quy định"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "đối tượng của nghĩa vụ là tài sản, công việc phải thực hiện hoặc không được thực hiện, đối tượng của nghĩa vụ phải được xác định ; điều 276.",
+        "qas": [
+            {
+                "question": "Đối tượng của nghĩa vụ là gì ?",
+                "answer": {
+                    "text": [
+                        "đối tượng của nghĩa vụ là tài sản, công việc phải thực hiện hoặc không được thực hiện, đối tượng của nghĩa vụ phải được xác định"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "Đối tượng của nghĩa vụ là ?",
+                "answer": {
+                    "text": [
+                        "đối tượng của nghĩa vụ là tài sản, công việc phải thực hiện hoặc không được thực hiện"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "địa điểm thực hiện nghĩa vụ do các bên thoả thuận ; điều 277 khoản 1.",
+        "qas": [
+            {
+                "question": "Địa điểm thực hiện nghĩa vụ ở đâu ?",
+                "answer": {
+                    "text": [
+                        "địa điểm thực hiện nghĩa vụ do các bên thoả thuận"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "thời hạn thực hiện nghĩa vụ do các bên thoả thuận, theo quy định của pháp luật hoặc theo quyết định của cơ quan có thẩm quyền, bên có nghĩa vụ phải thực hiện nghĩa vụ đúng thời hạn, trừ trường hợp bộ luật này, luật khác có liên quan quy định khác, trường hợp bên có nghĩa vụ đã tự ý thực hiện nghĩa vụ trước thời hạn và bên có quyền đã chấp nhận việc thực hiện nghĩa vụ thì nghĩa vụ được coi là đã hoàn thành đúng thời hạn ; điều 278 khoản 2.",
+        "qas": [
+            {
+                "question": "thời hạn thực hiện nghĩa vụ khi nào ?",
+                "answer": {
+                    "text": [
+                        "thời hạn thực hiện nghĩa vụ do các bên thoả thuận"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "bên có nghĩa vụ giao vật phải bảo quản, giữ gìn vật cho đến khi giao, khi vật phải giao là vật đặc định thì bên có nghĩa vụ phải giao đúng vật đó và đúng tình trạng như đã cam kết; nếu là vật cùng loại thì phải giao đúng số lượng và chất lượng như đã thoả thuận, nếu không có thoả thuận về chất lượng thì phải giao vật đó với chất lượng trung bình; nếu là vật đồng bộ thì phải giao đồng bộ, bên có nghĩa vụ phải chịu mọi chi phí về việc giao vật, trừ trường hợp có thoả thuận khác ; điều 279.",
+        "qas": [
+            {
+                "question": "Thực hiện nghĩa vụ giao vật của bên có nghĩ vụ giao vật ?",
+                "answer": {
+                    "text": [
+                        "bên có nghĩa vụ giao vật phải bảo quản, giữ gìn vật cho đến khi giao, khi vật phải giao là vật đặc định thì bên có nghĩa vụ phải giao đúng vật đó và đúng tình trạng như đã cam kết"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "nghĩa vụ trả tiền phải được thực hiện đầy đủ, đúng thời hạn, đúng địa điểm và phương thức đã thoả thuận, nghĩa vụ trả tiền bao gồm cả tiền lãi trên nợ gốc, trừ trường hợp có thoả thuận khác ; điều 280.",
+        "qas": [
+            {
+                "question": "Thực hiện nghĩa vụ trả tiền ra sao ?",
+                "answer": {
+                    "text": [
+                        "nghĩa vụ trả tiền phải được thực hiện đầy đủ, đúng thời hạn, đúng địa điểm và phương thức đã thoả thuận, nghĩa vụ trả tiền bao gồm cả tiền lãi trên nợ gốc, trừ trường hợp có thoả thuận khác"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "các biện pháp bảo đảm thực hiện nghĩa vụ bao gồm: cầm cố tài sản, thế chấp tài sản, đặt cọc, ký cược, ký quỹ, bảo lưu quyền sở hữu, bảo lãnh, tín chấp, cầm giữ tài sản ; điều 292",
+        "qas": [
+            {
+                "question": "Các biện pháp bảo đảm thực hiện nghĩa vụ bao gồm những gì ?",
+                "answer": {
+                    "text": [
+                        "các biện pháp bảo đảm thực hiện nghĩa vụ bao gồm: cầm cố tài sản, thế chấp tài sản, đặt cọc, ký cược, ký quỹ, bảo lưu quyền sở hữu, bảo lãnh, tín chấp, cầm giữ tài sản "
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "nghĩa vụ có thể được bảo đảm một phần hoặc toàn bộ theo thoả thuận hoặc theo quy định của pháp luật; nếu không có thoả thuận và pháp luật không quy định phạm vi bảo đảm thì nghĩa vụ coi như được bảo đảm toàn bộ, kể cả nghĩa vụ trả lãi, tiền phạt và bồi thường thiệt hại ; điều 293 khoản 1.",
+        "qas": [
+            {
+                "question": "Phạm vi nghĩa vụ được bảo đảm ?",
+                "answer": {
+                    "text": [
+                        "nghĩa vụ có thể được bảo đảm một phần hoặc toàn bộ theo thoả thuận hoặc theo quy định của pháp luật; nếu không có thoả thuận và pháp luật không quy định phạm vi bảo đảm thì nghĩa vụ coi như được bảo đảm toàn bộ, kể cả nghĩa vụ trả lãi, tiền phạt và bồi thường thiệt hại"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "tài sản bảo đảm phải thuộc quyền sở hữu của bên bảo đảm, trừ trường hợp cầm giữ tài sản, bảo lưu quyền sở hữu, tài sản bảo đảm có thể được mô tả chung, nhưng phải xác định được, tài sản bảo đảm có thể là tài sản hiện có hoặc tài sản hình thành trong tương lai, giá trị của tài sản bảo đảm có thể lớn hơn, bằng hoặc nhỏ hơn giá trị nghĩa vụ được bảo đảm ; điều 295.",
+        "qas": [
+            {
+                "question": "Tài sản bảo đảm là gì ?",
+                "answer": {
+                    "text": [
+                        "tài sản bảo đảm phải thuộc quyền sở hữu của bên bảo đảm, trừ trường hợp cầm giữ tài sản, bảo lưu quyền sở hữu, tài sản bảo đảm có thể được mô tả chung, nhưng phải xác định được, tài sản bảo đảm có thể là tài sản hiện có hoặc tài sản hình thành trong tương lai, giá trị của tài sản bảo đảm có thể lớn hơn, bằng hoặc nhỏ hơn giá trị nghĩa vụ được bảo đảm "
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "Tài sản bảo đảm phải như thế nào?",
+                "answer": {
+                    "text": [
+                        "tài sản bảo đảm phải thuộc quyền sở hữu của bên bảo đảm, trừ trường hợp cầm giữ tài sản, bảo lưu quyền sở hữu, tài sản bảo đảm có thể được mô tả chung, nhưng phải xác định được, tài sản bảo đảm có thể là tài sản hiện có hoặc tài sản hình thành trong tương lai, giá trị của tài sản bảo đảm có thể lớn hơn, bằng hoặc nhỏ hơn giá trị nghĩa vụ được bảo đảm "
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "bên phải thực hiện nghĩa vụ trước có quyền hoãn thực hiện nghĩa vụ, nếu khả năng thực hiện nghĩa vụ của bên kia đã bị giảm sút nghiêm trọng đến mức không thể thực hiện được nghĩa vụ như đã cam kết cho đến khi bên kia có khả năng thực hiện được nghĩa vụ hoặc có biện pháp bảo đảm thực hiện nghĩa vụ, bên phải thực hiện nghĩa vụ sau có quyền hoãn thực hiện nghĩa vụ đến hạn nếu bên thực hiện nghĩa vụ trước chưa thực hiện nghĩa vụ của mình khi đến hạn ; điều 411.",
+        "qas": [
+            {
+                "question": "không thực hiện nghĩa vụ có bị gì không ?",
+                "answer": {
+                    "text": [
+                        "có quyền hoãn thực hiện nghĩa vụ"
+                    ],
+                    "start": [
+                        34
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "đối với giao dịch dân sự được xác lập trước ngày bộ luật này có hiệu lực thì việc áp dụng pháp luật được quy định như sau: giao dịch dân sự chưa được thực hiện mà có nội dung, hình thức khác với quy định của bộ luật này thì chủ thể giao dịch tiếp tục thực hiện theo quy định của bộ luật dân sự số 33/2005/qh11 và các văn bản quy phạm pháp luật quy định chi tiết bộ luật dân sự số 33/2005/qh11, trừ trường hợp các bên của giao dịch dân sự có thỏa thuận về việc sửa đổi, bổ sung nội dung, hình thức của giao dịch để phù hợp với bộ luật này và để áp dụng quy định của bộ luật này, giao dịch dân sự đang được thực hiện mà có nội dung, hình thức khác với quy định của bộ luật này thì áp dụng quy định của bộ luật dân sự số 33/2005/qh11 và các văn bản quy phạm pháp luật quy định chi tiết bộ luật dân sự số 33/2005/qh11, giao dịch dân sự chưa được thực hiện hoặc đang được thực hiện mà có nội dung và hình thức phù hợp với quy định của bộ luật này thì áp dụng quy định của bộ luật này, giao dịch dân sự được thực hiện xong trước ngày bộ luật này có hiệu lực mà có tranh chấp thì áp dụng quy định của bộ luật dân sự số 33/2005/qh11 và các văn bản quy phạm pháp luật quy định chi tiết bộ luật dân sự số 33/2005/qh11 để giải quyết, thời hiệu được áp dụng theo quy định của bộ luật này ; điều 688 khoản 1.",
+        "qas": [
+            {
+                "question": "bộ luật dân sự là gì ?",
+                "answer": {
+                    "text": [
+                        "quy định chi tiết bộ luật dân sự số 33/2005/qh11"
+                    ],
+                    "start": [
+                        344
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "tập quán là quy tắc xử sự có nội dung rõ ràng để xác định quyền, nghĩa vụ của cá nhân, pháp nhân trong quan hệ dân sự cụ thể, được hình thành và lặp đi lặp lại nhiều lần trong một thời gian dài, được thừa nhận và áp dụng rộng rãi trong một vùng, miền, dân tộc, cộng đồng dân cư hoặc trong một lĩnh vực dân sự ; điều 5 khoản 1. ",
+        "qas": [
+            {
+                "question": "tập quán là gì ?",
+                "answer": {
+                    "text": [
+                        "là quy tắc xử sự có nội dung rõ ràng để xác định quyền, nghĩa vụ của cá nhân, pháp nhân trong quan hệ dân sự cụ thể"
+                    ],
+                    "start": [
+                        9
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "Việc đặt tên bị hạn chế trong trường hợp xâm phạm đến quyền, lợi ích hợp pháp của người khác hoặc trái với các nguyên tắc cơ bản của pháp luật dân sự quy định tại Điều 3 của Bộ luật này, tên của công dân Việt Nam phải bằng tiếng Việt hoặc tiếng dân tộc khác của Việt Nam; không đặt tên bằng số, bằng một ký tự mà không phải là chữ ; Điều 26 khoản 3.",
+        "qas": [
+            {
+                "question": "có hạn chế khi đặt tên ở Việt Nam hay không ?",
+                "answer": {
+                    "text": [
+                        "bị hạn chế trong trường hợp xâm phạm đến quyền, lợi ích hợp pháp của người khác hoặc trái với các nguyên tắc cơ bản của pháp luật dân sự quy định tại Điều 3 của Bộ luật này"
+                    ],
+                    "start": [
+                        13
+                    ]
+                }
+            },
+            {
+                "question": "có hạn chế khi đặt tên cho con ở Việt Nam hay không ?",
+                "answer": {
+                    "text": [
+                        "bị hạn chế trong trường hợp xâm phạm đến quyền, lợi ích hợp pháp của người khác hoặc trái với các nguyên tắc cơ bản của pháp luật dân sự quy định tại Điều 3 của Bộ luật này"
+                    ],
+                    "start": [
+                        13
+                    ]
+                }
+            },
+            {
+                "question": "đặt tên cho con bị hạn chế như thế nào ?",
+                "answer": {
+                    "text": [
+                        "tên của công dân Việt Nam phải bằng tiếng Việt hoặc tiếng dân tộc khác của Việt Nam; không đặt tên bằng số, bằng một ký tự mà không phải là chữ"
+                    ],
+                    "start": [
+                        187
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "Việc sử dụng bí danh, bút danh không được gây thiệt hại đến quyền, lợi ích hợp pháp của người khác ; Điều 26 khoản 5.",
+        "qas": [
+            {
+                "question": "có thể sử dụng bí danh không ?",
+                "answer": {
+                    "text": [
+                        "không được gây thiệt hại đến quyền, lợi ích hợp pháp của người khác"
+                    ],
+                    "start": [
+                        31
+                    ]
+                }
+            },
+            {
+                "question": "có thể sử dụng bút danh không ?",
+                "answer": {
+                    "text": [
+                        "không được gây thiệt hại đến quyền, lợi ích hợp pháp của người khác"
+                    ],
+                    "start": [
+                        31
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "việc thay đổi họ cho người từ đủ chín tuổi trở lên phải có sự đồng ý của người đó ; Điều 27 khoản 2.",
+        "qas": [
+            {
+                "question": "thay đổi họ cần sự đồng ý của ai ?",
+                "answer": {
+                    "text": [
+                        "phải có sự đồng ý của người đó"
+                    ],
+                    "start": [
+                        51
+                    ]
+                }
+            },
+            {
+                "question": "mấy tuổi thì có thể thay đổi họ ?",
+                "answer": {
+                    "text": [
+                        "từ đủ chín tuổi trở lên"
+                    ],
+                    "start": [
+                        27
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "việc thay đổi họ của cá nhân không làm thay đổi, chấm dứt quyền, nghĩa vụ dân sự được xác lập theo họ cũ ; Điều 27 khoản 3.Cá nhân có quyền yêu cầu cơ quan nhà nước có thẩm quyền công nhận việc thay đổi tên trong trường hợp sau đây: theo yêu cầu của người có tên mà việc sử dụng tên đó gây nhầm lẫn, ảnh hưởng đến tình cảm gia đình, đến danh dự, quyền, lợi ích hợp pháp của người đó, theo yêu cầu của cha nuôi, mẹ nuôi về việc thay đổi tên cho con nuôi hoặc khi người con nuôi thôi làm con nuôi và người này hoặc cha đẻ, mẹ đẻ yêu cầu lấy lại tên mà cha đẻ, mẹ đẻ đã đặt, theo yêu cầu của cha đẻ, mẹ đẻ hoặc người con khi xác định cha, mẹ cho con;, thay đổi tên của người bị lưu lạc đã tìm ra nguồn gốc huyết thống của mình, thay đổi tên của vợ, chồng trong quan hệ hôn nhân và gia đình có yếu tố nước ngoài để phù hợp với pháp luật của nước mà vợ, chồng người nước ngoài là công dân hoặc lấy lại tên trước khi thay đổi;, thay đổi tên của người đã xác định lại giới tính, người đã chuyển đổi giới tính;, trường hợp khác do pháp luật về hộ tịch quy định ; Điều 28 khoản 1.",
+        "qas": [
+            {
+                "question": "Cá nhân có quyền yêu cầu cơ quan nhà nước có thẩm quyền công nhận việc thay đổi tên trong trường hợp nào ?",
+                "answer": {
+                    "text": [
+                        "theo yêu cầu của người có tên mà việc sử dụng tên đó gây nhầm lẫn, ảnh hưởng đến tình cảm gia đình, đến danh dự, quyền, lợi ích hợp pháp của người đó, theo yêu cầu của cha nuôi, mẹ nuôi về việc thay đổi tên cho con nuôi hoặc khi người con nuôi thôi làm con nuôi và người này hoặc cha đẻ, mẹ đẻ yêu cầu lấy lại tên mà cha đẻ, mẹ đẻ đã đặt, theo yêu cầu của cha đẻ, mẹ đẻ hoặc người con khi xác định cha, mẹ cho con;, thay đổi tên của người bị lưu lạc đã tìm ra nguồn gốc huyết thống của mình, thay đổi tên của vợ, chồng trong quan hệ hôn nhân và gia đình có yếu tố nước ngoài để phù hợp với pháp luật của nước mà vợ, chồng người nước ngoài là công dân hoặc lấy lại tên trước khi thay đổi;, thay đổi tên của người đã xác định lại giới tính, người đã chuyển đổi giới tính;, trường hợp khác do pháp luật về hộ tịch quy định"
+                    ],
+                    "start": [
+                        233
+                    ]
+                }
+            },
+            {
+                "question": "có quyền yêu cầu công nhận việc thay đổi tên trong trường hợp nào ?",
+                "answer": {
+                    "text": [
+                        "theo yêu cầu của người có tên mà việc sử dụng tên đó gây nhầm lẫn, ảnh hưởng đến tình cảm gia đình, đến danh dự, quyền, lợi ích hợp pháp của người đó, theo yêu cầu của cha nuôi, mẹ nuôi về việc thay đổi tên cho con nuôi hoặc khi người con nuôi thôi làm con nuôi và người này hoặc cha đẻ, mẹ đẻ yêu cầu lấy lại tên mà cha đẻ, mẹ đẻ đã đặt, theo yêu cầu của cha đẻ, mẹ đẻ hoặc người con khi xác định cha, mẹ cho con;, thay đổi tên của người bị lưu lạc đã tìm ra nguồn gốc huyết thống của mình, thay đổi tên của vợ, chồng trong quan hệ hôn nhân và gia đình có yếu tố nước ngoài để phù hợp với pháp luật của nước mà vợ, chồng người nước ngoài là công dân hoặc lấy lại tên trước khi thay đổi;, thay đổi tên của người đã xác định lại giới tính, người đã chuyển đổi giới tính;, trường hợp khác do pháp luật về hộ tịch quy định"
+                    ],
+                    "start": [
+                        233
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "việc thay đổi tên cho người từ đủ chín tuổi trở lên phải có sự đồng ý của người đó ; điều 28 khoản 2.",
+        "qas": [
+            {
+                "question": "thay đổi tên cần sự đồng ý của ai ?",
+                "answer": {
+                    "text": [
+                        "phải có sự đồng ý của người đó"
+                    ],
+                    "start": [
+                        51
+                    ]
+                }
+            },
+            {
+                "question": "mấy tuổi thì có thể thay đổi tên ?",
+                "answer": {
+                    "text": [
+                        "từ đủ chín tuổi trở lên"
+                    ],
+                    "start": [
+                        27
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "Quyền xác định, xác định lại dân tộc cá nhân có quyền xác định, xác định lại dân tộc của mình ; Điều 29 khoản 1.",
+        "qas": [
+            {
+                "question": "cá nhân có quyền xác định lại dân tộc của mình không ?",
+                "answer": {
+                    "text": [
+                        "cá nhân có quyền xác định, xác định lại dân tộc của mình"
+                    ],
+                    "start": [
+                        37
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "Cá nhân khi sinh ra được xác định dân tộc theo dân tộc của cha đẻ, mẹ đẻ. Trường hợp cha đẻ, mẹ đẻ thuộc hai dân tộc khác nhau thì dân tộc của con được xác định theo dân tộc của cha đẻ hoặc mẹ đẻ theo thoả thuận của cha đẻ, mẹ đẻ; trường hợp không có thỏa thuận thì dân tộc của con được xác định theo tập quán; trường hợp tập quán khác nhau thì dân tộc của con được xác định theo tập quán của dân tộc ít người hơn, trường hợp trẻ em bị bỏ rơi, chưa xác định được cha đẻ, mẹ đẻ và được nhận làm con nuôi thì được xác định dân tộc theo dân tộc của cha nuôi hoặc mẹ nuôi theo thỏa thuận của cha mẹ nuôi. Trường hợp chỉ có cha nuôi hoặc mẹ nuôi thì dân tộc của trẻ em được xác định theo dân tộc của người đó, trường hợp trẻ em bị bỏ rơi, chưa xác định được cha đẻ, mẹ đẻ và chưa được nhận làm con nuôi thì được xác định dân tộc theo đề nghị của người đứng đầu cơ sở nuôi dưỡng trẻ em đó hoặc theo đề nghị của người đang tạm thời nuôi dưỡng trẻ em vào thời điểm đăng ký khai sinh cho trẻ em ; Điều 29 khoản 2.",
+        "qas": [
+            {
+                "question": "em bé được sinh ra thì được cho là dân tộc nào ?",
+                "answer": {
+                    "text": [
+                        "xác định dân tộc theo dân tộc của cha đẻ, mẹ đẻ."
+                    ],
+                    "start": [
+                        25
+                    ]
+                }
+            },
+            {
+                "question": "trường hợp cha mẹ thuộc hai dân tộc khác nhau thì con của họ sẽ theo dân tộc của ai ?",
+                "answer": {
+                    "text": [
+                        "được xác định theo dân tộc của cha đẻ hoặc mẹ đẻ theo thoả thuận của cha đẻ, mẹ đẻ"
+                    ],
+                    "start": [
+                        147
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "Cá nhân có quyền yêu cầu cơ quan nhà nước có thẩm quyền xác định lại dân tộc trong trường hợp sau đây: xác định lại theo dân tộc của cha đẻ hoặc mẹ đẻ trong trường hợp cha đẻ, mẹ đẻ thuộc hai dân tộc khác nhau, xác định lại theo dân tộc của cha đẻ hoặc mẹ đẻ trong trường hợp con nuôi đã xác định được cha đẻ, mẹ đẻ của mình ; Điều 29 khoản 3.",
+        "qas": [
+            {
+                "question": "trường hợp nào có thể yêu cầu nhà nước xác định lại dân tộc ?",
+                "answer": {
+                    "text": [
+                        "xác định lại theo dân tộc của cha đẻ hoặc mẹ đẻ trong trường hợp cha đẻ, mẹ đẻ thuộc hai dân tộc khác nhau, xác định lại theo dân tộc của cha đẻ hoặc mẹ đẻ trong trường hợp con nuôi đã xác định được cha đẻ, mẹ đẻ của mình"
+                    ],
+                    "start": [
+                        103
+                    ]
+                }
+            },
+            {
+                "question": "cá nhân có quyền yêu cầu nhà nước xác định lại dân tộc không ?",
+                "answer": {
+                    "text": [
+                        "Cá nhân có quyền yêu cầu cơ quan nhà nước có thẩm quyền xác định lại dân tộc"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "Việc xác định lại dân tộc cho người từ đủ mười lăm tuổi đến dưới mười tám tuổi phải được sự đồng ý của người đó ; Điều 29 khoản 4.",
+        "qas": [
+            {
+                "question": "mấy tuổi thì có thể thay đổi dân tộc ?",
+                "answer": {
+                    "text": [
+                        "từ đủ mười lăm tuổi đến dưới mười tám tuổi"
+                    ],
+                    "start": [
+                        36
+                    ]
+                }
+            },
+            {
+                "question": "mấy tuổi thì có thể xác định lại dân tộc ?",
+                "answer": {
+                    "text": [
+                        "từ đủ mười lăm tuổi đến dưới mười tám tuổi"
+                    ],
+                    "start": [
+                        36
+                    ]
+                }
+            },
+            {
+                "question": "người muốn thay đổi dân tộc cần sự đồng ý của ai ?",
+                "answer": {
+                    "text": [
+                        "phải được sự đồng ý của người đó"
+                    ],
+                    "start": [
+                        79
+                    ]
+                }
+            }
+        ]
+    }
+]

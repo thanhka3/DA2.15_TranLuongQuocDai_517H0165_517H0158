@@ -1,0 +1,455 @@
+[
+    {
+        "context": "Bộ luật này quy định địa vị pháp lý, chuẩn mực pháp lý về cách ứng xử của cá nhân, pháp nhân, quyền, nghĩa vụ về nhân thân và tài sản của cá nhân, pháp nhân trong các quan hệ được hình thành trên cơ sở bình đẳng, tự do ý chí, độc lập về tài sản và tự chịu trách nhiệm. ; Điều 1.",
+        "qas": [
+            {
+                "question": "Quy định chung của bộ luật dân sự là gì ?",
+                "answer": {
+                    "text": [
+                        "quy định địa vị pháp lý, chuẩn mực pháp lý về cách ứng xử của cá nhân, pháp nhân, quyền, nghĩa vụ về nhân thân và tài sản của cá nhân, pháp nhân trong các quan hệ"
+                    ],
+                    "start": [
+                        12
+                    ]
+                }
+            },
+            {
+                "question": "Tôi muốn biết tổng quan về bộ luật dân sự.",
+                "answer": {
+                    "text": [
+                        "quy định địa vị pháp lý, chuẩn mực pháp lý về cách ứng xử của cá nhân, pháp nhân, quyền, nghĩa vụ về nhân thân và tài sản của cá nhân, pháp nhân trong các quan hệ"
+                    ],
+                    "start": [
+                        12
+                    ]
+                }
+            },
+            {
+                "question": "Bộ luật dân sự được hình thành dựa vào cái gì ?",
+                "answer": {
+                    "text": [
+                        "được hình thành trên cơ sở bình đẳng, tự do ý chí, độc lập về tài sản và tự chịu trách nhiệm."
+                    ],
+                    "start": [
+                        175
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "Ở nước Cộng hòa xã hội chủ nghĩa Việt Nam, các quyền dân sự được công nhận, tôn trọng, bảo vệ và bảo đảm theo Hiến pháp và pháp luật. ; Điều 2, khoản 1.",
+        "qas": [
+            {
+                "question": "Quyền dân sự được công nhận ở đâu ?",
+                "answer": {
+                    "text": [
+                        "quyền dân sự được công nhận, tôn trọng, bảo vệ và bảo đảm theo Hiến pháp và pháp luật."
+                    ],
+                    "start": [
+                        47
+                    ]
+                }
+            },
+            {
+                "question": "Quyền dân sự được công nhận, đảm bảo theo Hiến pháp phải không ?",
+                "answer": {
+                    "text": [
+                        "quyền dân sự được công nhận, tôn trọng, bảo vệ và bảo đảm theo Hiến pháp và pháp luật."
+                    ],
+                    "start": [
+                        47
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "Quyền dân sự chỉ có thể bị hạn chế theo quy định của luật trong trường hợp cần thiết vì lý do quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội, đạo đức xã hội, sức khỏe của cộng đồng. ; Điều 2, khoản 2.",
+        "qas": [
+            {
+                "question": "Quyền dân sự bị hạn chế khi nào ?",
+                "answer": {
+                    "text": [
+                        "chỉ có thể bị hạn chế theo quy định của luật trong trường hợp cần thiết"
+                    ],
+                    "start": [
+                        13
+                    ]
+                }
+            },
+            {
+                "question": "Quyền dân sự bị hạn chế bởi lý do gì ?",
+                "answer": {
+                    "text": [
+                        "vì lý do quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội, đạo đức xã hội, sức khỏe của cộng đồng."
+                    ],
+                    "start": [
+                        85
+                    ]
+                }
+            },
+            {
+                "question": "Vì sao quyền dân sự bị hạn chế ?",
+                "answer": {
+                    "text": [
+                        "vì lý do quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội, đạo đức xã hội, sức khỏe của cộng đồng."
+                    ],
+                    "start": [
+                        85
+                    ]
+                }
+            },
+            {
+                "question": "Việc hạn chế quyền dân sự được quy định như thế nào trong bộ luật dân sự ?",
+                "answer": {
+                    "text": [
+                        "vì lý do quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội, đạo đức xã hội, sức khỏe của cộng đồng."
+                    ],
+                    "start": [
+                        85
+                    ]
+                }
+            },
+            {
+                "question": "Việc hạn chế quyền dân sự được quy định như thế nào ?",
+                "answer": {
+                    "text": [
+                        "vì lý do quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội, đạo đức xã hội, sức khỏe của cộng đồng."
+                    ],
+                    "start": [
+                        85
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "ở nước cộng hòa xã hội chủ nghĩa việt nam, các quyền dân sự được công nhận, tôn trọng, bảo vệ và bảo đảm theo hiến pháp và pháp luật ; điều 2 khoản 1.",
+        "qas": [
+            {
+                "question": "Quyền dân sự được công nhận ở đâu ?",
+                "answer": {
+                    "text": [
+                        "ở nước cộng hòa xã hội chủ nghĩa việt nam, các quyền dân sự được công nhận"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "bộ luật này là luật chung điều chỉnh các quan hệ dân sự điều 4 khoản 1. ",
+        "qas": [
+            {
+                "question": "Luật dân sự điều chỉnh những quan hệ nào ?",
+                "answer": {
+                    "text": [
+                        "điều chỉnh các quan hệ dân sự"
+                    ],
+                    "start": [
+                        26
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "Trường hợp luật khác có liên quan không quy định hoặc có quy định nhưng vi phạm khoản 2 Điều này thì quy định của Bộ luật này được áp dụng ; Điều 4 khoản 3. ",
+        "qas": [
+            {
+                "question": "bộ luật khác ảnh hưởng đến khoản 2 điều 4 thì sao ?",
+                "answer": {
+                    "text": [
+                        "quy định của Bộ luật này được áp dụng"
+                    ],
+                    "start": [
+                        101
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "Trường hợp có sự khác nhau giữa quy định của Bộ luật này và điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên về cùng một vấn đề thì áp dụng quy định của điều ước quốc tế ; Điều 4 khoản 4. ",
+        "qas": [
+            {
+                "question": "có sự khác nhau giữa bộ luật dân sự và điều ước quốc tế thì áp dụng cái nào ?",
+                "answer": {
+                    "text": [
+                        "quy định của điều ước quốc tế"
+                    ],
+                    "start": [
+                        160
+                    ]
+                }
+            },
+            {
+                "question": "có sự khác nhau giữa bộ luật dân sự và điều ước quốc tế mà ta là thành viên thì áp dụng cái nào ?",
+                "answer": {
+                    "text": [
+                        "quy định của điều ước quốc tế"
+                    ],
+                    "start": [
+                        160
+                    ]
+                }
+            },
+            {
+                "question": "giữa bộ luật dân sự và điều ước quốc tế mà ta là thành viên thì áp dụng cái nào ?",
+                "answer": {
+                    "text": [
+                        "quy định của điều ước quốc tế"
+                    ],
+                    "start": [
+                        160
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "bộ luật này là luật chung điều chỉnh các quan hệ dân sự điều 4 khoản 1. ",
+        "qas": [
+            {
+                "question": "Luật dân sự điều chỉnh những quan hệ nào ?",
+                "answer": {
+                    "text": [
+                        "điều chỉnh các quan hệ dân sự"
+                    ],
+                    "start": [
+                        26
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "Trường hợp luật khác có liên quan không quy định hoặc có quy định nhưng vi phạm khoản 2 Điều này thì quy định của Bộ luật này được áp dụng ; Điều 4 khoản 3. ",
+        "qas": [
+            {
+                "question": "bộ luật khác ảnh hưởng đến khoản 2 điều 4 thì sao ?",
+                "answer": {
+                    "text": [
+                        "quy định của Bộ luật này được áp dụng"
+                    ],
+                    "start": [
+                        101
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "Trường hợp có sự khác nhau giữa quy định của Bộ luật này và điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên về cùng một vấn đề thì áp dụng quy định của điều ước quốc tế ; Điều 4 khoản 4. ",
+        "qas": [
+            {
+                "question": "có sự khác nhau giữa bộ luật dân sự và điều ước quốc tế thì áp dụng cái nào ?",
+                "answer": {
+                    "text": [
+                        "quy định của điều ước quốc tế"
+                    ],
+                    "start": [
+                        160
+                    ]
+                }
+            },
+            {
+                "question": "có sự khác nhau giữa bộ luật dân sự và điều ước quốc tế mà ta là thành viên thì áp dụng cái nào ?",
+                "answer": {
+                    "text": [
+                        "quy định của điều ước quốc tế"
+                    ],
+                    "start": [
+                        160
+                    ]
+                }
+            },
+            {
+                "question": "giữa bộ luật dân sự và điều ước quốc tế mà ta là thành viên thì áp dụng cái nào ?",
+                "answer": {
+                    "text": [
+                        "quy định của điều ước quốc tế"
+                    ],
+                    "start": [
+                        160
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "tập quán là quy tắc xử sự có nội dung rõ ràng để xác định quyền, nghĩa vụ của cá nhân, pháp nhân trong quan hệ dân sự cụ thể, được hình thành và lặp đi lặp lại nhiều lần trong một thời gian dài, được thừa nhận và áp dụng rộng rãi trong một vùng, miền, dân tộc, cộng đồng dân cư hoặc trong một lĩnh vực dân sự ; điều 5 khoản 1. ",
+        "qas": [
+            {
+                "question": "tập quán là gì ?",
+                "answer": {
+                    "text": [
+                        "là quy tắc xử sự có nội dung rõ ràng để xác định quyền, nghĩa vụ của cá nhân, pháp nhân trong quan hệ dân sự cụ thể"
+                    ],
+                    "start": [
+                        9
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp các bên không có thoả thuận và pháp luật không quy định thì có thể áp dụng tập quán nhưng tập quán áp dụng không được trái với các nguyên tắc cơ bản của pháp luật dân sự quy định tại điều 3 của bộ luật này ; điều 5 khoản 2. ",
+        "qas": [
+            {
+                "question": "Tập quán pháp có thể được áp dụng khi nào?",
+                "answer": {
+                    "text": [
+                        "các bên không có thoả thuận và pháp luật không quy định"
+                    ],
+                    "start": [
+                        11
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "Tập quán là quy tắc xử sự có nội dung rõ ràng để xác định quyền, nghĩa vụ của cá nhân, pháp nhân trong quan hệ dân sự cụ thể, được hình thành và lặp đi lặp lại nhiều lần trong một thời gian dài, được thừa nhận và áp dụng rộng rãi trong một vùng, miền, dân tộc, cộng đồng dân cư hoặc trong một lĩnh vực dân sự ; Điều 5 khoản 1. ",
+        "qas": [
+            {
+                "question": "quy tắc của tập quán là gì ?",
+                "answer": {
+                    "text": [
+                        "là quy tắc xử sự có nội dung rõ ràng để xác định quyền, nghĩa vụ của cá nhân, pháp nhân trong quan hệ dân sự cụ thể"
+                    ],
+                    "start": [
+                        9
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "Trường hợp các bên không có thoả thuận và pháp luật không quy định thì có thể áp dụng tập quán nhưng tập quán áp dụng không được trái với các nguyên tắc cơ bản của pháp luật dân sự quy định tại Điều 3 của Bộ luật này ; Điều 5 khoản 2. ",
+        "qas": [
+            {
+                "question": "có thể áp dụng tập quán nếu pháp luật không có quy định không ?",
+                "answer": {
+                    "text": [
+                        "có thể áp dụng tập quán nhưng tập quán áp dụng không được trái với các nguyên tắc cơ bản của pháp luật dân sự quy định tại Điều 3 của Bộ luật này"
+                    ],
+                    "start": [
+                        71
+                    ]
+                }
+            },
+            {
+                "question": "hai bên không có thỏa thuận thì có thể áp dụng tập quán không ?",
+                "answer": {
+                    "text": [
+                        "có thể áp dụng tập quán nhưng tập quán áp dụng không được trái với các nguyên tắc cơ bản của pháp luật dân sự quy định tại Điều 3 của Bộ luật này"
+                    ],
+                    "start": [
+                        71
+                    ]
+                }
+            },
+            {
+                "question": "hai bên không có thỏa thuận thì có thể áp dụng tập quán không ?",
+                "answer": {
+                    "text": [
+                        "Trường hợp các bên không có thoả thuận và pháp luật không quy định"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "Trường hợp phát sinh quan hệ thuộc phạm vi điều chỉnh của pháp luật dân sự mà các bên không có thoả thuận, pháp luật không có quy định và không có tập quán được áp dụng thì áp dụng quy định của pháp luật điều chỉnh quan hệ dân sự tương tự ; Điều 6 khoản 1. ",
+        "qas": [
+            {
+                "question": "khi nào có thể áp dụng quy định của pháp luật điều chỉnh quan hệ ?",
+                "answer": {
+                    "text": [
+                        "Trường hợp phát sinh quan hệ thuộc phạm vi điều chỉnh của pháp luật dân sự mà các bên không có thoả thuận, pháp luật không có quy định và không có tập quán được áp dụng"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "Trường hợp phát sinh quan hệ thuộc phạm vi điều chỉnh của pháp luật dân sự mà các bên không có thoả thuận, pháp luật không có quy định và không có tập quán được áp dụng thì áp dụng quy định của pháp luật điều chỉnh quan hệ dân sự tương tự ; Điều 6 khoản 1. ",
+        "qas": [
+            {
+                "question": "khi nào có thể áp dụng quy định của pháp luật điều chỉnh quan hệ ?",
+                "answer": {
+                    "text": [
+                        "Trường hợp phát sinh quan hệ thuộc phạm vi điều chỉnh của pháp luật dân sự mà các bên không có thoả thuận, pháp luật không có quy định và không có tập quán được áp dụng"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "trường hợp phát sinh điều chỉnh quan hệ mà không thể áp dụng các luật cũng như tập quán thì áp dụng gì ?",
+                "answer": {
+                    "text": [
+                        "áp dụng quy định của pháp luật điều chỉnh quan hệ dân sự tương tự"
+                    ],
+                    "start": [
+                        173
+                    ]
+                }
+            },
+            {
+                "question": "tôi phát sinh điều chỉnh quan hệ mà không thể áp dụng các luật khác thì sao ?",
+                "answer": {
+                    "text": [
+                        "áp dụng quy định của pháp luật điều chỉnh quan hệ dân sự tương tự"
+                    ],
+                    "start": [
+                        173
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "Trường hợp không thể áp dụng tương tự pháp luật theo quy định tại khoản 1 Điều này thì áp dụng các nguyên tắc cơ bản của pháp luật dân sự quy định tại Điều 3 của Bộ luật này, án lệ, lẽ công bằng ; Điều 6 khoản 2. ",
+        "qas": [
+            {
+                "question": "không thể áp dụng pháp luật theo quy định tại khoản 1 Điều 6 thì sao ?",
+                "answer": {
+                    "text": [
+                        "áp dụng các nguyên tắc cơ bản của pháp luật dân sự quy định tại Điều 3 của Bộ luật này"
+                    ],
+                    "start": [
+                        87
+                    ]
+                }
+            }
+        ]
+    },
+     {
+        "context": "Trong quan hệ dân sự, việc hoà giải giữa các bên phù hợp với quy định của pháp luật được khuyến khích ; Điều 7 khoản 2. ",
+        "qas": [
+            {
+                "question": "hòa giải giữa các bên trong quan hệ dân sự có được khuyến khích không ?",
+                "answer": {
+                    "text": [
+                        "được khuyến khích"
+                    ],
+                    "start": [
+                        84
+                    ]
+                }
+            }
+        ]
+    }
+]

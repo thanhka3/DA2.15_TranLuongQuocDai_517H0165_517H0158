@@ -1,0 +1,384 @@
+[
+    {
+        "context": "giao dịch dân sự là hợp đồng hoặc hành vi pháp lý đơn phương làm phát sinh, thay đổi hoặc chấm dứt quyền, nghĩa vụ dân sự ; điều 116.",
+        "qas": [
+            {
+                "question": "hợp đồng có được coi là giao dịch dân sự ?",
+                "answer": {
+                    "text": [
+                        "giao dịch dân sự là hợp đồng hoặc hành vi pháp lý đơn phương làm phát sinh, thay đổi hoặc chấm dứt quyền, nghĩa vụ dân sự"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "giao dịch dân sự có hiệu lực khi có đủ các điều kiện sau đây: chủ thể có năng lực pháp luật dân sự, năng lực hành vi dân sự phù hợp với giao dịch dân sự được xác lập, chủ thể tham gia giao dịch dân sự hoàn toàn tự nguyện, mục đích và nội dung của giao dịch dân sự không vi phạm điều cấm của luật, không trái đạo đức xã hội ; điều 117 khoản 1.",
+        "qas": [
+            {
+                "question": "Điều kiện có hiệu lực của giao dịch dân sự ?",
+                "answer": {
+                    "text": [
+                        "các điều kiện sau đây: chủ thể có năng lực pháp luật dân sự, năng lực hành vi dân sự phù hợp với giao dịch dân sự được xác lập, chủ thể tham gia giao dịch dân sự hoàn toàn tự nguyện, mục đích và nội dung của giao dịch dân sự không vi phạm điều cấm của luật, không trái đạo đức xã hội"
+                    ],
+                    "start": [
+                        39
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "hình thức của giao dịch dân sự là điều kiện có hiệu lực của giao dịch dân sự trong trường hợp luật có quy định ; điều 117 khoản 2.",
+        "qas": [
+            {
+                "question": "Hình thức của giao dịch dân sự là gì ?",
+                "answer": {
+                    "text": [
+                        "hình thức của giao dịch dân sự là điều kiện có hiệu lực của giao dịch dân sự trong trường hợp luật có quy định"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "mục đích của giao dịch dân sự là lợi ích mà chủ thể mong muốn đạt được khi xác lập giao dịch đó ; điều 118.",
+        "qas": [
+            {
+                "question": "Mục đích của giao dịch dân sự là gì ?",
+                "answer": {
+                    "text": [
+                        "mục đích của giao dịch dân sự là lợi ích mà chủ thể mong muốn đạt được khi xác lập giao dịch đó"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "giao dịch dân sự được thể hiện bằng lời nói, bằng văn bản hoặc bằng hành vi cụ thể, giao dịch dân sự thông qua phương tiện điện tử dưới hình thức thông điệp dữ liệu theo quy định của pháp luật về giao dịch điện tử được coi là giao dịch bằng văn bản ; điều 119 khoản 1.",
+        "qas": [
+            {
+                "question": "Hình thức giao dịch dân sự là gì ?",
+                "answer": {
+                    "text": [
+                        "giao dịch dân sự được thể hiện bằng lời nói, bằng văn bản hoặc bằng hành vi cụ thể"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "Giao dịch dân sự thông qua hình thức nào ?",
+                "answer": {
+                    "text": [
+                        "giao dịch dân sự thông qua phương tiện điện tử dưới hình thức thông điệp dữ liệu theo quy định của pháp luật về giao dịch điện tử được coi là giao dịch bằng văn bản "
+                    ],
+                    "start": [
+                        84
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "trường hợp các bên có thỏa thuận về điều kiện phát sinh hoặc hủy bỏ giao dịch dân sự thì khi điều kiện đó xảy ra, giao dịch dân sự phát sinh hoặc hủy bỏ ; điều 120 khoản 1.",
+        "qas": [
+            {
+                "question": "Giao dịch dân sự có điều kiện là gì ?",
+                "answer": {
+                    "text": [
+                        "trường hợp các bên có thỏa thuận về điều kiện phát sinh hoặc hủy bỏ giao dịch dân sự thì khi điều kiện đó xảy ra, giao dịch dân sự phát sinh hoặc hủy bỏ"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "giao dịch dân sự có nội dung không rõ ràng, khó hiểu, được hiểu theo nhiều nghĩa khác nhau và không thuộc quy định tại khoản 2 điều này thì việc giải thích giao dịch dân sự đó được thực hiện theo thứ tự sau đây: theo ý chí đích thực của các bên khi xác lập giao dịch, theo nghĩa phù hợp với mục đích của giao dịch, theo tập quán nơi giao dịch được xác lập ; điều 121 khoản 1.",
+        "qas": [
+            {
+                "question": "Giải thích giao dịch dân sự là gì ?",
+                "answer": {
+                    "text": [
+                        "giao dịch dân sự có nội dung không rõ ràng, khó hiểu, được hiểu theo nhiều nghĩa khác nhau và không thuộc quy định tại khoản 2 điều này thì việc giải thích giao dịch dân sự đó được thực hiện"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "thứ tự giải thích giao dịch dân sự là gì ?",
+                "answer": {
+                    "text": [
+                        "thứ tự sau đây: theo ý chí đích thực của các bên khi xác lập giao dịch, theo nghĩa phù hợp với mục đích của giao dịch, theo tập quán nơi giao dịch được xác lập"
+                    ],
+                    "start": [
+                        196
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "việc giải thích hợp đồng được thực hiện theo quy định tại điều 404 của bộ luật này; việc giải thích nội dung di chúc được thực hiện theo quy định tại điều 648 của bộ luật này ; điều 121 khoản 2.",
+        "qas": [
+            {
+                "question": "giải thích giao dịch dân sự được  thực hiện theo quy định nào ?",
+                "answer": {
+                    "text": [
+                        "việc giải thích hợp đồng được thực hiện theo quy định tại điều 404 của bộ luật này; việc giải thích nội dung di chúc được thực hiện theo quy định tại điều 648 của bộ luật này"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "giao dịch dân sự có nội dung không rõ ràng, khó hiểu, được hiểu theo nhiều nghĩa khác nhau và không thuộc quy định tại khoản 2 điều này thì việc giải thích giao dịch dân sự đó được thực hiện theo thứ tự sau đây: theo ý chí đích thực của các bên khi xác lập giao dịch, theo nghĩa phù hợp với mục đích của giao dịch, theo tập quán nơi giao dịch được xác lập ; điều 121 khoản 1.",
+        "qas": [
+            {
+                "question": "Giao dịch dân sự có nội dung không rõ ràng, khó hiểu, được hiểu theo nhiều nghĩa khác nhau thì việc giải thích giao dịch dân sự đó có thể được thực hiện như thế nào?",
+                "answer": {
+                    "text": [
+                        "theo ý chí đích thực của các bên khi xác lập giao dịch"
+                    ],
+                    "start": [
+                        212
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "giao dịch dân sự vô hiệu do vi phạm điều cấm của luật, trái đạo đức xã hội, giao dịch dân sự có mục đích, nội dung vi phạm điều cấm của luật, trái đạo đức xã hội thì vô hiệu, điều cấm của luật là những quy định của luật không cho phép chủ thể thực hiện những hành vi nhất địnhđạo đức xã hội là những chuẩn mực ứng xử chung trong đời sống xã hội, được cộng đồng thừa nhận và tôn trọng ; điều 123.",
+        "qas": [
+            {
+                "question": "Giao dịch dân sự vô hiệu do vi phạm điều cấm của luật không ?",
+                "answer": {
+                    "text": [
+                        "giao dịch dân sự vô hiệu do vi phạm điều cấm của luật, trái đạo đức xã hội, giao dịch dân sự có mục đích, nội dung vi phạm điều cấm của luật, trái đạo đức xã hội thì vô hiệu"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "Đạo đức xã hội là gì ?",
+                "answer": {
+                    "text": [
+                        "đạo đức xã hội là những chuẩn mực ứng xử chung trong đời sống xã hội, được cộng đồng thừa nhận và tôn trọng"
+                    ],
+                    "start": [
+                        276
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "hợp đồng vô hiệu: quy định về giao dịch dân sự vô hiệu từ điều 123 đến điều 133 của bộ luật này cũng được áp dụng đối với hợp đồng vô hiệu, sự vô hiệu của hợp đồng chính làm chấm dứt hợp đồng phụ, trừ trường hợp các bên có thoả thuận hợp đồng phụ được thay thế hợp đồng chính. quy định này không áp dụng đối với biện pháp bảo đảm thực hiện nghĩa vụ, sự vô hiệu của hợp đồng phụ không làm chấm dứt hợp đồng chính, trừ trường hợp các bên thoả thuận hợp đồng phụ là một phần không thể tách rời của hợp đồng chính ; điều 407.",
+        "qas": [
+            {
+                "question": "vô hiệu của hợp đồng chính có làm chấm dứt hợp đồng phụ ?",
+                "answer": {
+                    "text": [
+                        "sự vô hiệu của hợp đồng chính làm chấm dứt hợp đồng phụ"
+                    ],
+                    "start": [
+                        140
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "khi các bên xác lập giao dịch dân sự một cách giả tạo nhằm che giấu một giao dịch dân sự khác thì giao dịch dân sự giả tạo vô hiệu, còn giao dịch dân sự bị che giấu vẫn có hiệu lực, trừ trường hợp giao dịch đó cũng vô hiệu theo quy định của bộ luật này hoặc luật khác có liên quan ; điều 124 khoản 1.",
+        "qas": [
+            {
+                "question": "Giao dịch dân sự vô hiệu do giả tạo không ?",
+                "answer": {
+                    "text": [
+                        "khi các bên xác lập giao dịch dân sự một cách giả tạo nhằm che giấu một giao dịch dân sự khác thì giao dịch dân sự giả tạo vô hiệu"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "giao dịch dân sự vô hiệu do người chưa thành niên, người mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi, người bị hạn chế năng lực hành vi dân sự xác lập, thực hiện ; điều 125.",
+        "qas": [
+            {
+                "question": "Giao dịch dân sự vô hiệu do người chưa thành niên không ?",
+                "answer": {
+                    "text": [
+                        "giao dịch dân sự vô hiệu do người chưa thành niên, người mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi, người bị hạn chế năng lực hành vi dân sự xác lập, thực hiện"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "giao dịch dân sự của người quy định tại khoản 1 điều này không bị vô hiệu trong trường hợp sau đây: giao dịch dân sự của người chưa đủ sáu tuổi, người mất năng lực hành vi dân sự nhằm đáp ứng nhu cầu thiết yếu hàng ngày của người đó, giao dịch dân sự chỉ làm phát sinh quyền hoặc chỉ miễn trừ nghĩa vụ cho người chưa thành niên, người mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi, người bị hạn chế năng lực hành vi dân sự với người đã xác lập, thực hiện giao dịch với họ, giao dịch dân sự được người xác lập giao dịch thừa nhận hiệu lực sau khi đã thành niên hoặc sau khi khôi phục năng lực hành vi dân sự ; điều 125 khoản 2.",
+        "qas": [
+            {
+                "question": "Giao dịch của người chưa thành niên được Bộ luật dân sự 2015 quy định như thế nào?",
+                "answer": {
+                    "text": [
+                        "giao dịch dân sự của người chưa đủ sáu tuổi, người mất năng lực hành vi dân sự nhằm đáp ứng nhu cầu thiết yếu hàng ngày của người đó, giao dịch dân sự chỉ làm phát sinh quyền hoặc chỉ miễn trừ nghĩa vụ cho người chưa thành niên, người mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi, người bị hạn chế năng lực hành vi dân sự với người đã xác lập, thực hiện giao dịch với họ, giao dịch dân sự được người xác lập giao dịch thừa nhận hiệu lực sau khi đã thành niên hoặc sau khi khôi phục năng lực hành vi dân sự"
+                    ],
+                    "start": [
+                        100
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "trường hợp giao dịch dân sự được xác lập có sự nhầm lẫn làm cho một bên hoặc các bên không đạt được mục đích của việc xác lập giao dịch thì bên bị nhầm lẫn có quyền yêu cầu tòa án tuyên bố giao dịch dân sự vô hiệu, trừ trường hợp quy định tại khoản 2 điều này ; điều 126 khoản 1.",
+        "qas": [
+            {
+                "question": "có trường hợp giao dịch dân sự vô hiệu do bị nhầm lẫn không ?",
+                "answer": {
+                    "text": [
+                        "trường hợp giao dịch dân sự được xác lập có sự nhầm lẫn làm cho một bên hoặc các bên không đạt được mục đích của việc xác lập giao dịch thì bên bị nhầm lẫn có quyền yêu cầu tòa án tuyên bố giao dịch dân sự vô hiệu"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "giao dịch dân sự vô hiệu do bị lừa dối, đe dọa, cưỡng ép khi một bên tham gia giao dịch dân sự do bị lừa dối hoặc bị đe dọa, cưỡng ép thì có quyền yêu cầu tòa án tuyên bố giao dịch dân sự đó là vô hiệu, lừa dối trong giao dịch dân sự là hành vi cố ý của một bên hoặc của người thứ ba nhằm làm cho bên kia hiểu sai lệch về chủ thể, tính chất của đối tượng hoặc nội dung của giao dịch dân sự nên đã xác lập giao dịch đó, đe dọa, cưỡng ép trong giao dịch dân sự là hành vi cố ý của một bên hoặc người thứ ba làm cho bên kia buộc phải thực hiện giao dịch dân sự nhằm tránh thiệt hại về tính mạng, sức khoẻ, danh dự, uy tín, nhân phẩm, tài sản của mình hoặc của người thân thích của mình ;điều 127.",
+        "qas": [
+            {
+                "question": "Giao dịch dân sự vô hiệu do bị lừa dối, đe dọa, cưỡng ép không ?",
+                "answer": {
+                    "text": [
+                        "giao dịch dân sự vô hiệu do bị lừa dối, đe dọa, cưỡng ép khi một bên tham gia giao dịch dân sự do bị lừa dối hoặc bị đe dọa, cưỡng ép thì có quyền yêu cầu tòa án tuyên bố giao dịch dân sự đó là vô hiệu"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "lừa dối trong giao dịch dân sự là gì ?",
+                "answer": {
+                    "text": [
+                        "lừa dối trong giao dịch dân sự là hành vi cố ý của một bên hoặc của người thứ ba nhằm làm cho bên kia hiểu sai lệch về chủ thể, tính chất của đối tượng hoặc nội dung của giao dịch dân sự nên đã xác lập giao dịch đó, đe dọa"
+                    ],
+                    "start": [
+                        203
+                    ]
+                }
+            },
+            {
+                "question": "cưỡng ép trong giao dịch dân sự là gì ?",
+                "answer": {
+                    "text": [
+                        "cưỡng ép trong giao dịch dân sự là hành vi cố ý của một bên hoặc người thứ ba làm cho bên kia buộc phải thực hiện giao dịch dân sự nhằm tránh thiệt hại về tính mạng, sức khoẻ, danh dự, uy tín, nhân phẩm, tài sản của mình hoặc của người thân thích của mình"
+                    ],
+                    "start": [
+                        427
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "giao dịch dân sự vô hiệu do người xác lập không nhận thức và làm chủ được hành vi của mình người có năng lực hành vi dân sự nhưng đã xác lập giao dịch vào đúng thời điểm không nhận thức và làm chủ được hành vi của mình thì có quyền yêu cầu tòa án tuyên bố giao dịch dân sự đó là vô hiệu ; điều 128.",
+        "qas": [
+            {
+                "question": "Giao dịch dân sự bị vô hiệu khi người thực hiện không nhận thức được hành vi của mình không ?",
+                "answer": {
+                    "text": [
+                        "giao dịch dân sự vô hiệu do người xác lập không nhận thức và làm chủ được hành vi của mình người có năng lực hành vi dân sự nhưng đã xác lập giao dịch vào đúng thời điểm không nhận thức và làm chủ được hành vi của mình"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "giao dịch dân sự vô hiệu từng phần khi một phần nội dung của giao dịch dân sự vô hiệu nhưng không ảnh hưởng đến hiệu lực của phần còn lại của giao dịch ; điều 130.",
+        "qas": [
+            {
+                "question": "giải thích thế nào giao dịch dân sự vô hiệu ?",
+                "answer": {
+                    "text": [
+                        "giao dịch dân sự vô hiệu từng phần khi một phần nội dung của giao dịch dân sự vô hiệu nhưng không ảnh hưởng đến hiệu lực của phần còn lại của giao dịch"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "khi nào giao dịch dân sự bị vô hiệu ?",
+                "answer": {
+                    "text": [
+                        "khi một phần nội dung của giao dịch dân sự vô hiệu"
+                    ],
+                    "start": [
+                        35
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "giao dịch dân sự vô hiệu từng phần khi một phần nội dung của giao dịch dân sự vô hiệu nhưng không ảnh hưởng đến hiệu lực của phần còn lại của giao dịch ; điều 130.",
+        "qas": [
+            {
+                "question": "Giao dịch dân sự vô hiệu từng phần khi nào ?",
+                "answer": {
+                    "text": [
+                        "giao dịch dân sự vô hiệu từng phần khi một phần nội dung của giao dịch dân sự vô hiệu nhưng không ảnh hưởng đến hiệu lực của phần còn lại của giao dịch"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "hậu quả pháp lý của giao dịch dân sự vô hiệu: giao dịch dân sự vô hiệu không làm phát sinh, thay đổi, chấm dứt quyền, nghĩa vụ dân sự của các bên kể từ thời điểm giao dịch được xác lập, khi giao dịch dân sự vô hiệu thì các bên khôi phục lại tình trạng ban đầu, hoàn trả cho nhau những gì đã nhận, trường hợp không thể hoàn trả được bằng hiện vật thì trị giá thành tiền để hoàn trả, bên ngay tình trong việc thu hoa lợi, lợi tức không phải hoàn trả lại hoa lợi, lợi tức đó, bên có lỗi gây thiệt hại thì phải bồi thường, việc giải quyết hậu quả của giao dịch dân sự vô hiệu liên quan đến quyền nhân thân do bộ luật này, luật khác có liên quan quy định ; điều 131.",
+        "qas": [
+            {
+                "question": "Hậu quả pháp lý của giao dịch dân sự vô hiệu ?",
+                "answer": {
+                    "text": [
+                        "hậu quả pháp lý của giao dịch dân sự vô hiệu: giao dịch dân sự vô hiệu không làm phát sinh, thay đổi, chấm dứt quyền, nghĩa vụ dân sự của các bên kể từ thời điểm giao dịch được xác lập"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "quyền đòi lại động sản phải đăng ký quyền sở hữu hoặc bất động sản từ người chiếm hữu ngay tình, chủ sở hữu được đòi lại động sản phải đăng ký quyền sở hữu hoặc bất động sản từ người chiếm hữu ngay tình, trừ trường hợp quy định tại khoản 2 điều 133 của bộ luật này ; điều 168.",
+        "qas": [
+            {
+                "question": "Chủ sở hữu được đòi lại động sản có phải đăng ký quyền sở hữu ?",
+                "answer": {
+                    "text": [
+                        "chủ sở hữu được đòi lại động sản phải đăng ký quyền sở hữu hoặc bất động sản từ người chiếm hữu ngay tình"
+                    ],
+                    "start": [
+                        97
+                    ]
+                }
+            }
+        ]
+    }
+]

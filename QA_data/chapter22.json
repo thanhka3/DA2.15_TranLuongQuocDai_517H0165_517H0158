@@ -1,0 +1,708 @@
+[
+    {
+        "context": "hình thức của di chúc được xác định theo pháp luật của nước nơi di chúc được lập. hình thức của di chúc cũng được công nhận tại việt nam nếu phù hợp với pháp luật của một trong các nước sau đây: nước nơi người lập di chúc cư trú tại thời điểm lập di chúc hoặc tại thời điểm người lập di chúc chết, nước nơi người lập di chúc có quốc tịch tại thời điểm lập di chúc hoặc tại thời điểm người lập di chúc chết, nước nơi có bất động sản nếu di sản thừa kế là bất động sản ; điều 681.",
+        "qas": [
+            {
+                "question": "Hình thức của di chúc được xác định theo pháp luật ở đâu ?",
+                "answer": {
+                    "text": [
+                        "hình thức của di chúc được xác định theo pháp luật của nước nơi di chúc được lập"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "thừa kế được xác định theo pháp luật của nước mà người để lại di sản thừa kế có quốc tịch ngay trước khi chết, việc thực hiện quyền thừa kế đối với bất động sản được xác định theo pháp luật của nước nơi có bất động sản đó ; điều 680.",
+        "qas": [
+            {
+                "question": "Thừa kế được xác định theo pháp luật của nước nào ?",
+                "answer": {
+                    "text": [
+                        "thừa kế được xác định theo pháp luật của nước mà người để lại di sản thừa kế có quốc tịch ngay trước khi chết"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "việc thực hiện quyền thừa kế đối với bất động sản được xác định ?",
+                "answer": {
+                    "text": [
+                        "việc thực hiện quyền thừa kế đối với bất động sản được xác định theo pháp luật của nước nơi có bất động sản đó"
+                    ],
+                    "start": [
+                        111
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "quyền sở hữu trí tuệ được xác định theo pháp luật của nước nơi đối tượng quyền sở hữu trí tuệ được yêu cầu bảo hộ ; điều 679.",
+        "qas": [
+            {
+                "question": "Quyền sở hữu trí tuệ được xác định như thế nào ?",
+                "answer": {
+                    "text": [
+                        "quyền sở hữu trí tuệ được xác định theo pháp luật của nước nơi đối tượng quyền sở hữu trí tuệ được yêu cầu bảo hộ"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "việc phân loại tài sản là động sản, bất động sản được xác định theo pháp luật của nước nơi có tài sản ; điều 677.",
+        "qas": [
+            {
+                "question": "phân loại tài sản là gì ?",
+                "answer": {
+                    "text": [
+                        "việc phân loại tài sản là động sản, bất động sản được xác định theo pháp luật của nước nơi có tài sản"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "quốc tịch của pháp nhân được xác định theo pháp luật của nước nơi pháp nhân thành lập, năng lực pháp luật dân sự của pháp nhân; tên gọi của pháp nhân; đại diện theo pháp luật của pháp nhân; việc tổ chức, tổ chức lại, giải thể pháp nhân; quan hệ giữa pháp nhân với thành viên của pháp nhân; trách nhiệm của pháp nhân và thành viên của pháp nhân đối với các nghĩa vụ của pháp nhân được xác định theo pháp luật của nước mà pháp nhân có quốc tịch, trừ trường hợp quy định tại khoản 3 điều này, trường hợp pháp nhân nước ngoài xác lập, thực hiện giao dịch dân sự tại việt nam thì năng lực pháp luật dân sự của pháp nhân nước ngoài đó được xác định theo pháp luật việt nam ; điều 676.",
+        "qas": [
+            {
+                "question": "Quốc tịch của pháp nhân được xác định như thế nào ?",
+                "answer": {
+                    "text": [
+                        "quốc tịch của pháp nhân được xác định theo pháp luật của nước nơi pháp nhân thành lập"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "Trường hợp pháp nhân nước ngoài xác lập, thực hiện giao dịch dân sự tại Việt Nam thì phải làm sao ?",
+                "answer": {
+                    "text": [
+                        "pháp nhân nước ngoài xác lập, thực hiện giao dịch dân sự tại việt nam thì năng lực pháp luật dân sự của pháp nhân nước ngoài đó được xác định theo pháp luật việt nam"
+                    ],
+                    "start": [
+                        505
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "việc xác định một cá nhân mất tích hoặc chết tuân theo pháp luật của nước mà người đó có quốc tịch vào thời điểm trước khi có tin tức cuối cùng về người đó, trừ trường hợp quy định tại khoản 2 điều này, việc xác định tại việt nam một cá nhân mất tích hoặc chết theo pháp luật việt nam ; điều 675.",
+        "qas": [
+            {
+                "question": "Xác định cá nhân mất tích hoặc chết như thế nào ?",
+                "answer": {
+                    "text": [
+                        "việc xác định một cá nhân mất tích hoặc chết tuân theo pháp luật của nước mà người đó có quốc tịch vào thời điểm trước khi có tin tức cuối cùng về người đó"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "năng lực hành vi dân sự của cá nhân được xác định theo pháp luật của nước mà người đó có quốc tịch, trừ trường hợp quy định tại khoản 2 điều này, trường hợp người nước ngoài xác lập, thực hiện các giao dịch dân sự tại việt nam, năng lực hành vi dân sự của người nước ngoài đó được xác định theo pháp luật việt nam, việc xác định cá nhân bị mất năng lực hành vi dân sự, có khó khăn trong nhận thức, làm chủ hành vi hoặc bị hạn chế năng lực hành vi dân sự tại việt nam theo pháp luật việt nam ; điều 674.",
+        "qas": [
+            {
+                "question": "Năng lực hành vi dân sự của cá nhân được xác định theo bộ luật nào ?",
+                "answer": {
+                    "text": [
+                        "năng lực hành vi dân sự của cá nhân được xác định theo pháp luật của nước mà người đó có quốc tịch"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "năng lực pháp luật dân sự của cá nhân được xác định theo pháp luật của nước mà người đó có quốc tịch, người nước ngoài tại việt nam có năng lực pháp luật dân sự như công dân việt nam, trừ trường hợp pháp luật việt nam có quy định khác ; điều 673.",
+        "qas": [
+            {
+                "question": "Năng lực pháp luật dân sự của cá nhân được xác định theo bộ luật nào ?",
+                "answer": {
+                    "text": [
+                        "năng lực pháp luật dân sự của cá nhân được xác định theo pháp luật của nước mà người đó có quốc tịch"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "Người nước ngoài tại Việt Nam có năng lực pháp luật dân sự như công dân Việt Nam không ?",
+                "answer": {
+                    "text": [
+                        "người nước ngoài tại việt nam có năng lực pháp luật dân sự như công dân việt nam"
+                    ],
+                    "start": [
+                        141
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp pháp luật được dẫn chiếu đến là pháp luật của nước mà cá nhân có quốc tịch nhưng cá nhân đó là người có nhiều quốc tịch, trong đó có quốc tịch việt nam thì pháp luật áp dụng là pháp luật việt nam ; điều 672.",
+        "qas": [
+            {
+                "question": "Căn cứ xác định pháp luật áp dụng đối với người nhiều quốc tịch ?",
+                "answer": {
+                    "text": [
+                        "cá nhân đó là người có nhiều quốc tịch, trong đó có quốc tịch việt nam thì pháp luật áp dụng là pháp luật việt nam"
+                    ],
+                    "start": [
+                        110
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "thời hiệu đối với quan hệ dân sự có yếu tố nước ngoài được xác định theo pháp luật áp dụng đối với quan hệ dân sự đó ; điều 671.",
+        "qas": [
+            {
+                "question": "Thời hiệu đối với quan hệ dân sự có yếu tố nước ngoài được xác định như thế nào ?",
+                "answer": {
+                    "text": [
+                        "thời hiệu đối với quan hệ dân sự có yếu tố nước ngoài được xác định theo pháp luật áp dụng đối với quan hệ dân sự đó "
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "pháp luật nước ngoài được dẫn chiếu đến không được áp dụng trong trường hợp sau đây: hậu quả của việc áp dụng pháp luật nước ngoài trái với các nguyên tắc cơ bản của pháp luật việt nam, nội dung của pháp luật nước ngoài không xác định được mặc dù đã áp dụng các biện pháp cần thiết theo quy định của pháp luật tố tụng, trường hợp pháp luật nước ngoài không được áp dụng theo quy định tại khoản 1 điều này thì pháp luật việt nam được áp dụng ; điều 670.",
+        "qas": [
+            {
+                "question": "Pháp luật nước ngoài được dẫn chiếu đến không được áp dụng trong trường hợp nào ?",
+                "answer": {
+                    "text": [
+                        "trường hợp sau đây: hậu quả của việc áp dụng pháp luật nước ngoài trái với các nguyên tắc cơ bản của pháp luật việt nam, nội dung của pháp luật nước ngoài không xác định được mặc dù đã áp dụng các biện pháp cần thiết theo quy định của pháp luật tố tụng, trường hợp pháp luật nước ngoài không được áp dụng theo quy định tại khoản 1 điều này thì pháp luật việt nam được áp dụng"
+                    ],
+                    "start": [
+                        65
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp pháp luật của nước có nhiều hệ thống pháp luật được dẫn chiếu đến thì pháp luật áp dụng được xác định theo nguyên tắc do pháp luật nước đó quy định ; điều 669.",
+        "qas": [
+            {
+                "question": "Trường hợp pháp luật của nước có nhiều hệ thống pháp luật thì áp dụng luật nào ?",
+                "answer": {
+                    "text": [
+                        "trường hợp pháp luật của nước có nhiều hệ thống pháp luật được dẫn chiếu đến thì pháp luật áp dụng được xác định theo nguyên tắc do pháp luật nước đó"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp pháp luật nước ngoài được áp dụng nhưng có cách hiểu khác nhau thì việc áp dụng phải theo sự giải thích của cơ quan có thẩm quyền tại nước đó ; điều 667.",
+        "qas": [
+            {
+                "question": "Trường hợp pháp luật nước ngoài được áp dụng nhưng có cách hiểu khác nhau thì phải làm sao ?",
+                "answer": {
+                    "text": [
+                        "trường hợp pháp luật nước ngoài được áp dụng nhưng có cách hiểu khác nhau thì việc áp dụng phải theo sự giải thích của cơ quan có thẩm quyền tại nước đó"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "các bên được lựa chọn tập quán quốc tế trong trường hợp quy định tại khoản 2 điều 664 của bộ luật này. nếu hậu quả của việc áp dụng tập quán quốc tế đó trái với các nguyên tắc cơ bản của pháp luật việt nam thì pháp luật việt nam được áp dụng ; điều 666.",
+        "qas": [
+            {
+                "question": "Các bên được lựa chọn tập quán quốc tế không ?",
+                "answer": {
+                    "text": [
+                        "các bên được lựa chọn tập quán quốc tế trong trường hợp quy định tại khoản 2 điều 664 của bộ luật này"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp điều ước quốc tế mà cộng hòa xã hội chủ nghĩa việt nam là thành viên có quy định về quyền và nghĩa vụ của các bên tham gia quan hệ dân sự có yếu tố nước ngoài thì quy định của điều ước quốc tế đó được áp dụng ; điều 665 khoản 1.",
+        "qas": [
+            {
+                "question": "Trường hợp điều ước quốc tế mà Việt Nam là thành viên thì quy định của điều ước quốc tế áp dụng được không ?",
+                "answer": {
+                    "text": [
+                        "trường hợp điều ước quốc tế mà cộng hòa xã hội chủ nghĩa việt nam là thành viên có quy định về quyền và nghĩa vụ của các bên tham gia quan hệ dân sự có yếu tố nước ngoài thì quy định của điều ước quốc tế đó được áp dụng"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp điều ước quốc tế mà cộng hòa xã hội chủ nghĩa việt nam là thành viên có quy định khác với quy định của phần này và luật khác về pháp luật áp dụng đối với quan hệ dân sự có yếu tố nước ngoài thì quy định của điều ước quốc tế đó được áp dụng ; điều 665 khoản 2.",
+        "qas": [
+            {
+                "question": "Trường hợp điều ước quốc tế mà Việt Nam là thành viên mà quy định khác thì quy định của điều ước quốc tế áp dụng được không ?",
+                "answer": {
+                    "text": [
+                        "trường hợp điều ước quốc tế mà cộng hòa xã hội chủ nghĩa việt nam là thành viên có quy định khác với quy định của phần này và luật khác về pháp luật áp dụng đối với quan hệ dân sự có yếu tố nước ngoài thì quy định của điều ước quốc tế đó được áp dụng"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "pháp luật áp dụng đối với quan hệ dân sự có yếu tố nước ngoài được xác định theo điều ước quốc tế mà cộng hòa xã hội chủ nghĩa việt nam là thành viên hoặc luật việt nam ; điều 664 khoản 1.",
+        "qas": [
+            {
+                "question": "Pháp luật áp dụng đối với quan hệ dân sự có yếu tố nước ngoài thì phải làm sao ?",
+                "answer": {
+                    "text": [
+                        "có yếu tố nước ngoài được xác định theo điều ước quốc tế mà cộng hòa xã hội chủ nghĩa việt nam là thành viên hoặc luật việt nam"
+                    ],
+                    "start": [
+                        41
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "quan hệ dân sự có yếu tố nước ngoài là quan hệ dân sự thuộc một trong các trường hợp sau đây: có ít nhất một trong các bên tham gia là cá nhân, pháp nhân nước ngoài, các bên tham gia đều là công dân việt nam, pháp nhân việt nam nhưng việc xác lập, thay đổi, thực hiện hoặc chấm dứt quan hệ đó xảy ra tại nước ngoài, các bên tham gia đều là công dân việt nam, pháp nhân việt nam nhưng đối tượng của quan hệ dân sự đó ở nước ngoài ; điều 663 khoản 2.",
+        "qas": [
+            {
+                "question": "Quan hệ dân sự có yếu tố nước ngoài là quan hệ dân sự thuộc các trường hợp nào?",
+                "answer": {
+                    "text": [
+                        "trường hợp sau đây: có ít nhất một trong các bên tham gia là cá nhân, pháp nhân nước ngoài, các bên tham gia đều là công dân việt nam, pháp nhân việt nam nhưng việc xác lập, thay đổi, thực hiện hoặc chấm dứt quan hệ đó xảy ra tại nước ngoài, các bên tham gia đều là công dân việt nam, pháp nhân việt nam nhưng đối tượng của quan hệ dân sự đó ở nước ngoài"
+                    ],
+                    "start": [
+                        74
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp đã phân chia di sản mà xuất hiện người thừa kế mới thì không thực hiện việc phân chia lại di sản bằng hiện vật, nhưng những người thừa kế đã nhận di sản phải thanh toán cho người thừa kế mới một khoản tiền tương ứng với phần di sản của người đó tại thời điểm chia thừa kế theo tỷ lệ tương ứng với phần di sản đã nhận, trừ trường hợp có thoả thuận khác ; điều 662 khoản 1.",
+        "qas": [
+            {
+                "question": "Trường hợp đã phân chia di sản mà xuất hiện người thừa kế mới phải làm sao ?",
+                "answer": {
+                    "text": [
+                        "trường hợp đã phân chia di sản mà xuất hiện người thừa kế mới thì không thực hiện việc phân chia lại di sản bằng hiện vật"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp đã phân chia di sản mà có người thừa kế bị bác bỏ quyền thừa kế thì người đó phải trả lại di sản hoặc thanh toán một khoản tiền tương đương với giá trị di sản được hưởng tại thời điểm chia thừa kế cho những người thừa kế, trừ trường hợp có thoả thuận khác ; điều 662 khoản 2.",
+        "qas": [
+            {
+                "question": "Trường hợp đã phân chia di sản mà có người thừa kế bị bác bỏ quyền thừa kế phải làm sao ?",
+                "answer": {
+                    "text": [
+                        "trường hợp đã phân chia di sản mà có người thừa kế bị bác bỏ quyền thừa kế thì người đó phải trả lại di sản hoặc thanh toán một khoản tiền tương đương với giá trị di sản được hưởng"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "phân chia di sản theo pháp luật: khi phân chia di sản, nếu có người thừa kế cùng hàng đã thành thai nhưng chưa sinh ra thì phải dành lại một phần di sản bằng phần mà người thừa kế khác được hưởng để nếu người thừa kế đó còn sống khi sinh ra được hưởng; nếu chết trước khi sinh ra thì những người thừa kế khác được hưởng, những người thừa kế có quyền yêu cầu phân chia di sản bằng hiện vật; nếu không thể chia đều bằng hiện vật thì những người thừa kế có thể thoả thuận về việc định giá hiện vật và thoả thuận về người nhận hiện vật; nếu không thoả thuận được thì hiện vật được bán để chia ; điều 660.",
+        "qas": [
+            {
+                "question": "người thừa kế cùng hàng đã thành thai nhưng chưa sinh ra thì phải làm sao ?",
+                "answer": {
+                    "text": [
+                        "nếu có người thừa kế cùng hàng đã thành thai nhưng chưa sinh ra thì phải dành lại một phần di sản bằng phần mà người thừa kế khác được hưởng"
+                    ],
+                    "start": [
+                        55
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "phân chia di sản theo di chúc: việc phân chia di sản được thực hiện theo ý chí của người để lại di chúc; nếu di chúc không xác định rõ phần của từng người thừa kế thì di sản được chia đều cho những người được chỉ định trong di chúc, trừ trường hợp có thoả thuận khác, trường hợp di chúc xác định phân chia di sản theo hiện vật thì người thừa kế được nhận hiện vật kèm theo hoa lợi, lợi tức thu được từ hiện vật đó hoặc phải chịu phần giá trị của hiện vật bị giảm sút tính đến thời điểm phân chia di sản; nếu hiện vật bị tiêu huỷ do lỗi của người khác thì người thừa kế có quyền yêu cầu bồi thường thiệt hại, trường hợp di chúc chỉ xác định phân chia di sản theo tỷ lệ đối với tổng giá trị khối di sản thì tỷ lệ này được tính trên giá trị khối di sản đang còn vào thời điểm phân chia di sản ; điều 659.",
+        "qas": [
+            {
+                "question": "Việc phân chia di sản được thực hiện như thế nào ?",
+                "answer": {
+                    "text": [
+                        "việc phân chia di sản được thực hiện theo ý chí của người để lại di chúc"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "các nghĩa vụ tài sản và các khoản chi phí liên quan đến thừa kế được thanh toán theo thứ tự sau đây: chi phí hợp lý theo tập quán cho việc mai táng, tiền cấp dưỡng còn thiếu, chi phí cho việc bảo quản di sản, tiền trợ cấp cho người sống nương nhờ, tiền công lao động, tiền bồi thường thiệt hại, thuế và các khoản phải nộp khác vào ngân sách nhà nước, các khoản nợ khác đối với cá nhân, pháp nhân, tiền phạt, các chi phí khác ; điều 658.",
+        "qas": [
+            {
+                "question": "Các nghĩa vụ tài sản và các khoản chi phí liên quan đến thừa kế thì thứ tự ưu tiên thanh toán ?",
+                "answer": {
+                    "text": [
+                        "thứ tự sau đây: chi phí hợp lý theo tập quán cho việc mai táng, tiền cấp dưỡng còn thiếu, chi phí cho việc bảo quản di sản, tiền trợ cấp cho người sống nương nhờ, tiền công lao động, tiền bồi thường thiệt hại, thuế và các khoản phải nộp khác vào ngân sách nhà nước, các khoản nợ khác đối với cá nhân, pháp nhân, tiền phạt, các chi phí khác"
+                    ],
+                    "start": [
+                        85
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "người phân chia di sản: người phân chia di sản có thể đồng thời là người quản lý di sản được chỉ định trong di chúc hoặc được những người thừa kế thoả thuận cử ra, người phân chia di sản phải chia di sản theo đúng di chúc hoặc đúng thoả thuận của những người thừa kế theo pháp luật, người phân chia di sản được hưởng thù lao, nếu người để lại di sản cho phép trong di chúc hoặc những người thừa kế có thoả thuận ; điều 657.",
+        "qas": [
+            {
+                "question": "Người phân chia di sản có thể đồng thời là người quản lý di sản không ?",
+                "answer": {
+                    "text": [
+                        "người phân chia di sản: người phân chia di sản có thể đồng thời là người quản lý di sản được chỉ định trong di chúc hoặc được những người thừa kế thoả thuận cử ra"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "Người phân chia di sản phải chia di sản theo đúng di chúc không ?",
+                "answer": {
+                    "text": [
+                        "người phân chia di sản phải chia di sản theo đúng di chúc hoặc đúng thoả thuận của những người thừa kế theo pháp luật"
+                    ],
+                    "start": [
+                        164
+                    ]
+                }
+            },
+            {
+                "question": "Người phân chia di sản được hưởng thù lao không ?",
+                "answer": {
+                    "text": [
+                        "người phân chia di sản được hưởng thù lao, nếu người để lại di sản cho phép trong di chúc hoặc những người thừa kế có thoả thuận"
+                    ],
+                    "start": [
+                        283
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "sau khi có thông báo về việc mở thừa kế hoặc di chúc được công bố, những người thừa kế có thể họp mặt để thoả thuận những việc sau đây: cử người quản lý di sản, người phân chia di sản, xác định quyền, nghĩa vụ của những người này, nếu người để lại di sản không chỉ định trong di chúc, cách thức phân chia di sản, mọi thoả thuận của những người thừa kế phải được lập thành văn bản ; điều 656.",
+        "qas": [
+            {
+                "question": "người thừa kế có thể họp mặt để thỏa thuận những việc gì ?",
+                "answer": {
+                    "text": [
+                        "những việc sau đây: cử người quản lý di sản, người phân chia di sản, xác định quyền, nghĩa vụ của những người này, nếu người để lại di sản không chỉ định trong di chúc, cách thức phân chia di sản, mọi thoả thuận của những người thừa kế phải được lập thành văn bản"
+                    ],
+                    "start": [
+                        116
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp vợ, chồng đã chia tài sản chung khi hôn nhân còn tồn tại mà sau đó một người chết thì người còn sống vẫn được thừa kế di sản ; điều 655 khoản 1.",
+        "qas": [
+            {
+                "question": "Trường hợp vợ, chồng đã chia tài sản chung khi hôn nhân còn tồn tại ai là người được hưởng ?",
+                "answer": {
+                    "text": [
+                        "trường hợp vợ, chồng đã chia tài sản chung khi hôn nhân còn tồn tại mà sau đó một người chết thì người còn sống vẫn được thừa kế di sản"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp vợ, chồng xin ly hôn mà chưa được hoặc đã được tòa án cho ly hôn bằng bản án hoặc quyết định chưa có hiệu lực pháp luật, nếu một người chết thì người còn sống vẫn được thừa kế di sản ; điều 655 khoản 2.",
+        "qas": [
+            {
+                "question": "Trường hợp vợ, chồng mà chưa được Tòa án cho ly hôn khi 1 trong 2 mất tài sản chung ai là người được hưởng ?",
+                "answer": {
+                    "text": [
+                        "vợ, chồng xin ly hôn mà chưa được hoặc đã được tòa án cho ly hôn bằng bản án hoặc quyết định chưa có hiệu lực pháp luật, nếu một người chết thì người còn sống vẫn được thừa kế di sản"
+                    ],
+                    "start": [
+                        11
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "con nuôi và cha nuôi, mẹ nuôi được thừa kế di sản của nhau và còn được thừa kế di sản theo quy định tại điều 651 và điều 652 của bộ luật này ; điều 653.",
+        "qas": [
+            {
+                "question": "Con nuôi và cha nuôi, mẹ nuôi được thừa kế di sản của nhau không ?",
+                "answer": {
+                    "text": [
+                        "pcon nuôi và cha nuôi, mẹ nuôi được thừa kế di sản của nhau và còn được thừa kế di sản theo quy định "
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp con của người để lại di sản chết trước hoặc cùng một thời điểm với người để lại di sản thì cháu được hưởng phần di sản mà cha hoặc mẹ của cháu được hưởng nếu còn sống; nếu cháu cũng chết trước hoặc cùng một thời điểm với người để lại di sản thì chắt được hưởng phần di sản mà cha hoặc mẹ của chắt được hưởng nếu còn sống ; điều 652.",
+        "qas": [
+            {
+                "question": "nếu cháu cũng chết trước hoặc cùng một thời điểm với người để lại di sản thì ai là người được hưởng ?",
+                "answer": {
+                    "text": [
+                        "nếu cháu cũng chết trước hoặc cùng một thời điểm với người để lại di sản thì chắt được hưởng phần di sản mà cha hoặc mẹ của chắt được hưởng nếu còn sống"
+                    ],
+                    "start": [
+                        179
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "những người thừa kế theo pháp luật được quy định theo thứ tự sau đây: hàng thừa kế thứ nhất gồm: vợ, chồng, cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi, con đẻ, con nuôi của người chết, hàng thừa kế thứ hai gồm: ông nội, bà nội, ông ngoại, bà ngoại, anh ruột, chị ruột, em ruột của người chết; cháu ruột của người chết mà người chết là ông nội, bà nội, ông ngoại, bà ngoại, hàng thừa kế thứ ba gồm: cụ nội, cụ ngoại của người chết; bác ruột, chú ruột, cậu ruột, cô ruột, dì ruột của người chết; cháu ruột của người chết mà người chết là bác ruột, chú ruột, cậu ruột, cô ruột, dì ruột; chắt ruột của người chết mà người chết là cụ nội, cụ ngoại ; điều 651 khoản 1.",
+        "qas": [
+            {
+                "question": "Những người thừa kế theo pháp luật được quy định theo thứ tự nào ?",
+                "answer": {
+                    "text": [
+                        "vợ, chồng, cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi, con đẻ, con nuôi của người chết, hàng thừa kế thứ hai gồm: ông nội, bà nội, ông ngoại, bà ngoại, anh ruột, chị ruột, em ruột của người chết"
+                    ],
+                    "start": [
+                        97
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "thừa kế theo pháp luật được áp dụng trong trường hợp sau đây: không có di chúc, di chúc không hợp pháp, những người thừa kế theo di chúc chết trước hoặc chết cùng thời điểm với người lập di chúc; cơ quan, tổ chức được hưởng thừa kế theo di chúc không còn tồn tại vào thời điểm mở thừa kế, những người được chỉ định làm người thừa kế theo di chúc mà không có quyền hưởng di sản hoặc từ chối nhận di sản ; điều 650 khoản 1.",
+        "qas": [
+            {
+                "question": "Thừa kế theo pháp luật được áp dụng trong trường hợp nào ?",
+                "answer": {
+                    "text": [
+                        "không có di chúc, di chúc không hợp pháp, những người thừa kế theo di chúc chết trước hoặc chết cùng thời điểm với người lập di chúc"
+                    ],
+                    "start": [
+                        62
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "thừa kế theo pháp luật cũng được áp dụng đối với các phần di sản sau đây: phần di sản không được định đoạt trong di chúc, phần di sản có liên quan đến phần của di chúc không có hiệu lực pháp luật, phần di sản có liên quan đến người được thừa kế theo di chúc nhưng họ không có quyền hưởng di sản, từ chối nhận di sản, chết trước hoặc chết cùng thời điểm với người lập di chúc; liên quan đến cơ quan, tổ chức được hưởng di sản theo di chúc, nhưng không còn tồn tại vào thời điểm mở thừa kế ; điều 650 khoản 2.",
+        "qas": [
+            {
+                "question": "Thừa kế theo pháp luật áp dụng đối với các di sản như thế nào ?",
+                "answer": {
+                    "text": [
+                        "phần di sản không được định đoạt trong di chúc, phần di sản có liên quan đến phần của di chúc không có hiệu lực pháp luật, phần di sản có liên quan đến người được thừa kế theo di chúc nhưng họ không có quyền hưởng di sản, từ chối nhận di sản, chết trước hoặc chết cùng thời điểm với người lập di chúc"
+                    ],
+                    "start": [
+                        53
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "thừa kế theo pháp luật là thừa kế theo hàng thừa kế, điều kiện và trình tự thừa kế do pháp luật quy định ; điều 649.",
+        "qas": [
+            {
+                "question": "Thừa kế theo pháp luật là gì ?",
+                "answer": {
+                    "text": [
+                        "thừa kế theo pháp luật là thừa kế theo hàng thừa kế, điều kiện và trình tự thừa kế do pháp luật quy định"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp nội dung di chúc không rõ ràng dẫn đến nhiều cách hiểu khác nhau thì những người thừa kế theo di chúc phải cùng nhau giải thích nội dung di chúc dựa trên ý nguyện đích thực trước đây của người chết, có xem xét đến mối quan hệ của người chết với người thừa kế theo di chúc. khi những người này không nhất trí về cách hiểu nội dung di chúc thì có quyền yêu cầu tòa án giải quyết, trường hợp có một phần nội dung di chúc không giải thích được nhưng không ảnh hưởng đến các phần còn lại của di chúc thì chỉ phần không giải thích được không có hiệu lực ; điều 648. ",
+        "qas": [
+            {
+                "question": "Trường hợp nội dung di chúc không rõ ràng dẫn đến nhiều cách hiểu khác nhau thì phải làm sao ?",
+                "answer": {
+                    "text": [
+                        "những người thừa kế theo di chúc phải cùng nhau giải thích nội dung di chúc dựa trên ý nguyện đích thực trước đây của người chết"
+                    ],
+                    "start": [
+                        80
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp di chúc bằng văn bản được lưu giữ tại tổ chức hành nghề công chứng thì công chứng viên là người công bố di chúc, trường hợp người để lại di chúc chỉ định người công bố di chúc thì người này có nghĩa vụ công bố di chúc; nếu người để lại di chúc không chỉ định hoặc có chỉ định nhưng người được chỉ định từ chối công bố di chúc thì những người thừa kế còn lại thoả thuận cử người công bố di chúc, sau thời điểm mở thừa kế, người công bố di chúc phải sao gửi di chúc tới tất cả những người có liên quan đến nội dung di chúc, người nhận được bản sao di chúc có quyền yêu cầu đối chiếu với bản gốc của di chúc, trường hợp di chúc được lập bằng tiếng nước ngoài thì bản di chúc đó phải được dịch ra tiếng việt và phải có công chứng hoặc chứng thực ; điều 647.",
+        "qas": [
+            {
+                "question": "Công bố di chúc bằng văn bản như thế nào ?",
+                "answer": {
+                    "text": [
+                        "trường hợp di chúc bằng văn bản được lưu giữ tại tổ chức hành nghề công chứng thì công chứng viên là người công bố di chúc"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "di tặng là việc người lập di chúc dành một phần di sản để tặng cho người khác. việc di tặng phải được ghi rõ trong di chúc, người được di tặng là cá nhân phải còn sống vào thời điểm mở thừa kế hoặc sinh ra và còn sống sau thời điểm mở thừa kế nhưng đã thành thai trước khi người để lại di sản chết. trường hợp người được di tặng không phải là cá nhân thì phải tồn tại vào thời điểm mở thừa kế, người được di tặng không phải thực hiện nghĩa vụ tài sản đối với phần được di tặng, trừ trường hợp toàn bộ di sản không đủ để thanh toán nghĩa vụ tài sản của người lập di chúc thì phần di tặng cũng được dùng để thực hiện phần nghĩa vụ còn lại của người này ; điều 646.",
+        "qas": [
+            {
+                "question": "Di tặng là gì ?",
+                "answer": {
+                    "text": [
+                        "di tặng là việc người lập di chúc dành một phần di sản để tặng cho người khác, việc di tặng phải được ghi rõ trong di chúc."
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "người được di tặng là ai ?",
+                "answer": {
+                    "text": [
+                        "người được di tặng là cá nhân phải còn sống vào thời điểm mở thừa kế hoặc sinh ra và còn sống sau thời điểm mở thừa kế nhưng đã thành thai trước khi người để lại di sản chết"
+                    ],
+                    "start": [
+                        124
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp người lập di chúc để lại một phần di sản dùng vào việc thờ cúng thì phần di sản đó không được chia thừa kế và được giao cho người đã được chỉ định trong di chúc quản lý để thực hiện việc thờ cúng; nếu người được chỉ định không thực hiện đúng di chúc hoặc không theo thoả thuận của những người thừa kế thì những người thừa kế có quyền giao phần di sản dùng vào việc thờ cúng cho người khác quản lý để thờ cúng, trường hợp người để lại di sản không chỉ định người quản lý di sản thờ cúng thì những người thừa kế cử người quản lý di sản thờ cúng, trường hợp tất cả những người thừa kế theo di chúc đều đã chết thì phần di sản dùng để thờ cúng thuộc về người đang quản lý hợp pháp di sản đó trong số những người thuộc diện thừa kế theo pháp luật ; điều 645.",
+        "qas": [
+            {
+                "question": "Trường hợp người lập di chúc để lại một phần di sản dùng vào việc thờ cúng thì phải làm sao?",
+                "answer": {
+                    "text": [
+                        "phần di sản đó không được chia thừa kế và được giao cho người đã được chỉ định trong di chúc quản lý để thực hiện việc thờ cúng"
+                    ],
+                    "start": [
+                        40
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "những người sau đây vẫn được hưởng phần di sản bằng hai phần ba suất của một người thừa kế theo pháp luật nếu di sản được chia theo pháp luật, trong trường hợp họ không được người lập di chúc cho hưởng di sản hoặc chỉ cho hưởng phần di sản ít hơn hai phần ba suất đó: con chưa thành niên, cha, mẹ, vợ, chồng, con thành niên mà không có khả năng lao động ; điều 644.",
+        "qas": [
+            {
+                "question": "người nào vẫn được hưởng phần di sản bằng hai phần ba suất khi họ không được người lập di chúc cho hưởng di sản ?",
+                "answer": {
+                    "text": [
+                        "con chưa thành niên, cha, mẹ, vợ, chồng, con thành niên mà không có khả năng lao động"
+                    ],
+                    "start": [
+                        268
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "hiệu lực của di chúc: di chúc có hiệu lực từ thời điểm mở thừa kế. di chúc không có hiệu lực toàn bộ hoặc một phần trong trường hợp sau đây: người thừa kế theo di chúc chết trước hoặc chết cùng thời điểm với người lập di chúc;",
+        "qas": [
+            {
+                "question": "Di chúc có hiệu lực khi nào ?",
+                "answer": {
+                    "text": [
+                        " di chúc có hiệu lực từ thời điểm mở thừa kế"
+                    ],
+                    "start": [
+                        22
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "kể từ thời điểm mở thừa kế, nếu bản di chúc bị thất lạc hoặc bị hư hại đến mức không thể hiện được đầy đủ ý chí của người lập di chúc và cũng không có bằng chứng nào chứng minh được ý nguyện đích thực của người lập di chúc thì coi như không có di chúc và áp dụng các quy định về thừa kế theo pháp luật ; điều 642 khoản 1.",
+        "qas": [
+            {
+                "question": "nếu bản di chúc bị thất lạc hoặc bị hư hại thì có được áp dụng ?",
+                "answer": {
+                    "text": [
+                        "nếu bản di chúc bị thất lạc hoặc bị hư hại đến mức không thể hiện được đầy đủ ý chí của người lập di chúc và cũng không có bằng chứng nào chứng minh được ý nguyện đích thực của người lập di chúc thì coi như không có di chúc"
+                    ],
+                    "start": [
+                        28
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,1680 @@
+[
+    {
+        "context": "hợp đồng trao đổi tài sản là sự thoả thuận giữa các bên, theo đó các bên giao tài sản và chuyển quyền sở hữu đối với tài sản cho nhau, hợp đồng trao đổi tài sản phải được lập thành văn bản, có công chứng, chứng thực hoặc đăng ký, nếu pháp luật có quy định, trường hợp một bên trao đổi cho bên kia tài sản không thuộc quyền sở hữu của mình hoặc không được chủ sở hữu ủy quyền thì bên kia có quyền hủy bỏ hợp đồng và yêu cầu bồi thường thiệt hại, mỗi bên đều được coi là người bán đối với tài sản giao cho bên kia và là người mua đối với tài sản nhận về. các quy định về hợp đồng mua bán từ điều 430 đến điều 439, từ điều 441 đến điều 449 và điều 454 của bộ luật này cũng được áp dụng đối với hợp đồng trao đổi tài sản ; điều 455.",
+        "qas": [
+            {
+                "question": "Hợp đồng trao đổi tài sản là  gì ?",
+                "answer": {
+                    "text": [
+                        "hợp đồng trao đổi tài sản là sự thoả thuận giữa các bên, theo đó các bên giao tài sản và chuyển quyền sở hữu đối với tài sản cho nhau"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "bên bán có thể thoả thuận với bên mua về quyền chuộc lại tài sản đã bán sau một thời hạn gọi là thời hạn chuộc lại,thời hạn chuộc lại tài sản do các bên thoả thuận; trường hợp không có thỏa thuận thì thời hạn chuộc lại không quá 01 năm đối với động sản và 05 năm đối với bất động sản kể từ thời điểm giao tài sản, trừ trường hợp luật liên quan có quy định khác. trong thời hạn này, bên bán có quyền chuộc lại bất cứ lúc nào, nhưng phải báo trước cho bên mua trong một thời gian hợp lý. giá chuộc lại là giá thị trường tại thời điểm và địa điểm chuộc lại, trừ trường hợp có thoả thuận khác ; điều 454 khoản 1.",
+        "qas": [
+            {
+                "question": "có thể chuộc lại tài sản đã bán ?",
+                "answer": {
+                    "text": [
+                        "bên bán có thể thoả thuận với bên mua về quyền chuộc lại tài sản đã bán sau một thời hạn gọi là thời hạn chuộc lại,thời hạn chuộc lại tài sản do các bên thoả thuận"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "các bên có thể thoả thuận về việc bên mua trả chậm hoặc trả dần tiền mua trong một thời hạn sau khi nhận tài sản mua. bên bán được bảo lưu quyền sở hữu đối với tài sản bán cho đến khi bên mua trả đủ tiền, trừ trường hợp có thoả thuận khác ; điều 453 khoản 1.",
+        "qas": [
+            {
+                "question": "có thể thỏa thuận về việc bên mua trả chậm không ?",
+                "answer": {
+                    "text": [
+                        "các bên có thể thoả thuận về việc bên mua trả chậm hoặc trả dần tiền mua trong một thời hạn sau khi nhận tài sản mua. bên bán được bảo lưu quyền sở hữu đối với tài sản bán cho đến khi bên mua trả đủ tiền"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "các bên có thể thoả thuận về việc bên mua được dùng thử vật mua trong một thời hạn gọi là thời hạn dùng thử. trong thời hạn dùng thử, bên mua có thể trả lời mua hoặc không mua; nếu hết thời hạn dùng thử mà bên mua không trả lời thì coi như đã chấp nhận mua theo các điều kiện đã thoả thuận trước khi nhận vật dùng thử, trường hợp các bên không thỏa thuận hoặc thỏa thuận không rõ ràng về thời hạn dùng thử thì thời hạn này được xác định theo tập quán của giao dịch có đối tượng cùng loại ; điều 452 khoản 1.",
+        "qas": [
+            {
+                "question": "có thể thỏa thuận về việc bên mua được dùng thử vật mua không ?",
+                "answer": {
+                    "text": [
+                        "các bên có thể thoả thuận về việc bên mua được dùng thử vật mua trong một thời hạn gọi là thời hạn dùng thử. trong thời hạn dùng thử, bên mua có thể trả lời mua hoặc không mua"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "tài sản có thể được đem bán đấu giá theo ý chí của chủ sở hữu hoặc theo quy định của pháp luật. tài sản thuộc sở hữu chung đem bán đấu giá phải có sự đồng ý của tất cả các chủ sở hữu chung, trừ trường hợp có thoả thuận khác hoặc pháp luật có quy định khác, việc bán đấu giá tài sản phải đảm bảo nguyên tắc khách quan, công khai, minh bạch, bảo đảm quyền, lợi ích hợp pháp của các bên tham gia và được thực hiện theo quy định của pháp luật về bán đấu giá tài sản ; điều 451.",
+        "qas": [
+            {
+                "question": "có thể được đem bán đấu giá theo nguyện vọng của chủ sở hữu không ?",
+                "answer": {
+                    "text": [
+                        "tài sản có thể được đem bán đấu giá theo ý chí của chủ sở hữu hoặc theo quy định của pháp luật"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp mua bán quyền tài sản thì bên bán phải chuyển giấy tờ và làm thủ tục chuyển quyền sở hữu cho bên mua, bên mua phải trả tiền cho bên bán ; điều 450 khoản 1.",
+        "qas": [
+            {
+                "question": "thủ tục mua bán quyền tài sản ?",
+                "answer": {
+                    "text": [
+                        "trường hợp mua bán quyền tài sản thì bên bán phải chuyển giấy tờ và làm thủ tục chuyển quyền sở hữu cho bên mua, bên mua phải trả tiền cho bên bán"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "ngoài việc yêu cầu thực hiện các biện pháp bảo hành, bên mua có quyền yêu cầu bên bán bồi thường thiệt hại do khuyết tật về kỹ thuật của vật gây ra trong thời hạn bảo hành ; điều 449 khoản 1.",
+        "qas": [
+            {
+                "question": "Bồi thường thiệt hại trong thời hạn bảo hành ra sao ?",
+                "answer": {
+                    "text": [
+                        "ngoài việc yêu cầu thực hiện các biện pháp bảo hành, bên mua có quyền yêu cầu bên bán bồi thường thiệt hại do khuyết tật về kỹ thuật của vật gây ra trong thời hạn bảo hành"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "sửa chữa vật trong thời hạn bảo hành: bên bán phải sửa chữa vật và bảo đảm vật có đủ các tiêu chuẩn chất lượng hoặc có đủ các đặc tính đã cam kết, bên bán chịu chi phí về sửa chữa và vận chuyển vật đến nơi sửa chữa và từ nơi sửa chữa đến nơi cư trú hoặc trụ sở của bên mua, bên mua có quyền yêu cầu bên bán hoàn thành việc sửa chữa trong thời hạn do các bên thoả thuận hoặc trong một thời gian hợp lý; nếu bên bán không thể sửa chữa được hoặc không thể hoàn thành việc sửa chữa trong thời hạn đó thì bên mua có quyền yêu cầu giảm giá, đổi vật có khuyết tật lấy vật khác hoặc trả lại vật và lấy lại tiền ; điều 448.",
+        "qas": [
+            {
+                "question": "bên bán phải sửa chữa vật trong thời hạn bảo hành không ?",
+                "answer": {
+                    "text": [
+                        "bên bán phải sửa chữa vật và bảo đảm vật có đủ các tiêu chuẩn chất lượng hoặc có đủ các đặc tính đã cam kết, bên bán chịu chi phí về sửa chữa và vận chuyển vật đến nơi sửa chữa"
+                    ],
+                    "start": [
+                        38
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trong thời hạn bảo hành, nếu bên mua phát hiện được khuyết tật của vật mua bán thì có quyền yêu cầu bên bán sửa chữa không phải trả tiền, giảm giá, đổi vật có khuyết tật lấy vật khác hoặc trả lại vật và lấy lại tiền ; điều 447.",
+        "qas": [
+            {
+                "question": "nếu bên mua phát hiện được khuyết tật của vật thì có quyền yêu cầu sửa chữa không ?",
+                "answer": {
+                    "text": [
+                        "trong thời hạn bảo hành, nếu bên mua phát hiện được khuyết tật của vật mua bán thì có quyền yêu cầu bên bán sửa chữa không phải trả tiền, giảm giá, đổi vật có khuyết tật lấy vật khác hoặc trả lại vật và lấy lại tiền"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "bên bán phải bảo đảm giá trị sử dụng hoặc các đặc tính của vật mua bán; nếu sau khi mua mà bên mua phát hiện khuyết tật làm mất giá trị hoặc giảm sút giá trị sử dụng của vật đã mua thì phải báo ngay cho bên bán khi phát hiện ra khuyết tật và có quyền yêu cầu bên bán sửa chữa, đổi vật có khuyết tật lấy vật khác, giảm giá và bồi thường thiệt hại, trừ trường hợp có thoả thuận khác ; điều 445 khoản 1.",
+        "qas": [
+            {
+                "question": "tiêu chuẩn bảo đảm chất lượng vật mua bán như thế nào ?",
+                "answer": {
+                    "text": [
+                        "bên bán phải bảo đảm giá trị sử dụng hoặc các đặc tính của vật mua bán; nếu sau khi mua mà bên mua phát hiện khuyết tật làm mất giá trị hoặc giảm sút giá trị sử dụng của vật đã mua thì phải báo ngay cho bên bán khi phát hiện ra khuyết tật"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "bảo đảm quyền sở hữu của bên mua đối với tài sản mua bán: bên bán có nghĩa vụ bảo đảm quyền sở hữu đối với tài sản đã bán cho bên mua không bị người thứ ba tranh chấp, trường hợp tài sản bị người thứ ba tranh chấp thì bên bán phải đứng về phía bên mua để bảo vệ quyền lợi của bên mua; nếu người thứ ba có quyền sở hữu một phần hoặc toàn bộ tài sản mua bán thì bên mua có quyền hủy bỏ hợp đồng và yêu cầu bên bán bồi thường thiệt hại, trường hợp bên mua biết hoặc phải biết tài sản mua bán thuộc sở hữu của người thứ ba mà vẫn mua thì phải trả lại tài sản cho chủ sở hữu và không có quyền yêu cầu bồi thường thiệt hại ; điều 444.",
+        "qas": [
+            {
+                "question": "Bên bán có cần bảo đảm quyền sở hữu đối với tài sản đã bán ?",
+                "answer": {
+                    "text": [
+                        "bảo đảm quyền sở hữu của bên mua đối với tài sản mua bán: bên bán có nghĩa vụ bảo đảm quyền sở hữu đối với tài sản đã bán cho bên mua không bị người thứ ba tranh chấp"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "bên bán có nghĩa vụ cung cấp cho bên mua thông tin cần thiết về tài sản mua bán và hướng dẫn cách sử dụng tài sản đó; nếu bên bán không thực hiện nghĩa vụ này thì bên mua có quyền yêu cầu bên bán phải thực hiện trong một thời hạn hợp lý; nếu bên bán vẫn không thực hiện làm cho bên mua không đạt được mục đích giao kết hợp đồng thì bên mua có quyền hủy bỏ hợp đồng và yêu cầu bồi thường thiệt hại ; điều 443.",
+        "qas": [
+            {
+                "question": "Bên bán có cần cung cấp thông tin và hướng dẫn cách sử dụng ?",
+                "answer": {
+                    "text": [
+                        "bên bán có nghĩa vụ cung cấp cho bên mua thông tin cần thiết về tài sản mua bán và hướng dẫn cách sử dụng tài sản đó; nếu bên bán không thực hiện nghĩa vụ này thì bên mua có quyền yêu cầu bên bán phải thực hiện trong một thời hạn hợp lý"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "chi phí vận chuyển và chi phí liên quan đến việc chuyển quyền sở hữu do các bên thỏa thuận, trừ trường hợp pháp luật có quy định khác ; điều 442 khoản 1.",
+        "qas": [
+            {
+                "question": "Chi phí vận chuyển đến việc chuyển quyền sở hữu do ai trả?",
+                "answer": {
+                    "text": [
+                        "chi phí vận chuyển và chi phí liên quan đến việc chuyển quyền sở hữu do các bên thỏa thuận"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "thời điểm chịu rủi ro: bên bán chịu rủi ro đối với tài sản trước khi tài sản được giao cho bên mua, bên mua chịu rủi ro đối với tài sản kể từ thời điểm nhận tài sản, trừ trường hợp có thoả thuận khác hoặc luật có quy định khác, đối với hợp đồng mua bán tài sản mà pháp luật quy định tài sản đó phải đăng ký quyền sở hữu thì bên bán chịu rủi ro cho đến khi hoàn thành thủ tục đăng ký, bên mua chịu rủi ro kể từ thời điểm hoàn thành thủ tục đăng ký, trừ trường hợp có thoả thuận khác ; điều 441.",
+        "qas": [
+            {
+                "question": "Bên bán chịu rủi ro đối với tài sản khi nào ?",
+                "answer": {
+                    "text": [
+                        "thời điểm chịu rủi ro: bên bán chịu rủi ro đối với tài sản trước khi tài sản được giao cho bên mua, bên mua chịu rủi ro đối với tài sản kể từ thời điểm nhận tài sản,"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "nghĩa vụ trả tiền: bên mua có nghĩa vụ thanh toán tiền theo thời hạn, địa điểm và mức tiền được quy định trong hợp đồng, trường hợp các bên chỉ có thỏa thuận về thời hạn giao tài sản thì thời hạn thanh toán tiền cũng được xác định tương ứng với thời hạn giao tài sản. nếu các bên không có thỏa thuận về thời hạn giao tài sản và thời hạn thanh toán tiền thì bên mua phải thanh toán tiền tại thời điểm nhận tài sản, trường hợp bên mua không thực hiện đúng nghĩa vụ trả tiền thì phải trả lãi trên số tiền chậm trả theo quy định tại điều 357 của bộ luật này ; điều 440.",
+        "qas": [
+            {
+                "question": "Nghĩa vụ trả tiền bên mua như thế nào ?",
+                "answer": {
+                    "text": [
+                        "bên mua có nghĩa vụ thanh toán tiền theo thời hạn, địa điểm và mức tiền được quy định trong hợp đồng"
+                    ],
+                    "start": [
+                        19
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp tài sản được giao không đúng chủng loại thì bên mua có một trong các quyền sau đây: nhận và thanh toán theo giá do các bên thoả thuận, yêu cầu giao tài sản đúng chủng loại và bồi thường thiệt hại, hủy bỏ hợp đồng và yêu cầu bồi thường thiệt hại nếu việc giao không đúng chủng loại làm cho bên mua không đạt được mục đích giao kết hợp đồng ; điều 439.",
+        "qas": [
+            {
+                "question": "tài sản được giao không đúng loại thì bên mua có quyền nào ?",
+                "answer": {
+                    "text": [
+                        "trường hợp tài sản được giao không đúng chủng loại thì bên mua có một trong các quyền sau đây: nhận và thanh toán theo giá do các bên thoả thuận, yêu cầu giao tài sản đúng chủng loại và bồi thường thiệt hại, hủy bỏ hợp đồng và yêu cầu bồi thường thiệt hại nếu việc giao không đúng chủng loại làm cho bên mua không đạt được mục đích giao kết hợp đồng"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp bên bán giao tài sản với số lượng nhiều hơn số lượng đã thoả thuận thì bên mua có quyền nhận hoặc không nhận phần dôi ra; nếu nhận thì phải thanh toán đối với phần dôi ra theo giá được thỏa thuận trong hợp đồng, trừ trường hợp có thỏa thuận khác ; điều 437 khoản 1.",
+        "qas": [
+            {
+                "question": "bên bán giao tài sản với số lượng nhiều hơn số lượng đã thỏa thuận thì bên mua phải làm sao ?",
+                "answer": {
+                    "text": [
+                        "bên mua có quyền nhận hoặc không nhận phần dôi ra"
+                    ],
+                    "start": [
+                        82
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "phương thức giao tài sản: tài sản được giao theo phương thức do các bên thoả thuận; nếu không có thoả thuận thì tài sản do bên bán giao một lần và trực tiếp cho bên mua, trường hợp theo thỏa thuận, bên bán giao tài sản cho bên mua thành nhiều lần mà bên bán thực hiện không đúng nghĩa vụ ở một lần nhất định thì bên mua có thể hủy bỏ phần hợp đồng liên quan đến lần vi phạm đó và yêu cầu bồi thường thiệt hại ; điều 436.",
+        "qas": [
+            {
+                "question": "Phương thức giao tài sản do bên nào thực hiện ?",
+                "answer": {
+                    "text": [
+                        "tài sản được giao theo phương thức do các bên thoả thuận"
+                    ],
+                    "start": [
+                        26
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "địa điểm giao tài sản do các bên thoả thuận; nếu không có thoả thuận thì áp dụng quy định tại khoản 2 điều 277 của bộ luật này ; điều 435.",
+        "qas": [
+            {
+                "question": "Địa điểm giao tài sản do bên nào quyết định ?",
+                "answer": {
+                    "text": [
+                        "địa điểm giao tài sản do các bên thoả thuận"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "hợp đồng mua bán tài sản là sự thỏa thuận giữa các bên, theo đó bên bán chuyển quyền sở hữu tài sản cho bên mua và bên mua trả tiền cho bên bán, hợp đồng mua bán nhà ở, mua bán nhà để sử dụng vào mục đích khác được thực hiện theo quy định của bộ luật này, luật nhà ở và luật khác có liên quan ; điều 430.",
+        "qas": [
+            {
+                "question": "thời hạn thực hiện hợp đồng mua bán được quyết định như thế nào ?",
+                "answer": {
+                    "text": [
+                        "hợp đồng mua bán tài sản là sự thỏa thuận giữa các bên, theo đó bên bán chuyển quyền sở hữu tài sản cho bên mua và bên mua trả tiền cho bên bán"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "giá, phương thức thanh toán do các bên thoả thuận hoặc do người thứ ba xác định theo yêu cầu của các bên. trường hợp pháp luật quy định giá, phương thức thanh toán phải theo quy định của cơ quan nhà nước có thẩm quyền thì thỏa thuận của các bên phải phù hợp với quy định đó, trường hợp không có thỏa thuận hoặc thỏa thuận không rõ ràng về giá, phương thức thanh toán thì giá được xác định theo giá thị trường, phương thức thanh toán được xác định theo tập quán tại địa điểm và thời điểm giao kết hợp đồng ; điều 433.",
+        "qas": [
+            {
+                "question": "Giá và phương thức thanh toán được quyết định như thế nào ?",
+                "answer": {
+                    "text": [
+                        "giá, phương thức thanh toán do các bên thoả thuận hoặc do người thứ ba xác định theo yêu cầu của các bên"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "chất lượng của tài sản mua bán: chất lượng của tài sản mua bán do các bên thoả thuận, trường hợp tiêu chuẩn về chất lượng của tài sản đã được công bố hoặc được cơ quan nhà nước có thẩm quyền quy định thì thỏa thuận của các bên về chất lượng của tài sản không được thấp hơn chất lượng của tài sản được xác định theo tiêu chuẩn đã công bố hoặc theo quy định của cơ quan nhà nước có thẩm quyền, khi các bên không có thoả thuận hoặc thỏa thuận không rõ ràng về chất lượng tài sản mua bán thì chất lượng của tài sản mua bán được xác định theo tiêu chuẩn về chất lượng của tài sản đã được công bố, quy định của cơ quan nhà nước có thẩm quyền hoặc theo tiêu chuẩn ngành nghề, trường hợp không có tiêu chuẩn về chất lượng của tài sản đã được công bố, quy định của cơ quan nhà nước có thẩm quyền và tiêu chuẩn ngành nghề thì chất lượng của tài sản mua bán được xác định theo tiêu chuẩn thông thường hoặc theo tiêu chuẩn riêng phù hợp với mục đích giao kết hợp đồng và theo quy định của luật bảo vệ quyền lợi người tiêu dùng ; điều 432.",
+        "qas": [
+            {
+                "question": "chất lượng của tài sản mua bán quyết định như thế nào ?",
+                "answer": {
+                    "text": [
+                        "chất lượng của tài sản mua bán do các bên thoả thuận"
+                    ],
+                    "start": [
+                        32
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "tài sản được quy định tại bộ luật này đều có thể là đối tượng của hợp đồng mua bán. trường hợp theo quy định của luật, tài sản bị cấm hoặc bị hạn chế chuyển nhượng thì tài sản là đối tượng của hợp đồng mua bán phải phù hợp với các quy định đó, tài sản bán thuộc sở hữu của người bán hoặc người bán có quyền bán ; điều 431.",
+        "qas": [
+            {
+                "question": "Đối tượng của hợp đồng mua bán là ai ?",
+                "answer": {
+                    "text": [
+                        "tài sản được quy định tại bộ luật này đều có thể là đối tượng của hợp đồng mua bán"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "hợp đồng mua bán tài sản là sự thỏa thuận giữa các bên, theo đó bên bán chuyển quyền sở hữu tài sản cho bên mua và bên mua trả tiền cho bên bán, hợp đồng mua bán nhà ở, mua bán nhà để sử dụng vào mục đích khác được thực hiện theo quy định của bộ luật này, luật nhà ở và luật khác có liên quan ; điều 430.",
+        "qas": [
+            {
+                "question": "Hợp đồng mua bán tài sản là gì ?",
+                "answer": {
+                    "text": [
+                        "hợp đồng mua bán tài sản là sự thỏa thuận giữa các bên, theo đó bên bán chuyển quyền sở hữu tài sản cho bên mua và bên mua trả tiền cho bên bán"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "thời hiệu khởi kiện để yêu cầu tòa án giải quyết tranh chấp hợp đồng là 03 năm, kể từ ngày người có quyền yêu cầu biết hoặc phải biết quyền và lợi ích hợp pháp của mình bị xâm phạm ; điều 429.",
+        "qas": [
+            {
+                "question": "Thời gian khởi kiện để yêu cầu Tòa án giải quyết tranh chấp là bao lâu ?",
+                "answer": {
+                    "text": [
+                        "03 năm"
+                    ],
+                    "start": [
+                        72
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "bên đơn phương chấm dứt thực hiện hợp đồng phải thông báo ngay cho bên kia biết về việc chấm dứt hợp đồng, nếu không thông báo mà gây thiệt hại thì phải bồi thường ; điều 428 khoản 2.",
+        "qas": [
+            {
+                "question": "Đơn phương chấm dứt thực hiện hợp đồng được không ?",
+                "answer": {
+                    "text": [
+                        "bên đơn phương chấm dứt thực hiện hợp đồng phải thông báo ngay cho bên kia biết về việc chấm dứt hợp đồng, nếu không thông báo mà gây thiệt hại thì phải bồi thường"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp một bên làm mất, làm hư hỏng tài sản là đối tượng của hợp đồng mà không thể hoàn trả, đền bù bằng tài sản khác hoặc không thể sửa chữa, thay thế bằng tài sản cùng loại thì bên kia có quyền huỷ bỏ hợp đồng, bên vi phạm phải bồi thường bằng tiền ngang với giá trị của tài sản bị mất, bị hư hỏng, trừ trường hợp có thỏa thuận khác hoặc theo quy định tại khoản 2, khoản 3 điều 351 và điều 363 của bộ luật này ; điều 426.",
+        "qas": [
+            {
+                "question": "Hủy bỏ hợp đồng trong trường hợp tài sản bị mất, bị hư hỏng được không ?",
+                "answer": {
+                    "text": [
+                        "trường hợp một bên làm mất, làm hư hỏng tài sản là đối tượng của hợp đồng mà không thể hoàn trả, đền bù bằng tài sản khác hoặc không thể sửa chữa, thay thế bằng tài sản cùng loại thì bên kia có quyền huỷ bỏ hợp đồng, bên vi phạm phải bồi thường bằng tiền ngang với giá trị của tài sản bị mất"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "một bên có quyền huỷ bỏ hợp đồng và không phải bồi thường thiệt hại trong trường hợp sau đây: bên kia vi phạm hợp đồng là điều kiện huỷ bỏ mà các bên đã thoả thuận, bên kia vi phạm nghiêm trọng nghĩa vụ hợp đồng, trường hợp khác do luật quy định ; điều 423 khoản 1.",
+        "qas": [
+            {
+                "question": "hủy bỏ hợp đồng và không phải bồi thường thiệt hại trong trường hợp nào ?",
+                "answer": {
+                    "text": [
+                        "trong trường hợp sau đây: bên kia vi phạm hợp đồng là điều kiện huỷ bỏ mà các bên đã thoả thuận, bên kia vi phạm nghiêm trọng nghĩa vụ hợp đồng, trường hợp khác do luật quy định"
+                    ],
+                    "start": [
+                        68
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "hợp đồng chấm dứt trong trường hợp sau đây: hợp đồng đã được hoàn thành, theo thoả thuận của các bên, cá nhân giao kết hợp đồng chết, pháp nhân giao kết hợp đồng chấm dứt tồn tại mà hợp đồng phải do chính cá nhân, pháp nhân đó thực hiện, hợp đồng bị huỷ bỏ, bị đơn phương chấm dứt thực hiện, hợp đồng không thể thực hiện được do đối tượng của hợp đồng không còn, hợp đồng chấm dứt theo quy định tại điều 420 của bộ luật này, trường hợp khác do luật quy định ; điều 422.",
+        "qas": [
+            {
+                "question": "hợp đồng chấm dứt trong trường hợp nào ?",
+                "answer": {
+                    "text": [
+                        "hợp đồng đã được hoàn thành, theo thoả thuận của các bên, cá nhân giao kết hợp đồng chết, pháp nhân giao kết hợp đồng chấm dứt tồn tại mà hợp đồng phải do chính cá nhân, pháp nhân đó thực hiện, hợp đồng bị huỷ bỏ, bị đơn phương chấm dứt thực hiện, hợp đồng không thể thực hiện được do đối tượng của hợp đồng không còn, hợp đồng chấm dứt theo quy định"
+                    ],
+                    "start": [
+                        44
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "sửa đổi hợp đồng: các bên có thể thoả thuận sửa đổi hợp đồng, hợp đồng có thể được sửa đổi theo quy định tại điều 420 của bộ luật này, hợp đồng sửa đổi phải tuân theo hình thức của hợp đồng ban đầu ; điều 421.",
+        "qas": [
+            {
+                "question": "có thể sửa đổi hợp đồng không ?",
+                "answer": {
+                    "text": [
+                        "các bên có thể thoả thuận sửa đổi hợp đồng"
+                    ],
+                    "start": [
+                        18
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "thiệt hại được bồi thường do vi phạm hợp đồng: thiệt hại được bồi thường do vi phạm nghĩa vụ theo hợp đồng được xác định theo quy định tại khoản 2 điều này, điều 13 và điều 360 của bộ luật này, người có quyền có thể yêu cầu bồi thường thiệt hại cho lợi ích mà lẽ ra mình sẽ được hưởng do hợp đồng mang lại. người có quyền còn có thể yêu cầu người có nghĩa vụ chi trả chi phí phát sinh do không hoàn thành nghĩa vụ hợp đồng mà không trùng lặp với mức bồi thường thiệt hại cho lợi ích mà hợp đồng mang lại, theo yêu cầu của người có quyền, tòa án có thể buộc người có nghĩa vụ bồi thường thiệt hại về tinh thần cho người có quyền. mức bồi thường do tòa án quyết định căn cứ vào nội dung vụ việc ; điều 419.",
+        "qas": [
+            {
+                "question": "Thiệt hại được bồi thường do vi phạm hợp đồng được quyết định như thế nào ?",
+                "answer": {
+                    "text": [
+                        "thiệt hại được bồi thường do vi phạm hợp đồng: thiệt hại được bồi thường do vi phạm nghĩa vụ theo hợp đồng được xác định theo quy định tại khoản 2 điều này, điều 13 và điều 360 của bộ luật này"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "thoả thuận phạt vi phạm: phạt vi phạm là sự thoả thuận giữa các bên trong hợp đồng, theo đó bên vi phạm nghĩa vụ phải nộp một khoản tiền cho bên bị vi phạm, mức phạt vi phạm do các bên thoả thuận, trừ trường hợp luật liên quan có quy định khác, các bên có thể thoả thuận về việc bên vi phạm nghĩa vụ chỉ phải chịu phạt vi phạm mà không phải bồi thường thiệt hại hoặc vừa phải chịu phạt vi phạm và vừa phải bồi thường thiệt hại, trường hợp các bên có thoả thuận về phạt vi phạm nhưng không thỏa thuận về việc vừa phải chịu phạt vi phạm và vừa phải bồi thường thiệt hại thì bên vi phạm nghĩa vụ chỉ phải chịu phạt vi phạm ; điều 418.",
+        "qas": [
+            {
+                "question": "Phạt vi phạm là gì ?",
+                "answer": {
+                    "text": [
+                        "phạt vi phạm là sự thoả thuận giữa các bên trong hợp đồng,  theo đó bên vi phạm nghĩa vụ phải nộp một khoản tiền cho bên bị vi phạm"
+                    ],
+                    "start": [
+                        25
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "khi người thứ ba đã đồng ý hưởng lợi ích thì dù hợp đồng chưa được thực hiện, các bên giao kết hợp đồng cũng không được sửa đổi hoặc huỷ bỏ hợp đồng, trừ trường hợp được người thứ ba đồng ý ; điều 417.",
+        "qas": [
+            {
+                "question": "được sửa đổi vì lợi ích của người thứ ba không ?",
+                "answer": {
+                    "text": [
+                        "khi người thứ ba đã đồng ý hưởng lợi ích thì dù hợp đồng chưa được thực hiện, các bên giao kết hợp đồng cũng không được sửa đổi hoặc huỷ bỏ hợp đồng"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "khi thực hiện hợp đồng vì lợi ích của người thứ ba thì người thứ ba có quyền trực tiếp yêu cầu bên có nghĩa vụ phải thực hiện nghĩa vụ đối với mình; nếu các bên trong hợp đồng có tranh chấp về việc thực hiện hợp đồng thì người thứ ba không có quyền yêu cầu thực hiện nghĩa vụ cho đến khi tranh chấp được giải quyết, bên có quyền cũng có thể yêu cầu bên có nghĩa vụ thực hiện hợp đồng vì lợi ích của người thứ ba ; điều 415.",
+        "qas": [
+            {
+                "question": "người thứ ba có quyền yêu cầu bên có nghĩa vụ phải thực hiện nghĩa vụ đối với mình theo hợp đồng không ?",
+                "answer": {
+                    "text": [
+                        "khi thực hiện hợp đồng vì lợi ích của người thứ ba thì người thứ ba có quyền trực tiếp yêu cầu bên có nghĩa vụ phải thực hiện nghĩa vụ đối với mình"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp ngay từ khi giao kết, hợp đồng có đối tượng không thể thực hiện được thì hợp đồng này bị vô hiệu, trường hợp khi giao kết hợp đồng mà một bên biết hoặc phải biết về việc hợp đồng có đối tượng không thể thực hiện được nhưng không thông báo cho bên kia biết nên bên kia đã giao kết hợp đồng thì phải bồi thường thiệt hại cho bên kia, trừ trường hợp bên kia biết hoặc phải biết về việc hợp đồng có đối tượng không thể thực hiện được, quy định tại khoản 1 và khoản 2 điều này cũng được áp dụng đối với trường hợp hợp đồng có một hoặc nhiều phần đối tượng không thể thực hiện được nhưng phần còn lại của hợp đồng vẫn có hiệu lực ; điều 408.",
+        "qas": [
+            {
+                "question": "đối tượng không thể thực hiện được cam kết thì hợp đồng có vô hiệu ?",
+                "answer": {
+                    "text": [
+                        "'trường hợp ngay từ khi giao kết, hợp đồng có đối tượng không thể thực hiện được thì hợp đồng này bị vô hiệu"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "hợp đồng vô hiệu: quy định về giao dịch dân sự vô hiệu từ điều 123 đến điều 133 của bộ luật này cũng được áp dụng đối với hợp đồng vô hiệu, sự vô hiệu của hợp đồng chính làm chấm dứt hợp đồng phụ, trừ trường hợp các bên có thoả thuận hợp đồng phụ được thay thế hợp đồng chính. quy định này không áp dụng đối với biện pháp bảo đảm thực hiện nghĩa vụ, sự vô hiệu của hợp đồng phụ không làm chấm dứt hợp đồng chính, trừ trường hợp các bên thoả thuận hợp đồng phụ là một phần không thể tách rời của hợp đồng chính ; điều 407.",
+        "qas": [
+            {
+                "question": "vô hiệu của hợp đồng chính có làm chấm dứt hợp đồng phụ ?",
+                "answer": {
+                    "text": [
+                        "sự vô hiệu của hợp đồng chính làm chấm dứt hợp đồng phụ"
+                    ],
+                    "start": [
+                        140
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "điều kiện giao dịch chung là những điều khoản ổn định do một bên công bố để áp dụng chung cho bên được đề nghị giao kết hợp đồng; nếu bên được đề nghị chấp nhận giao kết hợp đồng thì coi như chấp nhận các điều khoản này ; điều 406 khoản 1.",
+        "qas": [
+            {
+                "question": "Điều kiện giao dịch chung là gì ?",
+                "answer": {
+                    "text": [
+                        "điều kiện giao dịch chung là những điều khoản ổn định do một bên công bố để áp dụng chung cho bên được đề nghị giao kết hợp đồng"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "hợp đồng theo mẫu là hợp đồng gồm những điều khoản do một bên đưa ra theo mẫu để bên kia trả lời trong một thời gian hợp lý; nếu bên được đề nghị trả lời chấp nhận thì coi như chấp nhận toàn bộ nội dung hợp đồng theo mẫu mà bên đề nghị đã đưa ra, hợp đồng theo mẫu phải được công khai để bên được đề nghị biết hoặc phải biết về những nội dung của hợp đồng, trình tự, thể thức công khai hợp đồng theo mẫu thực hiện theo quy định của pháp luật ; điều 405 khoản 1.",
+        "qas": [
+            {
+                "question": "Hợp đồng theo mẫu là gì ?",
+                "answer": {
+                    "text": [
+                        "hợp đồng theo mẫu là hợp đồng gồm những điều khoản do một bên đưa ra theo mẫu để bên kia trả lời trong một thời gian hợp lý"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "giải thích hợp đồng: khi hợp đồng có điều khoản không rõ ràng thì việc giải thích điều khoản đó không chỉ dựa vào ngôn từ của hợp đồng mà còn phải căn cứ vào ý chí của các bên được thể hiện trong toàn bộ quá trình trước, tại thời điểm xác lập, thực hiện hợp đồng, khi hợp đồng có điều khoản hoặc ngôn từ có thể hiểu theo nhiều nghĩa khác nhau thì phải giải thích theo nghĩa phù hợp nhất với mục đích, tính chất của hợp đồng, khi hợp đồng có điều khoản hoặc ngôn từ khó hiểu thì phải được giải thích theo tập quán tại địa điểm giao kết hợp đồng, các điều khoản trong hợp đồng phải được giải thích trong mối liên hệ với nhau, sao cho ý nghĩa của các điều khoản đó phù hợp với toàn bộ nội dung hợp đồng, trường hợp có sự mâu thuẫn giữa ý chí chung của các bên với ngôn từ sử dụng trong hợp đồng thì ý chí chung của các bên được dùng để giải thích hợp đồng, trường hợp bên soạn thảo đưa vào hợp đồng nội dung bất lợi cho bên kia thì khi giải thích hợp đồng phải theo hướng có lợi cho bên kia ; điều 404.",
+        "qas": [
+            {
+                "question": "hợp đồng có điều khoản không rõ ràng thì phải làm sao ?",
+                "answer": {
+                    "text": [
+                        "khi hợp đồng có điều khoản không rõ ràng thì việc giải thích điều khoản đó không chỉ dựa vào ngôn từ của hợp đồng mà còn phải căn cứ vào ý chí của các bên được thể hiện trong toàn bộ quá trình trước, tại thời điểm xác lập, thực hiện hợp đồng"
+                    ],
+                    "start": [
+                        21
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "hợp đồng có thể có phụ lục kèm theo để quy định chi tiết một số điều khoản của hợp đồng. phụ lục hợp đồng có hiệu lực như hợp đồng. nội dung của phụ lục hợp đồng không được trái với nội dung của hợp đồng ; điều 403 khoản 1.",
+        "qas": [
+            {
+                "question": "Hợp đồng có cần phụ lục kèm theo không ?",
+                "answer": {
+                    "text": [
+                        "hợp đồng có thể có phụ lục kèm theo để quy định chi tiết một số điều khoản của hợp đồng"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "hợp đồng gồm các loại chủ yếu sau đây: hợp đồng song vụ là hợp đồng mà mỗi bên đều có nghĩa vụ đối với nhau, hợp đồng đơn vụ là hợp đồng mà chỉ một bên có nghĩa vụ, hợp đồng chính là hợp đồng mà hiệu lực không phụ thuộc vào hợp đồng phụ, hợp đồng phụ là hợp đồng mà hiệu lực phụ thuộc vào hợp đồng chính, hợp đồng vì lợi ích của người thứ ba là hợp đồng mà các bên giao kết hợp đồng đều phải thực hiện nghĩa vụ và người thứ ba được hưởng lợi ích từ việc thực hiện nghĩa vụ đó, hợp đồng có điều kiện là hợp đồng mà việc thực hiện phụ thuộc vào việc phát sinh, thay đổi hoặc chấm dứt một sự kiện nhất định ; điều 402.",
+        "qas": [
+            {
+                "question": "Hợp đồng gồm các loại nào ?",
+                "answer": {
+                    "text": [
+                        "chủ yếu sau đây: hợp đồng song vụ là hợp đồng mà mỗi bên đều có nghĩa vụ đối với nhau, hợp đồng đơn vụ là hợp đồng mà chỉ một bên có nghĩa vụ, hợp đồng chính là hợp đồng mà hiệu lực không phụ thuộc vào hợp đồng phụ, hợp đồng phụ là hợp đồng mà hiệu lực phụ thuộc vào hợp đồng chính, hợp đồng vì lợi ích của người thứ ba là hợp đồng mà các bên giao kết hợp đồng đều phải thực hiện nghĩa vụ và người thứ ba được hưởng lợi ích từ việc thực hiện nghĩa vụ đó, hợp đồng có điều kiện là hợp đồng mà việc thực hiện phụ thuộc vào việc phát sinh, thay đổi hoặc chấm dứt một sự kiện nhất định"
+                    ],
+                    "start": [
+                        22
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "hợp đồng được giao kết hợp pháp có hiệu lực từ thời điểm giao kết, trừ trường hợp có thỏa thuận khác hoặc luật liên quan có quy định khác, từ thời điểm hợp đồng có hiệu lực, các bên phải thực hiện quyền và nghĩa vụ đối với nhau theo cam kết. hợp đồng chỉ có thể bị sửa đổi hoặc hủy bỏ theo thỏa thuận của các bên hoặc theo quy định của pháp luật ; điều 401.",
+        "qas": [
+            {
+                "question": "Hợp đồng được giao kết hợp pháp có hiệu lực khi nào ?",
+                "answer": {
+                    "text": [
+                        "hợp đồng được giao kết hợp pháp có hiệu lực từ thời điểm giao kết"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "hợp đồng về quyền sử dụng đất là sự thỏa thuận giữa các bên, theo đó người sử dụng đất chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, tặng cho, thế chấp, góp vốn quyền sử dụng đất hoặc thực hiện quyền khác theo quy định của luật đất đai cho bên kia; bên kia thực hiện quyền, nghĩa vụ theo hợp đồng với người sử dụng đất ; điều 500.",
+        "qas": [
+            {
+                "question": "Hợp đồng về quyền sử dụng đất là gì ?",
+                "answer": {
+                    "text": [
+                        "hợp đồng về quyền sử dụng đất là sự thỏa thuận giữa các bên, theo đó người sử dụng đất chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, tặng cho, thế chấp, góp vốn quyền sử dụng đất hoặc thực hiện quyền khác theo quy định của luật"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "quyền của bên cho mượn tài sản: đòi lại tài sản ngay sau khi bên mượn đạt được mục đích nếu không có thoả thuận về thời hạn mượn; nếu bên cho mượn có nhu cầu đột xuất và cấp bách cần sử dụng tài sản cho mượn thì được đòi lại tài sản đó mặc dù bên mượn chưa đạt được mục đích, nhưng phải báo trước một thời gian hợp lý, đòi lại tài sản khi bên mượn sử dụng không đúng mục đích, công dụng, không đúng cách thức đã thoả thuận hoặc cho người khác mượn lại mà không có sự đồng ý của bên cho mượn, yêu cầu bồi thường thiệt hại đối với tài sản do bên mượn gây ra ; điều 499.",
+        "qas": [
+            {
+                "question": "bên mượn đạt được mục đích thì bên cho mượn có quyền đòi lại tài sản không ?",
+                "answer": {
+                    "text": [
+                        "đòi lại tài sản ngay sau khi bên mượn đạt được mục đích nếu không có thoả thuận về thời hạn mượn"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "nghĩa vụ của bên cho mượn tài sản: cung cấp thông tin cần thiết về việc sử dụng tài sản và khuyết tật của tài sản, nếu có, thanh toán cho bên mượn chi phí sửa chữa, chi phí làm tăng giá trị tài sản, nếu có thoả thuận, bồi thường thiệt hại cho bên mượn nếu biết tài sản có khuyết tật mà không báo cho bên mượn biết dẫn đến gây thiệt hại cho bên mượn, trừ những khuyết tật mà bên mượn biết hoặc phải biết ; điều 498.",
+        "qas": [
+            {
+                "question": "bên cho mượn tài sản cần cung cấp thông tin gì cho người mượn tài sản ?",
+                "answer": {
+                    "text": [
+                        "cung cấp thông tin cần thiết về việc sử dụng tài sản và khuyết tật của tài sản, nếu có, thanh toán cho bên mượn chi phí sửa chữa, chi phí làm tăng giá trị tài sản, nếu có thoả thuận"
+                    ],
+                    "start": [
+                        35
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "quyền của bên mượn tài sản: được sử dụng tài sản mượn theo đúng công dụng của tài sản và đúng mục đích đã thoả thuận, yêu cầu bên cho mượn thanh toán chi phí hợp lý về việc sửa chữa hoặc làm tăng giá trị tài sản mượn, nếu có thoả thuận, không phải chịu trách nhiệm về những hao mòn tự nhiên của tài sản mượn ; điều 497.",
+        "qas": [
+            {
+                "question": "bên mượn tài sản yêu cầu bên cho mượn thực hiện nghĩa vụ gì ?",
+                "answer": {
+                    "text": [
+                        "được sử dụng tài sản mượn theo đúng công dụng của tài sản và đúng mục đích đã thoả thuận, yêu cầu bên cho mượn thanh toán chi phí hợp lý về việc sửa chữa hoặc làm tăng giá trị tài sản mượn, nếu có thoả thuận, không phải chịu trách nhiệm về những hao mòn tự nhiên của tài sản mượn"
+                    ],
+                    "start": [
+                        28
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "nghĩa vụ của bên mượn tài sản: giữ gìn, bảo quản tài sản mượn, không được tự ý thay đổi tình trạng của tài sản; nếu tài sản bị hư hỏng thông thường thì phải sửa chữa, không được cho người khác mượn lại, nếu không có sự đồng ý của bên cho mượn, trả lại tài sản mượn đúng thời hạn; nếu không có thoả thuận về thời hạn trả lại tài sản thì bên mượn phải trả lại tài sản ngay sau khi mục đích mượn đã đạt được, bồi thường thiệt hại, nếu làm mất, hư hỏng tài sản mượn, bên mượn tài sản phải chịu rủi ro đối với tài sản mượn trong thời gian chậm trả ; điều 496.",
+        "qas": [
+            {
+                "question": "Nghĩa vụ của bên mượn tài sản ?",
+                "answer": {
+                    "text": [
+                        "giữ gìn, bảo quản tài sản mượn, không được tự ý thay đổi tình trạng của tài sản; nếu tài sản bị hư hỏng thông thường thì phải sửa chữa, không được cho người khác mượn lại, nếu không có sự đồng ý của bên cho mượn, trả lại tài sản mượn đúng thời hạn"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "tất cả những tài sản không tiêu hao đều có thể là đối tượng của hợp đồng mượn tài sản ; điều 495.",
+        "qas": [
+            {
+                "question": "Đối tượng của hợp đồng mượn tài sản ?",
+                "answer": {
+                    "text": [
+                        "tất cả những tài sản không tiêu hao đều có thể là đối tượng của hợp đồng mượn tài sản"
+                    ],
+                    "start": [
+                        31
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "hợp đồng mượn tài sản là sự thỏa thuận giữa các bên, theo đó bên cho mượn giao tài sản cho bên mượn để sử dụng trong một thời hạn mà không phải trả tiền, bên mượn phải trả lại tài sản đó khi hết thời hạn mượn hoặc mục đích mượn đã đạt được ; điều 494.",
+        "qas": [
+            {
+                "question": "Hợp đồng mượn tài sản là gì ?",
+                "answer": {
+                    "text": [
+                        "hợp đồng mượn tài sản là sự thỏa thuận giữa các bên, theo đó bên cho mượn giao tài sản cho bên mượn để sử dụng trong một thời hạn mà không phải trả tiền, bên mượn phải trả lại tài sản đó khi hết thời hạn mượn hoặc mục đích mượn đã đạt được"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "khi chấm dứt hợp đồng thuê khoán, bên thuê khoán phải trả lại tài sản thuê khoán ở tình trạng phù hợp với mức độ khấu hao đã thoả thuận; nếu làm mất giá trị hoặc giảm sút giá trị của tài sản thuê khoán thì phải bồi thường thiệt hại ; điều 493.",
+        "qas": [
+            {
+                "question": "chấm dứt hợp đồng thuê khoán thì bên thuê cần trả lại tài sản không ?",
+                "answer": {
+                    "text": [
+                        "khi chấm dứt hợp đồng thuê khoán, bên thuê khoán phải trả lại tài sản thuê khoán ở tình trạng phù hợp với mức độ khấu hao đã thoả thuận"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp một bên đơn phương chấm dứt thực hiện hợp đồng thì phải báo cho bên kia biết trước một thời gian hợp lý; nếu thuê khoán theo thời vụ hoặc theo chu kỳ khai thác thì thời hạn báo trước phải phù hợp với thời vụ hoặc chu kỳ khai thác ; điều 492 khoản 1.",
+        "qas": [
+            {
+                "question": "Đơn phương chấm dứt thực hiện hợp đồng thuê khoán không ?",
+                "answer": {
+                    "text": [
+                        "một bên đơn phương chấm dứt thực hiện hợp đồng thì phải báo cho bên kia biết trước một thời gian hợp lý; nếu thuê khoán theo thời vụ hoặc theo chu kỳ khai thác thì thời hạn báo trước phải phù hợp với thời vụ hoặc chu kỳ khai thác"
+                    ],
+                    "start": [
+                        11
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trong thời hạn thuê khoán gia súc, bên thuê khoán được hưởng một nửa số gia súc sinh ra và phải chịu một nửa thiệt hại về gia súc thuê khoán do sự kiện bất khả kháng, trừ trường hợp có thoả thuận khác ; điều 491.",
+        "qas": [
+            {
+                "question": "Hưởng hoa lợi, chịu thiệt hại về gia súc thuê khoán như thế nào ?",
+                "answer": {
+                    "text": [
+                        "trong thời hạn thuê khoán gia súc, bên thuê khoán được hưởng một nửa số gia súc sinh ra và phải chịu một nửa thiệt hại về gia súc thuê khoán do sự kiện bất khả kháng, trừ trường hợp có thoả thuận khác"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trong thời hạn khai thác tài sản thuê khoán, bên thuê khoán phải bảo quản, bảo dưỡng tài sản thuê khoán và trang thiết bị kèm theo bằng chi phí của mình, trừ trường hợp có thoả thuận khác; nếu bên thuê khoán làm mất, hư hỏng hoặc làm mất giá trị, giảm sút giá trị tài sản thuê khoán thì phải bồi thường thiệt hại. bên thuê khoán không chịu trách nhiệm về những hao mòn tự nhiên do sử dụng tài sản thuê khoán, bên thuê khoán có thể tự mình sửa chữa, cải tạo tài sản thuê khoán, nếu có thoả thuận và phải bảo toàn giá trị tài sản thuê khoán, bên cho thuê khoán phải thanh toán cho bên thuê khoán chi phí hợp lý để sửa chữa, cải tạo tài sản thuê khoán theo thoả thuận, bên thuê khoán không được cho thuê khoán lại, trừ trường hợp được bên cho thuê khoán đồng ý ; điều 490.",
+        "qas": [
+            {
+                "question": "Bảo quản, bảo dưỡng, định đoạt tài sản thuê khoán như thế nào ?",
+                "answer": {
+                    "text": [
+                        "bên thuê khoán phải bảo quản, bảo dưỡng tài sản thuê khoán và trang thiết bị kèm theo bằng chi phí của mình"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "bên thuê khoán phải khai thác tài sản thuê khoán đúng mục đích đã thoả thuận và báo cho bên thuê khoán theo định kỳ về tình trạng tài sản và tình hình khai thác tài sản; nếu bên cho thuê khoán có yêu cầu hoặc cần báo đột xuất thì bên thuê khoán phải báo kịp thời. khi bên thuê khoán khai thác công dụng tài sản thuê khoán không đúng mục đích thì bên cho thuê khoán có quyền đơn phương chấm dứt thực hiện hợp đồng và yêu cầu bồi thường thiệt hại ; điều 489.",
+        "qas": [
+            {
+                "question": "Khai thác tài sản thuê khoán như thế nào ?",
+                "answer": {
+                    "text": [
+                        "bên thuê khoán phải khai thác tài sản thuê khoán đúng mục đích đã thoả thuận và báo cho bên thuê khoán theo định kỳ về tình trạng tài sản và tình hình khai thác tài sản"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "tiền thuê khoán có thể bằng hiện vật, bằng tiền hoặc bằng việc thực hiện một công việc, bên thuê khoán phải trả đủ tiền thuê khoán cho dù không khai thác công dụng tài sản thuê khoán, khi giao kết hợp đồng thuê khoán, các bên có thể thoả thuận điều kiện về việc giảm tiền thuê khoán; nếu hoa lợi, lợi tức bị mất ít nhất là một phần ba do sự kiện bất khả kháng thì bên thuê khoán có quyền yêu cầu giảm hoặc miễn tiền thuê khoán, trừ trường hợp có thoả thuận khác, trường hợp bên thuê khoán phải trả hiện vật theo thời vụ hoặc theo chu kỳ khai thác công dụng của tài sản thuê khoán thì phải trả vào thời điểm kết thúc thời vụ hoặc kết thúc chu kỳ khai thác, trừ trường hợp có thoả thuận khác, trường hợp bên thuê khoán phải thực hiện một công việc thì phải thực hiện đúng công việc đó, thời hạn trả tiền thuê khoán do các bên thỏa thuận, trường hợp các bên không có thỏa thuận thì bên thuê khoán phải thanh toán vào ngày cuối cùng của mỗi tháng; trường hợp thuê khoán theo chu kỳ sản xuất, kinh doanh thì phải thanh toán chậm nhất khi kết thúc chu kỳ sản xuất, kinh doanh đó ; điều 488.",
+        "qas": [
+            {
+                "question": "Trả tiền thuê khoán trả như thế nào ?",
+                "answer": {
+                    "text": [
+                        "tiền thuê khoán có thể bằng hiện vật, bằng tiền hoặc bằng việc thực hiện một công việc"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "khi giao tài sản thuê khoán, các bên phải lập biên bản đánh giá tình trạng của tài sản thuê khoán và xác định giá trị tài sản thuê khoán, trường hợp các bên không xác định được giá trị thì mời người thứ ba xác định giá trị và phải lập thành văn bản ; điều 487.",
+        "qas": [
+            {
+                "question": "Giao tài sản thuê khoán cần yêu cầu gì không ?",
+                "answer": {
+                    "text": [
+                        "khi giao tài sản thuê khoán, các bên phải lập biên bản đánh giá tình trạng của tài sản thuê khoán và xác định giá trị tài sản thuê khoán"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "giá thuê khoán do các bên thoả thuận; nếu thuê khoán thông qua đấu thầu thì giá thuê khoán là giá được xác định theo kết quả đấu thầu ; điều 486.",
+        "qas": [
+            {
+                "question": "Giá thuê khoán do bên nào quyết định ?",
+                "answer": {
+                    "text": [
+                        "giá thuê khoán do các bên thoả thuận; nếu thuê khoán thông qua đấu thầu thì giá thuê khoán là giá được xác định theo kết quả đấu thầu"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "thời hạn thuê khoán do các bên thoả thuận. trường hợp không có thỏa thuận hoặc có thỏa thuận nhưng không rõ ràng thì thời hạn thuê khoán được xác định theo chu kỳ sản xuất, kinh doanh phù hợp với tính chất của đối tượng thuê khoán ; điều 485.",
+        "qas": [
+            {
+                "question": "Thời hạn thuê khoán do bên nào quyết định ?",
+                "answer": {
+                    "text": [
+                        "thời hạn thuê khoán do các bên thoả thuận"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "hợp đồng thuê khoán tài sản là sự thỏa thuận giữa các bên, theo đó bên cho thuê khoán giao tài sản cho bên thuê khoán để khai thác công dụng, hưởng hoa lợi, lợi tức thu được từ tài sản thuê khoán và bên thuê khoán có nghĩa vụ trả tiền thuê ; điều 483.",
+        "qas": [
+            {
+                "question": "Hợp đồng thuê khoán tài sản là gì ?",
+                "answer": {
+                    "text": [
+                        "hợp đồng thuê khoán tài sản là sự thỏa thuận giữa các bên, theo đó bên cho thuê khoán giao tài sản cho bên thuê khoán để khai thác công dụng, hưởng hoa lợi, lợi tức thu được từ tài sản thuê khoán và bên thuê khoán có nghĩa vụ trả tiền thuê"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "bên thuê phải trả đủ tiền thuê đúng thời hạn đã thoả thuận; nếu không có thoả thuận về thời hạn trả tiền thuê thì thời hạn trả tiền thuê được xác định theo tập quán nơi trả tiền; nếu không thể xác định được thời hạn theo tập quán thì bên thuê phải trả tiền khi trả lại tài sản thuê, trường hợp các bên thoả thuận việc trả tiền thuê theo kỳ hạn thì bên cho thuê có quyền đơn phương chấm dứt thực hiện hợp đồng, nếu bên thuê không trả tiền trong ba kỳ liên tiếp, trừ trường hợp có thỏa thuận khác hoặc pháp luật có quy định khác ; điều 481.",
+        "qas": [
+            {
+                "question": "quá trình trả tiền thuê như thế nào ?",
+                "answer": {
+                    "text": [
+                        "bên thuê phải trả đủ tiền thuê đúng thời hạn đã thoả thuận; nếu không có thoả thuận về thời hạn trả tiền thuê thì thời hạn trả tiền thuê được xác định theo tập quán nơi trả tiền"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "bên thuê phải sử dụng tài sản thuê theo đúng công dụng của tài sản và đúng mục đích đã thoả thuận, trường hợp bên thuê sử dụng tài sản không đúng mục đích, không đúng công dụng thì bên cho thuê có quyền đơn phương chấm dứt thực hiện hợp đồng và yêu cầu bồi thường thiệt hại ; điều 480.",
+        "qas": [
+            {
+                "question": "Nghĩa vụ sử dụng tài sản thuê như thế nào ?",
+                "answer": {
+                    "text": [
+                        "bên thuê phải sử dụng tài sản thuê theo đúng công dụng của tài sản và đúng mục đích đã thoả thuận"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "bên thuê phải bảo quản tài sản thuê, phải bảo dưỡng và sửa chữa nhỏ; nếu làm mất, hư hỏng thì phải bồi thường, bên thuê không chịu trách nhiệm về những hao mòn tự nhiên do sử dụng tài sản thuê ; điều 479 khoản 1.",
+        "qas": [
+            {
+                "question": "Nghĩa vụ bảo quản tài sản thuê như thế nào ?",
+                "answer": {
+                    "text": [
+                        "bên thuê phải bảo quản tài sản thuê, phải bảo dưỡng và sửa chữa nhỏ; nếu làm mất, hư hỏng thì phải bồi thường, bên thuê không chịu trách nhiệm về những hao mòn tự nhiên do sử dụng tài sản thuê"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "bên cho thuê phải bảo đảm quyền sử dụng tài sản ổn định cho bên thuê, trường hợp có tranh chấp về quyền sở hữu đối với tài sản thuê mà bên thuê không được sử dụng tài sản ổn định thì bên thuê có quyền đơn phương chấm dứt thực hiện hợp đồng và yêu cầu bồi thường thiệt hại ; điều 478.",
+        "qas": [
+            {
+                "question": "Nghĩa vụ quyền sử dụng tài sản cho bên thuê như thế nào ?",
+                "answer": {
+                    "text": [
+                        "bên cho thuê phải bảo đảm quyền sử dụng tài sản ổn định cho bên thuê"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "bên cho thuê phải bảo đảm tài sản thuê trong tình trạng như đã thoả thuận, phù hợp với mục đích thuê trong suốt thời gian cho thuê; phải sửa chữa những hư hỏng, khuyết tật của tài sản thuê, trừ hư hỏng nhỏ mà theo tập quán bên thuê phải tự sửa chữa ; điều 477 khoản 1.",
+        "qas": [
+            {
+                "question": "Nghĩa vụ bảo đảm giá trị sử dụng của tài sản thuê ra sao ?",
+                "answer": {
+                    "text": [
+                        "bên cho thuê phải bảo đảm tài sản thuê trong tình trạng như đã thoả thuận, phù hợp với mục đích thuê trong suốt thời gian cho thuê"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "bên cho thuê phải giao tài sản cho bên thuê đúng số lượng, chất lượng, chủng loại, tình trạng, thời điểm, địa điểm đã thoả thuận và cung cấp thông tin cần thiết về việc sử dụng tài sản đó, trường hợp bên cho thuê chậm giao tài sản thì bên thuê có thể gia hạn giao tài sản hoặc hủy bỏ hợp đồng và yêu cầu bồi thường thiệt hại; nếu tài sản thuê không đúng chất lượng như thoả thuận thì bên thuê có quyền yêu cầu bên cho thuê sửa chữa, giảm giá thuê hoặc hủy bỏ hợp đồng và yêu cầu bồi thường thiệt hại ; điều 476.",
+        "qas": [
+            {
+                "question": "hình thức giao tài sản thuê như thế nào ?",
+                "answer": {
+                    "text": [
+                        "bên cho thuê phải giao tài sản cho bên thuê đúng số lượng, chất lượng, chủng loại, tình trạng, thời điểm, địa điểm đã thoả thuận và cung cấp thông tin cần thiết về việc sử dụng tài sản đó"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "bên thuê có quyền cho thuê lại tài sản mà mình đã thuê, nếu được bên cho thuê đồng ý ; điều 475.",
+        "qas": [
+            {
+                "question": "Cho thuê lại như thế nào ?",
+                "answer": {
+                    "text": [
+                        "bên thuê có quyền cho thuê lại tài sản mà mình đã thuê, nếu được bên cho thuê đồng ý"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "thời hạn thuê do các bên thoả thuận; nếu không có thoả thuận thì được xác định theo mục đích thuê, trường hợp các bên không thoả thuận về thời hạn thuê và thời hạn thuê không thể xác định được theo mục đích thuê thì mỗi bên có quyền chấm dứt hợp đồng bất cứ lúc nào, nhưng phải thông báo cho bên kia trước một thời gian hợp lý ; điều 474.",
+        "qas": [
+            {
+                "question": "Thời hạn thuê do bên nào quyết định ?",
+                "answer": {
+                    "text": [
+                        "thời hạn thuê do các bên thoả thuận; nếu không có thoả thuận thì được xác định theo mục đích thuê"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "giá thuê do các bên thoả thuận hoặc do người thứ ba xác định theo yêu cầu của các bên, trừ trường hợp luật có quy định khác, trường hợp không có thỏa thuận hoặc thỏa thuận không rõ ràng thì giá thuê được xác định theo giá thị trường tại địa điểm và thời điểm giao kết hợp đồng thuê ; điều 473.",
+        "qas": [
+            {
+                "question": "Giá thuê do bên nào quyết định ?",
+                "answer": {
+                    "text": [
+                        "giá thuê do các bên thoả thuận hoặc do người thứ ba xác định theo yêu cầu của các bên"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "hợp đồng thuê tài sản là sự thỏa thuận giữa các bên, theo đó bên cho thuê giao tài sản cho bên thuê để sử dụng trong một thời hạn, bên thuê phải trả tiền thuê, hợp đồng thuê nhà ở, hợp đồng thuê nhà để sử dụng vào mục đích khác được thực hiện theo quy định của bộ luật này, luật nhà ở và quy định khác của pháp luật có liên quan ; điều 472.",
+        "qas": [
+            {
+                "question": "Hợp đồng thuê tài sản là gì ?",
+                "answer": {
+                    "text": [
+                        "hợp đồng thuê tài sản là sự thỏa thuận giữa các bên, theo đó bên cho thuê giao tài sản cho bên thuê để sử dụng trong một thời hạn, bên thuê phải trả tiền thuê, hợp đồng thuê nhà ở"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "họ, hụi, biêu, phường (sau đây gọi chung là họ) là hình thức giao dịch về tài sản theo tập quán trên cơ sở thoả thuận của một nhóm người tập hợp nhau lại cùng định ra số người, thời gian, số tiền hoặc tài sản khác, thể thức góp, lĩnh họ và quyền, nghĩa vụ của các thành viên ; điều 471 khoản 1.",
+        "qas": [
+            {
+                "question": "Họ, hụi, biêu, phường là gì ?",
+                "answer": {
+                    "text": [
+                        "là hình thức giao dịch về tài sản theo tập quán trên cơ sở thoả thuận của một nhóm người tập hợp nhau lại cùng định ra số người, thời gian, số tiền hoặc tài sản khác, thể thức góp, lĩnh họ và quyền, nghĩa vụ của các thành viên"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "đối với hợp đồng vay có kỳ hạn và không có lãi thì bên vay có quyền trả lại tài sản bất cứ lúc nào, nhưng phải báo trước cho bên cho vay một thời gian hợp lý, còn bên cho vay chỉ được đòi lại tài sản trước kỳ hạn, nếu được bên vay đồng ý ; điều 470 khoản 1.",
+        "qas": [
+            {
+                "question": "Thực hiện hợp đồng vay có kỳ hạn như thế nào ?",
+                "answer": {
+                    "text": [
+                        "đối với hợp đồng vay có kỳ hạn và không có lãi thì bên vay có quyền trả lại tài sản bất cứ lúc nào, nhưng phải báo trước cho bên cho vay một thời gian hợp lý"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "đối với hợp đồng vay không kỳ hạn và không có lãi thì bên cho vay có quyền đòi lại tài sản và bên vay cũng có quyền trả nợ vào bất cứ lúc nào, nhưng phải báo cho nhau biết trước một thời gian hợp lý, trừ trường hợp có thoả thuận khác ; điều 469 khoản 1.",
+        "qas": [
+            {
+                "question": "Thực hiện hợp đồng vay không kỳ hạn như thế nào ?",
+                "answer": {
+                    "text": [
+                        "đối với hợp đồng vay không kỳ hạn và không có lãi thì bên cho vay có quyền đòi lại tài sản và bên vay cũng có quyền trả nợ vào bất cứ lúc nào, nhưng phải báo cho nhau biết trước một thời gian hợp lý"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "lãi suất vay do các bên thỏa thuận, trường hợp các bên có thỏa thuận về lãi suất thì lãi suất theo thỏa thuận không được vượt quá 20%/năm của khoản tiền vay, trừ trường hợp luật khác có liên quan quy định khác. căn cứ tình hình thực tế và theo đề xuất của chính phủ, ủy ban thường vụ quốc hội quyết định điều chỉnh mức lãi suất nói trên và báo cáo quốc hội tại kỳ họp gần nhất, trường hợp lãi suất theo thỏa thuận vượt quá lãi suất giới hạn được quy định tại khoản này thì mức lãi suất vượt quá không có hiệu lực ; điều 468 khoản 1.",
+        "qas": [
+            {
+                "question": "Lãi suất do bên nào quyết định ?",
+                "answer": {
+                    "text": [
+                        "lãi suất vay do các bên thỏa thuận, trường hợp các bên có thỏa thuận về lãi suất thì lãi suất theo thỏa thuận không được vượt quá 20%/năm của khoản tiền vay"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "các bên có thể thoả thuận về việc tài sản vay phải được sử dụng đúng mục đích vay. bên cho vay có quyền kiểm tra việc sử dụng tài sản và có quyền đòi lại tài sản vay trước thời hạn nếu đã nhắc nhở mà bên vay vẫn sử dụng tài sản trái mục đích ; điều 467.",
+        "qas": [
+            {
+                "question": "Sử dụng tài sản vay như thế nào ?",
+                "answer": {
+                    "text": [
+                        "các bên có thể thoả thuận về việc tài sản vay phải được sử dụng đúng mục đích vay"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp bên vay không thể trả vật thì có thể trả bằng tiền theo trị giá của vật đã vay tại địa điểm và thời điểm trả nợ, nếu được bên cho vay đồng ý ; điều 466 khoản 2.",
+        "qas": [
+            {
+                "question": "bên vay không thể trả vật thì có thể trả bằng tiền ?",
+                "answer": {
+                    "text": [
+                        "trường hợp bên vay không thể trả vật thì có thể trả bằng tiền theo trị giá của vật đã vay tại địa điểm và thời điểm trả nợ, nếu được bên cho vay đồng ý"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "giao tài sản cho bên vay đầy đủ, đúng chất lượng, số lượng vào thời điểm và địa điểm đã thoả thuận, bồi thường thiệt hại cho bên vay, nếu bên cho vay biết tài sản không bảo đảm chất lượng mà không báo cho bên vay biết, trừ trường hợp bên vay biết mà vẫn nhận tài sản đó, không được yêu cầu bên vay trả lại tài sản trước thời hạn, trừ trường hợp quy định tại điều 470 của bộ luật này hoặc luật khác có liên quan quy định khác ; điều 465.",
+        "qas": [
+            {
+                "question": "Nghĩa vụ của bên cho vay ?",
+                "answer": {
+                    "text": [
+                        "giao tài sản cho bên vay đầy đủ, đúng chất lượng, số lượng vào thời điểm và địa điểm đã thoả thuận, bồi thường thiệt hại cho bên vay, nếu bên cho vay biết tài sản không bảo đảm chất lượng mà không báo cho bên vay biết"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "bên vay trở thành chủ sở hữu tài sản vay kể từ thời điểm nhận tài sản đó ; điều 464.",
+        "qas": [
+            {
+                "question": "Bên vay trở thành chủ sở hữu tài sản vay khi nào ?",
+                "answer": {
+                    "text": [
+                        "bên vay trở thành chủ sở hữu tài sản vay kể từ thời điểm nhận tài sản đó"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "hợp đồng vay tài sản là sự thỏa thuận giữa các bên, theo đó bên cho vay giao tài sản cho bên vay; khi đến hạn trả, bên vay phải hoàn trả cho bên cho vay tài sản cùng loại theo đúng số lượng, chất lượng và chỉ phải trả lãi nếu có thoả thuận hoặc pháp luật có quy định ; điều 463.",
+        "qas": [
+            {
+                "question": "Hợp đồng vay tài sản là gì ?",
+                "answer": {
+                    "text": [
+                        "hợp đồng vay tài sản là sự thỏa thuận giữa các bên, theo đó bên cho vay giao tài sản cho bên vay; khi đến hạn trả, bên vay phải hoàn trả cho bên cho vay tài sản cùng loại theo đúng số lượng, chất lượng và chỉ phải trả lãi nếu có thoả thuận hoặc pháp luật có quy định"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "bên tặng cho có thể yêu cầu bên được tặng cho thực hiện một hoặc nhiều nghĩa vụ trước hoặc sau khi tặng cho. điều kiện tặng cho không được vi phạm điều cấm của luật, không trái đạo đức xã hội ; điều 462 khoản 1.",
+        "qas": [
+            {
+                "question": "Bên tặng cho có thể yêu cầu bên được tặng thực hiện 1 số yêu cầu không ?",
+                "answer": {
+                    "text": [
+                        "bên tặng cho có thể yêu cầu bên được tặng cho thực hiện một hoặc nhiều nghĩa vụ trước hoặc sau khi tặng cho"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "bên tặng cho có nghĩa vụ thông báo cho bên được tặng cho khuyết tật của tài sản tặng cho. trường hợp bên tặng cho biết tài sản có khuyết tật mà không thông báo thì phải chịu trách nhiệm bồi thường thiệt hại xảy ra cho người được tặng cho; nếu bên tặng cho không biết về khuyết tật của tài sản tặng cho thì không phải chịu trách nhiệm bồi thường thiệt hại ; điều 461.",
+        "qas": [
+            {
+                "question": "khuyết tật của tài sản tặng cho có cần thông báo người được tặng không ?",
+                "answer": {
+                    "text": [
+                        "bên tặng cho có nghĩa vụ thông báo cho bên được tặng cho khuyết tật của tài sản tặng cho."
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp bên tặng cho cố ý tặng cho tài sản không thuộc sở hữu của mình mà bên được tặng cho không biết hoặc không thể biết về việc đó thì bên tặng cho phải thanh toán chi phí để làm tăng giá trị của tài sản cho bên được tặng cho khi chủ sở hữu lấy lại tài sản ; điều 460.",
+        "qas": [
+            {
+                "question": "cố ý tặng cho tài sản không thuộc sở hữu của mình sử lý như thế nào ?",
+                "answer": {
+                    "text": [
+                        "trường hợp bên tặng cho cố ý tặng cho tài sản không thuộc sở hữu của mình mà bên được tặng cho không biết hoặc không thể biết về việc đó thì bên tặng cho phải thanh toán chi phí để làm tăng giá trị của tài sản cho bên được tặng cho khi chủ sở hữu lấy lại tài sản"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "tặng cho bất động sản phải được lập thành văn bản có công chứng, chứng thực hoặc phải đăng ký, nếu bất động sản phải đăng ký quyền sở hữu theo quy định của luật, hợp đồng tặng cho bất động sản có hiệu lực kể từ thời điểm đăng ký; nếu bất động sản không phải đăng ký quyền sở hữu thì hợp đồng tặng cho có hiệu lực kể từ thời điểm chuyển giao tài sản ; điều 459.",
+        "qas": [
+            {
+                "question": "Tặng cho bất động sản phải thực hiện như thế nào ?",
+                "answer": {
+                    "text": [
+                        "tặng cho bất động sản phải được lập thành văn bản có công chứng, chứng thực hoặc phải đăng ký, nếu bất động sản phải đăng ký quyền sở hữu theo quy định của luật"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "hợp đồng tặng cho động sản có hiệu lực kể từ thời điểm bên được tặng cho nhận tài sản, trừ trường hợp có thỏa thuận khác, đối với động sản mà luật có quy định đăng ký quyền sở hữu thì hợp đồng tặng cho có hiệu lực kể từ thời điểm đăng ký ; điều 458.",
+        "qas": [
+            {
+                "question": "Hợp đồng tặng cho động sản có hiệu lực khi nào ?",
+                "answer": {
+                    "text": [
+                        "hợp đồng tặng cho động sản có hiệu lực kể từ thời điểm bên được tặng cho nhận tài sản"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "hợp đồng tặng cho tài sản là sự thỏa thuận giữa các bên, theo đó bên tặng cho giao tài sản của mình và chuyển quyền sở hữu cho bên được tặng cho mà không yêu cầu đền bù, bên được tặng cho đồng ý nhận ; điều 457.",
+        "qas": [
+            {
+                "question": "Hợp đồng tặng cho tài sản là gì ?",
+                "answer": {
+                    "text": [
+                        "hợp đồng tặng cho tài sản là sự thỏa thuận giữa các bên, theo đó bên tặng cho giao tài sản của mình và chuyển quyền sở hữu cho bên được tặng cho mà không yêu cầu đền bù, bên được tặng cho đồng ý nhận"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp tài sản trao đổi chênh lệch về giá trị thì các bên phải thanh toán cho nhau phần chênh lệch đó, trừ trường hợp có thoả thuận khác hoặc pháp luật có quy định khác ; điều 456.",
+        "qas": [
+            {
+                "question": "tài sản trao đổi chênh lệch về giá trị thì các bên phải làm sao ?",
+                "answer": {
+                    "text": [
+                        "trường hợp tài sản trao đổi chênh lệch về giá trị thì các bên phải thanh toán cho nhau phần chênh lệch đó"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "hợp đồng trao đổi tài sản là sự thoả thuận giữa các bên, theo đó các bên giao tài sản và chuyển quyền sở hữu đối với tài sản cho nhau, hợp đồng trao đổi tài sản phải được lập thành văn bản, có công chứng, chứng thực hoặc đăng ký, nếu pháp luật có quy định, trường hợp một bên trao đổi cho bên kia tài sản không thuộc quyền sở hữu của mình hoặc không được chủ sở hữu ủy quyền thì bên kia có quyền hủy bỏ hợp đồng và yêu cầu bồi thường thiệt hại, mỗi bên đều được coi là người bán đối với tài sản giao cho bên kia và là người mua đối với tài sản nhận về. các quy định về hợp đồng mua bán từ điều 430 đến điều 439, từ điều 441 đến điều 449 và điều 454 của bộ luật này cũng được áp dụng đối với hợp đồng trao đổi tài sản ; điều 455.",
+        "qas": [
+            {
+                "question": "Hợp đồng trao đổi tài sản là  gì ?",
+                "answer": {
+                    "text": [
+                        "hợp đồng trao đổi tài sản là sự thoả thuận giữa các bên, theo đó các bên giao tài sản và chuyển quyền sở hữu đối với tài sản cho nhau"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "bên bán có thể thoả thuận với bên mua về quyền chuộc lại tài sản đã bán sau một thời hạn gọi là thời hạn chuộc lại,thời hạn chuộc lại tài sản do các bên thoả thuận; trường hợp không có thỏa thuận thì thời hạn chuộc lại không quá 01 năm đối với động sản và 05 năm đối với bất động sản kể từ thời điểm giao tài sản, trừ trường hợp luật liên quan có quy định khác. trong thời hạn này, bên bán có quyền chuộc lại bất cứ lúc nào, nhưng phải báo trước cho bên mua trong một thời gian hợp lý. giá chuộc lại là giá thị trường tại thời điểm và địa điểm chuộc lại, trừ trường hợp có thoả thuận khác ; điều 454 khoản 1.",
+        "qas": [
+            {
+                "question": "có thể chuộc lại tài sản đã bán ?",
+                "answer": {
+                    "text": [
+                        "bên bán có thể thoả thuận với bên mua về quyền chuộc lại tài sản đã bán sau một thời hạn gọi là thời hạn chuộc lại,thời hạn chuộc lại tài sản do các bên thoả thuận"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "các bên có thể thoả thuận về việc bên mua trả chậm hoặc trả dần tiền mua trong một thời hạn sau khi nhận tài sản mua. bên bán được bảo lưu quyền sở hữu đối với tài sản bán cho đến khi bên mua trả đủ tiền, trừ trường hợp có thoả thuận khác ; điều 453 khoản 1.",
+        "qas": [
+            {
+                "question": "có thể thỏa thuận về việc bên mua trả chậm không ?",
+                "answer": {
+                    "text": [
+                        "các bên có thể thoả thuận về việc bên mua trả chậm hoặc trả dần tiền mua trong một thời hạn sau khi nhận tài sản mua. bên bán được bảo lưu quyền sở hữu đối với tài sản bán cho đến khi bên mua trả đủ tiền"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "các bên có thể thoả thuận về việc bên mua được dùng thử vật mua trong một thời hạn gọi là thời hạn dùng thử. trong thời hạn dùng thử, bên mua có thể trả lời mua hoặc không mua; nếu hết thời hạn dùng thử mà bên mua không trả lời thì coi như đã chấp nhận mua theo các điều kiện đã thoả thuận trước khi nhận vật dùng thử, trường hợp các bên không thỏa thuận hoặc thỏa thuận không rõ ràng về thời hạn dùng thử thì thời hạn này được xác định theo tập quán của giao dịch có đối tượng cùng loại ; điều 452 khoản 1.",
+        "qas": [
+            {
+                "question": "có thể thỏa thuận về việc bên mua được dùng thử vật mua không ?",
+                "answer": {
+                    "text": [
+                        "các bên có thể thoả thuận về việc bên mua được dùng thử vật mua trong một thời hạn gọi là thời hạn dùng thử. trong thời hạn dùng thử, bên mua có thể trả lời mua hoặc không mua"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "tài sản có thể được đem bán đấu giá theo ý chí của chủ sở hữu hoặc theo quy định của pháp luật. tài sản thuộc sở hữu chung đem bán đấu giá phải có sự đồng ý của tất cả các chủ sở hữu chung, trừ trường hợp có thoả thuận khác hoặc pháp luật có quy định khác, việc bán đấu giá tài sản phải đảm bảo nguyên tắc khách quan, công khai, minh bạch, bảo đảm quyền, lợi ích hợp pháp của các bên tham gia và được thực hiện theo quy định của pháp luật về bán đấu giá tài sản ; điều 451.",
+        "qas": [
+            {
+                "question": "có thể được đem bán đấu giá theo nguyện vọng của chủ sở hữu không ?",
+                "answer": {
+                    "text": [
+                        "tài sản có thể được đem bán đấu giá theo ý chí của chủ sở hữu hoặc theo quy định của pháp luật"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp mua bán quyền tài sản thì bên bán phải chuyển giấy tờ và làm thủ tục chuyển quyền sở hữu cho bên mua, bên mua phải trả tiền cho bên bán ; điều 450 khoản 1.",
+        "qas": [
+            {
+                "question": "thủ tục mua bán quyền tài sản ?",
+                "answer": {
+                    "text": [
+                        "trường hợp mua bán quyền tài sản thì bên bán phải chuyển giấy tờ và làm thủ tục chuyển quyền sở hữu cho bên mua, bên mua phải trả tiền cho bên bán"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "ngoài việc yêu cầu thực hiện các biện pháp bảo hành, bên mua có quyền yêu cầu bên bán bồi thường thiệt hại do khuyết tật về kỹ thuật của vật gây ra trong thời hạn bảo hành ; điều 449 khoản 1.",
+        "qas": [
+            {
+                "question": "Bồi thường thiệt hại trong thời hạn bảo hành ra sao ?",
+                "answer": {
+                    "text": [
+                        "ngoài việc yêu cầu thực hiện các biện pháp bảo hành, bên mua có quyền yêu cầu bên bán bồi thường thiệt hại do khuyết tật về kỹ thuật của vật gây ra trong thời hạn bảo hành"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "sửa chữa vật trong thời hạn bảo hành: bên bán phải sửa chữa vật và bảo đảm vật có đủ các tiêu chuẩn chất lượng hoặc có đủ các đặc tính đã cam kết, bên bán chịu chi phí về sửa chữa và vận chuyển vật đến nơi sửa chữa và từ nơi sửa chữa đến nơi cư trú hoặc trụ sở của bên mua, bên mua có quyền yêu cầu bên bán hoàn thành việc sửa chữa trong thời hạn do các bên thoả thuận hoặc trong một thời gian hợp lý; nếu bên bán không thể sửa chữa được hoặc không thể hoàn thành việc sửa chữa trong thời hạn đó thì bên mua có quyền yêu cầu giảm giá, đổi vật có khuyết tật lấy vật khác hoặc trả lại vật và lấy lại tiền ; điều 448.",
+        "qas": [
+            {
+                "question": "bên bán phải sửa chữa vật trong thời hạn bảo hành không ?",
+                "answer": {
+                    "text": [
+                        "bên bán phải sửa chữa vật và bảo đảm vật có đủ các tiêu chuẩn chất lượng hoặc có đủ các đặc tính đã cam kết, bên bán chịu chi phí về sửa chữa và vận chuyển vật đến nơi sửa chữa"
+                    ],
+                    "start": [
+                        38
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trong thời hạn bảo hành, nếu bên mua phát hiện được khuyết tật của vật mua bán thì có quyền yêu cầu bên bán sửa chữa không phải trả tiền, giảm giá, đổi vật có khuyết tật lấy vật khác hoặc trả lại vật và lấy lại tiền ; điều 447.",
+        "qas": [
+            {
+                "question": "nếu bên mua phát hiện được khuyết tật của vật thì có quyền yêu cầu sửa chữa không ?",
+                "answer": {
+                    "text": [
+                        "trong thời hạn bảo hành, nếu bên mua phát hiện được khuyết tật của vật mua bán thì có quyền yêu cầu bên bán sửa chữa không phải trả tiền, giảm giá, đổi vật có khuyết tật lấy vật khác hoặc trả lại vật và lấy lại tiền"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "bên bán phải bảo đảm giá trị sử dụng hoặc các đặc tính của vật mua bán; nếu sau khi mua mà bên mua phát hiện khuyết tật làm mất giá trị hoặc giảm sút giá trị sử dụng của vật đã mua thì phải báo ngay cho bên bán khi phát hiện ra khuyết tật và có quyền yêu cầu bên bán sửa chữa, đổi vật có khuyết tật lấy vật khác, giảm giá và bồi thường thiệt hại, trừ trường hợp có thoả thuận khác ; điều 445 khoản 1.",
+        "qas": [
+            {
+                "question": "tiêu chuẩn bảo đảm chất lượng vật mua bán như thế nào ?",
+                "answer": {
+                    "text": [
+                        "bên bán phải bảo đảm giá trị sử dụng hoặc các đặc tính của vật mua bán; nếu sau khi mua mà bên mua phát hiện khuyết tật làm mất giá trị hoặc giảm sút giá trị sử dụng của vật đã mua thì phải báo ngay cho bên bán khi phát hiện ra khuyết tật"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "bảo đảm quyền sở hữu của bên mua đối với tài sản mua bán: bên bán có nghĩa vụ bảo đảm quyền sở hữu đối với tài sản đã bán cho bên mua không bị người thứ ba tranh chấp, trường hợp tài sản bị người thứ ba tranh chấp thì bên bán phải đứng về phía bên mua để bảo vệ quyền lợi của bên mua; nếu người thứ ba có quyền sở hữu một phần hoặc toàn bộ tài sản mua bán thì bên mua có quyền hủy bỏ hợp đồng và yêu cầu bên bán bồi thường thiệt hại, trường hợp bên mua biết hoặc phải biết tài sản mua bán thuộc sở hữu của người thứ ba mà vẫn mua thì phải trả lại tài sản cho chủ sở hữu và không có quyền yêu cầu bồi thường thiệt hại ; điều 444.",
+        "qas": [
+            {
+                "question": "Bên bán có cần bảo đảm quyền sở hữu đối với tài sản đã bán ?",
+                "answer": {
+                    "text": [
+                        "bảo đảm quyền sở hữu của bên mua đối với tài sản mua bán: bên bán có nghĩa vụ bảo đảm quyền sở hữu đối với tài sản đã bán cho bên mua không bị người thứ ba tranh chấp"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "bên bán có nghĩa vụ cung cấp cho bên mua thông tin cần thiết về tài sản mua bán và hướng dẫn cách sử dụng tài sản đó; nếu bên bán không thực hiện nghĩa vụ này thì bên mua có quyền yêu cầu bên bán phải thực hiện trong một thời hạn hợp lý; nếu bên bán vẫn không thực hiện làm cho bên mua không đạt được mục đích giao kết hợp đồng thì bên mua có quyền hủy bỏ hợp đồng và yêu cầu bồi thường thiệt hại ; điều 443.",
+        "qas": [
+            {
+                "question": "Bên bán có cần cung cấp thông tin và hướng dẫn cách sử dụng ?",
+                "answer": {
+                    "text": [
+                        "bên bán có nghĩa vụ cung cấp cho bên mua thông tin cần thiết về tài sản mua bán và hướng dẫn cách sử dụng tài sản đó; nếu bên bán không thực hiện nghĩa vụ này thì bên mua có quyền yêu cầu bên bán phải thực hiện trong một thời hạn hợp lý"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "chi phí vận chuyển và chi phí liên quan đến việc chuyển quyền sở hữu do các bên thỏa thuận, trừ trường hợp pháp luật có quy định khác ; điều 442 khoản 1.",
+        "qas": [
+            {
+                "question": "Chi phí vận chuyển đến việc chuyển quyền sở hữu do ai trả?",
+                "answer": {
+                    "text": [
+                        "chi phí vận chuyển và chi phí liên quan đến việc chuyển quyền sở hữu do các bên thỏa thuận"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "thời điểm chịu rủi ro: bên bán chịu rủi ro đối với tài sản trước khi tài sản được giao cho bên mua, bên mua chịu rủi ro đối với tài sản kể từ thời điểm nhận tài sản, trừ trường hợp có thoả thuận khác hoặc luật có quy định khác, đối với hợp đồng mua bán tài sản mà pháp luật quy định tài sản đó phải đăng ký quyền sở hữu thì bên bán chịu rủi ro cho đến khi hoàn thành thủ tục đăng ký, bên mua chịu rủi ro kể từ thời điểm hoàn thành thủ tục đăng ký, trừ trường hợp có thoả thuận khác ; điều 441.",
+        "qas": [
+            {
+                "question": "Bên bán chịu rủi ro đối với tài sản khi nào ?",
+                "answer": {
+                    "text": [
+                        "thời điểm chịu rủi ro: bên bán chịu rủi ro đối với tài sản trước khi tài sản được giao cho bên mua, bên mua chịu rủi ro đối với tài sản kể từ thời điểm nhận tài sản,"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "nghĩa vụ trả tiền: bên mua có nghĩa vụ thanh toán tiền theo thời hạn, địa điểm và mức tiền được quy định trong hợp đồng, trường hợp các bên chỉ có thỏa thuận về thời hạn giao tài sản thì thời hạn thanh toán tiền cũng được xác định tương ứng với thời hạn giao tài sản. nếu các bên không có thỏa thuận về thời hạn giao tài sản và thời hạn thanh toán tiền thì bên mua phải thanh toán tiền tại thời điểm nhận tài sản, trường hợp bên mua không thực hiện đúng nghĩa vụ trả tiền thì phải trả lãi trên số tiền chậm trả theo quy định tại điều 357 của bộ luật này ; điều 440.",
+        "qas": [
+            {
+                "question": "Nghĩa vụ trả tiền bên mua như thế nào ?",
+                "answer": {
+                    "text": [
+                        "bên mua có nghĩa vụ thanh toán tiền theo thời hạn, địa điểm và mức tiền được quy định trong hợp đồng"
+                    ],
+                    "start": [
+                        19
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp tài sản được giao không đúng chủng loại thì bên mua có một trong các quyền sau đây: nhận và thanh toán theo giá do các bên thoả thuận, yêu cầu giao tài sản đúng chủng loại và bồi thường thiệt hại, hủy bỏ hợp đồng và yêu cầu bồi thường thiệt hại nếu việc giao không đúng chủng loại làm cho bên mua không đạt được mục đích giao kết hợp đồng ; điều 439.",
+        "qas": [
+            {
+                "question": "tài sản được giao không đúng loại thì bên mua có quyền nào ?",
+                "answer": {
+                    "text": [
+                        "trường hợp tài sản được giao không đúng chủng loại thì bên mua có một trong các quyền sau đây: nhận và thanh toán theo giá do các bên thoả thuận, yêu cầu giao tài sản đúng chủng loại và bồi thường thiệt hại, hủy bỏ hợp đồng và yêu cầu bồi thường thiệt hại nếu việc giao không đúng chủng loại làm cho bên mua không đạt được mục đích giao kết hợp đồng"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp bên bán giao tài sản với số lượng nhiều hơn số lượng đã thoả thuận thì bên mua có quyền nhận hoặc không nhận phần dôi ra; nếu nhận thì phải thanh toán đối với phần dôi ra theo giá được thỏa thuận trong hợp đồng, trừ trường hợp có thỏa thuận khác ; điều 437 khoản 1.",
+        "qas": [
+            {
+                "question": "bên bán giao tài sản với số lượng nhiều hơn số lượng đã thỏa thuận thì bên mua phải làm sao ?",
+                "answer": {
+                    "text": [
+                        "bên mua có quyền nhận hoặc không nhận phần dôi ra"
+                    ],
+                    "start": [
+                        82
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "phương thức giao tài sản: tài sản được giao theo phương thức do các bên thoả thuận; nếu không có thoả thuận thì tài sản do bên bán giao một lần và trực tiếp cho bên mua, trường hợp theo thỏa thuận, bên bán giao tài sản cho bên mua thành nhiều lần mà bên bán thực hiện không đúng nghĩa vụ ở một lần nhất định thì bên mua có thể hủy bỏ phần hợp đồng liên quan đến lần vi phạm đó và yêu cầu bồi thường thiệt hại ; điều 436.",
+        "qas": [
+            {
+                "question": "Phương thức giao tài sản do bên nào thực hiện ?",
+                "answer": {
+                    "text": [
+                        "tài sản được giao theo phương thức do các bên thoả thuận"
+                    ],
+                    "start": [
+                        26
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "địa điểm giao tài sản do các bên thoả thuận; nếu không có thoả thuận thì áp dụng quy định tại khoản 2 điều 277 của bộ luật này ; điều 435.",
+        "qas": [
+            {
+                "question": "Địa điểm giao tài sản do bên nào quyết định ?",
+                "answer": {
+                    "text": [
+                        "địa điểm giao tài sản do các bên thoả thuận"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "hợp đồng mua bán tài sản là sự thỏa thuận giữa các bên, theo đó bên bán chuyển quyền sở hữu tài sản cho bên mua và bên mua trả tiền cho bên bán, hợp đồng mua bán nhà ở, mua bán nhà để sử dụng vào mục đích khác được thực hiện theo quy định của bộ luật này, luật nhà ở và luật khác có liên quan ; điều 430.",
+        "qas": [
+            {
+                "question": "thời hạn thực hiện hợp đồng mua bán được quyết định như thế nào ?",
+                "answer": {
+                    "text": [
+                        "hợp đồng mua bán tài sản là sự thỏa thuận giữa các bên, theo đó bên bán chuyển quyền sở hữu tài sản cho bên mua và bên mua trả tiền cho bên bán"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    }
+]

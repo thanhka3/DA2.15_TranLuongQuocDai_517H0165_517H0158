@@ -1,0 +1,949 @@
+[
+    {
+        "context": "sửa đổi, bổ sung, thay thế, huỷ bỏ di chúc: người lập di chúc có thể sửa đổi, bổ sung, thay thế, huỷ bỏ di chúc đã lập vào bất cứ lúc nào, trường hợp người lập di chúc bổ sung di chúc thì di chúc đã lập và phần bổ sung có hiệu lực pháp luật như nhau; nếu một phần của di chúc đã lập và phần bổ sung mâu thuẫn nhau thì chỉ phần bổ sung có hiệu lực pháp luật, trường hợp người lập di chúc thay thế di chúc bằng di chúc mới thì di chúc trước bị huỷ bỏ ; điều 640",
+        "qas": [
+            {
+                "question": "Người lập di chúc có thể sử đổi di chúc không ?",
+                "answer": {
+                    "text": [
+                        "người lập di chúc có thể sửa đổi, bổ sung, thay thế, huỷ bỏ di chúc đã lập vào bất cứ lúc nào"
+                    ],
+                    "start": [
+                        44
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "di chúc do công chứng viên lập tại chỗ ở: người lập di chúc có thể yêu cầu công chứng viên tới chỗ ở của mình để lập di chúc, thủ tục lập di chúc tại chỗ ở được tiến hành như thủ tục lập di chúc tại tổ chức hành nghề công chứng theo quy định tại điều 636 của bộ luật này ; điều 639.",
+        "qas": [
+            {
+                "question": "Người lập di chúc có thể yêu cầu công chứng viên tới chứng nhận không ?",
+                "answer": {
+                    "text": [
+                        "di chúc do công chứng viên lập tại chỗ ở: người lập di chúc có thể yêu cầu công chứng viên tới chỗ ở của mình để lập di chúc, thủ tục lập di chúc tại chỗ ở được tiến hành như thủ tục lập di chúc tại tổ chức hành nghề công chứng theo quy định tại điều 636 của bộ luật này"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "di chúc bằng văn bản có giá trị như di chúc được công chứng hoặc chứng thực: di chúc của quân nhân tại ngũ có xác nhận của thủ trưởng đơn vị từ cấp đại đội trở lên, nếu quân nhân không thể yêu cầu công chứng hoặc chứng thực, di chúc của người đang đi trên tàu biển, máy bay có xác nhận của người chỉ huy phương tiện đó, di chúc của người đang điều trị tại bệnh viện, cơ sở chữa bệnh, điều dưỡng khác có xác nhận của người phụ trách bệnh viện, cơ sở đó, di chúc của người đang làm công việc khảo sát, thăm dò, nghiên cứu ở vùng rừng núi, hải đảo có xác nhận của người phụ trách đơn vị, di chúc của công dân việt nam đang ở nước ngoài có chứng nhận của cơ quan lãnh sự, đại diện ngoại giao việt nam ở nước đó, di chúc của người đang bị tạm giam, tạm giữ, đang chấp hành hình phạt tù, người đang chấp hành biện pháp xử lý hành chính tại cơ sở giáo dục, cơ sở chữa bệnh có xác nhận của người phụ trách cơ sở đó ; điều 638.",
+        "qas": [
+            {
+                "question": "Di chúc của quân nhân tại ngũ có xác nhận của ai ?",
+                "answer": {
+                    "text": [
+                        "di chúc của quân nhân tại ngũ có xác nhận của thủ trưởng đơn vị từ cấp đại đội trở lên"
+                    ],
+                    "start": [
+                        77
+                    ]
+                }
+            },
+            {
+                "question": "Di chúc của người đang đi trên tàu biển, máy bay có xác nhận của ai ?",
+                "answer": {
+                    "text": [
+                        "di chúc của người đang đi trên tàu biển, máy bay có xác nhận của người chỉ huy phương tiện đó"
+                    ],
+                    "start": [
+                        225
+                    ]
+                }
+            },
+            {
+                "question": "Di chúc của người đang đi trên tàu biển, máy bay có xác nhận của ai ?",
+                "answer": {
+                    "text": [
+                        "người chỉ huy phương tiện đó"
+                    ],
+                    "start": [
+                        290
+                    ]
+                }
+            },
+            {
+                "question": "người đang đi trên tàu biển muốn lập di chúc cần xác nhận của ai ?",
+                "answer": {
+                    "text": [
+                        "người chỉ huy phương tiện đó"
+                    ],
+                    "start": [
+                        290
+                    ]
+                }
+            },
+            {
+                "question": "Di chúc của người đang điều trị tại bệnh viện có xác nhận của ai ?",
+                "answer": {
+                    "text": [
+                        "di chúc của người đang điều trị tại bệnh viện, cơ sở chữa bệnh, điều dưỡng khác có xác nhận của người phụ trách bệnh viện, cơ sở đó"
+                    ],
+                    "start": [
+                        320
+                    ]
+                }
+            },
+            {
+                "question": "Di chúc của người đang làm công việc khảo sát cần xác nhận của ai ?",
+                "answer": {
+                    "text": [
+                        "di chúc của người đang làm công việc khảo sát, thăm dò, nghiên cứu ở vùng rừng núi, hải đảo có xác nhận của người phụ trách đơn vị"
+                    ],
+                    "start": [
+                        453
+                    ]
+                }
+            },
+            {
+                "question": "Di chúc của công dân Việt Nam đang ở nước ngoài cần xác nhận của ai ?",
+                "answer": {
+                    "text": [
+                        "di chúc của công dân việt nam đang ở nước ngoài có chứng nhận của cơ quan lãnh sự, đại diện ngoại giao việt nam ở nước đó"
+                    ],
+                    "start": [
+                        583
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "người lập di chúc có thể yêu cầu công chứng hoặc chứng thực bản di chúc ; điều 635.",
+        "qas": [
+            {
+                "question": "Người lập di chúc có thể yêu cầu công chứng không ?",
+                "answer": {
+                    "text": [
+                        "người lập di chúc có thể yêu cầu công chứng hoặc chứng thực bản di chúc"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp người lập di chúc không tự mình viết bản di chúc thì có thể tự mình đánh máy hoặc nhờ người khác viết hoặc đánh máy bản di chúc, nhưng phải có ít nhất là hai người làm chứng. người lập di chúc phải ký hoặc điểm chỉ vào bản di chúc trước mặt những người làm chứng; những người làm chứng xác nhận chữ ký, điểm chỉ của người lập di chúc và ký vào bản di chúc, việc lập di chúc bằng văn bản có người làm chứng phải tuân theo quy định tại điều 631 và điều 632 của bộ luật này ; điều 634.",
+        "qas": [
+            {
+                "question": "người lập di chúc không tự mình viết bản di chúc có thể nhờ người khác viết hoặc đánh máy bản di chúc không ?",
+                "answer": {
+                    "text": [
+                        "trường hợp người lập di chúc không tự mình viết bản di chúc thì có thể tự mình đánh máy hoặc nhờ người khác viết hoặc đánh máy bản di chúc, nhưng phải có ít nhất là hai người làm chứng"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "người lập di chúc phải tự viết và ký vào bản di chúc việc lập di chúc bằng văn bản không có người làm chứng phải tuân theo quy định tại điều 631 của bộ luật này ; điều 633.",
+        "qas": [
+            {
+                "question": "Di chúc bằng văn bản không có người làm chứng phải làm sao ?",
+                "answer": {
+                    "text": [
+                        "người lập di chúc phải tự viết và ký vào bản di chúc việc lập di chúc bằng văn bản không có người làm chứng phải tuân theo quy định "
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "mọi người đều có thể làm chứng cho việc lập di chúc, trừ những người sau đây: người thừa kế theo di chúc hoặc theo pháp luật của người lập di chúc, người có quyền, nghĩa vụ tài sản liên quan tới nội dung di chúc, người chưa thành niên, người mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi ; điều 632.",
+        "qas": [
+            {
+                "question": "ai có thể là người làm chứng cho việc lập di chúc ?",
+                "answer": {
+                    "text": [
+                        "mọi người đều có thể làm chứng cho việc lập di chúc, trừ những người sau đây: người thừa kế theo di chúc hoặc theo pháp luật của người lập di chúc, người có quyền, nghĩa vụ tài sản liên quan tới nội dung di chúc, người chưa thành niên, người mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "di chúc gồm các nội dung chủ yếu sau: ngày, tháng, năm lập di chúc, họ, tên và nơi cư trú của người lập di chúc, họ, tên người, cơ quan, tổ chức được hưởng di sản, di sản để lại và nơi có di sản ; điều 631 khoản 1.",
+        "qas": [
+            {
+                "question": "Di chúc gồm các nội dung nào ?",
+                "answer": {
+                    "text": [
+                        "ngày, tháng, năm lập di chúc, họ, tên và nơi cư trú của người lập di chúc, họ, tên người, cơ quan, tổ chức được hưởng di sản, di sản để lại và nơi có di sản"
+                    ],
+                    "start": [
+                        38
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "di chúc hợp pháp phải có đủ các điều kiện sau đây: người lập di chúc minh mẫn, sáng suốt trong khi lập di chúc; không bị lừa dối, đe doạ, cưỡng ép, nội dung của di chúc không vi phạm điều cấm của luật, không trái đạo đức xã hội; hình thức di chúc không trái quy định của luật ; điều 630 khoản 1. ",
+        "qas": [
+            {
+                "question": "Di chúc hợp pháp phải có đủ các điều kiện gì ?",
+                "answer": {
+                    "text": [
+                        "người lập di chúc minh mẫn, sáng suốt trong khi lập di chúc; không bị lừa dối, đe doạ, cưỡng ép, nội dung của di chúc không vi phạm điều cấm của luật, không trái đạo đức xã hội"
+                    ],
+                    "start": [
+                        51
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "di chúc miệng: trường hợp tính mạng một người bị cái chết đe dọa và không thể lập di chúc bằng văn bản thì có thể lập di chúc miệng, sau 03 tháng, kể từ thời điểm di chúc miệng mà người lập di chúc còn sống, minh mẫn, sáng suốt thì di chúc miệng mặc nhiên bị huỷ bỏ ; điều 629.",
+        "qas": [
+            {
+                "question": "khi nào có thể lập di chúc miệng ?",
+                "answer": {
+                    "text": [
+                        "trường hợp tính mạng một người bị cái chết đe dọa và không thể lập di chúc bằng văn bản thì có thể lập di chúc miệng"
+                    ],
+                    "start": [
+                        15
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "di chúc bằng văn bản bao gồm: di chúc bằng văn bản không có người làm chứng, di chúc bằng văn bản có người làm chứng, di chúc bằng văn bản có công chứng, di chúc bằng văn bản có chứng thực ; điều 628.",
+        "qas": [
+            {
+                "question": "Di chúc bằng văn bản bao gồm những gì ?",
+                "answer": {
+                    "text": [
+                        "di chúc bằng văn bản không có người làm chứng, di chúc bằng văn bản có người làm chứng, di chúc bằng văn bản có công chứng, di chúc bằng văn bản có chứng thực"
+                    ],
+                    "start": [
+                        30
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "di chúc phải được lập thành văn bản; nếu không thể lập được di chúc bằng văn bản thì có thể di chúc miệng ; điều 627.",
+        "qas": [
+            {
+                "question": "ngoài di chúc lập thành văn bản thì có thể lập bằng hình thức nào ?",
+                "answer": {
+                    "text": [
+                        "nếu không thể lập được di chúc bằng văn bản thì có thể di chúc miệng"
+                    ],
+                    "start": [
+                        37
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "người lập di chúc: người thành niên có đủ điều kiện theo quy định tại điểm a khoản 1 điều 630 của bộ luật này có quyền lập di chúc để định đoạt tài sản của mình, người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi được lập di chúc, nếu được cha, mẹ hoặc người giám hộ đồng ý về việc lập di chúc ; điều 625.",
+        "qas": [
+            {
+                "question": "điều kiện người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi được lập di chúc ?",
+                "answer": {
+                    "text": [
+                        "người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi được lập di chúc, nếu được cha, mẹ hoặc người giám hộ đồng ý về việc lập di chúc"
+                    ],
+                    "start": [
+                        162
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "thời hiệu để người thừa kế yêu cầu chia di sản là 30 năm đối với bất động sản, 10 năm đối với động sản, kể từ thời điểm mở thừa kế. hết thời hạn này thì di sản thuộc về người thừa kế đang quản lý di sản đó. trường hợp không có người thừa kế đang quản lý di sản thì di sản được giải quyết như sau: di sản thuộc quyền sở hữu của người đang chiếm hữu theo quy định tại điều 236 của bộ luật này, di sản thuộc về nhà nước, nếu không có người chiếm hữu quy định tại điểm a khoản này, thời hiệu để người thừa kế yêu cầu xác nhận quyền thừa kế của mình hoặc bác bỏ quyền thừa kế của người khác là 10 năm, kể từ thời điểm mở thừa kế, thời hiệu yêu cầu người thừa kế thực hiện nghĩa vụ về tài sản của người chết để lại là 03 năm, kể từ thời điểm mở thừa kế ; điều 623.",
+        "qas": [
+            {
+                "question": "Thời gian để người thừa kế yêu cầu chia di sản là bao lâu?",
+                "answer": {
+                    "text": [
+                        "thời hiệu để người thừa kế yêu cầu chia di sản là 30 năm đối với bất động sản, 10 năm đối với động sản, kể từ thời điểm mở thừa kế"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "những người sau đây không được quyền hưởng di sản: người bị kết án về hành vi cố ý xâm phạm tính mạng, sức khoẻ hoặc về hành vi ngược đãi nghiêm trọng, hành hạ người để lại di sản, xâm phạm nghiêm trọng danh dự, nhân phẩm của người đó, người vi phạm nghiêm trọng nghĩa vụ nuôi dưỡng người để lại di sản, người bị kết án về hành vi cố ý xâm phạm tính mạng người thừa kế khác nhằm hưởng một phần hoặc toàn bộ phần di sản mà người thừa kế đó có quyền hưởng, người có hành vi lừa dối, cưỡng ép hoặc ngăn cản người để lại di sản trong việc lập di chúc; giả mạo di chúc, sửa chữa di chúc, huỷ di chúc, che giấu di chúc nhằm hưởng một phần hoặc toàn bộ di sản trái với ý chí của người để lại di sản ; điều 621 khoản 1.",
+        "qas": [
+            {
+                "question": "Những người không được quyền hưởng di sản ?",
+                "answer": {
+                    "text": [
+                        "Người bị kết án về hành vi cố ý xâm phạm tính mạng, sức khỏe hoặc về hành vi ngược đãi nghiêm trọng,Người vi phạm nghiêm trọng nghĩa vụ nuôi dưỡng người để lại di sản, Người bị kết án về hành vi cố ý xâm phạm tính mạng người thừa kế ,Người có hành vi lừa dối, cưỡng ép hoặc ngăn cản người để lại di sản"
+                    ],
+                    "start": [
+                        51
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "từ chối nhận di sản: người thừa kế có quyền từ chối nhận di sản, trừ trường hợp việc từ chối nhằm trốn tránh việc thực hiện nghĩa vụ tài sản của mình đối với người khác, việc từ chối nhận di sản phải được lập thành văn bản và gửi đến người quản lý di sản, những người thừa kế khác, người được giao nhiệm vụ phân chia di sản để biết, việc từ chối nhận di sản phải được thể hiện trước thời điểm phân chia di sản ; điều 620.",
+        "qas": [
+            {
+                "question": "Người thừa kế có quyền từ chối nhận di sản không ?",
+                "answer": {
+                    "text": [
+                        "người thừa kế có quyền từ chối nhận di sản"
+                    ],
+                    "start": [
+                        21
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "người quản lý di sản quy định tại khoản 1 và khoản 3 điều 616 của bộ luật này có quyền sau đây: đại diện cho những người thừa kế trong quan hệ với người thứ ba liên quan đến di sản thừa kế, được hưởng thù lao theo thoả thuận với những người thừa kế, được thanh toán chi phí bảo quản di sản ; điều 618 khoản 1.",
+        "qas": [
+            {
+                "question": "Người quản lý di sản quy định có quyền nào ?",
+                "answer": {
+                    "text": [
+                        "đại diện cho những người thừa kế trong quan hệ với người thứ ba liên quan đến di sản thừa kế, được hưởng thù lao theo thoả thuận với những người thừa kế, được thanh toán chi phí bảo quản di sản"
+                    ],
+                    "start": [
+                        96
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "người quản lý di sản là người được chỉ định trong di chúc hoặc do những người thừa kế thoả thuận cử ra, trường hợp di chúc không chỉ định người quản lý di sản và những người thừa kế chưa cử được người quản lý di sản thì người đang chiếm hữu, sử dụng, quản lý di sản tiếp tục quản lý di sản đó cho đến khi những người thừa kế cử được người quản lý di sản, trường hợp chưa xác định được người thừa kế và di sản chưa có người quản lý theo quy định tại khoản 1 và khoản 2 điều này thì di sản do cơ quan nhà nước có thẩm quyền quản lý ; điều 616.",
+        "qas": [
+            {
+                "question": "Người quản lý di sản là ai ?",
+                "answer": {
+                    "text": [
+                        "người quản lý di sản là người được chỉ định trong di chúc hoặc do những người thừa kế thoả thuận cử ra"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "những người hưởng thừa kế có trách nhiệm thực hiện nghĩa vụ tài sản trong phạm vi di sản do người chết để lại, trừ trường hợp có thoả thuận khác, trường hợp di sản chưa được chia thì nghĩa vụ tài sản do người chết để lại được người quản lý di sản thực hiện theo thoả thuận của những người thừa kế trong phạm vi di sản do người chết để lại, trường hợp di sản đã được chia thì mỗi người thừa kế thực hiện nghĩa vụ tài sản do người chết để lại tương ứng nhưng không vượt quá phần tài sản mà mình đã nhận, trừ trường hợp có thoả thuận khác, trường hợp người thừa kế không phải là cá nhân hưởng di sản theo di chúc thì cũng phải thực hiện nghĩa vụ tài sản do người chết để lại như người thừa kế là cá nhân ; điều 615.",
+        "qas": [
+            {
+                "question": "Những người hưởng thừa kế có trách nhiệm gì ?",
+                "answer": {
+                    "text": [
+                        "những người hưởng thừa kế có trách nhiệm thực hiện nghĩa vụ tài sản trong phạm vi di sản do người chết để lại, trừ trường hợp có thoả thuận khác"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "kể từ thời điểm mở thừa kế, những người thừa kế có các quyền, nghĩa vụ tài sản do người chết để lại ; điều 614.",
+        "qas": [
+            {
+                "question": "Thời điểm nào phát sinh quyền và nghĩa vụ của người thừa kế ?",
+                "answer": {
+                    "text": [
+                        "kể từ thời điểm mở thừa kế, những người thừa kế có các quyền, nghĩa vụ tài sản do người chết để lại"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "người thừa kế là cá nhân phải là người còn sống vào thời điểm mở thừa kế hoặc sinh ra và còn sống sau thời điểm mở thừa kế nhưng đã thành thai trước khi người để lại di sản chết. trường hợp người thừa kế theo di chúc không là cá nhân thì phải tồn tại vào thời điểm mở thừa kế ; điều 613.",
+        "qas": [
+            {
+                "question": "Người thừa kế là gì ?",
+                "answer": {
+                    "text": [
+                        "người thừa kế là cá nhân phải là người còn sống vào thời điểm mở thừa kế hoặc sinh ra và còn sống sau thời điểm mở thừa kế nhưng đã thành thai trước khi người để lại di sản chết"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "di sản bao gồm tài sản riêng của người chết, phần tài sản của người chết trong tài sản chung với người khác ; điều 612.",
+        "qas": [
+            {
+                "question": "Di sản bao gồm những gì ?",
+                "answer": {
+                    "text": [
+                        "di sản bao gồm tài sản riêng của người chết, phần tài sản của người chết trong tài sản chung với người khác"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "thời điểm, địa điểm mở thừa kế: thời điểm mở thừa kế là thời điểm người có tài sản chết. trường hợp tòa án tuyên bố một người là đã chết thì thời điểm mở thừa kế là ngày được xác định tại khoản 2 điều 71 của bộ luật này, địa điểm mở thừa kế là nơi cư trú cuối cùng của người để lại di sản; nếu không xác định được nơi cư trú cuối cùng thì địa điểm mở thừa kế là nơi có toàn bộ di sản hoặc nơi có phần lớn di sản ; điều 611.",
+        "qas": [
+            {
+                "question": "Thời điểm mở thừa kế là gì ?",
+                "answer": {
+                    "text": [
+                        "thời điểm mở thừa kế là thời điểm người có tài sản chết. trường hợp tòa án tuyên bố một người là đã chết thì thời điểm mở thừa kế là ngày được xác định"
+                    ],
+                    "start": [
+                        33
+                    ]
+                }
+            },
+            {
+                "question": "Địa điểm mở thừa kế là gì ?",
+                "answer": {
+                    "text": [
+                        "địa điểm mở thừa kế là nơi cư trú cuối cùng của người để lại di sản; nếu không xác định được nơi cư trú cuối cùng thì địa điểm mở thừa kế là nơi có toàn bộ di sản hoặc nơi có phần lớn di sản"
+                    ],
+                    "start": [
+                        221
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "mọi cá nhân đều bình đẳng về quyền để lại tài sản của mình cho người khác và quyền hưởng di sản theo di chúc hoặc theo pháp luật ; điều 610.",
+        "qas": [
+            {
+                "question": "Quyền bình đẳng về thừa kế của cá nhân ?",
+                "answer": {
+                    "text": [
+                        "mọi cá nhân đều bình đẳng về quyền để lại tài sản của mình cho người khác và quyền hưởng di sản theo di chúc hoặc theo pháp luật"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "cá nhân có quyền lập di chúc để định đoạt tài sản của mình; để lại tài sản của mình cho người thừa kế theo pháp luật; hưởng di sản theo di chúc hoặc theo pháp luật, người thừa kế không là cá nhân có quyền hưởng di sản theo di chúc ; điều 609.",
+        "qas": [
+            {
+                "question": "quyền lập di chúc để định đoạt tài sản của mình như thế nào ?",
+                "answer": {
+                    "text": [
+                        "cá nhân có quyền lập di chúc để định đoạt tài sản của mình; để lại tài sản của mình cho người thừa kế theo pháp luật"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "cá nhân, pháp nhân sản xuất, kinh doanh hàng hóa, dịch vụ không bảo đảm chất lượng hàng hoá, dịch vụ mà gây thiệt hại cho người tiêu dùng thì phải bồi thường ; điều 608.",
+        "qas": [
+            {
+                "question": "dịch vụ không bảo đảm chất lượng hàng hóa gây thiệt hại người tiêu dùng có bồi thường ?",
+                "answer": {
+                    "text": [
+                        "cá nhân, pháp nhân sản xuất, kinh doanh hàng hóa, dịch vụ không bảo đảm chất lượng hàng hoá, dịch vụ mà gây thiệt hại cho người tiêu dùng thì phải bồi thường"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "bồi thường thiệt hại do xâm phạm mồ mả: cá nhân, pháp nhân xâm phạm đến mồ mả của người khác phải bồi thường thiệt hại, thiệt hại do xâm phạm mồ mả gồm chi phí hợp lý để hạn chế, khắc phục thiệt hại, người chịu trách nhiệm bồi thường trong trường hợp mồ mả của người khác bị xâm phạm phải bồi thường theo quy định tại khoản 2 điều này và một khoản tiền khác để bù đắp tổn thất về tinh thần cho những người thân thích theo thứ tự hàng thừa kế của người chết; nếu không có những người này thì người trực tiếp nuôi dưỡng người chết được hưởng khoản tiền này. mức bồi thường bù đắp tổn thất về tinh thần do các bên thoả thuận; nếu không thoả thuận được thì mức tối đa đối với mỗi mồ mả bị xâm phạm không quá mười lần mức lương cơ sở do nhà nước quy định ; điều 607.",
+        "qas": [
+            {
+                "question": "Cá nhân, pháp nhân xâm phạm đến mồ mả của người khác có bị bồi thường ?",
+                "answer": {
+                    "text": [
+                        "cá nhân, pháp nhân xâm phạm đến mồ mả của người khác phải bồi thường thiệt hại"
+                    ],
+                    "start": [
+                        40
+                    ]
+                }
+            },
+            {
+                "question": "Thiệt hại do xâm phạm mồ mả gồm những chi phí nào ?",
+                "answer": {
+                    "text": [
+                        "thiệt hại do xâm phạm mồ mả gồm chi phí hợp lý để hạn chế, khắc phục thiệt hại"
+                    ],
+                    "start": [
+                        120
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "bồi thường thiệt hại do xâm phạm thi thể: cá nhân, pháp nhân xâm phạm thi thể phải bồi thường thiệt hại, thiệt hại do xâm phạm thi thể gồm chi phí hợp lý để hạn chế, khắc phục thiệt hại, người chịu trách nhiệm bồi thường khi thi thể bị xâm phạm phải bồi thường theo quy định tại khoản 2 điều này và một khoản tiền khác để bù đắp tổn thất về tinh thần cho những người thân thích thuộc hàng thừa kế thứ nhất của người chết, nếu không có những người này thì người trực tiếp nuôi dưỡng người chết được hưởng khoản tiền này. mức bồi thường bù đắp tổn thất về tinh thần do các bên thoả thuận; nếu không thoả thuận được thì mức tối đa đối với mỗi thi thể bị xâm phạm không quá ba mươi lần mức lương cơ sở do nhà nước quy định ; điều 606.",
+        "qas": [
+            {
+                "question": "xâm phạm thi thể có bị bồi thường ?",
+                "answer": {
+                    "text": [
+                        " cá nhân, pháp nhân xâm phạm thi thể phải bồi thường thiệt hại"
+                    ],
+                    "start": [
+                        42
+                    ]
+                }
+            },
+            {
+                "question": "Thiệt hại do xâm phạm thi thể gồm chi phí nào ?",
+                "answer": {
+                    "text": [
+                        "thiệt hại do xâm phạm thi thể gồm chi phí hợp lý để hạn chế"
+                    ],
+                    "start": [
+                        105
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "chủ sở hữu, người chiếm hữu, người được giao quản lý, sử dụng nhà cửa, công trình xây dựng khác phải bồi thường thiệt hại do nhà cửa, công trình xây dựng khác đó gây thiệt hại cho người khác, khi người thi công có lỗi trong việc để nhà cửa, công trình xây dựng khác gây thiệt hại thì phải liên đới bồi thường ; điều 605.",
+        "qas": [
+            {
+                "question": "thiệt hại do nhà cửa, công trình xây dựng khác gây ra có phải bồi thường ?",
+                "answer": {
+                    "text": [
+                        "chủ sở hữu, người chiếm hữu, người được giao quản lý, sử dụng nhà cửa, công trình xây dựng khác phải bồi thường thiệt hại do nhà cửa, công trình xây dựng khác đó gây thiệt hại cho người khác"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "chủ sở hữu, người chiếm hữu, người được giao quản lý phải bồi thường thiệt hại do cây cối gây ra ; điều 604.",
+        "qas": [
+            {
+                "question": "thiệt hại do cây cối gây ra có phải bồi thường ?",
+                "answer": {
+                    "text": [
+                        "chủ sở hữu, người chiếm hữu, người được giao quản lý phải bồi thường thiệt hại do cây cối gây ra "
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "chủ sở hữu súc vật phải bồi thường thiệt hại do súc vật gây ra cho người khác. người chiếm hữu, sử dụng súc vật phải bồi thường thiệt hại trong thời gian chiếm hữu, sử dụng súc vật, trừ trường hợp có thỏa thuận khác; điều 603 khoản 1.",
+        "qas": [
+            {
+                "question": "thiệt hại do súc vật gây ra có phải bồi thường ?",
+                "answer": {
+                    "text": [
+                        "chủ sở hữu súc vật phải bồi thường thiệt hại do súc vật gây ra cho người khác"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp súc vật thả rông theo tập quán mà gây thiệt hại thì chủ sở hữu súc vật đó phải bồi thường theo tập quán nhưng không được trái pháp luật, đạo đức xã hội ; điều 603 khoản 4.",
+        "qas": [
+            {
+                "question": "súc vật thả rông gây ra có phải bồi thường ?",
+                "answer": {
+                    "text": [
+                        "trường hợp súc vật thả rông theo tập quán mà gây thiệt hại thì chủ sở hữu súc vật đó phải bồi thường theo tập quán nhưng không được trái pháp luật"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "chủ thể làm ô nhiễm môi trường mà gây thiệt hại thì phải bồi thường theo quy định của pháp luật, kể cả trường hợp chủ thể đó không có lỗi ; điều 602.",
+        "qas": [
+            {
+                "question": "thiệt hại do làm ô nhiễm môi trường có phải bồi thường ?",
+                "answer": {
+                    "text": [
+                        "chủ thể làm ô nhiễm môi trường mà gây thiệt hại thì phải bồi thường theo quy định của pháp luật, kể cả trường hợp chủ thể đó không có lỗi"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "nguồn nguy hiểm cao độ bao gồm phương tiện giao thông vận tải cơ giới, hệ thống tải điện, nhà máy công nghiệp đang hoạt động, vũ khí, chất nổ, chất cháy, chất độc, chất phóng xạ, thú dữ và các nguồn nguy hiểm cao độ khác do pháp luật quy định, chủ sở hữu nguồn nguy hiểm cao độ phải vận hành, sử dụng, bảo quản, trông giữ, vận chuyển nguồn nguy hiểm cao độ theo đúng quy định của pháp luật ; điều 601.",
+        "qas": [
+            {
+                "question": "Nguồn nguy hiểm cao độ là gì ?",
+                "answer": {
+                    "text": [
+                        "Nguồn nguy hiểm cao độ bao gồm phương tiện giao thông vận tải cơ giới, hệ thống tải điện, nhà máy công nghiệp đang hoạt động, vũ khí, chất nổ, chất cháy, chất độc, chất phóng xạ, thú dữ và các nguồn nguy hiểm cao độ khá"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "chủ sở hữu nguồn nguy hiểm cao độ phải bồi thường thiệt hại do nguồn nguy hiểm cao độ gây ra; nếu chủ sở hữu đã giao cho người khác chiếm hữu, sử dụng thì người này phải bồi thường, trừ trường hợp có thoả thuận khác ; điều 601 khoản 2.",
+        "qas": [
+            {
+                "question": "Chủ sở hữu nguồn nguy hiểm cao độ có phải bồi thường nếu gây ra thiệt hại?",
+                "answer": {
+                    "text": [
+                        "chủ sở hữu nguồn nguy hiểm cao độ phải bồi thường thiệt hại do nguồn nguy hiểm cao độ gây ra"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "cá nhân, pháp nhân phải bồi thường thiệt hại do người làm công, người học nghề gây ra trong khi thực hiện công việc được giao và có quyền yêu cầu người làm công, người học nghề có lỗi trong việc gây thiệt hại phải hoàn trả một khoản tiền theo quy định của pháp luật ; điều 600.",
+        "qas": [
+            {
+                "question": "thiệt hại do người làm công, người học nghề gây ra ai là người bồi thường ?",
+                "answer": {
+                    "text": [
+                        "cá nhân, pháp nhân phải bồi thường thiệt hại do người làm công, người học nghề gây ra trong khi thực hiện công việc được giao và có quyền yêu cầu người làm công, người học nghề có lỗi trong việc gây thiệt hại phải hoàn trả một khoản tiền theo quy định của pháp luật"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "người chưa đủ mười lăm tuổi trong thời gian trường học trực tiếp quản lý mà gây thiệt hại thì trường học phải bồi thường thiệt hại xảy ra ; điều 599 khoản 1.",
+        "qas": [
+            {
+                "question": "Người chưa đủ mười lăm tuổi nhà trường quản lý gây thiệt hại ai là người bồi thường ?",
+                "answer": {
+                    "text": [
+                        "trường học phải bồi thường thiệt hại xảy ra"
+                    ],
+                    "start": [
+                        95
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "người mất năng lực hành vi dân sự gây thiệt hại cho người khác trong thời gian bệnh viện, pháp nhân khác trực tiếp quản lý thì bệnh viện, pháp nhân khác phải bồi thường thiệt hại xảy ra ; điều 599 khoản 2.",
+        "qas": [
+            {
+                "question": "Người mất năng lực hành vi dân sự gây thiệt hại ai là người bồi thường ?",
+                "answer": {
+                    "text": [
+                        "người mất năng lực hành vi dân sự gây thiệt hại cho người khác trong thời gian bệnh viện, pháp nhân khác trực tiếp quản lý thì bệnh viện, pháp nhân khác phải bồi thường thiệt hại xảy ra"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "nhà nước có trách nhiệm bồi thường thiệt hại do hành vi trái pháp luật của người thi hành công vụ gây ra theo quy định của luật trách nhiệm bồi thường của nhà nước ; điều 598.",
+        "qas": [
+            {
+                "question": "thiệt hại do người thi hành công vụ gây ra ai là người đền bù ?",
+                "answer": {
+                    "text": [
+                        "nhà nước có trách nhiệm bồi thường thiệt hại do hành vi trái pháp luật của người thi hành công vụ gây ra theo quy định "
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "pháp nhân phải bồi thường thiệt hại do người của mình gây ra trong khi thực hiện nhiệm vụ được pháp nhân giao; nếu pháp nhân đã bồi thường thiệt hại thì có quyền yêu cầu người có lỗi trong việc gây thiệt hại phải hoàn trả một khoản tiền theo quy định của pháp luật ; điều 597.",
+        "qas": [
+            {
+                "question": "thiệt hại do người của pháp nhân gây ra ai là người đền bù ?",
+                "answer": {
+                    "text": [
+                        "pháp nhân phải bồi thường thiệt hại do người của mình gây ra trong khi thực hiện nhiệm vụ được pháp nhân giao"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "bồi thường thiệt hại do người dùng chất kích thích gây ra: người do uống rượu hoặc do dùng chất kích thích khác mà lâm vào tình trạng mất khả năng nhận thức và làm chủ hành vi, gây thiệt hại cho người khác thì phải bồi thường, khi một người cố ý dùng rượu hoặc chất kích thích khác làm cho người khác lâm vào tình trạng mất khả năng nhận thức và làm chủ hành vi mà gây thiệt hại thì phải bồi thường cho người bị thiệt hại ; điều 596.",
+        "qas": [
+            {
+                "question": "thiệt hại do người dùng chất kích thích gây ra ai là người đền bù ?",
+                "answer": {
+                    "text": [
+                        "Người do uống rượu hoặc do dùng chất kích thích khác mà lâm vào tình trạng mất khả năng nhận thức và làm chủ hành vi, gây thiệt hại cho người khác thì phải bồi thườn"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp thiệt hại xảy ra do vượt quá yêu cầu của tình thế cấp thiết thì người gây thiệt hại phải bồi thường phần thiệt hại xảy ra do vượt quá yêu cầu của tình thế cấp thiết cho người bị thiệt hại ; điều 595 khoản 1. ",
+        "qas": [
+            {
+                "question": "thiệt hại trong trường hợp vượt quá yêu cầu của tình thế cấp thiết ai là người đền bù ?",
+                "answer": {
+                    "text": [
+                        "người gây thiệt hại phải bồi thường phần thiệt hại xảy ra do vượt quá yêu cầu của tình thế cấp thiết cho người bị thiệt hại"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "bồi thường thiệt hại trong trường hợp vượt quá giới hạn phòng vệ chính đáng: người gây thiệt hại trong trường hợp phòng vệ chính đáng không phải bồi thường cho người bị thiệt hại, người gây thiệt hại do vượt quá giới hạn phòng vệ chính đáng phải bồi thường cho người bị thiệt hại ; điều 594.",
+        "qas": [
+            {
+                "question": "thiệt hại trong trường hợp vượt quá giới hạn phòng vệ chính đáng ai là người đền bù ?",
+                "answer": {
+                    "text": [
+                        "người gây thiệt hại trong trường hợp phòng vệ chính đáng không phải bồi thường cho người bị thiệt hại"
+                    ],
+                    "start": [
+                        77
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp người bị thiệt hại mất hoàn toàn khả năng lao động thì người bị thiệt hại được hưởng bồi thường từ thời điểm mất hoàn toàn khả năng lao động cho đến khi chết, trừ trường hợp có thỏa thuận khác ; điều 593 khoản 1.",
+        "qas": [
+            {
+                "question": "người bị thiệt hại mất hoàn toàn khả năng lao động thì người bị thiệt hại được bồi thường như thế nào ?",
+                "answer": {
+                    "text": [
+                        "người bị thiệt hại được hưởng bồi thường từ thời điểm mất hoàn toàn khả năng lao động cho đến khi chết"
+                    ],
+                    "start": [
+                        11
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "thiệt hại do danh dự, nhân phẩm, uy tín bị xâm phạm bao gồm: chi phí hợp lý để hạn chế, khắc phục thiệt hại, thu nhập thực tế bị mất hoặc bị giảm sút, thiệt hại khác do luật quy định ; điều 592 khoản 1.",
+        "qas": [
+            {
+                "question": "Thiệt hại do danh dự, nhân phẩm, uy tín bị xâm phạm bồi thường như thế nào ?",
+                "answer": {
+                    "text": [
+                        "bao gồm: chi phí hợp lý để hạn chế, khắc phục thiệt hại, thu nhập thực tế bị mất hoặc bị giảm sút, thiệt hại khác do luật quy định"
+                    ],
+                    "start": [
+                        52
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "thiệt hại do tính mạng bị xâm phạm bao gồm: thiệt hại do sức khỏe bị xâm phạm theo quy định tại điều 590 của bộ luật này, chi phí hợp lý cho việc mai táng, tiền cấp dưỡng cho những người mà người bị thiệt hại có nghĩa vụ cấp dưỡng, thiệt hại khác do luật quy định ; điều 591 khoản 1.",
+        "qas": [
+            {
+                "question": "Thiệt hại do tính mạng bị xâm phạm bồi thường như thế nào ?",
+                "answer": {
+                    "text": [
+                        " bao gồm: thiệt hại do sức khỏe bị xâm phạm theo quy định tại điều 590 của bộ luật này, chi phí hợp lý cho việc mai táng, tiền cấp dưỡng cho những người mà người bị thiệt hại có nghĩa vụ cấp dưỡng, thiệt hại khác do luật quy định"
+                    ],
+                    "start": [
+                        35
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "thiệt hại do sức khoẻ bị xâm phạm bao gồm: chi phí hợp lý cho việc cứu chữa, bồi dưỡng, phục hồi sức khoẻ và chức năng bị mất, bị giảm sút của người bị thiệt hại, thu nhập thực tế bị mất hoặc bị giảm sút của người bị thiệt hại; nếu thu nhập thực tế của người bị thiệt hại không ổn định và không thể xác định được thì áp dụng mức thu nhập trung bình của lao động cùng loại, chi phí hợp lý và phần thu nhập thực tế bị mất của người chăm sóc người bị thiệt hại trong thời gian điều trị; nếu người bị thiệt hại mất khả năng lao động và cần phải có người thường xuyên chăm sóc thì thiệt hại bao gồm cả chi phí hợp lý cho việc chăm sóc người bị thiệt hại, thiệt hại khác do luật quy định ; điều 590 khoản 1.",
+        "qas": [
+            {
+                "question": "Thiệt hại do sức khỏe bị xâm phạm chi phí bồi thường như thế nào ?",
+                "answer": {
+                    "text": [
+                        " bao gồm: chi phí hợp lý cho việc cứu chữa, bồi dưỡng, phục hồi sức khoẻ, thu nhập thực tế bị mất, thiệt hại khác do luật quy định"
+                    ],
+                    "start": [
+                        34
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "thiệt hại do tài sản bị xâm phạm bao gồm: tài sản bị mất, bị huỷ hoại hoặc bị hư hỏng, lợi ích gắn liền với việc sử dụng, khai thác tài sản bị mất, bị giảm sút, chi phí hợp lý để ngăn chặn, hạn chế và khắc phục thiệt hại, thiệt hại khác do luật quy định ; điều 589.",
+        "qas": [
+            {
+                "question": "Thiệt hại do tài sản bị xâm phạm bao gồm những gì ?",
+                "answer": {
+                    "text": [
+                        "bao gồm: tài sản bị mất, bị huỷ hoại hoặc bị hư hỏng, lợi ích gắn liền với việc sử dụng, khai thác tài sản bị mất, bị giảm sút, chi phí hợp lý để ngăn chặn, hạn chế và khắc phục thiệt hại, thiệt hại khác do luật quy định"
+                    ],
+                    "start": [
+                        33
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "thời hiệu khởi kiện yêu cầu bồi thường thiệt hại là 03 năm, kể từ ngày người có quyền yêu cầu biết hoặc phải biết quyền, lợi ích hợp pháp của mình bị xâm phạm ; điều 588.",
+        "qas": [
+            {
+                "question": "Thời hiệu khởi kiện yêu cầu bồi thường thiệt hại là bao lâu ?",
+                "answer": {
+                    "text": [
+                        "thời hiệu khởi kiện yêu cầu bồi thường thiệt hại là 03 năm"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp nhiều người cùng gây thiệt hại thì những người đó phải liên đới bồi thường cho người bị thiệt hại. trách nhiệm bồi thường của từng người cùng gây thiệt hại được xác định tương ứng với mức độ lỗi của mỗi người; nếu không xác định được mức độ lỗi thì họ phải bồi thường thiệt hại theo phần bằng nhau ; điều 587.",
+        "qas": [
+            {
+                "question": "thiệt hại do nhiều người cùng gây ra bồi thường như thế nào ?",
+                "answer": {
+                    "text": [
+                        "nhiều người cùng gây thiệt hại thì những người đó phải liên đới bồi thường cho người bị thiệt hại"
+                    ],
+                    "start": [
+                        11
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "năng lực chịu trách nhiệm bồi thường thiệt hại của cá nhân: người từ đủ mười tám tuổi trở lên gây thiệt hại thì phải tự bồi thường, người chưa đủ mười lăm tuổi gây thiệt hại mà còn cha, mẹ thì cha, mẹ phải bồi thường toàn bộ thiệt hại; nếu tài sản của cha, mẹ không đủ để bồi thường mà con chưa thành niên gây thiệt hại có tài sản riêng thì lấy tài sản đó để bồi thường phần còn thiếu, trừ trường hợp quy định tại điều 599 của bộ luật này, người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi gây thiệt hại thì phải bồi thường bằng tài sản của mình; nếu không đủ tài sản để bồi thường thì cha, mẹ phải bồi thường phần còn thiếu bằng tài sản của mình ; điều 586.",
+        "qas": [
+            {
+                "question": "người bao nhiêu tuổi đủ trách nhiệm bồi thường thiệt hại của cá nhân ?",
+                "answer": {
+                    "text": [
+                        "từ đủ mười tám tuổi trở lên gây thiệt hại thì phải tự bồi thường, người chưa đủ mười lăm tuổi gây thiệt hại mà còn cha, mẹ thì cha, mẹ phải bồi thường toàn bộ thiệt hại"
+                    ],
+                    "start": [
+                        59
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "nguyên tắc bồi thường thiệt hại: thiệt hại thực tế phải được bồi thường toàn bộ và kịp thời. các bên có thể thoả thuận về mức bồi thường, hình thức bồi thường bằng tiền, bằng hiện vật hoặc thực hiện một công việc, phương thức bồi thường một lần hoặc nhiều lần, trừ trường hợp pháp luật có quy định khác, người chịu trách nhiệm bồi thường thiệt hại có thể được giảm mức bồi thường nếu không có lỗi hoặc có lỗi vô ý và thiệt hại quá lớn so với khả năng kinh tế của mình, khi mức bồi thường không còn phù hợp với thực tế thì bên bị thiệt hại hoặc bên gây thiệt hại có quyền yêu cầu tòa án hoặc cơ quan nhà nước có thẩm quyền khác thay đổi mức bồi thường, khi bên bị thiệt hại có lỗi trong việc gây thiệt hại thì không được bồi thường phần thiệt hại do lỗi của mình gây ra, bên có quyền, lợi ích bị xâm phạm không được bồi thường nếu thiệt hại xảy ra do không áp dụng các biện pháp cần thiết, hợp lý để ngăn chặn, hạn chế thiệt hại cho chính mình ; điều 585.",
+        "qas": [
+            {
+                "question": "Các bên có thể thỏa thuận về mức bồi thường không ?",
+                "answer": {
+                    "text": [
+                        "các bên có thể thoả thuận về mức bồi thường, hình thức bồi thường bằng tiền, bằng hiện vật hoặc thực hiện một công việc"
+                    ],
+                    "start": [
+                        93
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "căn cứ phát sinh trách nhiệm bồi thường thiệt hại: người nào có hành vi xâm phạm tính mạng, sức khoẻ, danh dự, nhân phẩm, uy tín, tài sản, quyền, lợi ích hợp pháp khác của người khác mà gây thiệt hại thì phải bồi thường, trừ trường hợp bộ luật này, luật khác có liên quan quy định khác, người gây thiệt hại không phải chịu trách nhiệm bồi thường thiệt hại trong trường hợp thiệt hại phát sinh là do sự kiện bất khả kháng hoặc hoàn toàn do lỗi của bên bị thiệt hại, trừ trường hợp có thỏa thuận khác hoặc luật có quy định khác, trường hợp tài sản gây thiệt hại thì chủ sở hữu, người chiếm hữu tài sản phải chịu trách nhiệm bồi thường thiệt hại, trừ trường hợp thiệt hại phát sinh theo quy định tại khoản 2 điều này ; điều 584.",
+        "qas": [
+            {
+                "question": "Người gây thiệt hại không phải chịu trách nhiệm bồi thường thiệt hại trong trường hợp nào ?",
+                "answer": {
+                    "text": [
+                        " thiệt hại phát sinh là do sự kiện bất khả kháng hoặc hoàn toàn do lỗi của bên bị thiệt hại"
+                    ],
+                    "start": [
+                        373
+                    ]
+                }
+            }
+        ]
+    }
+]

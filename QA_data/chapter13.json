@@ -1,0 +1,1024 @@
+[
+    {
+        "context": "người được chủ sở hữu uỷ quyền quản lý tài sản thực hiện việc chiếm hữu tài sản đó trong phạm vi, theo cách thức, thời hạn do chủ sở hữu xác định ; điều 187 khoản 1.",
+        "qas": [
+            {
+                "question": "Người được chủ sở hữu ủy quyền có những quyền nào ?",
+                "answer": {
+                    "text": [
+                        "người được chủ sở hữu uỷ quyền quản lý tài sản thực hiện việc chiếm hữu tài sản đó trong phạm vi, theo cách thức, thời hạn do chủ sở hữu xác định"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "người được chủ sở hữu uỷ quyền quản lý tài sản không thể trở thành chủ sở hữu đối với tài sản được giao theo quy định tại điều 236 của bộ luật này ; điều 187 khoản 2.",
+        "qas": [
+            {
+                "question": "Người được chủ sở hữu ủy quyền có thể trở thành chủ sở hữu không ?",
+                "answer": {
+                    "text": [
+                        "người được chủ sở hữu uỷ quyền quản lý tài sản không thể trở thành chủ sở hữu đối với tài sản được giao"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "khi chủ sở hữu giao tài sản cho người khác thông qua giao dịch dân sự mà nội dung không bao gồm việc chuyển quyền sở hữu thì người được giao tài sản phải thực hiện việc chiếm hữu tài sản đó phù hợp với mục đích, nội dung của giao dịch ; điều 188 khoản 1.",
+        "qas": [
+            {
+                "question": "Khi chủ sở hữu giao tài sản cho người khác thông qua hình thức nào ?",
+                "answer": {
+                    "text": [
+                        "khi chủ sở hữu giao tài sản cho người khác thông qua giao dịch dân sự"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "người được giao tài sản có quyền sử dụng tài sản được giao, được chuyển quyền chiếm hữu, sử dụng tài sản đó cho người khác nếu được chủ sở hữu đồng ý ; điều 188 khoản 2.",
+        "qas": [
+            {
+                "question": "Người được giao tài sản có quyền gì ?",
+                "answer": {
+                    "text": [
+                        "người được giao tài sản có quyền sử dụng tài sản được giao, được chuyển quyền chiếm hữu, sử dụng tài sản đó cho người khác nếu được chủ sở hữu đồng ý"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "quyền sử dụng là quyền khai thác công dụng, hưởng hoa lợi, lợi tức từ tài sản, quyền sử dụng có thể được chuyển giao cho người khác theo thỏa thuận hoặc theo quy định của pháp luật ; điều 189.",
+        "qas": [
+            {
+                "question": "Quyền sử dụng có thể được chuyển giao cho người khác không ?",
+                "answer": {
+                    "text": [
+                        "quyền sử dụng có thể được chuyển giao cho người khác theo thỏa thuận hoặc theo quy định của pháp luật"
+                    ],
+                    "start": [
+                        79
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "người không phải là chủ sở hữu được sử dụng tài sản theo thỏa thuận với chủ sở hữu hoặc theo quy định của pháp luật ; điều 191.",
+        "qas": [
+            {
+                "question": "Quyền sử dụng của người không phải là chủ sở hữu ?",
+                "answer": {
+                    "text": [
+                        "người không phải là chủ sở hữu được sử dụng tài sản theo thỏa thuận với chủ sở hữu hoặc theo quy định của pháp luật"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "quyền định đoạt là quyền chuyển giao quyền sở hữu tài sản, từ bỏ quyền sở hữu, tiêu dùng hoặc tiêu hủy tài sản ; điều 192.",
+        "qas": [
+            {
+                "question": "Quyền định đoạt là gì ?",
+                "answer": {
+                    "text": [
+                        "quyền định đoạt là quyền chuyển giao quyền sở hữu tài sản, từ bỏ quyền sở hữu, tiêu dùng hoặc tiêu hủy tài sản"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "việc định đoạt tài sản phải do người có năng lực hành vi dân sự thực hiện không trái quy định của pháp luật, trường hợp pháp luật có quy định trình tự, thủ tục định đoạt tài sản thì phải tuân theo trình tự, thủ tục đó ; điều 193.",
+        "qas": [
+            {
+                "question": "Điều kiện thực hiện quyền định đoạt ?",
+                "answer": {
+                    "text": [
+                        "việc định đoạt tài sản phải do người có năng lực hành vi dân sự thực hiện không trái quy định của pháp luật"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "chủ sở hữu có quyền bán, trao đổi, tặng cho, cho vay, để thừa kế, từ bỏ quyền sở hữu, tiêu dùng, tiêu hủy hoặc thực hiện các hình thức định đoạt khác phù hợp với quy định của pháp luật đối với tài sản ; điều 194.",
+        "qas": [
+            {
+                "question": "Quyền định đoạt của chủ sở hữu ?",
+                "answer": {
+                    "text": [
+                        "chủ sở hữu có quyền bán, trao đổi, tặng cho, cho vay, để thừa kế, từ bỏ quyền sở hữu, tiêu dùng, tiêu hủy đối với tài sản"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "người không phải là chủ sở hữu tài sản chỉ có quyền định đoạt tài sản theo uỷ quyền của chủ sở hữu hoặc theo quy định của luật ; điều 195.",
+        "qas": [
+            {
+                "question": "Quyền định đoạt của người không phải là chủ sở hữu ?",
+                "answer": {
+                    "text": [
+                        "người không phải là chủ sở hữu tài sản chỉ có quyền định đoạt tài sản theo uỷ quyền của chủ sở hữu hoặc theo quy định của luật"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "hạn chế quyền định đoạt: quyền định đoạt chỉ bị hạn chế trong trường hợp do luật quy định, khi tài sản đem bán là tài sản thuộc di tích lịch sử - văn hoá theo quy định của luật di sản văn hóa thì nhà nước có quyền ưu tiên mua, trường hợp cá nhân, pháp nhân có quyền ưu tiên mua đối với tài sản nhất định theo quy định của pháp luật thì khi bán tài sản, chủ sở hữu phải dành quyền ưu tiên mua cho các chủ thể đó ; điều 196.",
+        "qas": [
+            {
+                "question": "tài sản thuộc di tích lịch sử được đem bán không ?",
+                "answer": {
+                    "text": [
+                        "khi tài sản đem bán là tài sản thuộc di tích lịch sử - văn hoá theo quy định của luật di sản văn hóa thì nhà nước có quyền ưu tiên mua"
+                    ],
+                    "start": [
+                        91
+                    ]
+                }
+            },
+            {
+                "question": "Hạn chế quyền định đoạt ?",
+                "answer": {
+                    "text": [
+                        "hạn chế quyền định đoạt: quyền định đoạt chỉ bị hạn chế trong trường hợp do luật quy định"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "đất đai, tài nguyên nước, tài nguyên khoáng sản, nguồn lợi ở vùng biển, vùng trời, tài nguyên thiên nhiên khác và các tài sản do nhà nước đầu tư, quản lý là tài sản công thuộc sở hữu toàn dân do nhà nước đại diện chủ sở hữu và thống nhất quản lý ; điều 197.",
+        "qas": [
+            {
+                "question": "tài sản công thuộc sở hữu toàn dân là những gì ?",
+                "answer": {
+                    "text": [
+                        "đất đai, tài nguyên nước, tài nguyên khoáng sản, nguồn lợi ở vùng biển, vùng trời, tài nguyên thiên nhiên khác và các tài sản do nhà nước đầu tư, quản lý là tài sản công thuộc sở hữu toàn dân"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "nhà nước cộng hòa xã hội chủ nghĩa việt nam là đại diện, thực hiện quyền của chủ sở hữu đối với tài sản thuộc sở hữu toàn dân ; điều 198 khoản 1.",
+        "qas": [
+            {
+                "question": "ai là người đại diện, thực hiện quyền của chủ sở hữu đối với tài sản thuộc sở hữu toàn dân ?",
+                "answer": {
+                    "text": [
+                        "nhà nước cộng hòa xã hội chủ nghĩa việt nam là đại diện"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "chính phủ thống nhất quản lý và bảo đảm sử dụng đúng mục đích, hiệu quả và tiết kiệm tài sản thuộc sở hữu toàn dân ; điều 198 khoản 2.",
+        "qas": [
+            {
+                "question": "Chính phủ có quyền gì đối với tài sản thuộc sở hữu toàn dân ?",
+                "answer": {
+                    "text": [
+                        "chính phủ thống nhất quản lý và bảo đảm sử dụng đúng mục đích, hiệu quả và tiết kiệm tài sản thuộc sở hữu toàn dân"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "việc chiếm hữu, sử dụng, định đoạt tài sản thuộc sở hữu toàn dân được thực hiện trong phạm vi và theo trình tự do pháp luật quy định ; điều 199.",
+        "qas": [
+            {
+                "question": "Chiếm hữu, sử dụng, định đoạt tài sản thuộc sở hữu toàn dân thực hiện ra sao ?",
+                "answer": {
+                    "text": [
+                        "việc chiếm hữu, sử dụng, định đoạt tài sản thuộc sở hữu toàn dân được thực hiện trong phạm vi và theo trình tự do pháp luật quy định"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "khi tài sản thuộc sở hữu toàn dân được đầu tư vào doanh nghiệp thì nhà nước thực hiện quyền của chủ sở hữu đối với tài sản đó theo quy định của pháp luật về doanh nghiệp, quản lý, sử dụng vốn nhà nước đầu tư vào sản xuất, kinh doanh tại doanh nghiệp và quy định khác của pháp luật có liên quan ; điều 200 khoản 1.",
+        "qas": [
+            {
+                "question": "vtài sản thuộc sở hữu toàn dân được đầu tư vào doanh nghiệp thì nhà nước thực hiện những quyền nào  ?",
+                "answer": {
+                    "text": [
+                        "nhà nước thực hiện quyền của chủ sở hữu đối với tài sản đó theo quy định của pháp luật về doanh nghiệp"
+                    ],
+                    "start": [
+                        67
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "khi tài sản thuộc sở hữu toàn dân được giao cho cơ quan nhà nước, đơn vị vũ trang nhân dân thì nhà nước thực hiện quyền kiểm tra, giám sát việc quản lý, sử dụng tài sản đó ; điều 201 khoản 1.",
+        "qas": [
+            {
+                "question": "tài sản thuộc sở hữu toàn dân được giao cho cơ quan nhà nước thì nhà nước làm những bước nào ?",
+                "answer": {
+                    "text": [
+                        "nhà nước thực hiện quyền kiểm tra, giám sát việc quản lý, sử dụng tài sản đó"
+                    ],
+                    "start": [
+                        95
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "quyền của cá nhân, pháp nhân đối với việc sử dụng, khai thác tài sản thuộc sở hữu toàn dân, cá nhân, pháp nhân được sử dụng đất, khai thác nguồn lợi thuỷ sản, tài nguyên thiên nhiên và các tài sản khác thuộc sở hữu toàn dân đúng mục đích, có hiệu quả, thực hiện đầy đủ nghĩa vụ đối với nhà nước theo quy định của pháp luật ; điều 203.",
+        "qas": [
+            {
+                "question": "Quyền của cá nhân đối với việc sử dụng, khai thác tài sản thuộc sở hữu toàn dân như thế nào ?",
+                "answer": {
+                    "text": [
+                        "quyền của cá nhân, pháp nhân đối với việc sử dụng, khai thác tài sản thuộc sở hữu toàn dân, cá nhân, pháp nhân được sử dụng đất, khai thác nguồn lợi thuỷ sản, tài nguyên thiên nhiên và các tài sản khác thuộc sở hữu toàn dân đúng mục đích"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },  {
+        "context": "đối với tài sản thuộc sở hữu toàn dân mà chưa được giao cho cá nhân, pháp nhân quản lý thì chính phủ tổ chức thực hiện việc bảo vệ, điều tra, khảo sát và lập quy hoạch đưa vào khai thác ; điều 204.",
+        "qas": [
+            {
+                "question": "Tài sản thuộc sở hữu toàn dân chưa được giao cho cá nhân thì ai là người bảo vệ ?",
+                "answer": {
+                    "text": [
+                        "chính phủ tổ chức thực hiện việc bảo vệ, điều tra, khảo sát và lập quy hoạch đưa vào khai thác"
+                    ],
+                    "start": [
+                        91
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "sở hữu riêng và tài sản thuộc sở hữu riêng: sở hữu riêng là sở hữu của một cá nhân hoặc một pháp nhân, tài sản hợp pháp thuộc sở hữu riêng không bị hạn chế về số lượng, giá trị ; điều 205.",
+        "qas": [
+            {
+                "question": "Sở hữu riêng là gì ?",
+                "answer": {
+                    "text": [
+                        "sở hữu riêng là sở hữu của một cá nhân hoặc một pháp nhân"
+                    ],
+                    "start": [
+                        44
+                    ]
+                }
+            },
+            {
+                "question": "tài sản thuộc sở hữu riêng có bị giới hạn ?",
+                "answer": {
+                    "text": [
+                        "ài sản hợp pháp thuộc sở hữu riêng không bị hạn chế về số lượng, giá trị"
+                    ],
+                    "start": [
+                        103
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "chủ sở hữu có quyền chiếm hữu, sử dụng, định đoạt tài sản thuộc sở hữu riêng nhằm phục vụ nhu cầu sinh hoạt, tiêu dùng, sản xuất, kinh doanh và các mục đích khác không trái pháp luật ; điều, việc chiếm hữu, sử dụng, định đoạt tài sản thuộc sở hữu riêng không được gây thiệt hại hoặc làm ảnh hưởng đến lợi ích quốc gia, dân tộc, lợi ích công cộng, quyền và lợi ích hợp pháp của người khác điều 206.",
+        "qas": [
+            {
+                "question": "chủ sở hữu sử dụng tài sản thuộc sở hữu riêng như thế nào ?",
+                "answer": {
+                    "text": [
+                        "chủ sở hữu có quyền chiếm hữu, sử dụng, định đoạt tài sản thuộc sở hữu riêng nhằm phục vụ nhu cầu sinh hoạt, tiêu dùng, sản xuất, kinh doanh"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "sở hữu chung là sở hữu của nhiều chủ thể đối với tài sản, sở hữu chung bao gồm sở hữu chung theo phần và sở hữu chung hợp nhất ; điều 207.",
+        "qas": [
+            {
+                "question": "Sở hữu chung là gì ?",
+                "answer": {
+                    "text": [
+                        "sở hữu chung là sở hữu của nhiều chủ thể đối với tài sản"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "Sở hữu chung bao gồm những gì ?",
+                "answer": {
+                    "text": [
+                        "sở hữu chung bao gồm sở hữu chung theo phần và sở hữu chung hợp nhất"
+                    ],
+                    "start": [
+                        58
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "quyền sở hữu chung được xác lập theo thoả thuận, theo quy định của pháp luật hoặc theo tập quán ; điều 208.",
+        "qas": [
+            {
+                "question": "Xác lập quyền sở hữu chung là gì ?",
+                "answer": {
+                    "text": [
+                        "quyền sở hữu chung được xác lập theo thoả thuận, theo quy định của pháp luật hoặc theo tập quán"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "sở hữu chung theo phần là sở hữu chung mà trong đó phần quyền sở hữu của mỗi chủ sở hữu được xác định đối với tài sản chung ; điều 209 khoản 1.",
+        "qas": [
+            {
+                "question": "Sở hữu chung theo phần là gì ?",
+                "answer": {
+                    "text": [
+                        "sở hữu chung theo phần là sở hữu chung mà trong đó phần quyền sở hữu của mỗi chủ sở hữu được xác định đối với tài sản chung"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "mỗi chủ sở hữu chung theo phần có quyền, nghĩa vụ đối với tài sản thuộc sở hữu chung tương ứng với phần quyền sở hữu của mình, trừ trường hợp có thoả thuận khác ; điều 209 khoản 2.",
+        "qas": [
+            {
+                "question": "Mỗi chủ sở hữu chung theo phần có quyền gì về tài sản của mình?",
+                "answer": {
+                    "text": [
+                        "mỗi chủ sở hữu chung theo phần có quyền, nghĩa vụ đối với tài sản thuộc sở hữu chung tương ứng với phần quyền sở hữu của mình"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "sở hữu chung hợp nhất là sở hữu chung mà trong đó, phần quyền sở hữu của mỗi chủ sở hữu chung không được xác định đối với tài sản chung, sở hữu chung hợp nhất bao gồm sở hữu chung hợp nhất có thể phân chia và sở hữu chung hợp nhất không phân chia ; điều 210 khoản 1.",
+        "qas": [
+            {
+                "question": "Sở hữu chung hợp nhất là gì ?",
+                "answer": {
+                    "text": [
+                        "sở hữu chung hợp nhất là sở hữu chung mà trong đó, phần quyền sở hữu của mỗi chủ sở hữu chung không được xác định đối với tài sản chung"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "Sở hữu chung hợp nhất bao gồm những gì ?",
+                "answer": {
+                    "text": [
+                        "sở hữu chung hợp nhất bao gồm sở hữu chung hợp nhất có thể phân chia và sở hữu chung hợp nhất không phân chia"
+                    ],
+                    "start": [
+                        137
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "các chủ sở hữu chung hợp nhất có quyền, nghĩa vụ ngang nhau đối với tài sản thuộc sở hữu chung ; điều 210 khoản 2.",
+        "qas": [
+            {
+                "question": "Các chủ sở hữu chung hợp nhất có quyền ngang nhau không ?",
+                "answer": {
+                    "text": [
+                        "các chủ sở hữu chung hợp nhất có quyền, nghĩa vụ ngang nhau đối với tài sản thuộc sở hữu chung"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "các thành viên của cộng đồng cùng quản lý, sử dụng, định đoạt tài sản chung theo thoả thuận hoặc theo tập quán vì lợi ích chung của cộng đồng nhưng không được vi phạm điều cấm của luật, không trái đạo đức xã hội ; điều 211 khoản 2.",
+        "qas": [
+            {
+                "question": "sử dụng tài sản sở hữu chung của cộng đồng vì mục đích gì ?",
+                "answer": {
+                    "text": [
+                        "sử dụng, định đoạt tài sản chung theo thoả thuận hoặc theo tập quán vì lợi ích chung của cộng đồng"
+                    ],
+                    "start": [
+                        43
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "tài sản chung của cộng đồng là tài sản chung hợp nhất không phân chia ; điều 211 khoản 3.",
+        "qas": [
+            {
+                "question": "Tài sản chung của cộng đồng có bị phân chia không ?",
+                "answer": {
+                    "text": [
+                        "tài sản chung của cộng đồng là tài sản chung hợp nhất không phân chia"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "sở hữu chung của vợ chồng là sở hữu chung hợp nhất có thể phân chia,vợ chồng cùng nhau tạo lập, phát triển khối tài sản chung; có quyền ngang nhau trong việc chiếm hữu, sử dụng, định đoạt tài sản chung, vợ chồng thoả thuận hoặc uỷ quyền cho nhau chiếm hữu, sử dụng, định đoạt tài sản chung, tài sản chung của vợ chồng có thể phân chia theo thoả thuận hoặc theo quyết định của tòa án, trường hợp vợ chồng lựa chọn chế độ tài sản theo thỏa thuận theo quy định của pháp luật về hôn nhân và gia đình thì tài sản chung của vợ chồng được áp dụng theo chế độ tài sản này ; điều 213.",
+        "qas": [
+            {
+                "question": "Sở hữu chung của vợ chồng là gì ?",
+                "answer": {
+                    "text": [
+                        "sở hữu chung của vợ chồng là sở hữu chung hợp nhất có thể phân chia"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "quyền sử dụng tài sản chung của vợ chồng là gì ?",
+                "answer": {
+                    "text": [
+                        "vợ chồng cùng nhau tạo lập, phát triển khối tài sản chung; có quyền ngang nhau trong việc chiếm hữu, sử dụng, định đoạt tài sản chung"
+                    ],
+                    "start": [
+                        68
+                    ]
+                }
+            },
+            {
+                "question": "vợ chồng có thể uỷ quyền cho nhau quyền sử dụng tài sản chung không ?",
+                "answer": {
+                    "text": [
+                        "vợ chồng thoả thuận hoặc uỷ quyền cho nhau chiếm hữu, sử dụng, định đoạt tài sản chung"
+                    ],
+                    "start": [
+                        203
+                    ]
+                }
+            },
+            {
+                "question": "tài sản chung của vợ chồng có thể phân chia không ?",
+                "answer": {
+                    "text": [
+                        "tài sản chung của vợ chồng có thể phân chia theo thoả thuận hoặc theo quyết định của tòa án"
+                    ],
+                    "start": [
+                        291
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "sở hữu chung của vợ chồng là sở hữu chung hợp nhất có thể phân chia,vợ chồng cùng nhau tạo lập, phát triển khối tài sản chung; có quyền ngang nhau trong việc chiếm hữu, sử dụng, định đoạt tài sản chung, vợ chồng thoả thuận hoặc uỷ quyền cho nhau chiếm hữu, sử dụng, định đoạt tài sản chung, tài sản chung của vợ chồng có thể phân chia theo thoả thuận hoặc theo quyết định của tòa án, trường hợp vợ chồng lựa chọn chế độ tài sản theo thỏa thuận theo quy định của pháp luật về hôn nhân và gia đình thì tài sản chung của vợ chồng được áp dụng theo chế độ tài sản này ; điều 213.",
+        "qas": [
+            {
+                "question": "Sở hữu chung của vợ chồng là gì ?",
+                "answer": {
+                    "text": [
+                        "sở hữu chung của vợ chồng là sở hữu chung hợp nhất có thể phân chia"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "quyền sử dụng tài sản chung của vợ chồng là gì ?",
+                "answer": {
+                    "text": [
+                        "vợ chồng cùng nhau tạo lập, phát triển khối tài sản chung; có quyền ngang nhau trong việc chiếm hữu, sử dụng, định đoạt tài sản chung"
+                    ],
+                    "start": [
+                        68
+                    ]
+                }
+            },
+            {
+                "question": "vợ chồng có thể uỷ quyền cho nhau quyền sử dụng tài sản chung không ?",
+                "answer": {
+                    "text": [
+                        "vợ chồng thoả thuận hoặc uỷ quyền cho nhau chiếm hữu, sử dụng, định đoạt tài sản chung"
+                    ],
+                    "start": [
+                        203
+                    ]
+                }
+            },
+            {
+                "question": "tài sản chung của vợ chồng có thể phân chia không ?",
+                "answer": {
+                    "text": [
+                        "tài sản chung của vợ chồng có thể phân chia theo thoả thuận hoặc theo quyết định của tòa án"
+                    ],
+                    "start": [
+                        291
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "phần diện tích, trang thiết bị và các tài sản khác dùng chung trong nhà chung cư theo quy định của luật nhà ở thuộc sở hữu chung hợp nhất của tất cả chủ sở hữu các căn hộ trong nhà đó và không phân chia, trừ trường hợp luật có quy định khác hoặc tất cả các chủ sở hữu có thoả thuận khác ; điều 214 khoản 1.",
+        "qas": [
+            {
+                "question": "Sở hữu chung trong nhà chung cư như thế nào ?",
+                "answer": {
+                    "text": [
+                        "phần diện tích, trang thiết bị và các tài sản khác dùng chung trong nhà chung cư theo quy định của luật nhà ở thuộc sở hữu chung hợp nhất của tất cả chủ sở hữu các căn hộ trong nhà đó và không phân chia"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "chủ sở hữu các căn hộ trong nhà chung cư có quyền, nghĩa vụ ngang nhau trong việc quản lý, sử dụng tài sản quy định tại khoản 1 điều này, trừ trường hợp luật có quy định khác hoặc có thỏa thuận khác ; điều 214 khoản 2.",
+        "qas": [
+            {
+                "question": "Chủ sở hữu các căn hộ trong nhà chung có quyền gì ?",
+                "answer": {
+                    "text": [
+                        "chủ sở hữu các căn hộ trong nhà chung cư có quyền, nghĩa vụ ngang nhau trong việc quản lý, sử dụng tài sản"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "sở hữu chung hỗn hợp là sở hữu đối với tài sản do các chủ sở hữu thuộc các thành phần kinh tế khác nhau góp vốn để sản xuất, kinh doanh thu lợi nhuận ; điều 215 khoản 1.",
+        "qas": [
+            {
+                "question": "Sở hữu chung hỗn hợp là gì ?",
+                "answer": {
+                    "text": [
+                        "sở hữu chung hỗn hợp là sở hữu đối với tài sản do các chủ sở hữu thuộc các thành phần kinh tế khác nhau góp vốn để sản xuất, kinh doanh thu lợi nhuận"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "tài sản được hình thành từ nguồn vốn góp của các chủ sở hữu, lợi nhuận hợp pháp thu được từ hoạt động sản xuất, kinh doanh hoặc từ nguồn khác phù hợp với quy định của pháp luật là tài sản thuộc sở hữu chung hỗn hợp ; điều 215 khoản 2.",
+        "qas": [
+            {
+                "question": "Sở hữu chung hỗn hợp thì Tài sản được hình thành như thế nào ?",
+                "answer": {
+                    "text": [
+                        "tài sản được hình thành từ nguồn vốn góp của các chủ sở hữu, lợi nhuận hợp pháp thu được từ hoạt động sản xuất, kinh doanh hoặc từ nguồn khác"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "việc chiếm hữu, sử dụng, định đoạt tài sản thuộc sở hữu chung hỗn hợp phải tuân theo quy định tại điều 209 của bộ luật này và quy định của pháp luật có liên quan đến việc góp vốn, tổ chức, hoạt động sản xuất, kinh doanh, quản lý, điều hành, trách nhiệm về tài sản và phân chia lợi nhuận ; điều 215 khoản 3.",
+        "qas": [
+            {
+                "question": "việc sử dụng sở hữu chung hỗn hợp như thế nào ?",
+                "answer": {
+                    "text": [
+                        "việc chiếm hữu, sử dụng, định đoạt tài sản thuộc sở hữu chung hỗn hợp phải tuân theo quy định liên quan đến việc góp vốn, tổ chức, hoạt động sản xuất, kinh doanh, quản lý, điều hành, trách nhiệm về tài sản và phân chia lợi nhuận"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "các chủ sở hữu chung cùng quản lý tài sản chung theo nguyên tắc nhất trí, trừ trường hợp có thoả thuận khác hoặc pháp luật có quy định khác ; điều 216.",
+        "qas": [
+            {
+                "question": "Quản lý tài sản chung như thế nào ?",
+                "answer": {
+                    "text": [
+                        "các chủ sở hữu chung cùng quản lý tài sản chung theo nguyên tắc nhất trí, trừ trường hợp có thoả thuận khác hoặc pháp luật có quy định khác"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "các chủ sở hữu chung hợp nhất có quyền ngang nhau trong việc khai thác công dụng, hưởng hoa lợi, lợi tức từ tài sản chung, trừ trường hợp có thoả thuận khác ; điều 217 khoản 2.",
+        "qas": [
+            {
+                "question": "Các chủ sở hữu chung hợp nhất quyền sử dụng như thế nào ?",
+                "answer": {
+                    "text": [
+                        "các chủ sở hữu chung hợp nhất có quyền ngang nhau trong việc khai thác công dụng, hưởng hoa lợi, lợi tức từ tài sản chung"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },  {
+        "context": "sở hữu chung chấm dứt trong trường hợp sau đây: tài sản chung đã được chia, một trong số các chủ sở hữu chung được hưởng toàn bộ tài sản chung, tài sản chung không còn, trường hợp khác theo quy định của luật ; điều 220.",
+        "qas": [
+            {
+                "question": "Sở hữu chung chấm dứt trong trường hợp nào ?",
+                "answer": {
+                    "text": [
+                        "trường hợp sau đây: tài sản chung đã được chia, một trong số các chủ sở hữu chung được hưởng toàn bộ tài sản chung, tài sản chung không còn, trường hợp khác theo quy định của luật"
+                    ],
+                    "start": [
+                        28
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "sở hữu chung chấm dứt trong trường hợp sau đây: tài sản chung đã được chia, một trong số các chủ sở hữu chung được hưởng toàn bộ tài sản chung, tài sản chung không còn, trường hợp khác theo quy định của luật ; điều 220.",
+        "qas": [
+            {
+                "question": "sở hữu chung chấm dứt trong các trường hợp nào ?",
+                "answer": {
+                    "text": [
+                        "tài sản chung đã được chia, một trong số các chủ sở hữu chung được hưởng toàn bộ tài sản chung, tài sản chung không còn, trường hợp khác theo quy định của luật"
+                    ],
+                    "start": [
+                        48
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "chiếm hữu là việc chủ thể nắm giữ, chi phối tài sản một cách trực tiếp hoặc gián tiếp như chủ thể có quyền đối với tài sản, chiếm hữu bao gồm chiếm hữu của chủ sở hữu và chiếm hữu của người không phải là chủ sở hữu, việc chiếm hữu của người không phải là chủ sở hữu không thể là căn cứ xác lập quyền sở hữu, trừ trường hợp quy định tại các điều 228, 229, 230, 231, 232, 233 và 236 của bộ luật này ; điều 179.",
+        "qas": [
+            {
+                "question": "Khái niệm chiếm hữu là gì ?",
+                "answer": {
+                    "text": [
+                        "chiếm hữu là việc chủ thể nắm giữ, chi phối tài sản một cách trực tiếp hoặc gián tiếp như chủ thể có quyền đối với tài sản"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "chiếm hữu bao gồm những gì ?",
+                "answer": {
+                    "text": [
+                        "chiếm hữu bao gồm chiếm hữu của chủ sở hữu và chiếm hữu của người không phải là chủ sở hữu"
+                    ],
+                    "start": [
+                        124
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "tài sản không xác định được chủ sở hữu; tài sản bị chôn, giấu, bị vùi lấp, chìm đắm được tìm thấy; tài sản bị đánh rơi, bị bỏ quên; gia súc, gia cầm bị thất lạc; vật nuôi dưới nước di chuyển tự nhiên đã được xác lập quyền sở hữu cho người khác theo quy định tại các điều từ điều 228 đến điều 233 của bộ luật này thì quyền sở hữu của những người có tài sản đó chấm dứt, khi quyền sở hữu của người chiếm hữu, người được lợi về tài sản đã được xác lập theo quy định tại điều 236 của bộ luật này hoặc quy định khác của luật có liên quan thì chấm dứt quyền sở hữu của người có tài sản bị chiếm hữu ; điều 240.",
+        "qas": [
+            {
+                "question": "Tài sản đã được xác lập quyền sở hữu cho người khác khi nào ?",
+                "answer": {
+                    "text": [
+                        "tài sản không xác định được chủ sở hữu; tài sản bị chôn, giấu, bị vùi lấp, chìm đắm được tìm thấy; tài sản bị đánh rơi, bị bỏ quên; gia súc, gia cầm bị thất lạc, thì quyền sở hữu của những người có tài sản đó chấm dứt"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "người phát hiện tài sản không xác định được ai là chủ sở hữu phải thông báo hoặc giao nộp cho uỷ ban nhân dân cấp xã hoặc công an cấp xã nơi gần nhất để thông báo công khai cho chủ sở hữu biết mà nhận lại, việc giao nộp phải được lập biên bản, trong đó ghi rõ họ, tên, địa chỉ của người giao nộp, người nhận, tình trạng, số lượng, khối lượng tài sản giao nộp, uỷ ban nhân dân cấp xã hoặc công an cấp xã đã nhận tài sản phải thông báo cho người phát hiện về kết quả xác định chủ sở hữu, sau 01 năm, kể từ ngày thông báo công khai mà không xác định được ai là chủ sở hữu tài sản là động sản thì quyền sở hữu đối với động sản đó thuộc về người phát hiện tài sản, sau 05 năm, kể từ ngày thông báo công khai mà không xác định được ai là chủ sở hữu tài sản là bất động sản thì bất động sản đó thuộc về nhà nước; người phát hiện được hưởng một khoản tiền thưởng theo quy định của pháp luật ; điều 228 khoản 2.",
+        "qas": [
+            {
+                "question": "Sau 01 năm, kể từ ngày thông báo công khai mà không xác định được chủ sở hữu tài sản là động sản thì quyền sở hữu đối với động sản đó thuộc về ai?",
+                "answer": {
+                    "text": [
+                        "người phát hiện tài sản"
+                    ],
+                    "start": [
+                        635
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "người phát hiện tài sản do người khác đánh rơi, bỏ quên mà biết được địa chỉ của người đánh rơi hoặc bỏ quên thì phải thông báo hoặc trả lại tài sản cho người đó; nếu không biết địa chỉ của người đánh rơi hoặc bỏ quên thì phải thông báo hoặc giao nộp cho uỷ ban nhân dân cấp xã hoặc công an cấp xã nơi gần nhất để thông báo công khai cho chủ sở hữu biết mà nhận lại, uỷ ban nhân dân cấp xã hoặc công an cấp xã đã nhận tài sản phải thông báo cho người đã giao nộp về kết quả xác định chủ sở hữu ; điều 230 khoản 1.",
+        "qas": [
+            {
+                "question": "người phát hiện tài sản do người khác đánh rơi, bỏ quên nếu không biết địa chỉ của người đánh rơi hoặc bỏ quên thì phải thông báo hoặc giao nộp cho cho cơ quan nào ?",
+                "answer": {
+                    "text": [
+                        "uỷ ban nhân dân cấp xã hoặc công an cấp xã nơi gần nhất "
+                    ],
+                    "start": [
+                        255
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "sau 01 năm, kể từ ngày thông báo công khai về tài sản do người khác đánh rơi, bỏ quên mà không xác định được chủ sở hữu hoặc chủ sở hữu không đến nhận thì quyền sở hữu đối với tài sản này được xác định như sau: trường hợp tài sản bị đánh rơi, bỏ quên có giá trị nhỏ hơn hoặc bằng mười lần mức lương cơ sở do nhà nước quy định thì người nhặt được được xác lập quyền sở hữu đối với tài sản đó theo quy định của bộ luật này và quy định khác của pháp luật có liên quan; trường hợp tài sản có giá trị lớn hơn mười lần mức lương cơ sở do nhà nước quy định thì sau khi trừ chi phí bảo quản, người nhặt được được hưởng giá trị bằng mười lần mức lương cơ sở do nhà nước quy định và 50% giá trị của phần vượt quá mười lần mức lương cơ sở do nhà nước quy định, phần giá trị còn lại thuộc về nhà nước, trường hợp tài sản bị đánh rơi, bị bỏ quên là tài sản thuộc di tích lịch sử - văn hoá theo quy định của luật di sản văn hóa thì tài sản đó thuộc về nhà nước; người nhặt được tài sản được hưởng một khoản tiền thưởng theo quy định của pháp luật ; điều 230 khoản 2.",
+        "qas": [
+            {
+                "question": "nhặt được chiếc ví có 05 triệu đồng nhưng không biết của ai, vậy khi nào thì Việt được xác lập quyền sở hữu đối với tài sản đó?",
+                "answer": {
+                    "text": [
+                        "sau 01 năm, kể từ ngày thông báo công khai về tài sản do người khác đánh rơi"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "trường hợp chủ sở hữu được nhận lại gia súc bị thất lạc thì phải thanh toán tiền công nuôi giữ và các chi phí khác cho người bắt được gia súc. trong thời gian nuôi giữ gia súc bị thất lạc, nếu gia súc có sinh con thì người bắt được gia súc được hưởng một nửa số gia súc sinh ra hoặc 50% giá trị số gia súc sinh ra và phải bồi thường thiệt hại nếu có lỗi cố ý làm chết gia súc ; điều 231 khoản 2.",
+        "qas": [
+            {
+                "question": "trong thời gian nuôi giữ gia súc bị thất lạc, nếu gia súc có sinh con thì người bắt được gia súc được hưởng quyền lợi gi?",
+                "answer": {
+                    "text": [
+                        "hưởng một nửa số gia súc sinh ra hoặc 50% giá trị số gia súc sinh ra"
+                    ],
+                    "start": [
+                        245
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "tài sản không xác định được chủ sở hữu; tài sản bị chôn, giấu, bị vùi lấp, chìm đắm được tìm thấy; tài sản bị đánh rơi, bị bỏ quên; gia súc, gia cầm bị thất lạc; vật nuôi dưới nước di chuyển tự nhiên đã được xác lập quyền sở hữu cho người khác theo quy định tại các điều từ điều 228 đến điều 233 của bộ luật này thì quyền sở hữu của những người có tài sản đó chấm dứt, khi quyền sở hữu của người chiếm hữu, người được lợi về tài sản đã được xác lập theo quy định tại điều 236 của bộ luật này hoặc quy định khác của luật có liên quan thì chấm dứt quyền sở hữu của người có tài sản bị chiếm hữu ; điều 240.",
+        "qas": [
+            {
+                "question": "Tài sản đã được xác lập quyền sở hữu cho người khác khi nào ?",
+                "answer": {
+                    "text": [
+                        "tài sản không xác định được chủ sở hữu; tài sản bị chôn, giấu, bị vùi lấp, chìm đắm được tìm thấy; tài sản bị đánh rơi, bị bỏ quên; gia súc, gia cầm bị thất lạc, thì quyền sở hữu của những người có tài sản đó chấm dứt"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "khi vật nuôi dưới nước của một người di chuyển tự nhiên vào ruộng, ao, hồ của người khác thì thuộc sở hữu của người có ruộng, ao, hồ đó. trường hợp vật nuôi dưới nước có dấu hiệu riêng biệt để có thể xác định vật nuôi không thuộc sở hữu của mình thì người có ruộng, ao, hồ đó phải thông báo công khai để chủ sở hữu biết mà nhận lại. sau 01 tháng, kể từ ngày thông báo công khai mà không có người đến nhận thì quyền sở hữu vật nuôi dưới nước đó thuộc về người có ruộng, ao, hồ ; điều 233.",
+        "qas": [
+            {
+                "question": "khi vật nuôi dưới nước của một người di chuyển tự nhiên vào ruộng, ao, hồ của người khác thì thuộc sở hữu của ai?",
+                "answer": {
+                    "text": [
+                        "của người có ruộng, ao, hồ đó"
+                    ],
+                    "start": [
+                        106
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "người được chủ sở hữu uỷ quyền quản lý tài sản không thể trở thành chủ sở hữu đối với tài sản được giao theo quy định tại điều 236 của bộ luật này ; điều 187 khoản 2.",
+        "qas": [
+            {
+                "question": "Người được chủ sở hữu ủy quyền có thể trở thành chủ sở hữu không ?",
+                "answer": {
+                    "text": [
+                        "người được chủ sở hữu uỷ quyền quản lý tài sản không thể trở thành chủ sở hữu đối với tài sản được giao"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "thời hiệu để người thừa kế yêu cầu chia di sản là 30 năm đối với bất động sản, 10 năm đối với động sản, kể từ thời điểm mở thừa kế. hết thời hạn này thì di sản thuộc về người thừa kế đang quản lý di sản đó. trường hợp không có người thừa kế đang quản lý di sản thì di sản được giải quyết như sau: di sản thuộc quyền sở hữu của người đang chiếm hữu theo quy định tại điều 236 của bộ luật này, di sản thuộc về nhà nước, nếu không có người chiếm hữu quy định tại điểm a khoản này, thời hiệu để người thừa kế yêu cầu xác nhận quyền thừa kế của mình hoặc bác bỏ quyền thừa kế của người khác là 10 năm, kể từ thời điểm mở thừa kế, thời hiệu yêu cầu người thừa kế thực hiện nghĩa vụ về tài sản của người chết để lại là 03 năm, kể từ thời điểm mở thừa kế ; điều 623.",
+        "qas": [
+            {
+                "question": "Thời gian để người thừa kế yêu cầu chia di sản là bao lâu?",
+                "answer": {
+                    "text": [
+                        "thời hiệu để người thừa kế yêu cầu chia di sản là 30 năm đối với bất động sản, 10 năm đối với động sản, kể từ thời điểm mở thừa kế"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "nghĩa vụ hoàn trả hoa lợi, lợi tức: người chiếm hữu, người sử dụng tài sản, người được lợi về tài sản mà không có căn cứ pháp luật và không ngay tình thì phải hoàn trả hoa lợi, lợi tức thu được từ thời điểm chiếm hữu, sử dụng tài sản, được lợi về tài sản không có căn cứ pháp luật, người chiếm hữu, người sử dụng tài sản, người được lợi về tài sản mà không có căn cứ pháp luật nhưng ngay tình thì phải hoàn trả hoa lợi, lợi tức thu được từ thời điểm người đó biết hoặc phải biết việc chiếm hữu, sử dụng tài sản, được lợi về tài sản không có căn cứ pháp luật, trừ trường hợp quy định tại điều 236 của bộ luật này ; điều 581.",
+        "qas": [
+            {
+                "question": "Người chiếm hữu tài sản được lợi về tài sản mà không có căn cứ pháp luật có phải hoàn trả lợi nhuận không?",
+                "answer": {
+                    "text": [
+                        " phải hoàn trả hoa lợi, lợi tức thu được từ thời điểm chiếm hữu, sử dụng tài sản, được lợi về tài sản không có căn cứ pháp luật"
+                    ],
+                    "start": [
+                        154
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "tài sản không xác định được chủ sở hữu; tài sản bị chôn, giấu, bị vùi lấp, chìm đắm được tìm thấy; tài sản bị đánh rơi, bị bỏ quên; gia súc, gia cầm bị thất lạc; vật nuôi dưới nước di chuyển tự nhiên đã được xác lập quyền sở hữu cho người khác theo quy định tại các điều từ điều 228 đến điều 233 của bộ luật này thì quyền sở hữu của những người có tài sản đó chấm dứt, khi quyền sở hữu của người chiếm hữu, người được lợi về tài sản đã được xác lập theo quy định tại điều 236 của bộ luật này hoặc quy định khác của luật có liên quan thì chấm dứt quyền sở hữu của người có tài sản bị chiếm hữu ; điều 240.",
+        "qas": [
+            {
+                "question": "Tài sản đã được xác lập quyền sở hữu cho người khác khi nào ?",
+                "answer": {
+                    "text": [
+                        "tài sản không xác định được chủ sở hữu; tài sản bị chôn, giấu, bị vùi lấp, chìm đắm được tìm thấy; tài sản bị đánh rơi, bị bỏ quên; gia súc, gia cầm bị thất lạc, thì quyền sở hữu của những người có tài sản đó chấm dứt"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "quyền sở hữu chấm dứt trong trường hợp sau đây: chủ sở hữu chuyển quyền sở hữu của mình cho người khác, chủ sở hữu từ bỏ quyền sở hữu của mình, tài sản đã được tiêu dùng hoặc bị tiêu huỷ, tài sản bị xử lý để thực hiện nghĩa vụ của chủ sở hữu, tài sản bị trưng mua, tài sản bị tịch thu, tài sản đã được xác lập quyền sở hữu cho người khác theo quy định của bộ luật này, trường hợp khác do luật quy định ; điều 237.",
+        "qas": [
+            {
+                "question": "Quyền sở hữu chấm dứt trong trường hợp nào ?",
+                "answer": {
+                    "text": [
+                        "chủ sở hữu chuyển quyền sở hữu của mình cho người khác, chủ sở hữu từ bỏ quyền sở hữu của mình, tài sản đã được tiêu dùng hoặc bị tiêu huỷ, tài sản bị xử lý để thực hiện nghĩa vụ của chủ sở hữu, tài sản bị trưng mua, tài sản bị tịch thu, tài sản đã được xác lập quyền sở hữu cho người khác theo quy định của bộ luật này, trường hợp khác do luật quy định"
+                    ],
+                    "start": [
+                        48
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "khi chủ sở hữu chuyển giao quyền sở hữu của mình cho người khác thông qua hợp đồng mua bán, trao đổi, tặng cho, cho vay, hợp đồng chuyển quyền sở hữu khác theo quy định của pháp luật hoặc thông qua việc để thừa kế thì quyền sở hữu đối với tài sản của người đó chấm dứt kể từ thời điểm phát sinh quyền sở hữu của người được chuyển giao ; điều 238.",
+        "qas": [
+            {
+                "question": "chủ sở hữu chuyển giao quyền sở hữu của mình cho người khác thông qua hình thức nào ?",
+                "answer": {
+                    "text": [
+                        "khi chủ sở hữu chuyển giao quyền sở hữu của mình cho người khác thông qua hợp đồng mua bán, trao đổi, tặng cho, cho vay, hợp đồng chuyển quyền sở hữu khác theo quy định của pháp luật"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "chủ sở hữu có thể tự chấm dứt quyền sở hữu đối với tài sản của mình bằng cách tuyên bố công khai hoặc thực hiện hành vi chứng tỏ việc mình từ bỏ quyền chiếm hữu, sử dụng và định đoạt tài sản đó, đối với tài sản mà việc từ bỏ tài sản đó có thể gây hại đến trật tự, an toàn xã hội, ô nhiễm môi trường thì việc từ bỏ quyền sở hữu phải tuân theo quy định của pháp luật ; điều 239.",
+        "qas": [
+            {
+                "question": "Chủ sở hữu có thể tự chấm dứt quyền sở hữu bằng cách nào ?",
+                "answer": {
+                    "text": [
+                        "chủ sở hữu có thể tự chấm dứt quyền sở hữu đối với tài sản của mình bằng cách tuyên bố công khai hoặc thực hiện hành vi chứng tỏ việc mình từ bỏ quyền chiếm hữu"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "tài sản không xác định được chủ sở hữu; tài sản bị chôn, giấu, bị vùi lấp, chìm đắm được tìm thấy; tài sản bị đánh rơi, bị bỏ quên; gia súc, gia cầm bị thất lạc; vật nuôi dưới nước di chuyển tự nhiên đã được xác lập quyền sở hữu cho người khác theo quy định tại các điều từ điều 228 đến điều 233 của bộ luật này thì quyền sở hữu của những người có tài sản đó chấm dứt, khi quyền sở hữu của người chiếm hữu, người được lợi về tài sản đã được xác lập theo quy định tại điều 236 của bộ luật này hoặc quy định khác của luật có liên quan thì chấm dứt quyền sở hữu của người có tài sản bị chiếm hữu ; điều 240.",
+        "qas": [
+            {
+                "question": "Tài sản đã được xác lập quyền sở hữu cho người khác khi nào ?",
+                "answer": {
+                    "text": [
+                        "tài sản không xác định được chủ sở hữu; tài sản bị chôn, giấu, bị vùi lấp, chìm đắm được tìm thấy; tài sản bị đánh rơi, bị bỏ quên; gia súc, gia cầm bị thất lạc, thì quyền sở hữu của những người có tài sản đó chấm dứt"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "quyền sở hữu đối với một tài sản chấm dứt khi tài sản đó bị xử lý để thực hiện nghĩa vụ của chủ sở hữu theo quyết định của tòa án hoặc cơ quan nhà nước có thẩm quyền khác, nếu pháp luật không có quy định khác ; điều 241 khoản 1.",
+        "qas": [
+            {
+                "question": "Xử lý tài sản để thực hiện nghĩa vụ của chủ sở hữu như thế nào ?",
+                "answer": {
+                    "text": [
+                        "quyền sở hữu đối với một tài sản chấm dứt khi tài sản đó bị xử lý để thực hiện nghĩa vụ của chủ sở hữu theo quyết định của tòa án hoặc cơ quan nhà nước có thẩm quyền khác, nếu pháp luật không có quy định khác"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "khi tài sản được tiêu dùng hoặc bị tiêu huỷ thì quyền sở hữu đối với tài sản đó chấm dứt ; điều 242.",
+        "qas": [
+            {
+                "question": "Tài sản được tiêu dùng hoặc bị tiêu hủy thì quyền sở hữu còn không ?",
+                "answer": {
+                    "text": [
+                        "khi tài sản được tiêu dùng hoặc bị tiêu huỷ thì quyền sở hữu đối với tài sản đó chấm dứt "
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "khi tài sản của chủ sở hữu do phạm tội, vi phạm hành chính mà bị tịch thu, sung quỹ nhà nước thì quyền sở hữu đối với tài sản đó chấm dứt kể từ thời điểm bản án, quyết định của tòa án, cơ quan nhà nước có thẩm quyền khác có hiệu lực pháp luật ; điều 244.",
+        "qas": [
+            {
+                "question": "Tài sản bị tịch thu khi nào ?",
+                "answer": {
+                    "text": [
+                        "khi tài sản của chủ sở hữu do phạm tội, vi phạm hành chính mà bị tịch thu, sung quỹ nhà nước thì quyền sở hữu đối với tài sản đó chấm dứt kể từ thời điểm bản án, quyết định của tòa án, cơ quan nhà nước có thẩm quyền khác có hiệu lực pháp luật"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "khi tài sản của chủ sở hữu do phạm tội, vi phạm hành chính mà bị tịch thu, sung quỹ nhà nước thì quyền sở hữu đối với tài sản đó chấm dứt kể từ thời điểm bản án, quyết định của tòa án, cơ quan nhà nước có thẩm quyền khác có hiệu lực pháp luật ; điều 244.",
+        "qas": [
+            {
+                "question": "Tài sản bị tịch thu có được coi là chấm dứt quyền sở hữu không?",
+                "answer": {
+                    "text": [
+                        "khi tài sản của chủ sở hữu do phạm tội, vi phạm hành chính mà bị tịch thu, sung quỹ nhà nước thì quyền sở hữu đối với tài sản đó chấm dứt kể từ thời điểm bản án, quyết định của tòa án, cơ quan nhà nước có thẩm quyền khác có hiệu lực pháp luật"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    }
+]

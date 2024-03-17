@@ -1,0 +1,430 @@
+[
+    {
+        "context": "căn cứ xác lập quyền dân sự quyền dân sự được xác lập từ các căn cứ sau đây: hợp đồng, hành vi pháp lý đơn phương, quyết định của tòa án, cơ quan có thẩm quyền khác theo quy định của luật, kết quả của lao động, sản xuất, kinh doanh; kết quả của hoạt động sáng tạo ra đối tượng quyền sở hữu trí tuệ, chiếm hữu tài sản, sử dụng tài sản, được lợi về tài sản không có căn cứ pháp luật, bị thiệt hại do hành vi trái pháp luật, thực hiện công việc không có uỷ quyền, căn cứ khác do pháp luật quy định ; điều 8.",
+        "qas": [
+            {
+                "question": "Quyền dân sự được xác lập từ các căn cứ nào?",
+                "answer": {
+                    "text": [
+                        "hợp đồng, hành vi pháp lý đơn phương, quyết định của tòa án, cơ quan có thẩm quyền khác theo quy định của luật, kết quả của lao động, sản xuất, kinh doanh; kết quả của hoạt động sáng tạo ra đối tượng quyền sở hữu trí tuệ, chiếm hữu tài sản, sử dụng tài sản, được lợi về tài sản không có căn cứ pháp luật, bị thiệt hại do hành vi trái pháp luật, thực hiện công việc không có uỷ quyền, căn cứ khác do pháp luật quy định"
+                    ],
+                    "start": [
+                        77
+                    ]
+                }
+            },
+            {
+                "question": "Hợp đồng có phải căn cứ để xác lập quyền dân sự không?",
+                "answer": {
+                    "text": [
+                        "quyền dân sự được xác lập từ các căn cứ sau đây: hợp đồng, hành vi pháp lý đơn phương, quyết định của tòa án, cơ quan có thẩm quyền khác theo quy định của luật, kết quả của lao động, sản xuất, kinh doanh; kết quả của hoạt động sáng tạo ra đối tượng quyền sở hữu trí tuệ, chiếm hữu tài sản, sử dụng tài sản, được lợi về tài sản không có căn cứ pháp luật, bị thiệt hại do hành vi trái pháp luật, thực hiện công việc không có uỷ quyền, căn cứ khác do pháp luật quy định"
+                    ],
+                    "start": [
+                        15
+                    ]
+                }
+            },
+            {
+                "question": "hành vi pháp lý đơn phương có phải căn cứ để xác lập quyền dân sự không?",
+                "answer": {
+                    "text": [
+                        "quyền dân sự được xác lập từ các căn cứ sau đây: hợp đồng, hành vi pháp lý đơn phương, quyết định của tòa án, cơ quan có thẩm quyền khác theo quy định của luật, kết quả của lao động, sản xuất, kinh doanh; kết quả của hoạt động sáng tạo ra đối tượng quyền sở hữu trí tuệ, chiếm hữu tài sản, sử dụng tài sản, được lợi về tài sản không có căn cứ pháp luật, bị thiệt hại do hành vi trái pháp luật, thực hiện công việc không có uỷ quyền, căn cứ khác do pháp luật quy định"
+                    ],
+                    "start": [
+                        15
+                    ]
+                }
+            },
+            {
+                "question": "Chiếm hữu tài sản có phải căn cứ để xác lập quyền dân sự không?",
+                "answer": {
+                    "text": [
+                        "quyền dân sự được xác lập từ các căn cứ sau đây: hợp đồng, hành vi pháp lý đơn phương, quyết định của tòa án, cơ quan có thẩm quyền khác theo quy định của luật, kết quả của lao động, sản xuất, kinh doanh; kết quả của hoạt động sáng tạo ra đối tượng quyền sở hữu trí tuệ, chiếm hữu tài sản, sử dụng tài sản, được lợi về tài sản không có căn cứ pháp luật, bị thiệt hại do hành vi trái pháp luật, thực hiện công việc không có uỷ quyền, căn cứ khác do pháp luật quy định"
+                    ],
+                    "start": [
+                        15
+                    ]
+                }
+            },
+            {
+                "question": "Bị thiệt hại do hành vi trái pháp luật có phải căn cứ để xác lập quyền dân sự không?",
+                "answer": {
+                    "text": [
+                        "quyền dân sự được xác lập từ các căn cứ sau đây: hợp đồng, hành vi pháp lý đơn phương, quyết định của tòa án, cơ quan có thẩm quyền khác theo quy định của luật, kết quả của lao động, sản xuất, kinh doanh; kết quả của hoạt động sáng tạo ra đối tượng quyền sở hữu trí tuệ, chiếm hữu tài sản, sử dụng tài sản, được lợi về tài sản không có căn cứ pháp luật, bị thiệt hại do hành vi trái pháp luật, thực hiện công việc không có uỷ quyền, căn cứ khác do pháp luật quy định"
+                    ],
+                    "start": [
+                        15
+                    ]
+                }
+            },
+            {
+                "question": "Thực hiện công việc không có ủy quyền có phải căn cứ để xác lập quyền dân sự không?",
+                "answer": {
+                    "text": [
+                        "quyền dân sự được xác lập từ các căn cứ sau đây: hợp đồng, hành vi pháp lý đơn phương, quyết định của tòa án, cơ quan có thẩm quyền khác theo quy định của luật, kết quả của lao động, sản xuất, kinh doanh; kết quả của hoạt động sáng tạo ra đối tượng quyền sở hữu trí tuệ, chiếm hữu tài sản, sử dụng tài sản, được lợi về tài sản không có căn cứ pháp luật, bị thiệt hại do hành vi trái pháp luật, thực hiện công việc không có uỷ quyền, căn cứ khác do pháp luật quy định"
+                    ],
+                    "start": [
+                        15
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "Căn cứ xác lập quyền dân sự quyền dân sự được xác lập từ các căn cứ sau đây: hợp đồng, hành vi pháp lý đơn phương, quyết định của Tòa án, cơ quan có thẩm quyền khác theo quy định của luật, kết quả của lao động, sản xuất, kinh doanh; kết quả của hoạt động sáng tạo ra đối tượng quyền sở hữu trí tuệ, chiếm hữu tài sản, Sử dụng tài sản, được lợi về tài sản không có căn cứ pháp luật, bị thiệt hại do hành vi trái pháp luật, thực hiện công việc không có uỷ quyền, căn cứ khác do pháp luật quy định ; Điều 8.",
+        "qas": [
+            {
+                "question": "tôi muốn biết các căn cứ xác lập quyền dân sự",
+                "answer": {
+                    "text": [
+                        "hợp đồng, hành vi pháp lý đơn phương, quyết định của Tòa án, cơ quan có thẩm quyền khác theo quy định của luật, kết quả của lao động, sản xuất, kinh doanh; kết quả của hoạt động sáng tạo ra đối tượng quyền sở hữu trí tuệ, chiếm hữu tài sản, Sử dụng tài sản, được lợi về tài sản không có căn cứ pháp luật, bị thiệt hại do hành vi trái pháp luật, thực hiện công việc không có uỷ quyền, căn cứ khác do pháp luật quy định"
+                    ],
+                    "start": [
+                        77
+                    ]
+                }
+            }
+        ]
+    },
+     {
+        "context": "Giới hạn việc thực hiện quyền dân sự cá nhân, pháp nhân không được lạm dụng quyền dân sự của mình gây thiệt hại cho người khác, để vi phạm nghĩa vụ của mình hoặc thực hiện mục đích khác trái pháp luật ; Điều 10 khoản 1. ",
+        "qas": [
+            {
+                "question": "cá nhân có thể lợi dụng quyền dân sự để làm trái pháp luật không ?",
+                "answer": {
+                    "text": [
+                        "không được lạm dụng quyền dân sự của mình gây thiệt hại cho người khác, để vi phạm nghĩa vụ của mình hoặc thực hiện mục đích khác trái pháp luật"
+                    ],
+                    "start": [
+                        56
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "Trường hợp cá nhân, pháp nhân không tuân thủ quy định tại khoản 1 Điều này thì Tòa án hoặc cơ quan có thẩm quyền khác căn cứ vào tính chất, hậu quả của hành vi vi phạm mà có thể không bảo vệ một phần hoặc toàn bộ quyền của họ, buộc bồi thường nếu gây thiệt hại và có thể áp dụng chế tài khác do luật quy định ; Điều 10 khoản 2.",
+        "qas": [
+            {
+                "question": "cá nhân không tuân thủ quy định tại khoản 1 Điều 10 thì sao ?",
+                "answer": {
+                    "text": [
+                        "Tòa án hoặc cơ quan có thẩm quyền khác căn cứ vào tính chất, hậu quả của hành vi vi phạm mà có thể không bảo vệ một phần hoặc toàn bộ quyền của họ, buộc bồi thường nếu gây thiệt hại và có thể áp dụng chế tài khác do luật quy định"
+                    ],
+                    "start": [
+                        79
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "Giới hạn việc thực hiện quyền dân sự cá nhân, pháp nhân không được lạm dụng quyền dân sự của mình gây thiệt hại cho người khác, để vi phạm nghĩa vụ của mình hoặc thực hiện mục đích khác trái pháp luật ; Điều 10 khoản 1. ",
+        "qas": [
+            {
+                "question": "cá nhân có thể lợi dụng quyền dân sự để làm trái pháp luật không ?",
+                "answer": {
+                    "text": [
+                        "không được lạm dụng quyền dân sự của mình gây thiệt hại cho người khác, để vi phạm nghĩa vụ của mình hoặc thực hiện mục đích khác trái pháp luật"
+                    ],
+                    "start": [
+                        56
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "các phương thức bảo vệ quyền dân sự khi quyền dân sự của cá nhân, pháp nhân bị xâm phạm thì chủ thể đó có quyền tự bảo vệ theo quy định của bộ luật này, luật khác có liên quan hoặc yêu cầu cơ quan, tổ chức có thẩm quyền: công nhận, tôn trọng, bảo vệ và bảo đảm quyền dân sự của mình, buộc chấm dứt hành vi xâm phạm, buộc xin lỗi, cải chính công khai, buộc thực hiện nghĩa vụ, buộc bồi thường thiệt hại , hủy quyết định cá biệt trái pháp luật của cơ quan, tổ chức, người có thẩm quyền ,yêu cầu khác theo quy định của luật ; điều 11.",
+        "qas": [
+            {
+                "question": "quyền dân sự của cá nhân bị xâm phạm thì chủ thể đó yêu cầu cơ quan, tổ chức có thẩm quyền sử lý như thế nào",
+                "answer": {
+                    "text": [
+                        "công nhận, tôn trọng, bảo vệ và bảo đảm quyền dân sự của mình, buộc chấm dứt hành vi xâm phạm, buộc xin lỗi, cải chính công khai, buộc thực hiện nghĩa vụ, buộc bồi thường thiệt hại , hủy quyết định cá biệt trái pháp luật của cơ quan, tổ chức, người có thẩm quyền ,yêu cầu khác theo quy định của luật"
+                    ],
+                    "start": [
+                        221
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "Các phương thức bảo vệ quyền dân sự khi quyền dân sự của cá nhân, pháp nhân bị xâm phạm thì chủ thể đó có quyền tự bảo vệ theo quy định của Bộ luật này, luật khác có liên quan hoặc yêu cầu cơ quan, tổ chức có thẩm quyền: công nhận, tôn trọng, bảo vệ và bảo đảm quyền dân sự của mình, buộc chấm dứt hành vi xâm phạm, buộc xin lỗi, cải chính công khai, buộc thực hiện nghĩa vụ, buộc bồi thường thiệt hại , hủy quyết định cá biệt trái pháp luật của cơ quan, tổ chức, người có thẩm quyền ,yêu cầu khác theo quy định của luật ; Điều 11.",
+        "qas": [
+            {
+                "question": "Các phương thức bảo vệ quyền dân sự khi quyền dân sự bị xâm phạm là gì ?",
+                "answer": {
+                    "text": [
+                        "tự bảo vệ theo quy định của Bộ luật này, luật khác có liên quan hoặc yêu cầu cơ quan, tổ chức có thẩm quyền: công nhận, tôn trọng, bảo vệ và bảo đảm quyền dân sự của mình, buộc chấm dứt hành vi xâm phạm, buộc xin lỗi, cải chính công khai, buộc thực hiện nghĩa vụ, buộc bồi thường thiệt hại , hủy quyết định cá biệt trái pháp luật của cơ quan, tổ chức, người có thẩm quyền ,yêu cầu khác theo quy định của luật"
+                    ],
+                    "start": [
+                        112
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "việc tự bảo vệ quyền dân sự phải phù hợp với tính chất, mức độ xâm phạm đến quyền dân sự đó và không được trái với các nguyên tắc cơ bản của pháp luật dân sự quy định tại điều 3 của bộ luật này ; điều 12.",
+        "qas": [
+            {
+                "question": "Việc bảo vệ quyền dân sự được quy định như thế nào ?",
+                "answer": {
+                    "text": [
+                        "phải phù hợp với tính chất, mức độ xâm phạm đến quyền dân sự đó và không được trái với các nguyên tắc cơ bản của pháp luật"
+                    ],
+                    "start": [
+                        28
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "Việc tự bảo vệ quyền dân sự phải phù hợp với tính chất, mức độ xâm phạm đến quyền dân sự đó và không được trái với các nguyên tắc cơ bản của pháp luật dân sự quy định tại Điều 3 của Bộ luật này ; Điều 12.",
+        "qas": [
+            {
+                "question": "tự bảo vệ quyền dân sự nhưng vi phạm pháp luật có được không ?",
+                "answer": {
+                    "text": [
+                        "không được trái với các nguyên tắc cơ bản của pháp luật dân sự quy định tại Điều 3 của Bộ luật này"
+                    ],
+                    "start": [
+                        95
+                    ]
+                }
+            },
+            {
+                "question": "phải làm sao để tự bảo vệ quyền dân sự ?",
+                "answer": {
+                    "text": [
+                        "phải phù hợp với tính chất, mức độ xâm phạm đến quyền dân sự đó và không được trái với các nguyên tắc cơ bản của pháp luật dân sự"
+                    ],
+                    "start": [
+                        28
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "Việc tự bảo vệ quyền dân sự phải phù hợp với tính chất, mức độ xâm phạm đến quyền dân sự đó và không được trái với các nguyên tắc cơ bản của pháp luật dân sự quy định tại Điều 3 của Bộ luật này ; Điều 12.",
+        "qas": [
+            {
+                "question": "tự bảo vệ quyền dân sự nhưng vi phạm pháp luật có được không ?",
+                "answer": {
+                    "text": [
+                        "không được trái với các nguyên tắc cơ bản của pháp luật dân sự quy định tại Điều 3 của Bộ luật này"
+                    ],
+                    "start": [
+                        95
+                    ]
+                }
+            },
+            {
+                "question": "phải làm sao để tự bảo vệ quyền dân sự ?",
+                "answer": {
+                    "text": [
+                        "phải phù hợp với tính chất, mức độ xâm phạm đến quyền dân sự đó và không được trái với các nguyên tắc cơ bản của pháp luật dân sự"
+                    ],
+                    "start": [
+                        28
+                    ]
+                }
+            }
+        ]
+    },
+     {
+        "context": "cá nhân, pháp nhân có quyền dân sự bị xâm phạm được bồi thường toàn bộ thiệt hại, trừ trường hợp các bên có thỏa thuận khác hoặc luật có quy định khác ; điều 13.",
+        "qas": [
+            {
+                "question": "bộ luật dân sự quy định như thế nào về bồi thường thiệt hại khi quyền dân sự bị xâm phạm ?",
+                "answer": {
+                    "text": [
+                        "được bồi thường toàn bộ thiệt hại, trừ trường hợp các bên có thỏa thuận khác hoặc luật có quy định khác"
+                    ],
+                    "start": [
+                        47
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "Cá nhân, pháp nhân có quyền dân sự bị xâm phạm được bồi thường toàn bộ thiệt hại, trừ trường hợp các bên có thỏa thuận khác hoặc luật có quy định khác ; Điều 13.",
+        "qas": [
+            {
+                "question": "bị xâm phạm quyền dân sự có được bồi thường không ?",
+                "answer": {
+                    "text": [
+                        "được bồi thường toàn bộ thiệt hại, trừ trường hợp các bên có thỏa thuận khác hoặc luật có quy định khác"
+                    ],
+                    "start": [
+                        67
+                    ]
+                }
+            },
+            {
+                "question": "bị xâm phạm quyền dân sự có được bồi thường những gì ?",
+                "answer": {
+                    "text": [
+                        "được bồi thường toàn bộ thiệt hại, trừ trường hợp các bên có thỏa thuận khác hoặc luật có quy định khác"
+                    ],
+                    "start": [
+                        67
+                    ]
+                }
+            },
+            {
+                "question": "có trường hợp nào bị xâm phạm quyền dân sự mà không được bồi thường không ?",
+                "answer": {
+                    "text": [
+                        "được bồi thường toàn bộ thiệt hại, trừ trường hợp các bên có thỏa thuận khác hoặc luật có quy định khác"
+                    ],
+                    "start": [
+                        86
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "Cá nhân, pháp nhân có quyền dân sự bị xâm phạm được bồi thường toàn bộ thiệt hại, trừ trường hợp các bên có thỏa thuận khác hoặc luật có quy định khác ; Điều 13.",
+        "qas": [
+            {
+                "question": "bị xâm phạm quyền dân sự có được bồi thường không ?",
+                "answer": {
+                    "text": [
+                        "được bồi thường toàn bộ thiệt hại, trừ trường hợp các bên có thỏa thuận khác hoặc luật có quy định khác"
+                    ],
+                    "start": [
+                        67
+                    ]
+                }
+            },
+            {
+                "question": "bị xâm phạm quyền dân sự có được bồi thường những gì ?",
+                "answer": {
+                    "text": [
+                        "được bồi thường toàn bộ thiệt hại, trừ trường hợp các bên có thỏa thuận khác hoặc luật có quy định khác"
+                    ],
+                    "start": [
+                        67
+                    ]
+                }
+            },
+            {
+                "question": "có trường hợp nào bị xâm phạm quyền dân sự mà không được bồi thường không ?",
+                "answer": {
+                    "text": [
+                        "được bồi thường toàn bộ thiệt hại, trừ trường hợp các bên có thỏa thuận khác hoặc luật có quy định khác"
+                    ],
+                    "start": [
+                        86
+                    ]
+                }
+            }
+        ]
+    },
+     {
+        "context": "tòa án không được từ chối giải quyết vụ, việc dân sự vì lý do chưa có điều luật để áp dụng; trong trường hợp này, quy định tại điều 5 và điều 6 của bộ luật này được áp dụng ; điều 14 khoản 2.",
+        "qas": [
+            {
+                "question": "toà án được từ chối giải quyết vụ việc dân sự vì lý do chưa có điều luật ?",
+                "answer": {
+                    "text": [
+                        "không được từ chối giải quyết vụ, việc dân sự vì lý do chưa có điều luật để áp dụng"
+                    ],
+                    "start": [
+                        7
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "Tòa án, cơ quan có thẩm quyền khác có trách nhiệm tôn trọng, bảo vệ quyền dân sự của cá nhân, pháp nhân.Trường hợp quyền dân sự bị xâm phạm hoặc có tranh chấp thì việc bảo vệ quyền được thực hiện theo pháp luật tố tụng tại Tòa án hoặc trọng tài. Việc bảo vệ quyền dân sự theo thủ tục hành chính được thực hiện trong trường hợp luật quy định. Quyết định giải quyết vụ việc theo thủ tục hành chính có thể được xem xét lại tại Tòa án ; Điều 14 khoản 1. ",
+        "qas": [
+            {
+                "question": "ai có trách nhiệm bảo vệ quyền dân sự ?",
+                "answer": {
+                    "text": [
+                        "Tòa án, cơ quan có thẩm quyền"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "ai có trách nhiệm bảo vệ quyền dân sự khi có tranh chấp ?",
+                "answer": {
+                    "text": [
+                        "Tòa án, cơ quan có thẩm quyền"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "khi có tranh chấp quyền dân sự thì việc bảo vệ quyền được thực hiện như thế nào ?",
+                "answer": {
+                    "text": [
+                        "được thực hiện theo pháp luật tố tụng tại Tòa án hoặc trọng tài"
+                    ],
+                    "start": [
+                        181
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "Tòa án không được từ chối giải quyết vụ, việc dân sự vì lý do chưa có điều luật để áp dụng; trong trường hợp này, quy định tại Điều 5 và Điều 6 của Bộ luật này được áp dụng ; Điều 14 khoản 2. ",
+        "qas": [
+            {
+                "question": "tòa án có quyền từ chối giải quyết vụ việc dân sự nếu chưa có điều luật không ?",
+                "answer": {
+                    "text": [
+                        "Tòa án không được từ chối giải quyết vụ, việc dân sự vì lý do chưa có điều luật để áp dụng"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "nếu chưa có điều luật để áp dụng khi giải quyết quyền dân sự thì sao ?",
+                "answer": {
+                    "text": [
+                        "quy định tại Điều 5 và Điều 6 của Bộ luật này được áp dụng"
+                    ],
+                    "start": [
+                        114
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "hủy quyết định cá biệt trái pháp luật của cơ quan, tổ chức, người có thẩm quyền khi giải quyết yêu cầu bảo vệ quyền dân sự, tòa án hoặc cơ quan có thẩm quyền khác có quyền hủy quyết định cá biệt trái pháp luật của cơ quan, tổ chức, người có thẩm quyền. trường hợp quyết định cá biệt bị hủy thì quyền dân sự bị xâm phạm được khôi phục và có thể được bảo vệ bằng các phương thức quy định tại điều 11 của bộ luật này ; điều 15. ",
+        "qas": [
+            {
+                "question": "có thể lợi dụng quyền dân sự để làm trái pháp luật không ?",
+                "answer": {
+                    "text": [
+                        "tòa án hoặc cơ quan có thẩm quyền khác có quyền hủy quyết định cá biệt trái pháp luật của cơ quan, tổ chức, người có thẩm quyền"
+                    ],
+                    "start": [
+                        124
+                    ]
+                }
+            }
+        ]
+    }
+    
+    
+]

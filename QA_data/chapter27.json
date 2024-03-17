@@ -1,0 +1,1661 @@
+[
+    {
+        "context": "tài sản của pháp nhân bị giải thể được thanh toán theo thứ tự sau đây: chi phí giải thể pháp nhân, các khoản nợ lương, trợ cấp thôi việc, bảo hiểm xã hội, bảo hiểm y tế đối với người lao động theo quy định của pháp luật và các quyền lợi khác của người lao động theo thoả ước lao động tập thể và hợp đồng lao động đã ký kết, nợ thuế và các khoản nợ khác ; điều 94 khoản 1.",
+        "qas": [
+            {
+                "question": "thứ tự thanh toán tài sản của pháp nhân bị giải thể ?",
+                "answer": {
+                    "text": [
+                        "thứ tự sau đây: chi phí giải thể pháp nhân, các khoản nợ lương, trợ cấp thôi việc, bảo hiểm xã hội, bảo hiểm y tế đối với người lao động theo quy định của pháp luật và các quyền lợi khác của người lao động theo thoả ước lao động tập thể và hợp đồng lao động đã ký kết, nợ thuế và các khoản nợ khác"
+                    ],
+                    "start": [
+                        55
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "sau khi đã thanh toán hết chi phí giải thể pháp nhân và các khoản nợ, phần còn lại thuộc về chủ sở hữu pháp nhân, các thành viên góp vốn, trừ trường hợp quy định tại khoản 3 điều này hoặc pháp luật có quy định khác ; điều 94 khoản 2.",
+        "qas": [
+            {
+                "question": "pháp nhân bị giải thể, khi thanh toán hết nợ những tài sản còn lại thuộc về ai ?",
+                "answer": {
+                    "text": [
+                        "sau khi đã thanh toán hết chi phí giải thể pháp nhân và các khoản nợ, phần còn lại thuộc về chủ sở hữu pháp nhân, các thành viên góp vốn"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "phá sản pháp nhân việc phá sản pháp nhân được thực hiện theo quy định của pháp luật về phá sản ; điều 95.",
+        "qas": [
+            {
+                "question": "việc công bố phá sản pháp nhân như thế nào ?",
+                "answer": {
+                    "text": [
+                        "phá sản pháp nhân việc phá sản pháp nhân được thực hiện theo quy định của pháp luật về phá sản"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "nhà nước cộng hòa xã hội chủ nghĩa việt nam, cơ quan nhà nước ở trung ương, ở địa phương trong quan hệ dân sự nhà nước cộng hòa xã hội chủ nghĩa việt nam, cơ quan nhà nước ở trung ương, ở địa phương khi tham gia quan hệ dân sự thì bình đẳng với các chủ thể khác và chịu trách nhiệm dân sự theo quy định tại điều 99 và điều 100 của bộ luật này ; điều 97.",
+        "qas": [
+            {
+                "question": "việc công bố phá sản pháp nhân như thế nào ?",
+                "answer": {
+                    "text": [
+                        "thì bình đẳng với các chủ thể khác và chịu trách nhiệm dân sự theo quy định tại Điều 99 và Điều 100 của Bộ luật này"
+                    ],
+                    "start": [
+                        227
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "đại diện tham gia quan hệ dân sự việc đại diện cho nhà nước cộng hòa xã hội chủ nghĩa việt nam, cơ quan nhà nước ở trung ương, ở địa phương tham gia quan hệ dân sự được thực hiện theo quy định của pháp luật về chức năng, nhiệm vụ, quyền hạn và tổ chức bộ máy của cơ quan nhà nước. việc đại diện thông qua cá nhân, pháp nhân khác chỉ được thực hiện trong các trường hợp và theo trình tự, thủ tục do pháp luật quy định ; điều 98.",
+        "qas": [
+            {
+                "question": "Đại diện tham gia quan hệ dân sự phải thực hiện như thế nào ?",
+                "answer": {
+                    "text": [
+                        "được thực hiện theo quy định của pháp luật về chức năng, nhiệm vụ, quyền hạn và tổ chức bộ máy của cơ quan nhà nước. việc đại diện thông qua cá nhân, pháp nhân khác chỉ được thực hiện trong các trường hợp và theo trình tự, thủ tục do pháp luật quy định"
+                    ],
+                    "start": [
+                        164
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "tài sản là vật, tiền, giấy tờ có giá và quyền tài sản., tài sản bao gồm bất động sản và động sản. bất động sản và động sản có thể là tài sản hiện có và tài sản hình thành trong tương lai ; điều 105.",
+        "qas": [
+            {
+                "question": "Tài sản là gì ?",
+                "answer": {
+                    "text": [
+                        "tài sản là vật, tiền, giấy tờ có giá và quyền tài sản."
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "quyền sở hữu, quyền khác đối với tài sản là bất động sản được đăng ký theo quy định của bộ luật này và pháp luật về đăng ký tài sản, quyền sở hữu, quyền khác đối với tài sản là động sản không phải đăng ký, trừ trường hợp pháp luật về đăng ký tài sản có quy định khác, việc đăng ký tài sản phải được công khai ;điều 106.",
+        "qas": [
+            {
+                "question": "cách đăng ký tài sản ?",
+                "answer": {
+                    "text": [
+                        "quyền sở hữu, quyền khác đối với tài sản là bất động sản được đăng ký theo quy định của bộ luật này và pháp luật về đăng ký tài sản, quyền sở hữu, quyền khác đối với tài sản là động sản không phải đăng ký"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "bất động sản bao gồm: đất đai, nhà, công trình xây dựng gắn liền với đất đai, tài sản khác gắn liền với đất đai, nhà, công trình xây dựng, tài sản khác theo quy định của pháp luật ; điều 107 khoản 1.",
+        "qas": [
+            {
+                "question": "bất động sản bao gồm ?",
+                "answer": {
+                    "text": [
+                        "bất động sản bao gồm: đất đai, nhà, công trình xây dựng gắn liền với đất đai, tài sản khác gắn liền với đất đai, nhà, công trình xây dựng, tài sản khác theo quy định của pháp luật"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "tài sản hiện có là tài sản đã hình thành và chủ thể đã xác lập quyền sở hữu, quyền khác đối với tài sản trước hoặc tại thời điểm xác lập giao dịch ; điều 108 khoản 1.",
+        "qas": [
+            {
+                "question": "Tài sản hiện có là gì ?",
+                "answer": {
+                    "text": [
+                        "tài sản hiện có là tài sản đã hình thành và chủ thể đã xác lập quyền sở hữu, quyền khác đối với tài sản trước hoặc tại thời điểm xác lập giao dịch"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "tài sản hình thành trong tương lai bao gồm: tài sản chưa hình thành, tài sản đã hình thành nhưng chủ thể xác lập quyền sở hữu tài sản sau thời điểm xác lập giao dịch ; điều 108 khoản 2.",
+        "qas": [
+            {
+                "question": "Tài sản hình thành trong tương lai là gì ?",
+                "answer": {
+                    "text": [
+                        "bao gồm: tài sản chưa hình thành, tài sản đã hình thành nhưng chủ thể xác lập quyền sở hữu tài sản sau thời điểm xác lập giao dịch"
+                    ],
+                    "start": [
+                        35
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "hoa lợi là sản vật tự nhiên mà tài sản mang lại, lợi tức là khoản lợi thu được từ việc khai thác tài sản ; điều 109.",
+        "qas": [
+            {
+                "question": "Hoa lợi là gì ?",
+                "answer": {
+                    "text": [
+                        "hoa lợi là sản vật tự nhiên mà tài sản mang lại"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "Lợi tức là gì ?",
+                "answer": {
+                    "text": [
+                        "lợi tức là khoản lợi thu được từ việc khai thác tài sản"
+                    ],
+                    "start": [
+                        49
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "vật chính là vật độc lập, có thể khai thác công dụng theo tính năng, vật phụ là vật trực tiếp phục vụ cho việc khai thác công dụng của vật chính, là một bộ phận của vật chính, nhưng có thể tách rời vật chính, khi thực hiện nghĩa vụ chuyển giao vật chính thì phải chuyển giao cả vật phụ, trừ trường hợp có thoả thuận khác ; điều 110.",
+        "qas": [
+            {
+                "question": "Vật chính là gì ?",
+                "answer": {
+                    "text": [
+                        "vật chính là vật độc lập, có thể khai thác công dụng theo tính năng"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "Vật phụ là gì ?",
+                "answer": {
+                    "text": [
+                        "vật phụ là vật trực tiếp phục vụ cho việc khai thác công dụng của vật chính, là một bộ phận của vật chính, nhưng có thể tách rời vật chính"
+                    ],
+                    "start": [
+                        69
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "vật chia được là vật khi bị phân chia vẫn giữ nguyên tính chất và tính năng sử dụng ban đầu, vật không chia được là vật khi bị phân chia thì không giữ nguyên được tính chất và tính năng sử dụng ban đầu, khi cần phân chia vật không chia được thì phải trị giá thành tiền để chia ; điều 111.",
+        "qas": [
+            {
+                "question": "Vật chia được là gì ?",
+                "answer": {
+                    "text": [
+                        "vật chia được là vật khi bị phân chia vẫn giữ nguyên tính chất và tính năng sử dụng ban đầu"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "vật không chia được là gì ?",
+                "answer": {
+                    "text": [
+                        "vật không chia được là vật khi bị phân chia thì không giữ nguyên được tính chất và tính năng sử dụng ban đầu, khi cần phân chia vật không chia được thì phải trị giá thành tiền để chia"
+                    ],
+                    "start": [
+                        93
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "vật tiêu hao là vật khi đã qua một lần sử dụng thì mất đi hoặc không giữ được tính chất, hình dáng và tính năng sử dụng ban đầu, vật tiêu hao không thể là đối tượng của hợp đồng cho thuê hoặc hợp đồng cho mượn, vật không tiêu hao là vật khi đã qua sử dụng nhiều lần mà cơ bản vẫn giữ được tính chất, hình dáng và tính năng sử dụng ban đầu ;điều 112.",
+        "qas": [
+            {
+                "question": "Vật tiêu hao là gì ?",
+                "answer": {
+                    "text": [
+                        "vật tiêu hao là vật khi đã qua một lần sử dụng thì mất đi hoặc không giữ được tính chất, hình dáng và tính năng sử dụng ban đầu, vật tiêu hao không thể là đối tượng của hợp đồng cho thuê hoặc hợp đồng cho mượn"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "vật không tiêu hao là gì ?",
+                "answer": {
+                    "text": [
+                        "vật tiêu hao không thể là đối tượng của hợp đồng cho thuê hoặc hợp đồng cho mượn, vật không tiêu hao là vật khi đã qua sử dụng nhiều lần mà cơ bản vẫn giữ được tính chất, hình dáng và tính năng sử dụng ban đầu"
+                    ],
+                    "start": [
+                        210
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "vật cùng loại là những vật có cùng hình dáng, tính chất, tính năng sử dụng và xác định được bằng những đơn vị đo lường, vật cùng loại có cùng chất lượng có thể thay thế cho nhau ;điều 113 khoản 1.",
+        "qas": [
+            {
+                "question": "Vật cùng loại là gì ?",
+                "answer": {
+                    "text": [
+                        "vật cùng loại là những vật có cùng hình dáng, tính chất, tính năng sử dụng và xác định được bằng những đơn vị đo lường, vật cùng loại có cùng chất lượng có thể thay thế cho nhau"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "vật đặc định là vật phân biệt được với các vật khác bằng những đặc điểm riêng về ký hiệu, hình dáng, màu sắc, chất liệu, đặc tính, vị trí, khi thực hiện nghĩa vụ chuyển giao vật đặc định thì phải giao đúng vật đó ; điều 113 khoản 2.",
+        "qas": [
+            {
+                "question": "vật đặc định là gì ?",
+                "answer": {
+                    "text": [
+                        "vật đặc định là vật phân biệt được với các vật khác bằng những đặc điểm riêng về ký hiệu, hình dáng, màu sắc, chất liệu, đặc tính, vị trí, khi thực hiện nghĩa vụ chuyển giao vật đặc định thì phải giao đúng vật đó"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "vật đồng bộ là vật gồm các phần hoặc các bộ phận ăn khớp, liên hệ với nhau hợp thành chỉnh thể mà nếu thiếu một trong các phần, các bộ phận hoặc có phần hoặc bộ phận không đúng quy cách, chủng loại thì không sử dụng được hoặc giá trị sử dụng của vật đó bị giảm sút, khi thực hiện nghĩa vụ chuyển giao vật đồng bộ thì phải chuyển giao toàn bộ các phần hoặc các bộ phận hợp thành, trừ trường hợp có thoả thuận khác ; điều 114.",
+        "qas": [
+            {
+                "question": "Vật đồng bộ là gì ?",
+                "answer": {
+                    "text": [
+                        "vật đồng bộ là vật gồm các phần hoặc các bộ phận ăn khớp, liên hệ với nhau hợp thành chỉnh thể mà nếu thiếu một trong các phần, các bộ phận hoặc có phần hoặc bộ phận không đúng quy cách, chủng loại thì không sử dụng được hoặc giá trị sử dụng của vật đó bị giảm sút"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "nghĩa vụ khi chuyển giao vật đồng bộ là gì ?",
+                "answer": {
+                    "text": [
+                        "khi thực hiện nghĩa vụ chuyển giao vật đồng bộ thì phải chuyển giao toàn bộ các phần hoặc các bộ phận hợp thành, trừ trường hợp có thoả thuận khác"
+                    ],
+                    "start": [
+                        266
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "quyền tài sản là quyền trị giá được bằng tiền, bao gồm quyền tài sản đối với đối tượng quyền sở hữu trí tuệ, quyền sử dụng đất và các quyền tài sản khác ; điều 115.",
+        "qas": [
+            {
+                "question": "Quyền tài sản là gì ?",
+                "answer": {
+                    "text": [
+                        "quyền tài sản là quyền trị giá được bằng tiền, bao gồm quyền tài sản đối với đối tượng quyền sở hữu trí tuệ, quyền sử dụng đất và các quyền tài sản khác"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "Quyền tài sản là gì ?",
+                "answer": {
+                    "text": [
+                        "là quyền trị giá được bằng tiền, bao gồm quyền tài sản đối với đối tượng quyền sở hữu trí tuệ, quyền sử dụng đất và các quyền tài sản khác"
+                    ],
+                    "start": [
+                        14
+                    ]
+                }
+            },
+            {
+                "question": "Quyền tài sản là gì ?",
+                "answer": {
+                    "text": [
+                        "là quyền trị giá được bằng tiền"
+                    ],
+                    "start": [
+                        14
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "giao dịch dân sự là hợp đồng hoặc hành vi pháp lý đơn phương làm phát sinh, thay đổi hoặc chấm dứt quyền, nghĩa vụ dân sự ; điều 116.",
+        "qas": [
+            {
+                "question": "hợp đồng có được coi là giao dịch dân sự ?",
+                "answer": {
+                    "text": [
+                        "giao dịch dân sự là hợp đồng hoặc hành vi pháp lý đơn phương làm phát sinh, thay đổi hoặc chấm dứt quyền, nghĩa vụ dân sự"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "giao dịch dân sự có hiệu lực khi có đủ các điều kiện sau đây: chủ thể có năng lực pháp luật dân sự, năng lực hành vi dân sự phù hợp với giao dịch dân sự được xác lập, chủ thể tham gia giao dịch dân sự hoàn toàn tự nguyện, mục đích và nội dung của giao dịch dân sự không vi phạm điều cấm của luật, không trái đạo đức xã hội ; điều 117 khoản 1.",
+        "qas": [
+            {
+                "question": "Điều kiện có hiệu lực của giao dịch dân sự ?",
+                "answer": {
+                    "text": [
+                        "các điều kiện sau đây: chủ thể có năng lực pháp luật dân sự, năng lực hành vi dân sự phù hợp với giao dịch dân sự được xác lập, chủ thể tham gia giao dịch dân sự hoàn toàn tự nguyện, mục đích và nội dung của giao dịch dân sự không vi phạm điều cấm của luật, không trái đạo đức xã hội"
+                    ],
+                    "start": [
+                        39
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "hình thức của giao dịch dân sự là điều kiện có hiệu lực của giao dịch dân sự trong trường hợp luật có quy định ; điều 117 khoản 2.",
+        "qas": [
+            {
+                "question": "Hình thức của giao dịch dân sự là gì ?",
+                "answer": {
+                    "text": [
+                        "hình thức của giao dịch dân sự là điều kiện có hiệu lực của giao dịch dân sự trong trường hợp luật có quy định"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "mục đích của giao dịch dân sự là lợi ích mà chủ thể mong muốn đạt được khi xác lập giao dịch đó ; điều 118.",
+        "qas": [
+            {
+                "question": "Mục đích của giao dịch dân sự là gì ?",
+                "answer": {
+                    "text": [
+                        "mục đích của giao dịch dân sự là lợi ích mà chủ thể mong muốn đạt được khi xác lập giao dịch đó"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "giao dịch dân sự được thể hiện bằng lời nói, bằng văn bản hoặc bằng hành vi cụ thể, giao dịch dân sự thông qua phương tiện điện tử dưới hình thức thông điệp dữ liệu theo quy định của pháp luật về giao dịch điện tử được coi là giao dịch bằng văn bản ; điều 119 khoản 1.",
+        "qas": [
+            {
+                "question": "Hình thức giao dịch dân sự là gì ?",
+                "answer": {
+                    "text": [
+                        "giao dịch dân sự được thể hiện bằng lời nói, bằng văn bản hoặc bằng hành vi cụ thể"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "Giao dịch dân sự thông qua hình thức nào ?",
+                "answer": {
+                    "text": [
+                        "giao dịch dân sự thông qua phương tiện điện tử dưới hình thức thông điệp dữ liệu theo quy định của pháp luật về giao dịch điện tử được coi là giao dịch bằng văn bản "
+                    ],
+                    "start": [
+                        84
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp luật quy định giao dịch dân sự phải được thể hiện bằng văn bản có công chứng, chứng thực, đăng ký thì phải tuân theo quy định đó ; điều 119 khoản 2.",
+        "qas": [
+            {
+                "question": "quy định giao dịch dân sự phải được thể hiện như thế nào ?",
+                "answer": {
+                    "text": [
+                        "giao dịch dân sự phải được thể hiện bằng văn bản có công chứng, chứng thực, đăng ký thì phải tuân theo quy định đó"
+                    ],
+                    "start": [
+                        25
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp các bên có thỏa thuận về điều kiện phát sinh hoặc hủy bỏ giao dịch dân sự thì khi điều kiện đó xảy ra, giao dịch dân sự phát sinh hoặc hủy bỏ ; điều 120 khoản 1.",
+        "qas": [
+            {
+                "question": "Giao dịch dân sự có điều kiện là gì ?",
+                "answer": {
+                    "text": [
+                        "trường hợp các bên có thỏa thuận về điều kiện phát sinh hoặc hủy bỏ giao dịch dân sự thì khi điều kiện đó xảy ra, giao dịch dân sự phát sinh hoặc hủy bỏ"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "giao dịch dân sự có nội dung không rõ ràng, khó hiểu, được hiểu theo nhiều nghĩa khác nhau và không thuộc quy định tại khoản 2 điều này thì việc giải thích giao dịch dân sự đó được thực hiện theo thứ tự sau đây: theo ý chí đích thực của các bên khi xác lập giao dịch, theo nghĩa phù hợp với mục đích của giao dịch, theo tập quán nơi giao dịch được xác lập ; điều 121 khoản 1.",
+        "qas": [
+            {
+                "question": "Giải thích giao dịch dân sự là gì ?",
+                "answer": {
+                    "text": [
+                        "giao dịch dân sự có nội dung không rõ ràng, khó hiểu, được hiểu theo nhiều nghĩa khác nhau và không thuộc quy định tại khoản 2 điều này thì việc giải thích giao dịch dân sự đó được thực hiện"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "thứ tự giải thích giao dịch dân sự là gì ?",
+                "answer": {
+                    "text": [
+                        "thứ tự sau đây: theo ý chí đích thực của các bên khi xác lập giao dịch, theo nghĩa phù hợp với mục đích của giao dịch, theo tập quán nơi giao dịch được xác lập"
+                    ],
+                    "start": [
+                        196
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "việc giải thích hợp đồng được thực hiện theo quy định tại điều 404 của bộ luật này; việc giải thích nội dung di chúc được thực hiện theo quy định tại điều 648 của bộ luật này ; điều 121 khoản 2.",
+        "qas": [
+            {
+                "question": "giải thích giao dịch dân sự được  thực hiện theo quy định nào ?",
+                "answer": {
+                    "text": [
+                        "việc giải thích hợp đồng được thực hiện theo quy định tại điều 404 của bộ luật này; việc giải thích nội dung di chúc được thực hiện theo quy định tại điều 648 của bộ luật này"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "giao dịch dân sự vô hiệu từng phần khi một phần nội dung của giao dịch dân sự vô hiệu nhưng không ảnh hưởng đến hiệu lực của phần còn lại của giao dịch ; điều 130.",
+        "qas": [
+            {
+                "question": "giải thích thế nào giao dịch dân sự vô hiệu ?",
+                "answer": {
+                    "text": [
+                        "giao dịch dân sự vô hiệu từng phần khi một phần nội dung của giao dịch dân sự vô hiệu nhưng không ảnh hưởng đến hiệu lực của phần còn lại của giao dịch"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "khi nào giao dịch dân sự bị vô hiệu ?",
+                "answer": {
+                    "text": [
+                        "khi một phần nội dung của giao dịch dân sự vô hiệu"
+                    ],
+                    "start": [
+                        35
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "giao dịch dân sự vô hiệu do vi phạm điều cấm của luật, trái đạo đức xã hội, giao dịch dân sự có mục đích, nội dung vi phạm điều cấm của luật, trái đạo đức xã hội thì vô hiệu, điều cấm của luật là những quy định của luật không cho phép chủ thể thực hiện những hành vi nhất địnhđạo đức xã hội là những chuẩn mực ứng xử chung trong đời sống xã hội, được cộng đồng thừa nhận và tôn trọng ; điều 123.",
+        "qas": [
+            {
+                "question": "Giao dịch dân sự vô hiệu do vi phạm điều cấm của luật không ?",
+                "answer": {
+                    "text": [
+                        "giao dịch dân sự vô hiệu do vi phạm điều cấm của luật, trái đạo đức xã hội, giao dịch dân sự có mục đích, nội dung vi phạm điều cấm của luật, trái đạo đức xã hội thì vô hiệu"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "Đạo đức xã hội là gì ?",
+                "answer": {
+                    "text": [
+                        "đạo đức xã hội là những chuẩn mực ứng xử chung trong đời sống xã hội, được cộng đồng thừa nhận và tôn trọng"
+                    ],
+                    "start": [
+                        276
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "khi các bên xác lập giao dịch dân sự một cách giả tạo nhằm che giấu một giao dịch dân sự khác thì giao dịch dân sự giả tạo vô hiệu, còn giao dịch dân sự bị che giấu vẫn có hiệu lực, trừ trường hợp giao dịch đó cũng vô hiệu theo quy định của bộ luật này hoặc luật khác có liên quan ; điều 124 khoản 1.",
+        "qas": [
+            {
+                "question": "Giao dịch dân sự vô hiệu do giả tạo không ?",
+                "answer": {
+                    "text": [
+                        "khi các bên xác lập giao dịch dân sự một cách giả tạo nhằm che giấu một giao dịch dân sự khác thì giao dịch dân sự giả tạo vô hiệu"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "giao dịch dân sự vô hiệu do người chưa thành niên, người mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi, người bị hạn chế năng lực hành vi dân sự xác lập, thực hiện ; điều 125.",
+        "qas": [
+            {
+                "question": "Giao dịch dân sự vô hiệu do người chưa thành niên không ?",
+                "answer": {
+                    "text": [
+                        "giao dịch dân sự vô hiệu do người chưa thành niên, người mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi, người bị hạn chế năng lực hành vi dân sự xác lập, thực hiện"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp giao dịch dân sự được xác lập có sự nhầm lẫn làm cho một bên hoặc các bên không đạt được mục đích của việc xác lập giao dịch thì bên bị nhầm lẫn có quyền yêu cầu tòa án tuyên bố giao dịch dân sự vô hiệu, trừ trường hợp quy định tại khoản 2 điều này ; điều 126 khoản 1.",
+        "qas": [
+            {
+                "question": "có trường hợp giao dịch dân sự vô hiệu do bị nhầm lẫn không ?",
+                "answer": {
+                    "text": [
+                        "trường hợp giao dịch dân sự được xác lập có sự nhầm lẫn làm cho một bên hoặc các bên không đạt được mục đích của việc xác lập giao dịch thì bên bị nhầm lẫn có quyền yêu cầu tòa án tuyên bố giao dịch dân sự vô hiệu"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "giao dịch dân sự vô hiệu do bị lừa dối, đe dọa, cưỡng ép khi một bên tham gia giao dịch dân sự do bị lừa dối hoặc bị đe dọa, cưỡng ép thì có quyền yêu cầu tòa án tuyên bố giao dịch dân sự đó là vô hiệu, lừa dối trong giao dịch dân sự là hành vi cố ý của một bên hoặc của người thứ ba nhằm làm cho bên kia hiểu sai lệch về chủ thể, tính chất của đối tượng hoặc nội dung của giao dịch dân sự nên đã xác lập giao dịch đó, đe dọa, cưỡng ép trong giao dịch dân sự là hành vi cố ý của một bên hoặc người thứ ba làm cho bên kia buộc phải thực hiện giao dịch dân sự nhằm tránh thiệt hại về tính mạng, sức khoẻ, danh dự, uy tín, nhân phẩm, tài sản của mình hoặc của người thân thích của mình ;điều 127.",
+        "qas": [
+            {
+                "question": "Giao dịch dân sự vô hiệu do bị lừa dối, đe dọa, cưỡng ép không ?",
+                "answer": {
+                    "text": [
+                        "giao dịch dân sự vô hiệu do bị lừa dối, đe dọa, cưỡng ép khi một bên tham gia giao dịch dân sự do bị lừa dối hoặc bị đe dọa, cưỡng ép thì có quyền yêu cầu tòa án tuyên bố giao dịch dân sự đó là vô hiệu"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "lừa dối trong giao dịch dân sự là gì ?",
+                "answer": {
+                    "text": [
+                        "lừa dối trong giao dịch dân sự là hành vi cố ý của một bên hoặc của người thứ ba nhằm làm cho bên kia hiểu sai lệch về chủ thể, tính chất của đối tượng hoặc nội dung của giao dịch dân sự nên đã xác lập giao dịch đó, đe dọa"
+                    ],
+                    "start": [
+                        203
+                    ]
+                }
+            },
+            {
+                "question": "cưỡng ép trong giao dịch dân sự là gì ?",
+                "answer": {
+                    "text": [
+                        "cưỡng ép trong giao dịch dân sự là hành vi cố ý của một bên hoặc người thứ ba làm cho bên kia buộc phải thực hiện giao dịch dân sự nhằm tránh thiệt hại về tính mạng, sức khoẻ, danh dự, uy tín, nhân phẩm, tài sản của mình hoặc của người thân thích của mình"
+                    ],
+                    "start": [
+                        427
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "giao dịch dân sự vô hiệu do người xác lập không nhận thức và làm chủ được hành vi của mình người có năng lực hành vi dân sự nhưng đã xác lập giao dịch vào đúng thời điểm không nhận thức và làm chủ được hành vi của mình thì có quyền yêu cầu tòa án tuyên bố giao dịch dân sự đó là vô hiệu ; điều 128.",
+        "qas": [
+            {
+                "question": "Giao dịch dân sự bị vô hiệu khi người thực hiện không nhận thức được hành vi của mình không ?",
+                "answer": {
+                    "text": [
+                        "giao dịch dân sự vô hiệu do người xác lập không nhận thức và làm chủ được hành vi của mình người có năng lực hành vi dân sự nhưng đã xác lập giao dịch vào đúng thời điểm không nhận thức và làm chủ được hành vi của mình"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "giao dịch dân sự vô hiệu từng phần khi một phần nội dung của giao dịch dân sự vô hiệu nhưng không ảnh hưởng đến hiệu lực của phần còn lại của giao dịch ; điều 130.",
+        "qas": [
+            {
+                "question": "Giao dịch dân sự vô hiệu từng phần khi nào ?",
+                "answer": {
+                    "text": [
+                        "giao dịch dân sự vô hiệu từng phần khi một phần nội dung của giao dịch dân sự vô hiệu nhưng không ảnh hưởng đến hiệu lực của phần còn lại của giao dịch"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "hậu quả pháp lý của giao dịch dân sự vô hiệu: giao dịch dân sự vô hiệu không làm phát sinh, thay đổi, chấm dứt quyền, nghĩa vụ dân sự của các bên kể từ thời điểm giao dịch được xác lập, khi giao dịch dân sự vô hiệu thì các bên khôi phục lại tình trạng ban đầu, hoàn trả cho nhau những gì đã nhận, trường hợp không thể hoàn trả được bằng hiện vật thì trị giá thành tiền để hoàn trả, bên ngay tình trong việc thu hoa lợi, lợi tức không phải hoàn trả lại hoa lợi, lợi tức đó, bên có lỗi gây thiệt hại thì phải bồi thường, việc giải quyết hậu quả của giao dịch dân sự vô hiệu liên quan đến quyền nhân thân do bộ luật này, luật khác có liên quan quy định ; điều 131.",
+        "qas": [
+            {
+                "question": "Hậu quả pháp lý của giao dịch dân sự vô hiệu ?",
+                "answer": {
+                    "text": [
+                        "hậu quả pháp lý của giao dịch dân sự vô hiệu: giao dịch dân sự vô hiệu không làm phát sinh, thay đổi, chấm dứt quyền, nghĩa vụ dân sự của các bên kể từ thời điểm giao dịch được xác lập"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "đại diện là việc cá nhân, pháp nhân (sau đây gọi chung là người đại diện) nhân danh và vì lợi ích của cá nhân hoặc pháp nhân khác (sau đây gọi chung là người được đại diện) xác lập, thực hiện giao dịch dân sự ; điều 134 khoản 1.",
+        "qas": [
+            {
+                "question": "cá nhân được xem là đại diện không ?",
+                "answer": {
+                    "text": [
+                        "đại diện là việc cá nhân, pháp nhân (sau đây gọi chung là người đại diện) nhân danh và vì lợi ích của cá nhân hoặc pháp nhân khác xác lập, thực hiện giao dịch dân sự"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "người đại diện theo pháp luật của pháp nhân bao gồm: người được pháp nhân chỉ định theo điều lệ, người có thẩm quyền đại diện theo quy định của pháp luật, người do tòa án chỉ định trong quá trình tố tụng tại tòa án ; điều 137 khoản 1.",
+        "qas": [
+            {
+                "question": "Người đại diện theo pháp luật của pháp nhân bao gồm những gì ?",
+                "answer": {
+                    "text": [
+                        "bao gồm: người được pháp nhân chỉ định theo điều lệ, người có thẩm quyền đại diện theo quy định của pháp luật, người do tòa án chỉ định trong quá trình tố tụng tại tòa án"
+                    ],
+                    "start": [
+                        44
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "một pháp nhân có thể có nhiều người đại diện theo pháp luật và mỗi người đại diện có quyền đại diện cho pháp nhân theo quy định tại điều 140 và điều 141 của bộ luật này ; điều 137 khoản 2.",
+        "qas": [
+            {
+                "question": "Một pháp nhân có thể có nhiều người đại diện không ?",
+                "answer": {
+                    "text": [
+                        "một pháp nhân có thể có nhiều người đại diện theo pháp luật và mỗi người đại diện có quyền đại diện cho pháp nhân theo quy định"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "cá nhân, pháp nhân có thể uỷ quyền cho cá nhân, pháp nhân khác xác lập, thực hiện giao dịch dân sự, các thành viên hộ gia đình, tổ hợp tác, tổ chức khác không có tư cách pháp nhân có thể thỏa thuận cử cá nhân, pháp nhân khác đại diện theo ủy quyền xác lập, thực hiện giao dịch dân sự liên quan đến tài sản chung của các thành viên hộ gia đình, tổ hợp tác, tổ chức khác không có tư cách pháp nhân, người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi có thể là người đại diện theo uỷ quyền, trừ trường hợp pháp luật quy định giao dịch dân sự phải do người từ đủ mười tám tuổi trở lên xác lập, thực hiện ; điều 138.",
+        "qas": [
+            {
+                "question": "Cá nhân, pháp nhân có thể ủy quyền cho cá nhân, pháp nhân khác không ?",
+                "answer": {
+                    "text": [
+                        "cá nhân, pháp nhân có thể uỷ quyền cho cá nhân, pháp nhân khác xác lập, thực hiện giao dịch dân sự"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "chưa đủ mười tám tuổi có thể là người đại diện không ?",
+                "answer": {
+                    "text": [
+                        "người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi có thể là người đại diện theo uỷ quyền, trừ trường hợp pháp luật quy định giao dịch dân sự phải do người từ đủ mười tám tuổi trở lên xác lập, thực hiện"
+                    ],
+                    "start": [
+                        397
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "thời hạn đại diện được xác định theo văn bản ủy quyền, theo quyết định của cơ quan có thẩm quyền, theo điều lệ của pháp nhân hoặc theo quy định của pháp luật ; điều 140 khoản 1.",
+        "qas": [
+            {
+                "question": "Thời hạn đại diện được xác định như thế nào ?",
+                "answer": {
+                    "text": [
+                        "thời hạn đại diện được xác định theo văn bản ủy quyền, theo quyết định của cơ quan có thẩm quyền, theo điều lệ của pháp nhân hoặc theo quy định của pháp luật"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp không xác định được thời hạn đại diện theo quy định tại khoản 1 điều này thì thời hạn đại diện được xác định như sau: nếu quyền đại diện được xác định theo giao dịch dân sự cụ thể thì thời hạn đại diện được tính đến thời điểm chấm dứt giao dịch dân sự đó, nếu quyền đại diện không được xác định với giao dịch dân sự cụ thể thì thời hạn đại diện là 01 năm, kể từ thời điểm phát sinh quyền đại diện ; điều 140 khoản 2.",
+        "qas": [
+            {
+                "question": "không xác đinh được thời gian đại diện thì Thời hạn đại diện được xác định như thế nào ?",
+                "answer": {
+                    "text": [
+                        "thời hạn đại diện được xác định như sau: nếu quyền đại diện được xác định theo giao dịch dân sự cụ thể thì thời hạn đại diện được tính đến thời điểm chấm dứt giao dịch dân sự đó, nếu quyền đại diện không được xác định với giao dịch dân sự cụ thể thì thời hạn đại diện là 01 năm, kể từ thời điểm phát sinh quyền đại diện"
+                    ],
+                    "start": [
+                        88
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "đại diện theo ủy quyền chấm dứt trong trường hợp sau đây: theo thỏa thuận, thời hạn ủy quyền đã hết, công việc được uỷ quyền đã hoàn thành, người được đại diện hoặc người đại diện đơn phương chấm dứt thực hiện việc ủy quyền, người được đại diện, người đại diện là cá nhân chết; người được đại diện, người đại diện là pháp nhân chấm dứt tồn tại, người đại diện không còn đủ điều kiện quy định tại khoản 3 điều 134 của bộ luật này, căn cứ khác làm cho việc đại diện không thể thực hiện được ; điều 140 khoản 3.",
+        "qas": [
+            {
+                "question": "Đại diện theo ủy quyền chấm dứt trong trường hợp nào ?",
+                "answer": {
+                    "text": [
+                        "đại diện theo ủy quyền chấm dứt trong trường hợp sau đây: theo thỏa thuận, thời hạn ủy quyền đã hết, công việc được uỷ quyền đã hoàn thành, người được đại diện hoặc người đại diện đơn phương chấm dứt thực hiện việc ủy quyền, người được đại diện, người đại diện là cá nhân chết; người được đại diện, người đại diện là pháp nhân chấm dứt tồn tại"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "người đại diện chỉ được xác lập, thực hiện giao dịch dân sự trong phạm vi đại diện theo căn cứ sau đây: quyết định của cơ quan có thẩm quyền, điều lệ của pháp nhân, nội dung ủy quyền, quy định khác của pháp luật ; điều 141 khoản 1.",
+        "qas": [
+            {
+                "question": "Người đại diện thực hiện giao dịch dân sự trong phạm vi nào ?",
+                "answer": {
+                    "text": [
+                        "đại diện theo căn cứ sau đây: quyết định của cơ quan có thẩm quyền, điều lệ của pháp nhân, nội dung ủy quyền, quy định khác của pháp luật"
+                    ],
+                    "start": [
+                        74
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp không xác định được cụ thể phạm vi đại diện theo quy định tại khoản 1 điều này thì người đại diện theo pháp luật có quyền xác lập, thực hiện mọi giao dịch dân sự vì lợi ích của người được đại diện, trừ trường hợp pháp luật có quy định khác ; điều 141 khoản 2.",
+        "qas": [
+            {
+                "question": "Trường hợp không xác định được cụ thể phạm vi đại diện phải làm sao ?",
+                "answer": {
+                    "text": [
+                        "người đại diện theo pháp luật có quyền xác lập, thực hiện mọi giao dịch dân sự vì lợi ích của người được đại diện, trừ trường hợp pháp luật có quy định khác "
+                    ],
+                    "start": [
+                        94
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "một cá nhân, pháp nhân có thể đại diện cho nhiều cá nhân hoặc pháp nhân khác nhau nhưng không được nhân danh người được đại diện để xác lập, thực hiện giao dịch dân sự với chính mình hoặc với bên thứ ba mà mình cũng là người đại diện của người đó, trừ trường hợp pháp luật có quy định khác ; điều 141 khoản 3.",
+        "qas": [
+            {
+                "question": "Một cá nhân, pháp nhân có thể đại diện cho nhiều cá nhân hoặc pháp nhân khác nhau không ?",
+                "answer": {
+                    "text": [
+                        "một cá nhân, pháp nhân có thể đại diện cho nhiều cá nhân hoặc pháp nhân khác nhau nhưng không được nhân danh người được đại diện để xác lập"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "giao dịch dân sự do người không có quyền đại diện xác lập, thực hiện không làm phát sinh quyền, nghĩa vụ đối với người được đại diện, trừ một trong các trường hợp sau đây: người được đại diện đã công nhận giao dịch, người được đại diện biết mà không phản đối trong một thời hạn hợp lý, người được đại diện có lỗi dẫn đến việc người đã giao dịch không biết hoặc không thể biết về việc người đã xác lập, thực hiện giao dịch dân sự với mình không có quyền đại diện điều 142 khoản 1.",
+        "qas": [
+            {
+                "question": "Hậu quả của giao dịch dân sự do người không có quyền đại diện xác lập ?",
+                "answer": {
+                    "text": [
+                        "giao dịch dân sự do người không có quyền đại diện xác lập, thực hiện không làm phát sinh quyền, nghĩa vụ đối với người được đại diện"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp giao dịch dân sự do người đại diện xác lập, thực hiện vượt quá phạm vi đại diện không làm phát sinh quyền, nghĩa vụ của người được đại diện đối với phần giao dịch được xác lập, thực hiện vượt quá phạm vi đại diện thì người đại diện phải thực hiện nghĩa vụ đối với người đã giao dịch với mình về phần giao dịch vượt quá phạm vi đại diện, trừ trường hợp người đã giao dịch biết hoặc phải biết về việc vượt quá phạm vi đại diện mà vẫn giao dịch ; điều 143 khoản 2.",
+        "qas": [
+            {
+                "question": "trường hợp người không có quyền đại diện xác lập ?",
+                "answer": {
+                    "text": [
+                        " người đại diện phải thực hiện nghĩa vụ đối với người đã giao dịch với mình về phần giao dịch vượt quá phạm vi đại diện"
+                    ],
+                    "start": [
+                        228
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "thời hạn là một khoảng thời gian được xác định từ thời điểm này đến thời điểm khác, thời hạn có thể được xác định bằng phút, giờ, ngày, tuần, tháng, năm hoặc bằng một sự kiện có thể sẽ xảy ra ; điều 144.",
+        "qas": [
+            {
+                "question": "khoảng thời gian nào được xem là Thời hạn  ?",
+                "answer": {
+                    "text": [
+                        "thời hạn là một khoảng thời gian được xác định từ thời điểm này đến thời điểm khác"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "cách tính thời hạn được áp dụng theo quy định của bộ luật này, trừ trường hợp có thoả thuận khác hoặc pháp luật có quy định khác, thời hạn được tính theo dương lịch, trừ trường hợp có thoả thuận khác ; điều 145.",
+        "qas": [
+            {
+                "question": "Thời hạn được tính theo dương lịch hay âm lịch ?",
+                "answer": {
+                    "text": [
+                        "thời hạn được tính theo dương lịch"
+                    ],
+                    "start": [
+                        130
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "khi thời hạn được xác định bằng phút, giờ thì thời hạn được bắt đầu từ thời điểm đã xác định, khi thời hạn được xác định bằng ngày, tuần, tháng, năm thì ngày đầu tiên của thời hạn không được tính mà tính từ ngày tiếp theo liền kề ngày được xác định, khi thời hạn bắt đầu bằng một sự kiện thì ngày xảy ra sự kiện không được tính mà tính từ ngày tiếp theo liền kề của ngày xảy ra sự kiện đó ; điều 147.",
+        "qas": [
+            {
+                "question": "Thời điểm bắt đầu thời hạn ?",
+                "answer": {
+                    "text": [
+                        "khi thời hạn được xác định bằng phút, giờ thì thời hạn được bắt đầu từ thời điểm đã xác định, khi thời hạn được xác định bằng ngày, tuần, tháng, năm thì ngày đầu tiên của thời hạn không được tính mà tính từ ngày tiếp theo liền kề ngày được xác định, khi thời hạn bắt đầu bằng một sự kiện thì ngày xảy ra sự kiện không được tính mà tính từ ngày tiếp theo liền kề của ngày xảy ra sự kiện đó"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "khi thời hạn tính bằng tháng thì thời hạn kết thúc tại thời điểm kết thúc ngày tương ứng của tháng cuối cùng của thời hạn; nếu tháng kết thúc thời hạn không có ngày tương ứng thì thời hạn kết thúc vào ngày cuối cùng của tháng đó ; điều 148 khoản 3.",
+        "qas": [
+            {
+                "question": "khi nào Kết thúc thời hạn tính bằng tháng ?",
+                "answer": {
+                    "text": [
+                        "khi thời hạn tính bằng tháng thì thời hạn kết thúc tại thời điểm kết thúc ngày tương ứng của tháng cuối cùng của thời hạn; nếu tháng kết thúc thời hạn không có ngày tương ứng thì thời hạn kết thúc vào ngày cuối cùng của tháng đó"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "khi thời hạn tính bằng ngày thì thời hạn kết thúc tại thời điểm kết thúc ngày cuối cùng của thời hạn ; điều 148 khoản 1.",
+        "qas": [
+            {
+                "question": "khi nào Kết thúc thời hạn tính bằng ngày ?",
+                "answer": {
+                    "text": [
+                        "khi thời hạn tính bằng ngày thì thời hạn kết thúc tại thời điểm kết thúc ngày cuối cùng của thời hạn"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "khi thời hạn tính bằng tuần thì thời hạn kết thúc tại thời điểm kết thúc ngày tương ứng của tuần cuối cùng của thời hạn  ; điều 148 khoản 2.",
+        "qas": [
+            {
+                "question": "khi nào Kết thúc thời hạn tính bằng tuần ?",
+                "answer": {
+                    "text": [
+                        "khi thời hạn tính bằng tuần thì thời hạn kết thúc tại thời điểm kết thúc ngày tương ứng của tuần cuối cùng của thời hạn"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "khi thời hạn tính bằng năm thì thời hạn kết thúc tại thời điểm kết thúc ngày, tháng tương ứng của năm cuối cùng của thời hạn  ; điều 148 khoản 4.",
+        "qas": [
+            {
+                "question": "khi nào Kết thúc thời hạn tính bằng năm ?",
+                "answer": {
+                    "text": [
+                        "khi thời hạn tính bằng năm thì thời hạn kết thúc tại thời điểm kết thúc ngày, tháng tương ứng của năm cuối cùng của thời hạn"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "tòa án chỉ áp dụng quy định về thời hiệu theo yêu cầu áp dụng thời hiệu của một bên hoặc các bên với điều kiện yêu cầu này phải được đưa ra trước khi tòa án cấp sơ thẩm ra bản án, quyết định giải quyết vụ, việc, người được hưởng lợi từ việc áp dụng thời hiệu có quyền từ chối áp dụng thời hiệu, trừ trường hợp việc từ chối đó nhằm mục đích trốn tránh thực hiện nghĩa vụ ; điều 149 khoản 2.",
+        "qas": [
+            {
+                "question": "Tòa án chỉ áp dụng quy định về thời hiệu khi nào ?",
+                "answer": {
+                    "text": [
+                        "tòa án chỉ áp dụng quy định về thời hiệu theo yêu cầu áp dụng thời hiệu của một bên hoặc các bên với điều kiện yêu cầu này phải được đưa ra trước khi tòa án cấp sơ thẩm ra bản án"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "thời hiệu hưởng quyền dân sự là thời hạn mà khi kết thúc thời hạn đó thì chủ thể được hưởng quyền dân sự, thời hiệu miễn trừ nghĩa vụ dân sự là thời hạn mà khi kết thúc thời hạn đó thì người có nghĩa vụ dân sự được miễn việc thực hiện nghĩa vụ, thời hiệu khởi kiện là thời hạn mà chủ thể được quyền khởi kiện để yêu cầu tòa án giải quyết vụ án dân sự bảo vệ quyền và lợi ích hợp pháp bị xâm phạm; nếu thời hạn đó kết thúc thì mất quyền khởi kiện, thời hiệu yêu cầu giải quyết việc dân sự là thời hạn mà chủ thể được quyền yêu cầu tòa án giải quyết việc dân sự để bảo vệ quyền và lợi ích hợp pháp của cá nhân, pháp nhân, lợi ích quốc gia, dân tộc, lợi ích công cộng; nếu thời hạn đó kết thúc thì mất quyền yêu cầu ; điều 150.",
+        "qas": [
+            {
+                "question": "Thời hiệu hưởng quyền dân sự là gì ?",
+                "answer": {
+                    "text": [
+                        "thời hiệu hưởng quyền dân sự là thời hạn mà khi kết thúc thời hạn đó thì chủ thể được hưởng quyền dân sự"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "Thời hiệu yêu cầu giải quyết việc dân sự là gì ?",
+                "answer": {
+                    "text": [
+                        "thời hiệu hưởng quyền dân sự là thời hạn mà khi kết thúc thời hạn đó thì chủ thể được hưởng quyền dân sự"
+                    ],
+                    "start": [
+                        447
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "thời hiệu được tính từ thời điểm bắt đầu ngày đầu tiên của thời hiệu và chấm dứt tại thời điểm kết thúc ngày cuối cùng của thời hiệu ; điều 151.",
+        "qas": [
+            {
+                "question": "Cách tính thời hiệu ?",
+                "answer": {
+                    "text": [
+                        "thời hiệu được tính từ thời điểm bắt đầu ngày đầu tiên của thời hiệu và chấm dứt tại thời điểm kết thúc ngày cuối cùng của thời hiệu"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "hiệu lực của thời hiệu hưởng quyền dân sự, miễn trừ nghĩa vụ dân sự trường hợp pháp luật quy định cho các chủ thể được hưởng quyền dân sự hoặc được miễn trừ nghĩa vụ dân sự theo thời hiệu thì chỉ sau khi thời hiệu đó kết thúc, việc hưởng quyền dân sự hoặc miễn trừ nghĩa vụ dân sự mới có hiệu lực ; điều 152.",
+        "qas": [
+            {
+                "question": "Hiệu lực của thời hiệu hưởng quyền dân sự, miễn trừ nghĩa vụ dân sự ?",
+                "answer": {
+                    "text": [
+                        "hiệu lực của thời hiệu hưởng quyền dân sự, miễn trừ nghĩa vụ dân sự trường hợp pháp luật quy định cho các chủ thể được hưởng quyền dân sự hoặc được miễn trừ nghĩa vụ dân sự theo thời hiệu thì chỉ sau khi thời hiệu đó kết thúc"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "thời hiệu hưởng quyền dân sự, miễn trừ nghĩa vụ dân sự có tính liên tục từ khi bắt đầu cho đến khi kết thúc; nếu có sự kiện làm gián đoạn thì thời hiệu phải được tính lại từ đầu, sau khi sự kiện làm gián đoạn chấm dứt ; điều 153 khoản 1.",
+        "qas": [
+            {
+                "question": "Thời hiệu hưởng quyền dân sự, miễn trừ nghĩa vụ dân sự có tính liên tục không ?",
+                "answer": {
+                    "text": [
+                        "thời hiệu hưởng quyền dân sự, miễn trừ nghĩa vụ dân sự có tính liên tục từ khi bắt đầu cho đến khi kết thúc"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "bắt đầu thời hiệu khởi kiện vụ án dân sự, thời hiệu yêu cầu giải quyết việc dân sự: thời hiệu khởi kiện vụ án dân sự được tính từ ngày người có quyền yêu cầu biết hoặc phải biết quyền, lợi ích hợp pháp của mình bị xâm phạm, trừ trường hợp pháp luật có quy định khác, thời hiệu yêu cầu giải quyết việc dân sự được tính từ ngày phát sinh quyền yêu cầu, trừ trường hợp pháp luật có quy định khác ; điều 154.",
+        "qas": [
+            {
+                "question": "Thời hiệu khởi kiện vụ án dân sự được tính như thế nào ?",
+                "answer": {
+                    "text": [
+                        "thời hiệu khởi kiện vụ án dân sự được tính từ ngày người có quyền yêu cầu biết hoặc phải biết quyền, lợi ích hợp pháp của mình bị xâm phạm"
+                    ],
+                    "start": [
+                        84
+                    ]
+                }
+            },
+            {
+                "question": "Thời hiệu yêu cầu giải quyết việc dân sự được tính như thế nào ?",
+                "answer": {
+                    "text": [
+                        "thời hiệu yêu cầu giải quyết việc dân sự được tính từ ngày phát sinh quyền yêu cầu, trừ trường hợp pháp luật có quy định khác"
+                    ],
+                    "start": [
+                        267
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "thời hiệu khởi kiện không áp dụng trong trường hợp sau đây: yêu cầu bảo vệ quyền nhân thân không gắn với tài sản, yêu cầu bảo vệ quyền sở hữu, trừ trường hợp bộ luật này, luật khác có liên quan quy định khác, tranh chấp về quyền sử dụng đất theo quy định của luật đất đai, trường hợp khác do luật quy định ; điều 155.",
+        "qas": [
+            {
+                "question": "Thời hiệu khởi kiện không áp dụng trong trường hợp nào ?",
+                "answer": {
+                    "text": [
+                        "trường hợp sau đây: yêu cầu bảo vệ quyền nhân thân không gắn với tài sản, yêu cầu bảo vệ quyền sở hữu, trừ trường hợp bộ luật này, luật khác có liên quan quy định khác, tranh chấp về quyền sử dụng đất theo quy định của luật đất đai"
+                    ],
+                    "start": [
+                        40
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "thời hiệu khởi kiện vụ án dân sự bắt đầu lại trong trường hợp sau đây: bên có nghĩa vụ đã thừa nhận một phần hoặc toàn bộ nghĩa vụ của mình đối với người khởi kiện, bên có nghĩa vụ thừa nhận hoặc thực hiện xong một phần nghĩa vụ của mình đối với người khởi kiện, các bên đã tự hoà giải với nhau ; điều 157 khoản 1.",
+        "qas": [
+            {
+                "question": "Thời hiệu khởi kiện vụ án dân sự bắt đầu lại trong trường hợp nào ?",
+                "answer": {
+                    "text": [
+                        "trường hợp sau đây: bên có nghĩa vụ đã thừa nhận một phần hoặc toàn bộ nghĩa vụ của mình đối với người khởi kiện, bên có nghĩa vụ thừa nhận hoặc thực hiện xong một phần nghĩa vụ của mình đối với người khởi kiện, các bên đã tự hoà giải với nhau"
+                    ],
+                    "start": [
+                        51
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "thời hiệu khởi kiện vụ án dân sự bắt đầu lại kể từ ngày tiếp theo sau ngày xảy ra sự kiện quy định tại khoản 1 điều này ; điều 157 khoản 2.",
+        "qas": [
+            {
+                "question": "Thời hiệu khởi kiện vụ án dân sự bắt đầu lại khi nào ?",
+                "answer": {
+                    "text": [
+                        "thời hiệu khởi kiện vụ án dân sự bắt đầu lại kể từ ngày tiếp theo sau ngày xảy ra sự kiện quy định "
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "quyền sở hữu bao gồm quyền chiếm hữu, quyền sử dụng và quyền định đoạt tài sản của chủ sở hữu theo quy định của luật ; điều 158.",
+        "qas": [
+            {
+                "question": "Quyền sở hữu bao gồm những quyền nào ?",
+                "answer": {
+                    "text": [
+                        "quyền sở hữu bao gồm quyền chiếm hữu, quyền sử dụng và quyền định đoạt tài sản của chủ sở hữu theo quy định của luật"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "quyền khác đối với tài sản là quyền của chủ thể trực tiếp nắm giữ, chi phối tài sản thuộc quyền sở hữu của chủ thể khác ; điều 159 khoản 1.",
+        "qas": [
+            {
+                "question": "Quyền khác đối với tài sản ?",
+                "answer": {
+                    "text": [
+                        "quyền khác đối với tài sản là quyền của chủ thể trực tiếp nắm giữ, chi phối tài sản thuộc quyền sở hữu của chủ thể khác"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "quyền khác đối với tài sản bao gồm: quyền đối với bất động sản liền kề, quyền hưởng dụng, quyền bề mặt ; điều 159 khoản 2.",
+        "qas": [
+            {
+                "question": "Quyền khác đối với tài sản bao gồm những gì ?",
+                "answer": {
+                    "text": [
+                        "quyền khác đối với tài sản bao gồm: quyền đối với bất động sản liền kề, quyền hưởng dụng, quyền bề mặt"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "chủ sở hữu được thực hiện mọi hành vi theo ý chí của mình đối với tài sản nhưng không được trái với quy định của luật, gây thiệt hại hoặc làm ảnh hưởng đến lợi ích quốc gia, dân tộc, lợi ích công cộng, quyền và lợi ích hợp pháp của người khác ; điều 160 khoản 2.",
+        "qas": [
+            {
+                "question": "Chủ sở hữu được thực hiện mọi hành vi của mình đối với tài sản không ?",
+                "answer": {
+                    "text": [
+                        "chủ sở hữu được thực hiện mọi hành vi theo ý chí của mình đối với tài sản nhưng không được trái với quy định của luật"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "thời điểm xác lập quyền sở hữu, quyền khác đối với tài sản thực hiện theo quy định của bộ luật này, luật khác có liên quan; trường hợp luật không có quy định thì thực hiện theo thỏa thuận của các bên; trường hợp luật không quy định và các bên không có thỏa thuận thì thời điểm xác lập quyền sở hữu, quyền khác đối với tài sản là thời điểm tài sản được chuyển giao, thời điểm tài sản được chuyển giao là thời điểm bên có quyền hoặc người đại diện hợp pháp của họ chiếm hữu tài sản ; điều 161 khoản 1.",
+        "qas": [
+            {
+                "question": "Thời điểm nào xác lập quyền sở hữu đối với tài sản ?",
+                "answer": {
+                    "text": [
+                        "thời điểm xác lập quyền sở hữu, quyền khác đối với tài sản thực hiện theo quy định của bộ luật này, luật khác có liên quan"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "Thời điểm tài sản được chuyển giao là gì ?",
+                "answer": {
+                    "text": [
+                        "thời điểm tài sản được chuyển giao là thời điểm bên có quyền hoặc người đại diện hợp pháp của họ chiếm hữu tài sản"
+                    ],
+                    "start": [
+                        365
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp tài sản chưa được chuyển giao mà phát sinh hoa lợi, lợi tức thì hoa lợi, lợi tức thuộc về bên có tài sản chuyển giao, trừ trường hợp có thỏa thuận khác ; điều 161 khoản 2.",
+        "qas": [
+            {
+                "question": "Trường hợp tài sản chưa được chuyển giao mà phát sinh lợi tức thì lợi tức thuộc về ai ?",
+                "answer": {
+                    "text": [
+                        "trường hợp tài sản chưa được chuyển giao mà phát sinh hoa lợi, lợi tức thì hoa lợi, lợi tức thuộc về bên có tài sản chuyển giao"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "chủ sở hữu phải chịu rủi ro về tài sản thuộc sở hữu của mình, trừ trường hợp có thoả thuận khác hoặc bộ luật này, luật khác có liên quan quy định khác ; điều 162 khoản 1.",
+        "qas": [
+            {
+                "question": "Chủ sở hữu phải chịu rủi ro về tài sản của mình không ?",
+                "answer": {
+                    "text": [
+                        "chủ sở hữu phải chịu rủi ro về tài sản thuộc sở hữu của mình"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "bảo vệ quyền sở hữu, quyền khác đối với tài sản: không ai có thể bị hạn chế, bị tước đoạt trái luật quyền sở hữu, quyền khác đối với tài sản, trường hợp thật cần thiết vì lý do quốc phòng, an ninh hoặc vì lợi ích quốc gia, tình trạng khẩn cấp, phòng chống thiên tai, nhà nước trưng mua hoặc trưng dụng có bồi thường tài sản của tổ chức, cá nhân theo giá thị trường ; điều 163.",
+        "qas": [
+            {
+                "question": "Bảo vệ quyền sở hữu như thế nào ?",
+                "answer": {
+                    "text": [
+                        "bảo vệ quyền sở hữu, quyền khác đối với tài sản: không ai có thể bị hạn chế, bị tước đoạt trái luật quyền sở hữu, quyền khác đối với tài sản"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "chủ sở hữu, chủ thể có quyền khác đối với tài sản có quyền tự bảo vệ, ngăn chặn bất kỳ người nào có hành vi xâm phạm quyền của mình bằng những biện pháp không trái với quy định của pháp luật ; điều 164 khoản 1.",
+        "qas": [
+            {
+                "question": "Biện pháp bảo vệ quyền sở hữu tài sản của mình ?",
+                "answer": {
+                    "text": [
+                        "chủ sở hữu, chủ thể có quyền khác đối với tài sản có quyền tự bảo vệ, ngăn chặn bất kỳ người nào có hành vi xâm phạm quyền của mình bằng những biện pháp không trái với quy định của pháp luật"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "chủ sở hữu, chủ thể có quyền khác đối với tài sản có quyền yêu cầu tòa án, cơ quan nhà nước có thẩm quyền khác buộc người có hành vi xâm phạm quyền phải trả lại tài sản, chấm dứt hành vi cản trở trái pháp luật việc thực hiện quyền sở hữu, quyền khác đối với tài sản và yêu cầu bồi thường thiệt hại ; điều 164 khoản 2.",
+        "qas": [
+            {
+                "question": "Chủ sở hữu tài sản có quyền yêu cầu Tòa án buộc người có hành vi xâm phạm quyền phải trả lại tài sản không ?",
+                "answer": {
+                    "text": [
+                        "chủ sở hữu, chủ thể có quyền khác đối với tài sản có quyền yêu cầu tòa án, cơ quan nhà nước có thẩm quyền khác buộc người có hành vi xâm phạm quyền phải trả lại tài sản"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "chủ sở hữu, chủ thể có quyền khác đối với tài sản có quyền đòi lại tài sản từ người chiếm hữu, người sử dụng tài sản, người được lợi về tài sản không có căn cứ pháp luật ; điều 166 khoản 1.",
+        "qas": [
+            {
+                "question": "Chủ sở hữu có quyền đòi lại tài sản từ người chiếm hữu không ?",
+                "answer": {
+                    "text": [
+                        "chủ sở hữu, chủ thể có quyền khác đối với tài sản có quyền đòi lại tài sản từ người chiếm hữu, người sử dụng tài sản, người được lợi về tài sản không có căn cứ pháp luật"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "chủ sở hữu không có quyền đòi lại tài sản từ sự chiếm hữu của chủ thể đang có quyền khác đối với tài sản đó ; điều 166 khoản 2.",
+        "qas": [
+            {
+                "question": "Chủ sở hữu không có quyền đòi lại tài sản khi nào ?",
+                "answer": {
+                    "text": [
+                        "chủ sở hữu không có quyền đòi lại tài sản từ sự chiếm hữu của chủ thể đang có quyền khác đối với tài sản đó"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "quyền đòi lại động sản không phải đăng ký quyền sở hữu từ người chiếm hữu ngay tình chủ sở hữu có quyền đòi lại động sản không phải đăng ký quyền sở hữu từ người chiếm hữu ngay tình trong trường hợp người chiếm hữu ngay tình có được động sản này thông qua hợp đồng không có đền bù với người không có quyền định đoạt tài sản; trường hợp hợp đồng này là hợp đồng có đền bù thì chủ sở hữu có quyền đòi lại động sản nếu động sản đó bị lấy cắp, bị mất hoặc trường hợp khác bị chiếm hữu ngoài ý chí của chủ sở hữu ; điều 167.",
+        "qas": [
+            {
+                "question": "Chủ sở hữu được đòi lại động sản khi nào ?",
+                "answer": {
+                    "text": [
+                        "quyền đòi lại động sản không phải đăng ký quyền sở hữu từ người chiếm hữu ngay tình chủ sở hữu có quyền đòi lại động sản không phải đăng ký quyền sở hữu từ người chiếm hữu ngay tình"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "quyền đòi lại động sản phải đăng ký quyền sở hữu hoặc bất động sản từ người chiếm hữu ngay tình, chủ sở hữu được đòi lại động sản phải đăng ký quyền sở hữu hoặc bất động sản từ người chiếm hữu ngay tình, trừ trường hợp quy định tại khoản 2 điều 133 của bộ luật này ; điều 168.",
+        "qas": [
+            {
+                "question": "Chủ sở hữu được đòi lại động sản có phải đăng ký quyền sở hữu ?",
+                "answer": {
+                    "text": [
+                        "chủ sở hữu được đòi lại động sản phải đăng ký quyền sở hữu hoặc bất động sản từ người chiếm hữu ngay tình"
+                    ],
+                    "start": [
+                        97
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "quyền yêu cầu chấm dứt hành vi cản trở trái pháp luật đối với việc thực hiện quyền sở hữu, quyền khác đối với tài sản, khi thực hiện quyền sở hữu, quyền khác đối với tài sản, chủ thể có quyền yêu cầu người có hành vi cản trở trái pháp luật phải chấm dứt hành vi đó hoặc có quyền yêu cầu tòa án, cơ quan nhà nước có thẩm quyền khác buộc người đó chấm dứt hành vi vi phạm ; điều 169.",
+        "qas": [
+            {
+                "question": "chủ thể có quyền yêu cầu người có hành vi cản trở trái pháp luật chấm dứt hành vi vi phạm không ?",
+                "answer": {
+                    "text": [
+                        "chủ thể có quyền yêu cầu người có hành vi cản trở trái pháp luật phải chấm dứt hành vi đó "
+                    ],
+                    "start": [
+                        175
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "chủ sở hữu, chủ thể có quyền khác đối với tài sản có quyền yêu cầu người có hành vi xâm phạm quyền sở hữu, quyền khác đối với tài sản bồi thường thiệt hại ; điều 170.",
+        "qas": [
+            {
+                "question": "Chủ sở hữu tài sản có quyền yêu cầu người có hành vi xâm phạm quyền sở hữu tài sản bồi thường thiệt hại không ?",
+                "answer": {
+                    "text": [
+                        "chủ sở hữu, chủ thể có quyền khác đối với tài sản có quyền yêu cầu người có hành vi xâm phạm quyền sở hữu, quyền khác đối với tài sản bồi thường thiệt hại"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "tình thế cấp thiết là tình thế của người vì muốn tránh một nguy cơ đang thực tế đe dọa trực tiếp lợi ích công cộng, quyền, lợi ích hợp pháp của mình hoặc của người khác mà không còn cách nào khác là phải có hành động gây một thiệt hại nhỏ hơn thiệt hại cần ngăn chặn ; điều 171 khoản 1.",
+        "qas": [
+            {
+                "question": "Tình thế cấp thiết là gì ?",
+                "answer": {
+                    "text": [
+                        "tình thế cấp thiết là tình thế của người vì muốn tránh một nguy cơ đang thực tế đe dọa trực tiếp lợi ích công cộng"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "gây thiệt hại trong tình thế cấp thiết không phải là hành vi xâm phạm quyền sở hữu, quyền khác đối với tài sản. chủ sở hữu, chủ thể có quyền khác đối với tài sản bị thiệt hại trong tình thế cấp thiết được bồi thường thiệt hại theo quy định tại điều 595 của bộ luật này ; điều 171 khoản 3.",
+        "qas": [
+            {
+                "question": "Gây thiệt hại trong tình thế cấp thiết phải là hành vi xâm phạm quyền sở hữu không ?",
+                "answer": {
+                    "text": [
+                        "gây thiệt hại trong tình thế cấp thiết không phải là hành vi xâm phạm quyền sở hữu"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "khi thực hiện quyền sở hữu, quyền khác đối với tài sản thì chủ thể phải tuân theo quy định của pháp luật về bảo vệ môi trường; nếu làm ô nhiễm môi trường thì phải chấm dứt hành vi gây ô nhiễm, thực hiện các biện pháp để khắc phục hậu quả và bồi thường thiệt hại ; điều 172.",
+        "qas": [
+            {
+                "question": "chủ tài sản làm ô nhiễm môi trường thì phải làm sao ?",
+                "answer": {
+                    "text": [
+                        "phải chấm dứt hành vi gây ô nhiễm, thực hiện các biện pháp để khắc phục hậu quả và bồi thường thiệt hại"
+                    ],
+                    "start": [
+                        67
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "khi xây dựng công trình, chủ sở hữu, chủ thể có quyền khác đối với tài sản phải tuân theo pháp luật về xây dựng, bảo đảm an toàn, không được xây vượt quá độ cao, khoảng cách mà pháp luật về xây dựng quy định và không được xâm phạm đến quyền, lợi ích hợp pháp của chủ sở hữu, người có quyền khác đối với tài sản là bất động sản liền kề và xung quanh ; điều 174.",
+        "qas": [
+            {
+                "question": "quy tắc xây dựng chủ sở hũu tài sản ?",
+                "answer": {
+                    "text": [
+                        " bảo đảm an toàn, không được xây vượt quá độ cao, khoảng cách mà pháp luật về xây dựng quy định và không được xâm phạm đến quyền, lợi ích hợp pháp của chủ sở hữu"
+                    ],
+                    "start": [
+                        113
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "ranh giới giữa các bất động sản liền kề được xác định theo thoả thuận hoặc theo quyết định của cơ quan nhà nước có thẩm quyền, ranh giới cũng có thể được xác định theo tập quán hoặc theo ranh giới đã tồn tại từ 30 năm trở lên mà không có tranh chấp, không được lấn, chiếm, thay đổi mốc giới ngăn cách, kể cả trường hợp ranh giới là kênh, mương, hào, rãnh, bờ ruộng. mọi chủ thể có nghĩa vụ tôn trọng, duy trì ranh giới chung ; điều 175 khoản 1.",
+        "qas": [
+            {
+                "question": "Ranh giới giữa các bất động sản được xác định ra sao ?",
+                "answer": {
+                    "text": [
+                        "ranh giới giữa các bất động sản liền kề được xác định theo thoả thuận hoặc theo quyết định của cơ quan nhà nước có thẩm quyền"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "người sử dụng đất được sử dụng không gian và lòng đất theo chiều thẳng đứng từ ranh giới của thửa đất phù hợp với quy định của pháp luật và không được làm ảnh hưởng đến việc sử dụng đất của người khác ; điều 175 khoản 2.",
+        "qas": [
+            {
+                "question": "quyền Người sử dụng đất trong anh giới giữa các bất động sản ?",
+                "answer": {
+                    "text": [
+                        "người sử dụng đất được sử dụng không gian và lòng đất theo chiều thẳng đứng từ ranh giới của thửa đất phù hợp với quy định của pháp luật"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "chủ sở hữu bất động sản chỉ được dựng cột mốc, hàng rào, trồng cây, xây tường ngăn trên phần đất thuộc quyền sử dụng của mình ; điều 176 khoản 1.",
+        "qas": [
+            {
+                "question": "Chủ sở hữu bất động sản chỉ được dựng cột mốc trong ranh giới nào ?",
+                "answer": {
+                    "text": [
+                        "chủ sở hữu bất động sản chỉ được dựng cột mốc, hàng rào, trồng cây, xây tường ngăn trên phần đất thuộc quyền sử dụng của mình"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "các chủ sở hữu bất động sản liền kề có thể thoả thuận với nhau về việc dựng cột mốc, hàng rào, trồng cây, xây tường ngăn trên ranh giới để làm mốc giới ngăn cách giữa các bất động sản; những vật mốc giới này là sở hữu chung của các chủ thể đó, trường hợp mốc giới ngăn cách chỉ do một bên tạo nên trên ranh giới và được chủ sở hữu bất động sản liền kề đồng ý thì mốc giới ngăn cách đó là sở hữu chung, chi phí để xây dựng do bên tạo nên chịu, trừ trường hợp có thoả thuận khác; nếu chủ sở hữu bất động sản liền kề không đồng ý mà có lý do chính đáng thì chủ sở hữu đã dựng cột mốc, hàng rào, trồng cây, xây tường ngăn phải dỡ bỏ ; điều 176 khoản 2.",
+        "qas": [
+            {
+                "question": "Các chủ sở hữu bất động sản liền kề có thể thỏa thuận với nhau về mặt ranh giới không ?",
+                "answer": {
+                    "text": [
+                        "các chủ sở hữu bất động sản liền kề có thể thoả thuận với nhau về việc dựng cột mốc, hàng rào, trồng cây, xây tường ngăn trên ranh giới để làm mốc giới ngăn cách giữa các bất động sản"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "đối với mốc giới là tường nhà chung, chủ sở hữu bất động sản liền kề không được trổ cửa sổ, lỗ thông khí hoặc đục tường để đặt kết cấu xây dựng, trừ trường hợp được chủ sở hữu bất động sản liền kề đồng ý, trường hợp nhà xây riêng biệt nhưng tường sát liền nhau thì chủ sở hữu cũng chỉ được đục tường, đặt kết cấu xây dựng đến giới hạn ngăn cách tường của mình, đối với cây là mốc giới chung, các bên đều có nghĩa vụ bảo vệ; hoa lợi thu được từ cây được chia đều, trừ trường hợp có thoả thuận khác ; điều 176 khoản 3.",
+        "qas": [
+            {
+                "question": "tường nhà chung, chủ sở hữu bất động sản liền kề được gọi là gì ?",
+                "answer": {
+                    "text": [
+                        "mốc giới"
+                    ],
+                    "start": [
+                        8
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp cây cối, công trình xây dựng có nguy cơ sập đổ xuống bất động sản liền kề và xung quanh thì chủ sở hữu tài sản thực hiện ngay các biện pháp khắc phục, chặt cây, sửa chữa hoặc dỡ bỏ công trình xây dựng đó theo yêu cầu của chủ sở hữu bất động sản liền kề và xung quanh hoặc theo yêu cầu của cơ quan nhà nước có thẩm quyền; nếu không tự nguyện thực hiện thì chủ sở hữu bất động sản liền kề và xung quanh có quyền yêu cầu cơ quan nhà nước có thẩm quyền cho chặt cây, phá dỡ. chi phí chặt cây, phá dỡ do chủ sở hữu cây cối, công trình xây dựng chịu ; điều 177 khoản 1.",
+        "qas": [
+            {
+                "question": "cây cối, công trình xây dựng có nguy cơ sập đổ xuống bất động sản liền kề chủ sở hũu phải làm sao ?",
+                "answer": {
+                    "text": [
+                        "chủ sở hữu tài sản thực hiện ngay các biện pháp khắc phục, chặt cây, sửa chữa hoặc dỡ bỏ công trình xây dựng"
+                    ],
+                    "start": [
+                        103
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "khi đào giếng, đào ao hoặc xây dựng công trình dưới mặt đất, chủ sở hữu công trình phải đào, xây cách mốc giới một khoảng cách do pháp luật về xây dựng quy định ; điều 177 khoản 2.",
+        "qas": [
+            {
+                "question": "Khi đào giếng, đào ao hoặc xây dựng công trình dưới mặt đất, chủ sở hữu công trình phải đào ở đâu ?",
+                "answer": {
+                    "text": [
+                        "chủ sở hữu công trình phải đào, xây cách mốc giới một khoảng cách do pháp luật về xây dựng quy định"
+                    ],
+                    "start": [
+                        61
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp gây thiệt hại cho chủ sở hữu bất động sản liền kề và xung quanh quy định tại khoản 1 và khoản 2 điều này thì chủ sở hữu cây cối, công trình phải bồi thường ; điều 177 khoản 3.",
+        "qas": [
+            {
+                "question": "trường hợp gây thiệt hại cho chủ sở hữu bất động sản liền kề chủ sở hữu có đền bù không ?",
+                "answer": {
+                    "text": [
+                        "chủ sở hữu cây cối, công trình phải bồi thường"
+                    ],
+                    "start": [
+                        120
+                    ]
+                }
+            }
+        ]
+    }
+]

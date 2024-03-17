@@ -1,0 +1,111 @@
+[
+    {
+        "context": "vật chia được là vật khi bị phân chia vẫn giữ nguyên tính chất và tính năng sử dụng ban đầu, vật không chia được là vật khi bị phân chia thì không giữ nguyên được tính chất và tính năng sử dụng ban đầu, khi cần phân chia vật không chia được thì phải trị giá thành tiền để chia ; điều 111.",
+        "qas": [
+            {
+                "question": "Vật chia được là gì ?",
+                "answer": {
+                    "text": [
+                        "vật chia được là vật khi bị phân chia vẫn giữ nguyên tính chất và tính năng sử dụng ban đầu"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "vật không chia được là gì ?",
+                "answer": {
+                    "text": [
+                        "vật không chia được là vật khi bị phân chia thì không giữ nguyên được tính chất và tính năng sử dụng ban đầu, khi cần phân chia vật không chia được thì phải trị giá thành tiền để chia"
+                    ],
+                    "start": [
+                        93
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "vật tiêu hao là vật khi đã qua một lần sử dụng thì mất đi hoặc không giữ được tính chất, hình dáng và tính năng sử dụng ban đầu, vật tiêu hao không thể là đối tượng của hợp đồng cho thuê hoặc hợp đồng cho mượn, vật không tiêu hao là vật khi đã qua sử dụng nhiều lần mà cơ bản vẫn giữ được tính chất, hình dáng và tính năng sử dụng ban đầu ;điều 112.",
+        "qas": [
+            {
+                "question": "Vật tiêu hao là gì ?",
+                "answer": {
+                    "text": [
+                        "vật tiêu hao là vật khi đã qua một lần sử dụng thì mất đi hoặc không giữ được tính chất, hình dáng và tính năng sử dụng ban đầu, vật tiêu hao không thể là đối tượng của hợp đồng cho thuê hoặc hợp đồng cho mượn"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "vật không tiêu hao là gì ?",
+                "answer": {
+                    "text": [
+                        "vật tiêu hao không thể là đối tượng của hợp đồng cho thuê hoặc hợp đồng cho mượn, vật không tiêu hao là vật khi đã qua sử dụng nhiều lần mà cơ bản vẫn giữ được tính chất, hình dáng và tính năng sử dụng ban đầu"
+                    ],
+                    "start": [
+                        210
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "vật cùng loại là những vật có cùng hình dáng, tính chất, tính năng sử dụng và xác định được bằng những đơn vị đo lường, vật cùng loại có cùng chất lượng có thể thay thế cho nhau ;điều 113 khoản 1.",
+        "qas": [
+            {
+                "question": "Vật cùng loại là gì ?",
+                "answer": {
+                    "text": [
+                        "vật cùng loại là những vật có cùng hình dáng, tính chất, tính năng sử dụng và xác định được bằng những đơn vị đo lường, vật cùng loại có cùng chất lượng có thể thay thế cho nhau"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "vật đặc định là vật phân biệt được với các vật khác bằng những đặc điểm riêng về ký hiệu, hình dáng, màu sắc, chất liệu, đặc tính, vị trí, khi thực hiện nghĩa vụ chuyển giao vật đặc định thì phải giao đúng vật đó ; điều 113 khoản 2.",
+        "qas": [
+            {
+                "question": "vật đặc định là gì ?",
+                "answer": {
+                    "text": [
+                        "vật đặc định là vật phân biệt được với các vật khác bằng những đặc điểm riêng về ký hiệu, hình dáng, màu sắc, chất liệu, đặc tính, vị trí, khi thực hiện nghĩa vụ chuyển giao vật đặc định thì phải giao đúng vật đó"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "vật đồng bộ là vật gồm các phần hoặc các bộ phận ăn khớp, liên hệ với nhau hợp thành chỉnh thể mà nếu thiếu một trong các phần, các bộ phận hoặc có phần hoặc bộ phận không đúng quy cách, chủng loại thì không sử dụng được hoặc giá trị sử dụng của vật đó bị giảm sút, khi thực hiện nghĩa vụ chuyển giao vật đồng bộ thì phải chuyển giao toàn bộ các phần hoặc các bộ phận hợp thành, trừ trường hợp có thoả thuận khác ; điều 114.",
+        "qas": [
+            {
+                "question": "Vật đồng bộ là gì ?",
+                "answer": {
+                    "text": [
+                        "vật đồng bộ là vật gồm các phần hoặc các bộ phận ăn khớp, liên hệ với nhau hợp thành chỉnh thể mà nếu thiếu một trong các phần, các bộ phận hoặc có phần hoặc bộ phận không đúng quy cách, chủng loại thì không sử dụng được hoặc giá trị sử dụng của vật đó bị giảm sút"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "nghĩa vụ khi chuyển giao vật đồng bộ là gì ?",
+                "answer": {
+                    "text": [
+                        "khi thực hiện nghĩa vụ chuyển giao vật đồng bộ thì phải chuyển giao toàn bộ các phần hoặc các bộ phận hợp thành, trừ trường hợp có thoả thuận khác"
+                    ],
+                    "start": [
+                        266
+                    ]
+                }
+            }
+        ]
+    }
+]

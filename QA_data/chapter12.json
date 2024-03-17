@@ -1,0 +1,134 @@
+[
+    {
+        "context": "chiếm hữu là việc chủ thể nắm giữ, chi phối tài sản một cách trực tiếp hoặc gián tiếp như chủ thể có quyền đối với tài sản, chiếm hữu bao gồm chiếm hữu của chủ sở hữu và chiếm hữu của người không phải là chủ sở hữu, việc chiếm hữu của người không phải là chủ sở hữu không thể là căn cứ xác lập quyền sở hữu, trừ trường hợp quy định tại các điều 228, 229, 230, 231, 232, 233 và 236 của bộ luật này ; điều 179.",
+        "qas": [
+            {
+                "question": "Khái niệm chiếm hữu là gì ?",
+                "answer": {
+                    "text": [
+                        "chiếm hữu là việc chủ thể nắm giữ, chi phối tài sản một cách trực tiếp hoặc gián tiếp như chủ thể có quyền đối với tài sản"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "chiếm hữu bao gồm những gì ?",
+                "answer": {
+                    "text": [
+                        "chiếm hữu bao gồm chiếm hữu của chủ sở hữu và chiếm hữu của người không phải là chủ sở hữu"
+                    ],
+                    "start": [
+                        124
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "chiếm hữu liên tục là việc chiếm hữu được thực hiện trong một khoảng thời gian mà không có tranh chấp về quyền đối với tài sản đó hoặc có tranh chấp nhưng chưa được giải quyết bằng một bản án, quyết định có hiệu lực pháp luật của tòa án hoặc cơ quan nhà nước có thẩm quyền khác, kể cả khi tài sản được giao cho người khác chiếm hữu ; điều 182 khoản 1.",
+        "qas": [
+            {
+                "question": "Chiếm hữu liên tục là gì ?",
+                "answer": {
+                    "text": [
+                        "chiếm hữu liên tục là việc chiếm hữu được thực hiện trong một khoảng thời gian mà không có tranh chấp về quyền đối với tài sản đó hoặc có tranh chấp nhưng chưa được giải quyết bằng một bản án"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "việc chiếm hữu không liên tục không được coi là căn cứ để suy đoán về tình trạng và quyền của người chiếm hữu được quy định tại điều 184 của bộ luật này ; điều 182 khoản 2.",
+        "qas": [
+            {
+                "question": "Việc chiếm hữu không liên tục được xem là tài sản của người chiếm hữu không ?",
+                "answer": {
+                    "text": [
+                        "việc chiếm hữu không liên tục không được coi là căn cứ để suy đoán về tình trạng và quyền của người chiếm hữu "
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "chiếm hữu công khai là việc chiếm hữu được thực hiện một cách minh bạch, không giấu giếm; tài sản đang chiếm hữu được sử dụng theo tính năng, công dụng và được người chiếm hữu bảo quản, giữ gìn như tài sản của chính mình ; điều 183 khoản 1.",
+        "qas": [
+            {
+                "question": "Chiếm hữu công khai là gì ?",
+                "answer": {
+                    "text": [
+                        "chiếm hữu công khai là việc chiếm hữu được thực hiện một cách minh bạch, không giấu giếm"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "việc chiếm hữu không công khai không được coi là căn cứ để suy đoán về tình trạng và quyền của người chiếm hữu được quy định tại điều 184 của bộ luật này ; điều 183 khoản 2.",
+        "qas": [
+            {
+                "question": "Chiếm hữu không công khai ảnh hưởng gì với người chiếm hữu không ?",
+                "answer": {
+                    "text": [
+                        "việc chiếm hữu không công khai không được coi là căn cứ để suy đoán về tình trạng và quyền của người chiếm hữu được quy định tại điều 184 của bộ luật này"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "việc chiếm hữu không liên tục không được coi là căn cứ để suy đoán về tình trạng và quyền của người chiếm hữu được quy định tại điều 184 của bộ luật này ; điều 182 khoản 2.",
+        "qas": [
+            {
+                "question": "Việc chiếm hữu không liên tục được xem là tài sản của người chiếm hữu không ?",
+                "answer": {
+                    "text": [
+                        "việc chiếm hữu không liên tục không được coi là căn cứ để suy đoán về tình trạng và quyền của người chiếm hữu "
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "việc chiếm hữu không công khai không được coi là căn cứ để suy đoán về tình trạng và quyền của người chiếm hữu được quy định tại điều 184 của bộ luật này ; điều 183 khoản 2.",
+        "qas": [
+            {
+                "question": "Chiếm hữu không công khai ảnh hưởng gì với người chiếm hữu không ?",
+                "answer": {
+                    "text": [
+                        "việc chiếm hữu không công khai không được coi là căn cứ để suy đoán về tình trạng và quyền của người chiếm hữu được quy định tại điều 184 của bộ luật này"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "việc chiếm hữu không liên tục không được coi là căn cứ để suy đoán về tình trạng và quyền của người chiếm hữu được quy định tại điều 184 của bộ luật này ; điều 182 khoản 2.",
+        "qas": [
+            {
+                "question": "Việc chiếm hữu không liên tục được xem là tài sản của người chiếm hữu không ?",
+                "answer": {
+                    "text": [
+                        "việc chiếm hữu không liên tục không được coi là căn cứ để suy đoán về tình trạng và quyền của người chiếm hữu "
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    }
+]

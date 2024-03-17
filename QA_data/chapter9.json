@@ -1,0 +1,235 @@
+[
+    {
+        "context": "người đại diện theo pháp luật của pháp nhân bao gồm: người được pháp nhân chỉ định theo điều lệ, người có thẩm quyền đại diện theo quy định của pháp luật, người do tòa án chỉ định trong quá trình tố tụng tại tòa án ; điều 137 khoản 1.",
+        "qas": [
+            {
+                "question": "Người đại diện theo pháp luật của pháp nhân bao gồm những gì ?",
+                "answer": {
+                    "text": [
+                        "bao gồm: người được pháp nhân chỉ định theo điều lệ, người có thẩm quyền đại diện theo quy định của pháp luật, người do tòa án chỉ định trong quá trình tố tụng tại tòa án"
+                    ],
+                    "start": [
+                        44
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "một pháp nhân có thể có nhiều người đại diện theo pháp luật và mỗi người đại diện có quyền đại diện cho pháp nhân theo quy định tại điều 140 và điều 141 của bộ luật này ; điều 137 khoản 2.",
+        "qas": [
+            {
+                "question": "Một pháp nhân có thể có nhiều người đại diện không ?",
+                "answer": {
+                    "text": [
+                        "một pháp nhân có thể có nhiều người đại diện theo pháp luật và mỗi người đại diện có quyền đại diện cho pháp nhân theo quy định"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "cá nhân, pháp nhân có thể uỷ quyền cho cá nhân, pháp nhân khác xác lập, thực hiện giao dịch dân sự, các thành viên hộ gia đình, tổ hợp tác, tổ chức khác không có tư cách pháp nhân có thể thỏa thuận cử cá nhân, pháp nhân khác đại diện theo ủy quyền xác lập, thực hiện giao dịch dân sự liên quan đến tài sản chung của các thành viên hộ gia đình, tổ hợp tác, tổ chức khác không có tư cách pháp nhân, người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi có thể là người đại diện theo uỷ quyền, trừ trường hợp pháp luật quy định giao dịch dân sự phải do người từ đủ mười tám tuổi trở lên xác lập, thực hiện ; điều 138.",
+        "qas": [
+            {
+                "question": "Cá nhân, pháp nhân có thể ủy quyền cho cá nhân, pháp nhân khác không ?",
+                "answer": {
+                    "text": [
+                        "cá nhân, pháp nhân có thể uỷ quyền cho cá nhân, pháp nhân khác xác lập, thực hiện giao dịch dân sự"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "chưa đủ mười tám tuổi có thể là người đại diện không ?",
+                "answer": {
+                    "text": [
+                        "người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi có thể là người đại diện theo uỷ quyền, trừ trường hợp pháp luật quy định giao dịch dân sự phải do người từ đủ mười tám tuổi trở lên xác lập, thực hiện"
+                    ],
+                    "start": [
+                        397
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "thời hạn đại diện được xác định theo văn bản ủy quyền, theo quyết định của cơ quan có thẩm quyền, theo điều lệ của pháp nhân hoặc theo quy định của pháp luật ; điều 140 khoản 1.",
+        "qas": [
+            {
+                "question": "Thời hạn đại diện được xác định như thế nào ?",
+                "answer": {
+                    "text": [
+                        "thời hạn đại diện được xác định theo văn bản ủy quyền, theo quyết định của cơ quan có thẩm quyền, theo điều lệ của pháp nhân hoặc theo quy định của pháp luật"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "trường hợp không xác định được thời hạn đại diện theo quy định tại khoản 1 điều này thì thời hạn đại diện được xác định như sau: nếu quyền đại diện được xác định theo giao dịch dân sự cụ thể thì thời hạn đại diện được tính đến thời điểm chấm dứt giao dịch dân sự đó, nếu quyền đại diện không được xác định với giao dịch dân sự cụ thể thì thời hạn đại diện là 01 năm, kể từ thời điểm phát sinh quyền đại diện ; điều 140 khoản 2.",
+        "qas": [
+            {
+                "question": "không xác đinh được thời gian đại diện thì Thời hạn đại diện được xác định như thế nào ?",
+                "answer": {
+                    "text": [
+                        "thời hạn đại diện được xác định như sau: nếu quyền đại diện được xác định theo giao dịch dân sự cụ thể thì thời hạn đại diện được tính đến thời điểm chấm dứt giao dịch dân sự đó, nếu quyền đại diện không được xác định với giao dịch dân sự cụ thể thì thời hạn đại diện là 01 năm, kể từ thời điểm phát sinh quyền đại diện"
+                    ],
+                    "start": [
+                        88
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "đại diện theo ủy quyền chấm dứt trong trường hợp sau đây: theo thỏa thuận, thời hạn ủy quyền đã hết, công việc được uỷ quyền đã hoàn thành, người được đại diện hoặc người đại diện đơn phương chấm dứt thực hiện việc ủy quyền, người được đại diện, người đại diện là cá nhân chết; người được đại diện, người đại diện là pháp nhân chấm dứt tồn tại, người đại diện không còn đủ điều kiện quy định tại khoản 3 điều 134 của bộ luật này, căn cứ khác làm cho việc đại diện không thể thực hiện được ; điều 140 khoản 3.",
+        "qas": [
+            {
+                "question": "Đại diện theo ủy quyền chấm dứt trong trường hợp nào ?",
+                "answer": {
+                    "text": [
+                        "đại diện theo ủy quyền chấm dứt trong trường hợp sau đây: theo thỏa thuận, thời hạn ủy quyền đã hết, công việc được uỷ quyền đã hoàn thành, người được đại diện hoặc người đại diện đơn phương chấm dứt thực hiện việc ủy quyền, người được đại diện, người đại diện là cá nhân chết; người được đại diện, người đại diện là pháp nhân chấm dứt tồn tại"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "đại diện theo ủy quyền chấm dứt trong trường hợp sau đây: theo thỏa thuận, thời hạn ủy quyền đã hết, công việc được uỷ quyền đã hoàn thành, người được đại diện hoặc người đại diện đơn phương chấm dứt thực hiện việc ủy quyền, người được đại diện, người đại diện là cá nhân chết; người được đại diện, người đại diện là pháp nhân chấm dứt tồn tại, người đại diện không còn đủ điều kiện quy định tại khoản 3 điều 134 của bộ luật này, căn cứ khác làm cho việc đại diện không thể thực hiện được ; điều 140 khoản 3.",
+        "qas": [
+            {
+                "question": "đại diện theo ủy quyền chấm dứt trong trường hợp nào?",
+                "answer": {
+                    "text": [
+                        "theo thỏa thuận, thời hạn ủy quyền đã hết, công việc được uỷ quyền đã hoàn thành, người được đại diện hoặc người đại diện đơn phương chấm dứt thực hiện việc ủy quyền, người được đại diện, người đại diện là cá nhân chết; người được đại diện, người đại diện là pháp nhân chấm dứt tồn tại, người đại diện không còn đủ điều kiện quy định "
+                    ],
+                    "start": [
+                        58
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "thời hạn đại diện được xác định theo văn bản ủy quyền, theo quyết định của cơ quan có thẩm quyền, theo điều lệ của pháp nhân hoặc theo quy định của pháp luật ; điều 140 khoản 1.",
+        "qas": [
+            {
+                "question": "thời hạn đại diện được xác định theo văn bản không ?",
+                "answer": {
+                    "text": [
+                        "được xác định theo văn bản ủy quyền"
+                    ],
+                    "start": [
+                        18
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "đại diện theo pháp luật chấm dứt trong trường hợp sau đây: người được đại diện là cá nhân đã thành niên hoặc năng lực hành vi dân sự đã được khôi phục, người được đại diện là cá nhân chết, người được đại diện là pháp nhân chấm dứt tồn tại, căn cứ khác theo quy định của bộ luật này hoặc luật khác có liên quan ; điều 140 khoản 1.",
+        "qas": [
+            {
+                "question": "cá nhân đã thành niên cần người đại diện không??",
+                "answer": {
+                    "text": [
+                        "đại diện theo pháp luật chấm dứt trong trường hợp sau đây: người được đại diện là cá nhân đã thành niên"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "cá nhân đã thành niên cần người đại diện không??",
+                "answer": {
+                    "text": [
+                        "đại diện theo pháp luật chấm dứt trong trường hợp sau đây: người được đại diện là cá nhân đã thành niên hoặc năng lực hành vi dân sự đã được khôi phục"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "người đại diện chỉ được xác lập, thực hiện giao dịch dân sự trong phạm vi đại diện theo căn cứ sau đây: quyết định của cơ quan có thẩm quyền, điều lệ của pháp nhân, nội dung ủy quyền, quy định khác của pháp luật ; điều 141 khoản 1.",
+        "qas": [
+            {
+                "question": "Người đại diện thực hiện giao dịch dân sự trong phạm vi nào ?",
+                "answer": {
+                    "text": [
+                        "đại diện theo căn cứ sau đây: quyết định của cơ quan có thẩm quyền, điều lệ của pháp nhân, nội dung ủy quyền, quy định khác của pháp luật"
+                    ],
+                    "start": [
+                        74
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "trường hợp không xác định được cụ thể phạm vi đại diện theo quy định tại khoản 1 điều này thì người đại diện theo pháp luật có quyền xác lập, thực hiện mọi giao dịch dân sự vì lợi ích của người được đại diện, trừ trường hợp pháp luật có quy định khác ; điều 141 khoản 2.",
+        "qas": [
+            {
+                "question": "Trường hợp không xác định được cụ thể phạm vi đại diện phải làm sao ?",
+                "answer": {
+                    "text": [
+                        "người đại diện theo pháp luật có quyền xác lập, thực hiện mọi giao dịch dân sự vì lợi ích của người được đại diện, trừ trường hợp pháp luật có quy định khác "
+                    ],
+                    "start": [
+                        94
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "một cá nhân, pháp nhân có thể đại diện cho nhiều cá nhân hoặc pháp nhân khác nhau nhưng không được nhân danh người được đại diện để xác lập, thực hiện giao dịch dân sự với chính mình hoặc với bên thứ ba mà mình cũng là người đại diện của người đó, trừ trường hợp pháp luật có quy định khác ; điều 141 khoản 3.",
+        "qas": [
+            {
+                "question": "Một cá nhân, pháp nhân có thể đại diện cho nhiều cá nhân hoặc pháp nhân khác nhau không ?",
+                "answer": {
+                    "text": [
+                        "một cá nhân, pháp nhân có thể đại diện cho nhiều cá nhân hoặc pháp nhân khác nhau nhưng không được nhân danh người được đại diện để xác lập"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "giao dịch dân sự do người không có quyền đại diện xác lập, thực hiện không làm phát sinh quyền, nghĩa vụ đối với người được đại diện, trừ một trong các trường hợp sau đây: người được đại diện đã công nhận giao dịch, người được đại diện biết mà không phản đối trong một thời hạn hợp lý, người được đại diện có lỗi dẫn đến việc người đã giao dịch không biết hoặc không thể biết về việc người đã xác lập, thực hiện giao dịch dân sự với mình không có quyền đại diện điều 142 khoản 1.",
+        "qas": [
+            {
+                "question": "Hậu quả của giao dịch dân sự do người không có quyền đại diện xác lập ?",
+                "answer": {
+                    "text": [
+                        "giao dịch dân sự do người không có quyền đại diện xác lập, thực hiện không làm phát sinh quyền, nghĩa vụ đối với người được đại diện"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "trường hợp giao dịch dân sự do người đại diện xác lập, thực hiện vượt quá phạm vi đại diện không làm phát sinh quyền, nghĩa vụ của người được đại diện đối với phần giao dịch được xác lập, thực hiện vượt quá phạm vi đại diện thì người đại diện phải thực hiện nghĩa vụ đối với người đã giao dịch với mình về phần giao dịch vượt quá phạm vi đại diện, trừ trường hợp người đã giao dịch biết hoặc phải biết về việc vượt quá phạm vi đại diện mà vẫn giao dịch ; điều 143 khoản 2.",
+        "qas": [
+            {
+                "question": "trường hợp người không có quyền đại diện xác lập ?",
+                "answer": {
+                    "text": [
+                        " người đại diện phải thực hiện nghĩa vụ đối với người đã giao dịch với mình về phần giao dịch vượt quá phạm vi đại diện"
+                    ],
+                    "start": [
+                        228
+                    ]
+                }
+            }
+        ]
+    }
+]

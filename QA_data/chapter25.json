@@ -1,0 +1,467 @@
+[
+    {
+        "context": "mỗi chủ sở hữu chung theo phần có quyền khai thác công dụng, hưởng hoa lợi, lợi tức từ tài sản chung tương ứng với phần quyền sở hữu của mình, trừ trường hợp có thoả thuận khác hoặc pháp luật có quy định khác ; điều 217 khoản 1.",
+        "qas": [
+            {
+                "question": "chủ sở hữu chung theo phần có quyền khai thác về phần tài sản của mình không ?",
+                "answer": {
+                    "text": [
+                        "mỗi chủ sở hữu chung theo phần có quyền khai thác công dụng, hưởng hoa lợi, lợi tức từ tài sản chung tương ứng với phần quyền sở hữu của mình"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "sở hữu chung chấm dứt trong trường hợp sau đây: tài sản chung đã được chia, một trong số các chủ sở hữu chung được hưởng toàn bộ tài sản chung, tài sản chung không còn, trường hợp khác theo quy định của luật ; điều 220.",
+        "qas": [
+            {
+                "question": "Sở hữu chung chấm dứt trong trường hợp nào ?",
+                "answer": {
+                    "text": [
+                        "trường hợp sau đây: tài sản chung đã được chia, một trong số các chủ sở hữu chung được hưởng toàn bộ tài sản chung, tài sản chung không còn, trường hợp khác theo quy định của luật"
+                    ],
+                    "start": [
+                        28
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "bộ luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2017, bộ luật dân sự số 33/2005/qh11 hết hiệu lực kể từ ngày bộ luật này có hiệu lực, bộ luật này đã được quốc hội nước cộng hòa xã hội chủ nghĩa việt nam khóa xiii, kỳ họp thứ 10 thông qua ngày 24 tháng 11 năm 2015 ; điều 689.",
+        "qas": [
+            {
+                "question": "Hiệu lực thi hành bộ luật dân sự ?",
+                "answer": {
+                    "text": [
+                        "bộ luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2017"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "đối với giao dịch dân sự được xác lập trước ngày bộ luật này có hiệu lực thì việc áp dụng pháp luật được quy định như sau: giao dịch dân sự chưa được thực hiện mà có nội dung, hình thức khác với quy định của bộ luật này thì chủ thể giao dịch tiếp tục thực hiện theo quy định của bộ luật dân sự số 33/2005/qh11 và các văn bản quy phạm pháp luật quy định chi tiết bộ luật dân sự số 33/2005/qh11, trừ trường hợp các bên của giao dịch dân sự có thỏa thuận về việc sửa đổi, bổ sung nội dung, hình thức của giao dịch để phù hợp với bộ luật này và để áp dụng quy định của bộ luật này, giao dịch dân sự đang được thực hiện mà có nội dung, hình thức khác với quy định của bộ luật này thì áp dụng quy định của bộ luật dân sự số 33/2005/qh11 và các văn bản quy phạm pháp luật quy định chi tiết bộ luật dân sự số 33/2005/qh11, giao dịch dân sự chưa được thực hiện hoặc đang được thực hiện mà có nội dung và hình thức phù hợp với quy định của bộ luật này thì áp dụng quy định của bộ luật này, giao dịch dân sự được thực hiện xong trước ngày bộ luật này có hiệu lực mà có tranh chấp thì áp dụng quy định của bộ luật dân sự số 33/2005/qh11 và các văn bản quy phạm pháp luật quy định chi tiết bộ luật dân sự số 33/2005/qh11 để giải quyết, thời hiệu được áp dụng theo quy định của bộ luật này ; điều 688 khoản 1.",
+        "qas": [
+            {
+                "question": "Giao dịch dân sự chưa được thực hiện mà có nội dung, hình thức khác với quy định của Bộ luật này thì phải làm sao ?",
+                "answer": {
+                    "text": [
+                        "chủ thể giao dịch tiếp tục thực hiện theo quy định của Bộ luật dân sự số 33/2005/QH11"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "các bên được thỏa thuận lựa chọn pháp luật áp dụng cho việc bồi thường thiệt hại ngoài hợp đồng, trừ trường hợp quy định tại khoản 2 điều này. trường hợp không có thỏa thuận thì pháp luật của nước nơi phát sinh hậu quả của sự kiện gây thiệt hại được áp dụng ; điều 687 khoản 1.",
+        "qas": [
+            {
+                "question": "Các bên được thỏa thuận lựa chọn pháp luật áp dụng cho việc bồi thường không ?",
+                "answer": {
+                    "text": [
+                        "các bên được thỏa thuận lựa chọn pháp luật áp dụng cho việc bồi thường thiệt hại ngoài hợp đồng"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "các bên được thỏa thuận lựa chọn pháp luật áp dụng cho việc thực hiện công việc không có ủy quyền. trường hợp không có thỏa thuận thì pháp luật áp dụng là pháp luật của nước nơi thực hiện công việc không có ủy quyền ; điều 686.",
+        "qas": [
+            {
+                "question": "Các bên được thỏa thuận lựa chọn pháp luật áp dụng cho việc thực hiện công việc không có ủy quyền không ?",
+                "answer": {
+                    "text": [
+                        "các bên được thỏa thuận lựa chọn pháp luật áp dụng cho việc thực hiện công việc không có ủy quyền"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "nghĩa vụ hoàn trả do chiếm hữu, sử dụng, được lợi về tài sản không có căn cứ pháp luật được xác định theo pháp luật của nước nơi thực hiện việc chiếm hữu, sử dụng tài sản hoặc nơi phát sinh lợi ích được hưởng mà không có căn cứ pháp luật ; điều 685.",
+        "qas": [
+            {
+                "question": "Nghĩa vụ hoàn trả do chiếm hữu không có căn cứ pháp luật ra sao ?",
+                "answer": {
+                    "text": [
+                        "nghĩa vụ hoàn trả do chiếm hữu, sử dụng, được lợi về tài sản không có căn cứ pháp luật được xác định theo pháp luật của nước nơi thực hiện việc chiếm hữu, sử dụng tài sản"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "pháp luật áp dụng đối với hành vi pháp lý đơn phương là pháp luật của nước nơi cá nhân xác lập hành vi đó cư trú hoặc nơi pháp nhân xác lập hành vi đó được thành lập ; điều 684.",
+        "qas": [
+            {
+                "question": "Hành vi pháp lý đơn phương là gì ?",
+                "answer": {
+                    "text": [
+                        "hành vi pháp lý đơn phương là pháp luật của nước nơi cá nhân xác lập hành vi đó cư trú hoặc nơi pháp nhân xác lập hành vi đó được thành lập"
+                    ],
+                    "start": [
+                        32
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "giám hộ được xác định theo pháp luật của nước nơi người được giám hộ cư trú ; điều 682.",
+        "qas": [
+            {
+                "question": "Giám hộ được xác định như thế nào ?",
+                "answer": {
+                    "text": [
+                        "giám hộ được xác định theo pháp luật của nước nơi người được giám hộ cư trú"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "hình thức của di chúc được xác định theo pháp luật của nước nơi di chúc được lập. hình thức của di chúc cũng được công nhận tại việt nam nếu phù hợp với pháp luật của một trong các nước sau đây: nước nơi người lập di chúc cư trú tại thời điểm lập di chúc hoặc tại thời điểm người lập di chúc chết, nước nơi người lập di chúc có quốc tịch tại thời điểm lập di chúc hoặc tại thời điểm người lập di chúc chết, nước nơi có bất động sản nếu di sản thừa kế là bất động sản ; điều 681.",
+        "qas": [
+            {
+                "question": "Hình thức của di chúc được xác định theo pháp luật ở đâu ?",
+                "answer": {
+                    "text": [
+                        "hình thức của di chúc được xác định theo pháp luật của nước nơi di chúc được lập"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "thừa kế được xác định theo pháp luật của nước mà người để lại di sản thừa kế có quốc tịch ngay trước khi chết, việc thực hiện quyền thừa kế đối với bất động sản được xác định theo pháp luật của nước nơi có bất động sản đó ; điều 680.",
+        "qas": [
+            {
+                "question": "Thừa kế được xác định theo pháp luật của nước nào ?",
+                "answer": {
+                    "text": [
+                        "thừa kế được xác định theo pháp luật của nước mà người để lại di sản thừa kế có quốc tịch ngay trước khi chết"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "việc thực hiện quyền thừa kế đối với bất động sản được xác định ?",
+                "answer": {
+                    "text": [
+                        "việc thực hiện quyền thừa kế đối với bất động sản được xác định theo pháp luật của nước nơi có bất động sản đó"
+                    ],
+                    "start": [
+                        111
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "quyền sở hữu trí tuệ được xác định theo pháp luật của nước nơi đối tượng quyền sở hữu trí tuệ được yêu cầu bảo hộ ; điều 679.",
+        "qas": [
+            {
+                "question": "Quyền sở hữu trí tuệ được xác định như thế nào ?",
+                "answer": {
+                    "text": [
+                        "quyền sở hữu trí tuệ được xác định theo pháp luật của nước nơi đối tượng quyền sở hữu trí tuệ được yêu cầu bảo hộ"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "việc phân loại tài sản là động sản, bất động sản được xác định theo pháp luật của nước nơi có tài sản ; điều 677.",
+        "qas": [
+            {
+                "question": "phân loại tài sản là gì ?",
+                "answer": {
+                    "text": [
+                        "việc phân loại tài sản là động sản, bất động sản được xác định theo pháp luật của nước nơi có tài sản"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "quốc tịch của pháp nhân được xác định theo pháp luật của nước nơi pháp nhân thành lập, năng lực pháp luật dân sự của pháp nhân; tên gọi của pháp nhân; đại diện theo pháp luật của pháp nhân; việc tổ chức, tổ chức lại, giải thể pháp nhân; quan hệ giữa pháp nhân với thành viên của pháp nhân; trách nhiệm của pháp nhân và thành viên của pháp nhân đối với các nghĩa vụ của pháp nhân được xác định theo pháp luật của nước mà pháp nhân có quốc tịch, trừ trường hợp quy định tại khoản 3 điều này, trường hợp pháp nhân nước ngoài xác lập, thực hiện giao dịch dân sự tại việt nam thì năng lực pháp luật dân sự của pháp nhân nước ngoài đó được xác định theo pháp luật việt nam ; điều 676.",
+        "qas": [
+            {
+                "question": "Quốc tịch của pháp nhân được xác định như thế nào ?",
+                "answer": {
+                    "text": [
+                        "quốc tịch của pháp nhân được xác định theo pháp luật của nước nơi pháp nhân thành lập"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "Trường hợp pháp nhân nước ngoài xác lập, thực hiện giao dịch dân sự tại Việt Nam thì phải làm sao ?",
+                "answer": {
+                    "text": [
+                        "pháp nhân nước ngoài xác lập, thực hiện giao dịch dân sự tại việt nam thì năng lực pháp luật dân sự của pháp nhân nước ngoài đó được xác định theo pháp luật việt nam"
+                    ],
+                    "start": [
+                        505
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "việc xác định một cá nhân mất tích hoặc chết tuân theo pháp luật của nước mà người đó có quốc tịch vào thời điểm trước khi có tin tức cuối cùng về người đó, trừ trường hợp quy định tại khoản 2 điều này, việc xác định tại việt nam một cá nhân mất tích hoặc chết theo pháp luật việt nam ; điều 675.",
+        "qas": [
+            {
+                "question": "Xác định cá nhân mất tích hoặc chết như thế nào ?",
+                "answer": {
+                    "text": [
+                        "việc xác định một cá nhân mất tích hoặc chết tuân theo pháp luật của nước mà người đó có quốc tịch vào thời điểm trước khi có tin tức cuối cùng về người đó"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "năng lực hành vi dân sự của cá nhân được xác định theo pháp luật của nước mà người đó có quốc tịch, trừ trường hợp quy định tại khoản 2 điều này, trường hợp người nước ngoài xác lập, thực hiện các giao dịch dân sự tại việt nam, năng lực hành vi dân sự của người nước ngoài đó được xác định theo pháp luật việt nam, việc xác định cá nhân bị mất năng lực hành vi dân sự, có khó khăn trong nhận thức, làm chủ hành vi hoặc bị hạn chế năng lực hành vi dân sự tại việt nam theo pháp luật việt nam ; điều 674.",
+        "qas": [
+            {
+                "question": "Năng lực hành vi dân sự của cá nhân được xác định theo bộ luật nào ?",
+                "answer": {
+                    "text": [
+                        "năng lực hành vi dân sự của cá nhân được xác định theo pháp luật của nước mà người đó có quốc tịch"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "năng lực pháp luật dân sự của cá nhân được xác định theo pháp luật của nước mà người đó có quốc tịch, người nước ngoài tại việt nam có năng lực pháp luật dân sự như công dân việt nam, trừ trường hợp pháp luật việt nam có quy định khác ; điều 673.",
+        "qas": [
+            {
+                "question": "Năng lực pháp luật dân sự của cá nhân được xác định theo bộ luật nào ?",
+                "answer": {
+                    "text": [
+                        "năng lực pháp luật dân sự của cá nhân được xác định theo pháp luật của nước mà người đó có quốc tịch"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "Người nước ngoài tại Việt Nam có năng lực pháp luật dân sự như công dân Việt Nam không ?",
+                "answer": {
+                    "text": [
+                        "người nước ngoài tại việt nam có năng lực pháp luật dân sự như công dân việt nam"
+                    ],
+                    "start": [
+                        141
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp pháp luật được dẫn chiếu đến là pháp luật của nước mà cá nhân có quốc tịch nhưng cá nhân đó là người có nhiều quốc tịch, trong đó có quốc tịch việt nam thì pháp luật áp dụng là pháp luật việt nam ; điều 672.",
+        "qas": [
+            {
+                "question": "Căn cứ xác định pháp luật áp dụng đối với người nhiều quốc tịch ?",
+                "answer": {
+                    "text": [
+                        "cá nhân đó là người có nhiều quốc tịch, trong đó có quốc tịch việt nam thì pháp luật áp dụng là pháp luật việt nam"
+                    ],
+                    "start": [
+                        110
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "thời hiệu đối với quan hệ dân sự có yếu tố nước ngoài được xác định theo pháp luật áp dụng đối với quan hệ dân sự đó ; điều 671.",
+        "qas": [
+            {
+                "question": "Thời hiệu đối với quan hệ dân sự có yếu tố nước ngoài được xác định như thế nào ?",
+                "answer": {
+                    "text": [
+                        "thời hiệu đối với quan hệ dân sự có yếu tố nước ngoài được xác định theo pháp luật áp dụng đối với quan hệ dân sự đó "
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "pháp luật nước ngoài được dẫn chiếu đến không được áp dụng trong trường hợp sau đây: hậu quả của việc áp dụng pháp luật nước ngoài trái với các nguyên tắc cơ bản của pháp luật việt nam, nội dung của pháp luật nước ngoài không xác định được mặc dù đã áp dụng các biện pháp cần thiết theo quy định của pháp luật tố tụng, trường hợp pháp luật nước ngoài không được áp dụng theo quy định tại khoản 1 điều này thì pháp luật việt nam được áp dụng ; điều 670.",
+        "qas": [
+            {
+                "question": "Pháp luật nước ngoài được dẫn chiếu đến không được áp dụng trong trường hợp nào ?",
+                "answer": {
+                    "text": [
+                        "trường hợp sau đây: hậu quả của việc áp dụng pháp luật nước ngoài trái với các nguyên tắc cơ bản của pháp luật việt nam, nội dung của pháp luật nước ngoài không xác định được mặc dù đã áp dụng các biện pháp cần thiết theo quy định của pháp luật tố tụng, trường hợp pháp luật nước ngoài không được áp dụng theo quy định tại khoản 1 điều này thì pháp luật việt nam được áp dụng"
+                    ],
+                    "start": [
+                        65
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp pháp luật của nước có nhiều hệ thống pháp luật được dẫn chiếu đến thì pháp luật áp dụng được xác định theo nguyên tắc do pháp luật nước đó quy định ; điều 669.",
+        "qas": [
+            {
+                "question": "Trường hợp pháp luật của nước có nhiều hệ thống pháp luật thì áp dụng luật nào ?",
+                "answer": {
+                    "text": [
+                        "trường hợp pháp luật của nước có nhiều hệ thống pháp luật được dẫn chiếu đến thì pháp luật áp dụng được xác định theo nguyên tắc do pháp luật nước đó"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp pháp luật nước ngoài được áp dụng nhưng có cách hiểu khác nhau thì việc áp dụng phải theo sự giải thích của cơ quan có thẩm quyền tại nước đó ; điều 667.",
+        "qas": [
+            {
+                "question": "Trường hợp pháp luật nước ngoài được áp dụng nhưng có cách hiểu khác nhau thì phải làm sao ?",
+                "answer": {
+                    "text": [
+                        "trường hợp pháp luật nước ngoài được áp dụng nhưng có cách hiểu khác nhau thì việc áp dụng phải theo sự giải thích của cơ quan có thẩm quyền tại nước đó"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "các bên được lựa chọn tập quán quốc tế trong trường hợp quy định tại khoản 2 điều 664 của bộ luật này. nếu hậu quả của việc áp dụng tập quán quốc tế đó trái với các nguyên tắc cơ bản của pháp luật việt nam thì pháp luật việt nam được áp dụng ; điều 666.",
+        "qas": [
+            {
+                "question": "Các bên được lựa chọn tập quán quốc tế không ?",
+                "answer": {
+                    "text": [
+                        "các bên được lựa chọn tập quán quốc tế trong trường hợp quy định tại khoản 2 điều 664 của bộ luật này"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp điều ước quốc tế mà cộng hòa xã hội chủ nghĩa việt nam là thành viên có quy định về quyền và nghĩa vụ của các bên tham gia quan hệ dân sự có yếu tố nước ngoài thì quy định của điều ước quốc tế đó được áp dụng ; điều 665 khoản 1.",
+        "qas": [
+            {
+                "question": "Trường hợp điều ước quốc tế mà Việt Nam là thành viên thì quy định của điều ước quốc tế áp dụng được không ?",
+                "answer": {
+                    "text": [
+                        "trường hợp điều ước quốc tế mà cộng hòa xã hội chủ nghĩa việt nam là thành viên có quy định về quyền và nghĩa vụ của các bên tham gia quan hệ dân sự có yếu tố nước ngoài thì quy định của điều ước quốc tế đó được áp dụng"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp điều ước quốc tế mà cộng hòa xã hội chủ nghĩa việt nam là thành viên có quy định khác với quy định của phần này và luật khác về pháp luật áp dụng đối với quan hệ dân sự có yếu tố nước ngoài thì quy định của điều ước quốc tế đó được áp dụng ; điều 665 khoản 2.",
+        "qas": [
+            {
+                "question": "Trường hợp điều ước quốc tế mà Việt Nam là thành viên mà quy định khác thì quy định của điều ước quốc tế áp dụng được không ?",
+                "answer": {
+                    "text": [
+                        "trường hợp điều ước quốc tế mà cộng hòa xã hội chủ nghĩa việt nam là thành viên có quy định khác với quy định của phần này và luật khác về pháp luật áp dụng đối với quan hệ dân sự có yếu tố nước ngoài thì quy định của điều ước quốc tế đó được áp dụng"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "pháp luật áp dụng đối với quan hệ dân sự có yếu tố nước ngoài được xác định theo điều ước quốc tế mà cộng hòa xã hội chủ nghĩa việt nam là thành viên hoặc luật việt nam ; điều 664 khoản 1.",
+        "qas": [
+            {
+                "question": "Pháp luật áp dụng đối với quan hệ dân sự có yếu tố nước ngoài thì phải làm sao ?",
+                "answer": {
+                    "text": [
+                        "có yếu tố nước ngoài được xác định theo điều ước quốc tế mà cộng hòa xã hội chủ nghĩa việt nam là thành viên hoặc luật việt nam"
+                    ],
+                    "start": [
+                        41
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "quan hệ dân sự có yếu tố nước ngoài là quan hệ dân sự thuộc một trong các trường hợp sau đây: có ít nhất một trong các bên tham gia là cá nhân, pháp nhân nước ngoài, các bên tham gia đều là công dân việt nam, pháp nhân việt nam nhưng việc xác lập, thay đổi, thực hiện hoặc chấm dứt quan hệ đó xảy ra tại nước ngoài, các bên tham gia đều là công dân việt nam, pháp nhân việt nam nhưng đối tượng của quan hệ dân sự đó ở nước ngoài ; điều 663 khoản 2.",
+        "qas": [
+            {
+                "question": "Quan hệ dân sự có yếu tố nước ngoài là quan hệ dân sự thuộc các trường hợp nào?",
+                "answer": {
+                    "text": [
+                        "trường hợp sau đây: có ít nhất một trong các bên tham gia là cá nhân, pháp nhân nước ngoài, các bên tham gia đều là công dân việt nam, pháp nhân việt nam nhưng việc xác lập, thay đổi, thực hiện hoặc chấm dứt quan hệ đó xảy ra tại nước ngoài, các bên tham gia đều là công dân việt nam, pháp nhân việt nam nhưng đối tượng của quan hệ dân sự đó ở nước ngoài"
+                    ],
+                    "start": [
+                        74
+                    ]
+                }
+            }
+        ]
+    }
+]

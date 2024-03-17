@@ -1,0 +1,320 @@
+[
+    {
+        "context": "tài sản là vật, tiền, giấy tờ có giá và quyền tài sản., tài sản bao gồm bất động sản và động sản. bất động sản và động sản có thể là tài sản hiện có và tài sản hình thành trong tương lai ; điều 105.",
+        "qas": [
+            {
+                "question": "Tài sản là gì ?",
+                "answer": {
+                    "text": [
+                        "tài sản là vật, tiền, giấy tờ có giá và quyền tài sản."
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "tài sản là vật, tiền, giấy tờ có giá và quyền tài sản., tài sản bao gồm bất động sản và động sản. bất động sản và động sản có thể là tài sản hiện có và tài sản hình thành trong tương lai ; điều 105.",
+        "qas": [
+            {
+                "question": "Giấy tờ không có giá có phải là tài sản?",
+                "answer": {
+                    "text": [
+                        "tài sản là vật, tiền, giấy tờ có giá và quyền tài sản"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "quyền sở hữu, quyền khác đối với tài sản là bất động sản được đăng ký theo quy định của bộ luật này và pháp luật về đăng ký tài sản, quyền sở hữu, quyền khác đối với tài sản là động sản không phải đăng ký, trừ trường hợp pháp luật về đăng ký tài sản có quy định khác, việc đăng ký tài sản phải được công khai ;điều 106.",
+        "qas": [
+            {
+                "question": "cách đăng ký tài sản ?",
+                "answer": {
+                    "text": [
+                        "quyền sở hữu, quyền khác đối với tài sản là bất động sản được đăng ký theo quy định của bộ luật này và pháp luật về đăng ký tài sản, quyền sở hữu, quyền khác đối với tài sản là động sản không phải đăng ký"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "bất động sản bao gồm: đất đai, nhà, công trình xây dựng gắn liền với đất đai, tài sản khác gắn liền với đất đai, nhà, công trình xây dựng, tài sản khác theo quy định của pháp luật ; điều 107 khoản 1",
+        "qas": [
+            {
+                "question": "Bất động sản bao gồm những loại nào ?",
+                "answer": {
+                    "text": [
+                        "bất động sản bao gồm: đất đai, nhà, công trình xây dựng gắn liền với đất đai, tài sản khác gắn liền với đất đai, nhà, công trình xây dựng, tài sản khác theo quy định của pháp luật"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "bất động sản bao gồm: đất đai, nhà, công trình xây dựng gắn liền với đất đai, tài sản khác gắn liền với đất đai, nhà, công trình xây dựng, tài sản khác theo quy định của pháp luật ; điều 107 khoản 1",
+        "qas": [
+            {
+                "question": "Bất động sản bao gồm những loại nào ?",
+                "answer": {
+                    "text": [
+                        "bất động sản bao gồm: đất đai, nhà, công trình xây dựng gắn liền với đất đai, tài sản khác gắn liền với đất đai, nhà, công trình xây dựng, tài sản khác theo quy định của pháp luật"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "bất động sản bao gồm: đất đai, nhà, công trình xây dựng gắn liền với đất đai, tài sản khác gắn liền với đất đai, nhà, công trình xây dựng, tài sản khác theo quy định của pháp luật ; điều 107 khoản 1.",
+        "qas": [
+            {
+                "question": "bất động sản bao gồm ?",
+                "answer": {
+                    "text": [
+                        "bất động sản bao gồm: đất đai, nhà, công trình xây dựng gắn liền với đất đai, tài sản khác gắn liền với đất đai, nhà, công trình xây dựng, tài sản khác theo quy định của pháp luật"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "tài sản hiện có là tài sản đã hình thành và chủ thể đã xác lập quyền sở hữu, quyền khác đối với tài sản trước hoặc tại thời điểm xác lập giao dịch ; điều 108 khoản 1.",
+        "qas": [
+            {
+                "question": "Tài sản hiện có là gì ?",
+                "answer": {
+                    "text": [
+                        "tài sản hiện có là tài sản đã hình thành và chủ thể đã xác lập quyền sở hữu, quyền khác đối với tài sản trước hoặc tại thời điểm xác lập giao dịch"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "tài sản hình thành trong tương lai bao gồm: tài sản chưa hình thành, tài sản đã hình thành nhưng chủ thể xác lập quyền sở hữu tài sản sau thời điểm xác lập giao dịch ; điều 108 khoản 2.",
+        "qas": [
+            {
+                "question": "Tài sản hình thành trong tương lai là gì ?",
+                "answer": {
+                    "text": [
+                        "bao gồm: tài sản chưa hình thành, tài sản đã hình thành nhưng chủ thể xác lập quyền sở hữu tài sản sau thời điểm xác lập giao dịch"
+                    ],
+                    "start": [
+                        35
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "hoa lợi là sản vật tự nhiên mà tài sản mang lại, lợi tức là khoản lợi thu được từ việc khai thác tài sản ; điều 109.",
+        "qas": [
+            {
+                "question": "Hoa lợi là gì ?",
+                "answer": {
+                    "text": [
+                        "hoa lợi là sản vật tự nhiên mà tài sản mang lại"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "Lợi tức là gì ?",
+                "answer": {
+                    "text": [
+                        "lợi tức là khoản lợi thu được từ việc khai thác tài sản"
+                    ],
+                    "start": [
+                        49
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "vật chính là vật độc lập, có thể khai thác công dụng theo tính năng, vật phụ là vật trực tiếp phục vụ cho việc khai thác công dụng của vật chính, là một bộ phận của vật chính, nhưng có thể tách rời vật chính, khi thực hiện nghĩa vụ chuyển giao vật chính thì phải chuyển giao cả vật phụ, trừ trường hợp có thoả thuận khác ; điều 110.",
+        "qas": [
+            {
+                "question": "Vật chính là gì ?",
+                "answer": {
+                    "text": [
+                        "vật chính là vật độc lập, có thể khai thác công dụng theo tính năng"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "Vật phụ là gì ?",
+                "answer": {
+                    "text": [
+                        "vật phụ là vật trực tiếp phục vụ cho việc khai thác công dụng của vật chính, là một bộ phận của vật chính, nhưng có thể tách rời vật chính"
+                    ],
+                    "start": [
+                        69
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "vật chia được là vật khi bị phân chia vẫn giữ nguyên tính chất và tính năng sử dụng ban đầu, vật không chia được là vật khi bị phân chia thì không giữ nguyên được tính chất và tính năng sử dụng ban đầu, khi cần phân chia vật không chia được thì phải trị giá thành tiền để chia ; điều 111.",
+        "qas": [
+            {
+                "question": "Vật chia được là gì ?",
+                "answer": {
+                    "text": [
+                        "vật chia được là vật khi bị phân chia vẫn giữ nguyên tính chất và tính năng sử dụng ban đầu"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "vật không chia được là gì ?",
+                "answer": {
+                    "text": [
+                        "vật không chia được là vật khi bị phân chia thì không giữ nguyên được tính chất và tính năng sử dụng ban đầu, khi cần phân chia vật không chia được thì phải trị giá thành tiền để chia"
+                    ],
+                    "start": [
+                        93
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "vật tiêu hao là vật khi đã qua một lần sử dụng thì mất đi hoặc không giữ được tính chất, hình dáng và tính năng sử dụng ban đầu, vật tiêu hao không thể là đối tượng của hợp đồng cho thuê hoặc hợp đồng cho mượn, vật không tiêu hao là vật khi đã qua sử dụng nhiều lần mà cơ bản vẫn giữ được tính chất, hình dáng và tính năng sử dụng ban đầu ;điều 112.",
+        "qas": [
+            {
+                "question": "Vật tiêu hao là gì ?",
+                "answer": {
+                    "text": [
+                        "vật tiêu hao là vật khi đã qua một lần sử dụng thì mất đi hoặc không giữ được tính chất, hình dáng và tính năng sử dụng ban đầu, vật tiêu hao không thể là đối tượng của hợp đồng cho thuê hoặc hợp đồng cho mượn"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "vật không tiêu hao là gì ?",
+                "answer": {
+                    "text": [
+                        "vật tiêu hao không thể là đối tượng của hợp đồng cho thuê hoặc hợp đồng cho mượn, vật không tiêu hao là vật khi đã qua sử dụng nhiều lần mà cơ bản vẫn giữ được tính chất, hình dáng và tính năng sử dụng ban đầu"
+                    ],
+                    "start": [
+                        210
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "vật cùng loại là những vật có cùng hình dáng, tính chất, tính năng sử dụng và xác định được bằng những đơn vị đo lường, vật cùng loại có cùng chất lượng có thể thay thế cho nhau ;điều 113 khoản 1.",
+        "qas": [
+            {
+                "question": "Vật cùng loại là gì ?",
+                "answer": {
+                    "text": [
+                        "vật cùng loại là những vật có cùng hình dáng, tính chất, tính năng sử dụng và xác định được bằng những đơn vị đo lường, vật cùng loại có cùng chất lượng có thể thay thế cho nhau"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "vật đồng bộ là vật gồm các phần hoặc các bộ phận ăn khớp, liên hệ với nhau hợp thành chỉnh thể mà nếu thiếu một trong các phần, các bộ phận hoặc có phần hoặc bộ phận không đúng quy cách, chủng loại thì không sử dụng được hoặc giá trị sử dụng của vật đó bị giảm sút, khi thực hiện nghĩa vụ chuyển giao vật đồng bộ thì phải chuyển giao toàn bộ các phần hoặc các bộ phận hợp thành, trừ trường hợp có thoả thuận khác ; điều 114.",
+        "qas": [
+            {
+                "question": "Vật đồng bộ là gì ?",
+                "answer": {
+                    "text": [
+                        "vật đồng bộ là vật gồm các phần hoặc các bộ phận ăn khớp, liên hệ với nhau hợp thành chỉnh thể mà nếu thiếu một trong các phần, các bộ phận hoặc có phần hoặc bộ phận không đúng quy cách, chủng loại thì không sử dụng được hoặc giá trị sử dụng của vật đó bị giảm sút"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "nghĩa vụ khi chuyển giao vật đồng bộ là gì ?",
+                "answer": {
+                    "text": [
+                        "khi thực hiện nghĩa vụ chuyển giao vật đồng bộ thì phải chuyển giao toàn bộ các phần hoặc các bộ phận hợp thành, trừ trường hợp có thoả thuận khác"
+                    ],
+                    "start": [
+                        266
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "quyền tài sản là quyền trị giá được bằng tiền, bao gồm quyền tài sản đối với đối tượng quyền sở hữu trí tuệ, quyền sử dụng đất và các quyền tài sản khác ; điều 115.",
+        "qas": [
+            {
+                "question": "Quyền tài sản là gì ?",
+                "answer": {
+                    "text": [
+                        "quyền tài sản là quyền trị giá được bằng tiền, bao gồm quyền tài sản đối với đối tượng quyền sở hữu trí tuệ, quyền sử dụng đất và các quyền tài sản khác"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "Quyền tài sản là gì ?",
+                "answer": {
+                    "text": [
+                        "là quyền trị giá được bằng tiền, bao gồm quyền tài sản đối với đối tượng quyền sở hữu trí tuệ, quyền sử dụng đất và các quyền tài sản khác"
+                    ],
+                    "start": [
+                        14
+                    ]
+                }
+            },
+            {
+                "question": "Quyền tài sản là gì ?",
+                "answer": {
+                    "text": [
+                        "là quyền trị giá được bằng tiền"
+                    ],
+                    "start": [
+                        14
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "quyền tài sản là quyền trị giá được bằng tiền, bao gồm quyền tài sản đối với đối tượng quyền sở hữu trí tuệ, quyền sử dụng đất và các quyền tài sản khác ; điều 115.",
+        "qas": [
+            {
+                "question": "quy định các quyền khác đối với tài sản bao gồm các quyền gì?",
+                "answer": {
+                    "text": [
+                        "bao gồm quyền tài sản đối với đối tượng quyền sở hữu trí tuệ, quyền sử dụng đất và các quyền tài sản khác"
+                    ],
+                    "start": [
+                        47
+                    ]
+                }
+            }
+        ]
+    }
+]

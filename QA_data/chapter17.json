@@ -1,0 +1,525 @@
+[
+    {
+        "context": "người đã công khai hứa thưởng phải trả thưởng cho người đã thực hiện công việc theo yêu cầu của người hứa thưởng, công việc được hứa thưởng phải cụ thể, có thể thực hiện được, không vi phạm điều cấm của luật, không trái đạo đức xã hội ; điều 570.",
+        "qas": [
+            {
+                "question": "Hứa thưởng như thế nào ?",
+                "answer": {
+                    "text": [
+                        "người đã công khai hứa thưởng phải trả thưởng cho người đã thực hiện công việc theo yêu cầu của người hứa thưởng"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp uỷ quyền có thù lao, bên uỷ quyền có quyền đơn phương chấm dứt thực hiện hợp đồng bất cứ lúc nào, nhưng phải trả thù lao cho bên được uỷ quyền tương ứng với công việc mà bên được uỷ quyền đã thực hiện và bồi thường thiệt hại; nếu uỷ quyền không có thù lao thì bên uỷ quyền có thể chấm dứt thực hiện hợp đồng bất cứ lúc nào, nhưng phải báo trước cho bên được uỷ quyền một thời gian hợp lý, bên uỷ quyền phải báo bằng văn bản cho người thứ ba biết về việc bên uỷ quyền chấm dứt thực hiện hợp đồng; nếu không báo thì hợp đồng với người thứ ba vẫn có hiệu lực, trừ trường hợp người thứ ba biết hoặc phải biết về việc hợp đồng uỷ quyền đã bị chấm dứt ; điều 569 khoản 1.",
+        "qas": [
+            {
+                "question": "Đơn phương chấm dứt thực hiện hợp đồng ủy quyền sử lý làm sao ?",
+                "answer": {
+                    "text": [
+                        "Trường hợp ủy quyền có thù lao, bên ủy quyền có quyền đơn phương chấm dứt thực hiện hợp đồng bất cứ lúc nào, nhưng phải trả thù lao cho bên được ủy quyền tương ứng với công việc mà bên được ủy quyền đã thực hiện và bồi thường thiệt hại"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "quyền của bên uỷ quyền: yêu cầu bên được uỷ quyền thông báo đầy đủ về việc thực hiện công việc uỷ quyền, yêu cầu bên được uỷ quyền giao lại tài sản, lợi ích thu được từ việc thực hiện công việc uỷ quyền, trừ trường hợp có thoả thuận khác, được bồi thường thiệt hại, nếu bên được uỷ quyền vi phạm nghĩa vụ quy định tại điều 565 của bộ luật này ; điều 568.",
+        "qas": [
+            {
+                "question": "Quyền của bên ủy quyền như thế nào ?",
+                "answer": {
+                    "text": [
+                        "quyền của bên uỷ quyền: yêu cầu bên được uỷ quyền thông báo đầy đủ về việc thực hiện công việc uỷ quyền, yêu cầu bên được uỷ quyền giao lại tài sản, lợi ích thu được từ việc thực hiện công việc uỷ quyền"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "hợp đồng uỷ quyền là sự thỏa thuận giữa các bên, theo đó bên được uỷ quyền có nghĩa vụ thực hiện công việc nhân danh bên uỷ quyền, bên uỷ quyền chỉ phải trả thù lao nếu có thoả thuận hoặc pháp luật có quy định ; điều 562.",
+        "qas": [
+            {
+                "question": "Hợp đồng ủy quyền là gì ?",
+                "answer": {
+                    "text": [
+                        "Hợp đồng ủy quyền là sự thỏa thuận giữa các bên, theo đó bên được ủy quyền có nghĩa vụ thực hiện công việc nhân danh bên ủy quyền, bên ủy quyền chỉ phải trả thù lao nếu có thỏa thuận hoặc pháp luật có quy định."
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trả tiền công: bên đặt gia công phải trả đủ tiền công vào thời điểm nhận sản phẩm, trừ trường hợp có thoả thuận khác, trường hợp không có thoả thuận về mức tiền công thì áp dụng mức tiền công trung bình đối với việc tạo ra sản phẩm cùng loại tại địa điểm gia công và vào thời điểm trả tiền, bên đặt gia công không có quyền giảm tiền công, nếu sản phẩm không bảo đảm chất lượng do nguyên vật liệu mà mình đã cung cấp hoặc do sự chỉ dẫn không hợp lý của mình ; điều 552.",
+        "qas": [
+            {
+                "question": "các bên không thỏa thuận về mức tiền công thì sử lý như thế nào ?",
+                "answer": {
+                    "text": [
+                        "trường hợp không có thoả thuận về mức tiền công thì áp dụng mức tiền công trung bình đối với việc tạo ra sản phẩm cùng loại tại địa điểm gia công và vào thời điểm trả tiền"
+                    ],
+                    "start": [
+                        118
+                    ]
+                }
+            },
+            {
+                "question": "ai trách nhiệm trả tiền công ?",
+                "answer": {
+                    "text": [
+                        "bên đặt gia công phải trả đủ tiền công vào thời điểm nhận sản phẩm"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp bên giữ chậm giao tài sản thì không được yêu cầu bên gửi trả tiền công và thanh toán các chi phí về bảo quản, kể từ thời điểm chậm giao và phải chịu rủi ro đối với tài sản trong thời gian chậm giao tài sản, trường hợp bên gửi chậm nhận tài sản thì phải thanh toán các chi phí về bảo quản và tiền công cho bên nhận giữ tài sản trong thời gian chậm nhận ; điều 560.",
+        "qas": [
+            {
+                "question": "Chậm giao, chậm nhận tài sản gửi giữ phải làm sao ?",
+                "answer": {
+                    "text": [
+                        "không được yêu cầu bên gửi trả tiền công và thanh toán các chi phí về bảo quản"
+                    ],
+                    "start": [
+                        41
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "bên giữ phải trả lại chính tài sản đã nhận và cả hoa lợi nếu có, trừ trường hợp có thoả thuận khác, địa điểm trả tài sản gửi giữ là nơi gửi; nếu bên gửi yêu cầu trả tài sản ở địa điểm khác thì phải chịu chi phí vận chuyển đến nơi đó, trừ trường hợp có thoả thuận khác ; điều 559 khoản 1.",
+        "qas": [
+            {
+                "question": "Trả lại tài sản gửi giữ như thế nào ?",
+                "answer": {
+                    "text": [
+                        "bên giữ phải trả lại chính tài sản đã nhận và cả hoa lợi nếu có, trừ trường hợp có thoả thuận khác, địa điểm trả tài sản gửi giữ là nơi gửi"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "quyền của bên giữ tài sản: yêu cầu bên gửi trả tiền công theo thoả thuận, yêu cầu bên gửi trả chi phí hợp lý để bảo quản tài sản trong trường hợp gửi không trả tiền công, yêu cầu bên gửi nhận lại tài sản bất cứ lúc nào, nhưng phải báo trước cho bên gửi một thời gian hợp lý trong trường hợp gửi giữ không xác định thời hạn, bán tài sản gửi giữ có nguy cơ bị hư hỏng hoặc tiêu hủy nhằm bảo đảm lợi ích cho bên gửi, báo việc đó cho bên gửi và trả cho bên gửi khoản tiền thu được do bán tài sản, sau khi trừ chi phí hợp lý để bán tài sản ; điều 558. ",
+        "qas": [
+            {
+                "question": "bên giữ tài sản cso những yêu cầu nào cho người gửi ?",
+                "answer": {
+                    "text": [
+                        "yêu cầu bên gửi trả tiền công theo thoả thuận, yêu cầu bên gửi trả chi phí hợp lý để bảo quản tài sản trong trường hợp gửi không trả tiền công, yêu cầu bên gửi nhận lại tài sản bất cứ lúc nào, nhưng phải báo trước cho bên gửi một thời gian hợp lý"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "nghĩa vụ của bên giữ tài sản: bảo quản tài sản theo đúng thoả thuận, trả lại tài sản cho bên gửi theo đúng tình trạng như khi nhận giữ, chỉ được thay đổi cách bảo quản tài sản nếu việc thay đổi là cần thiết nhằm bảo quản tốt hơn tài sản đó, nhưng phải báo ngay cho bên gửi biết về việc thay đổi, thông báo kịp thời cho bên gửi biết về nguy cơ hư hỏng, tiêu hủy tài sản do tính chất của tài sản đó và yêu cầu bên gửi cho biết cách giải quyết trong một thời hạn; nếu hết thời hạn đó mà bên gửi không trả lời thì bên giữ có quyền thực hiện các biện pháp cần thiết để bảo quản và yêu cầu bên gửi thanh toán chi phí, phải bồi thường thiệt hại, nếu làm mất, hư hỏng tài sản gửi giữ, trừ trường hợp bất khả kháng ; điều 557.",
+        "qas": [
+            {
+                "question": "bên giữ tài sản có cần bảo quản tài sản của người gửi không ?",
+                "answer": {
+                    "text": [
+                        "nghĩa vụ của bên giữ tài sản: bảo quản tài sản theo đúng thoả thuận, trả lại tài sản cho bên gửi theo đúng tình trạng như khi nhận giữ"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "quyền của bên gửi tài sản: yêu cầu lấy lại tài sản bất cứ lúc nào, nếu hợp đồng gửi giữ không xác định thời hạn, nhưng phải báo trước cho bên giữ một thời gian hợp lý, yêu cầu bồi thường thiệt hại, nếu bên giữ làm mất, hư hỏng tài sản gửi giữ, trừ trường hợp bất khả kháng ; điều 556.",
+        "qas": [
+            {
+                "question": "Quyền của bên gửi tài sản ?",
+                "answer": {
+                    "text": [
+                        "yêu cầu lấy lại tài sản bất cứ lúc nào, nếu hợp đồng gửi giữ không xác định thời hạn, nhưng phải báo trước cho bên giữ một thời gian hợp lý, yêu cầu bồi thường thiệt hại, nếu bên giữ làm mất, hư hỏng"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "nghĩa vụ của bên gửi tài sản: khi giao tài sản phải báo ngay cho bên giữ biết tình trạng tài sản và biện pháp bảo quản thích hợp đối với tài sản gửi giữ; nếu không báo mà tài sản gửi giữ bị tiêu hủy hoặc hư hỏng do không được bảo quản thích hợp thì bên gửi phải tự chịu; nếu gây thiệt hại thì phải bồi thường, phải trả đủ tiền công, đúng thời hạn và đúng phương thức đã thoả thuận ; điều 555.",
+        "qas": [
+            {
+                "question": "Nghĩa vụ của bên gửi tài sản ?",
+                "answer": {
+                    "text": [
+                        "khi giao tài sản phải báo ngay cho bên giữ biết tình trạng tài sản và biện pháp bảo quản thích hợp đối với tài sản gửi giữ; nếu không báo mà tài sản gửi giữ bị tiêu hủy hoặc hư hỏng do không được bảo quản thích hợp thì bên gửi phải tự chịu"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "khi hợp đồng gia công chấm dứt, bên nhận gia công phải hoàn trả nguyên vật liệu còn lại cho bên đặt gia công, trừ trường hợp có thoả thuận khác ; điều 553.",
+        "qas": [
+            {
+                "question": "Khi hợp đồng gia công chấm dứt, bên nhận gia công phải làm gì nguyên vật liệu còn dư ?",
+                "answer": {
+                    "text": [
+                        "khi hợp đồng gia công chấm dứt, bên nhận gia công phải hoàn trả nguyên vật liệu còn lại cho bên đặt gia công"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "mỗi bên đều có quyền đơn phương chấm dứt thực hiện hợp đồng gia công, nếu việc tiếp tục thực hiện hợp đồng không mang lại lợi ích cho mình, trừ trường hợp có thoả thuận khác hoặc pháp luật có quy định khác, nhưng phải báo cho bên kia biết trước một thời gian hợp lý ; điều 551 khoản 1.",
+        "qas": [
+            {
+                "question": "Đơn phương chấm dứt thực hiện hợp đồng gia công phải làm sao ?",
+                "answer": {
+                    "text": [
+                        "mỗi bên đều có quyền đơn phương chấm dứt thực hiện hợp đồng gia công, nếu việc tiếp tục thực hiện hợp đồng không mang lại lợi ích cho mình"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp bên nhận gia công chậm giao sản phẩm thì bên đặt gia công có thể gia hạn; nếu hết thời hạn đó mà bên nhận gia công vẫn chưa hoàn thành công việc thì bên đặt gia công có quyền đơn phương chấm dứt thực hiện hợp đồng và yêu cầu bồi thường thiệt hại ; điều 550 khoản 1.",
+        "qas": [
+            {
+                "question": "Chậm giao, chậm nhận sản phẩm gia công ai chịu trách nhiệm ?",
+                "answer": {
+                    "text": [
+                        "trường hợp bên nhận gia công chậm giao sản phẩm thì bên đặt gia công có thể gia hạn; nếu hết thời hạn đó mà bên nhận gia công vẫn chưa hoàn thành công việc thì bên đặt gia công có quyền đơn phương chấm dứt thực hiện hợp đồng và yêu cầu bồi thường thiệt hại"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "bên nhận gia công phải giao sản phẩm và bên đặt gia công phải nhận sản phẩm theo đúng thời hạn và tại địa điểm đã thoả thuận ; điều 549.",
+        "qas": [
+            {
+                "question": "thời hạn giao, nhận sản phẩm gia công ?",
+                "answer": {
+                    "text": [
+                        "bên nhận gia công phải giao sản phẩm và bên đặt gia công phải nhận sản phẩm theo đúng thời hạn và tại địa điểm đã thoả thuận"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trách nhiệm chịu rủi ro cho đến khi giao sản phẩm cho bên đặt gia công, bên nào là chủ sở hữu của nguyên vật liệu thì phải chịu rủi ro đối với nguyên vật liệu hoặc sản phẩm được tạo ra từ nguyên vật liệu đó, trừ trường hợp có thoả thuận khác, khi bên đặt gia công chậm nhận sản phẩm thì phải chịu rủi ro trong thời gian chậm nhận, kể cả trong trường hợp sản phẩm được tạo ra từ nguyên vật liệu của bên nhận gia công, trừ trường hợp có thoả thuận khác, khi bên nhận gia công chậm giao sản phẩm mà có rủi ro đối với sản phẩm gia công thì phải bồi thường thiệt hại xảy ra cho bên đặt gia công ; điều 548. ",
+        "qas": [
+            {
+                "question": "ai chịu rủi ro nguyên vật liệu khi thi công ?",
+                "answer": {
+                    "text": [
+                        "bên nào là chủ sở hữu của nguyên vật liệu thì phải chịu rủi ro đối với nguyên vật liệu hoặc sản phẩm được tạo ra từ nguyên vật liệu đó"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "nghĩa vụ của bên nhận gia công: bảo quản nguyên vật liệu do bên đặt gia công cung cấp, báo cho bên đặt gia công biết để đổi nguyên vật liệu khác, nếu nguyên vật liệu không bảo đảm chất lượng; từ chối thực hiện gia công, nếu biết hoặc phải biết việc sử dụng nguyên vật liệu có thể tạo ra sản phẩm nguy hại cho xã hội, giao sản phẩm cho bên đặt gia công đúng số lượng, chất lượng, phương thức, thời hạn và địa điểm đã thoả thuận, giữ bí mật thông tin về quy trình gia công và sản phẩm tạo ra, chịu trách nhiệm về chất lượng sản phẩm, trừ trường hợp sản phẩm không bảo đảm chất lượng do nguyên vật liệu mà bên đặt gia công cung cấp hoặc do sự chỉ dẫn không hợp lý của bên đặt gia công, hoàn trả nguyên vật liệu còn lại cho bên đặt gia công sau khi hoàn thành hợp đồng ; điều 546.",
+        "qas": [
+            {
+                "question": "bên nhận gia công cần phải bảo quản nguyên vật liệu không ?",
+                "answer": {
+                    "text": [
+                        "nghĩa vụ của bên nhận gia công: bảo quản nguyên vật liệu do bên đặt gia công cung cấp, báo cho bên đặt gia công biết để đổi nguyên vật liệu khác, nếu nguyên vật liệu không bảo đảm chất lượng"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "quyền của bên đặt gia công: nhận sản phẩm gia công theo đúng số lượng, chất lượng, phương thức, thời hạn và địa điểm đã thoả thuận, đơn phương chấm dứt thực hiện hợp đồng và yêu cầu bồi thường thiệt hại khi bên nhận gia công vi phạm nghiêm trọng hợp đồng, trường hợp sản phẩm không bảo đảm chất lượng mà bên đặt gia công đồng ý nhận sản phẩm và yêu cầu sửa chữa nhưng bên nhận gia công không thể sửa chữa được trong thời hạn thoả thuận thì bên đặt gia công có quyền hủy bỏ hợp đồng và yêu cầu bồi thường thiệt hại ; điều 545.",
+        "qas": [
+            {
+                "question": "Quyền của bên đặt gia công ?",
+                "answer": {
+                    "text": [
+                        "nhận sản phẩm gia công theo đúng số lượng, chất lượng, phương thức, thời hạn và địa điểm đã thoả thuận, đơn phương chấm dứt thực hiện hợp đồng và yêu cầu bồi thường thiệt hại khi bên nhận gia công vi phạm nghiêm trọng hợp đồng"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "đối tượng của hợp đồng gia công là vật được xác định trước theo mẫu, theo tiêu chuẩn mà các bên thoả thuận hoặc pháp luật có quy định ; điều 543.",
+        "qas": [
+            {
+                "question": "Đối tượng của hợp đồng gia công là gì ?",
+                "answer": {
+                    "text": [
+                        "đối tượng của hợp đồng gia công là vật được xác định trước theo mẫu, theo tiêu chuẩn mà các bên thoả thuận hoặc pháp luật có quy định"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "hợp đồng gia công là sự thỏa thuận giữa các bên, theo đó bên nhận gia công thực hiện công việc để tạo ra sản phẩm theo yêu cầu của bên đặt gia công, bên đặt gia công nhận sản phẩm và trả tiền công ; điều 542.",
+        "qas": [
+            {
+                "question": "Hợp đồng gia công là gì ?",
+                "answer": {
+                    "text": [
+                        "hợp đồng gia công là sự thỏa thuận giữa các bên, theo đó bên nhận gia công thực hiện công việc để tạo ra sản phẩm theo yêu cầu của bên đặt gia công, bên đặt gia công nhận sản phẩm và trả tiền công"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trách nhiệm bồi thường thiệt hại: bên vận chuyển phải bồi thường thiệt hại cho bên thuê vận chuyển nếu để tài sản bị mất hoặc hư hỏng, trừ trường hợp quy định tại khoản 3 điều 536 của bộ luật này, bên thuê vận chuyển phải bồi thường thiệt hại cho bên vận chuyển và người thứ ba về thiệt hại do tài sản vận chuyển có tính chất nguy hiểm, độc hại mà không có biện pháp đóng gói, bảo đảm an toàn trong quá trình vận chuyển, trường hợp bất khả kháng dẫn đến tài sản vận chuyển bị mất, hư hỏng hoặc bị hủy hoại trong quá trình vận chuyển thì bên vận chuyển không phải chịu trách nhiệm bồi thường thiệt hại, trừ trường hợp có thoả thuận khác hoặc pháp luật có quy định khác ; điều 541.",
+        "qas": [
+            {
+                "question": "bên vận chuyển trách nhiệm bồi thường thiệt hại như thế nào ?",
+                "answer": {
+                    "text": [
+                        "Bên vận chuyển phải bồi thường thiệt hại cho bên thuê vận chuyển nếu để tài sản bị mất hoặc hư hỏng, trừ trường hợp quy định tại khoản 3 Điều 536 của Bộ luật này"
+                    ],
+                    "start": [
+                        34
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "quyền của bên nhận tài sản: kiểm tra số lượng, chất lượng tài sản được vận chuyển đến, nhận tài sản được vận chuyển đến, yêu cầu bên vận chuyển thanh toán chi phí hợp lý phát sinh do phải chờ nhận tài sản nếu bên vận chuyển chậm giao, yêu cầu bên vận chuyển bồi thường thiệt hại do tài sản bị mất, hư hỏng ; điều 540.",
+        "qas": [
+            {
+                "question": "Quyền của bên nhận tài sản như thế nào ?",
+                "answer": {
+                    "text": [
+                        "kiểm tra số lượng, chất lượng tài sản được vận chuyển đến, nhận tài sản được vận chuyển đến, yêu cầu bên vận chuyển thanh toán chi phí hợp lý phát sinh do phải chờ nhận tài sản nếu bên vận chuyển chậm giao, yêu cầu bên vận chuyển bồi thường thiệt hại do tài sản bị mất, hư hỏng"
+                    ],
+                    "start": [
+                        28
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "giao tài sản cho bên nhận tài sản: bên nhận tài sản có thể là bên thuê vận chuyển tài sản hoặc là người thứ ba được bên thuê vận chuyển chỉ định nhận tài sản, bên vận chuyển phải giao tài sản đầy đủ, đúng thời hạn và địa điểm cho bên nhận tài sản theo thoả thuận, trường hợp tài sản đã được chuyển đến địa điểm giao tài sản đúng thời hạn nhưng không có bên nhận tài sản thì bên vận chuyển có thể gửi số tài sản đó tại nơi nhận gửi giữ và phải báo ngay cho bên thuê vận chuyển hoặc người thứ ba được bên thuê vận chuyển chỉ định nhận tài sản. bên thuê vận chuyển hoặc người thứ ba được bên thuê vận chuyển chỉ định nhận tài sản phải chịu chi phí hợp lý phát sinh từ việc gửi giữ tài sản, nghĩa vụ giao tài sản hoàn thành khi tài sản đã được gửi giữ và bên thuê vận chuyển hoặc người thứ ba được bên thuê vận chuyển chỉ định nhận tài sản đã được thông báo về việc gửi giữ ; điều 538.",
+        "qas": [
+            {
+                "question": "Bên nhận tài sản có thể là ai ?",
+                "answer": {
+                    "text": [
+                        "bên nhận tài sản có thể là bên thuê vận chuyển tài sản hoặc là người thứ ba được bên thuê vận chuyển chỉ định nhận tài sản"
+                    ],
+                    "start": [
+                        17
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "quyền của bên thuê vận chuyển: yêu cầu bên vận chuyển chuyên chở tài sản đến đúng địa điểm, thời điểm đã thoả thuận, trực tiếp hoặc chỉ định người thứ ba nhận lại tài sản đã thuê vận chuyển ; điều 537.",
+        "qas": [
+            {
+                "question": "Quyền của bên thuê vận chuyển ?",
+                "answer": {
+                    "text": [
+                        "yêu cầu bên vận chuyển chuyên chở tài sản đến đúng địa điểm, thời điểm đã thoả thuận, trực tiếp hoặc chỉ định người thứ ba nhận lại tài sản đã thuê vận chuyển"
+                    ],
+                    "start": [
+                        31
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "nghĩa vụ của bên thuê vận chuyển: trả đủ tiền cước phí vận chuyển cho bên vận chuyển theo đúng thời hạn, phương thức đã thoả thuận, cung cấp thông tin cần thiết liên quan đến tài sản vận chuyển để bảo đảm an toàn cho tài sản vận chuyển, trông coi tài sản trên đường vận chuyển, nếu có thoả thuận. trường hợp bên thuê vận chuyển trông coi tài sản mà tài sản bị mất, hư hỏng thì không được bồi thường ; điều 536.",
+        "qas": [
+            {
+                "question": "Nghĩa vụ của bên thuê vận chuyển ?",
+                "answer": {
+                    "text": [
+                        "trả đủ tiền cước phí vận chuyển cho bên vận chuyển theo đúng thời hạn, phương thức đã thoả thuận, cung cấp thông tin cần thiết liên quan đến tài sản vận chuyển để bảo đảm an toàn cho tài sản vận chuyển, trông coi tài sản trên đường vận chuyển, nếu có thoả thuận"
+                    ],
+                    "start": [
+                        34
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "quyền của bên vận chuyển: kiểm tra sự xác thực của tài sản, của vận đơn hoặc chứng từ vận chuyển tương đương khác, từ chối vận chuyển tài sản không đúng với loại tài sản đã thoả thuận trong hợp đồng, yêu cầu bên thuê vận chuyển thanh toán đủ cước phí vận chuyển đúng thời hạn, từ chối vận chuyển tài sản cấm giao dịch, tài sản có tính chất nguy hiểm, độc hại, nếu bên vận chuyển biết hoặc phải biết ; điều 535.",
+        "qas": [
+            {
+                "question": "Quyền của bên vận chuyển ?",
+                "answer": {
+                    "text": [
+                        "kiểm tra sự xác thực của tài sản, của vận đơn hoặc chứng từ vận chuyển tương đương khác, từ chối vận chuyển tài sản không đúng với loại tài sản đã thoả thuận trong hợp đồng, yêu cầu bên thuê vận chuyển thanh toán đủ cước phí vận chuyển đúng thời hạn, từ chối vận chuyển tài sản cấm giao dịch, tài sản có tính chất nguy hiểm, độc hại, nếu bên vận chuyển biết hoặc phải biết"
+                    ],
+                    "start": [
+                        26
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "nghĩa vụ của bên vận chuyển: bảo đảm vận chuyển tài sản đầy đủ, an toàn đến địa điểm đã định, theo đúng thời hạn, giao tài sản cho người có quyền nhận, chịu chi phí liên quan đến việc chuyên chở tài sản, trừ trường hợp có thoả thuận khác, mua bảo hiểm trách nhiệm dân sự theo quy định của pháp luật, bồi thường thiệt hại cho bên thuê vận chuyển trong trường hợp bên vận chuyển để mất, hư hỏng tài sản, trừ trường hợp có thoả thuận khác hoặc pháp luật có quy định khác ; điều 534.",
+        "qas": [
+            {
+                "question": "bên vận chuyển có trách nhiệm đảm bảo tài sản đầy đủ không ?",
+                "answer": {
+                    "text": [
+                        "bảo đảm vận chuyển tài sản đầy đủ, an toàn đến địa điểm đã định, theo đúng thời hạn, giao tài sản cho người có quyền nhận, chịu chi phí liên quan đến việc chuyên chở tài sản, trừ trường hợp có thoả thuận khác, mua bảo hiểm trách nhiệm dân sự theo quy định của pháp luật, bồi thường thiệt hại cho bên thuê vận chuyển trong trường hợp bên vận chuyển để mất, hư hỏng tài sản"
+                    ],
+                    "start": [
+                        29
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "cước phí vận chuyển: mức cước phí vận chuyển do các bên thoả thuận; nếu pháp luật có quy định về mức cước phí vận chuyển thì áp dụng mức cước phí đó, bên thuê vận chuyển phải thanh toán đủ cước phí vận chuyển sau khi tài sản được chuyển lên phương tiện vận chuyển, trừ trường hợp có thoả thuận khác ; điều 533.",
+        "qas": [
+            {
+                "question": "Mức cước phí vận chuyển do bên nào quyết định ?",
+                "answer": {
+                    "text": [
+                        "mức cước phí vận chuyển do các bên thoả thuận; nếu pháp luật có quy định về mức cước phí vận chuyển thì áp dụng mức cước phí đó"
+                    ],
+                    "start": [
+                        21
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "bên thuê vận chuyển có nghĩa vụ giao tài sản cho bên vận chuyển đúng thời hạn, địa điểm và đóng gói theo đúng quy cách đã thoả thuận; phải chịu chi phí xếp, dỡ tài sản lên phương tiện vận chuyển, trừ trường hợp có thoả thuận khác ; điều 532.",
+        "qas": [
+            {
+                "question": "Bên thuê vận chuyển có nghĩa vụ khi giao tài sản cho bên vận chuyển ?",
+                "answer": {
+                    "text": [
+                        "bên thuê vận chuyển có nghĩa vụ giao tài sản cho bên vận chuyển đúng thời hạn, địa điểm và đóng gói theo đúng quy cách đã thoả thuận; phải chịu chi phí xếp, dỡ tài sản lên phương tiện vận chuyển"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "hợp đồng vận chuyển tài sản được giao kết bằng văn bản, bằng lời nói hoặc được xác lập bằng hành vi cụ thể, vận đơn hoặc chứng từ vận chuyển tương đương khác là bằng chứng của việc giao kết hợp đồng giữa các bên ; điều 531.",
+        "qas": [
+            {
+                "question": "Hình thức hợp đồng vận chuyển tài sản ?",
+                "answer": {
+                    "text": [
+                        "hợp đồng vận chuyển tài sản được giao kết bằng văn bản, bằng lời nói hoặc được xác lập bằng hành vi cụ thể, vận đơn hoặc chứng từ vận chuyển tương đương khác là bằng chứng của việc giao kết hợp đồng giữa các bên"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "hợp đồng vận chuyển tài sản là sự thoả thuận giữa các bên, theo đó bên vận chuyển có nghĩa vụ chuyển tài sản đến địa điểm đã định theo thoả thuận và giao tài sản đó cho người có quyền nhận, bên thuê vận chuyển có nghĩa vụ trả cước phí vận chuyển ; điều 530.",
+        "qas": [
+            {
+                "question": "Hợp đồng vận chuyển tài sản là gì ?",
+                "answer": {
+                    "text": [
+                        "hợp đồng vận chuyển tài sản là sự thoả thuận giữa các bên, theo đó bên vận chuyển có nghĩa vụ chuyển tài sản đến địa điểm đã định theo thoả thuận và giao tài sản đó cho người có quyền nhận, bên thuê vận chuyển có nghĩa vụ trả cước phí vận chuyển"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "đơn phương chấm dứt thực hiện hợp đồng vận chuyển hành khách: bên vận chuyển có quyền đơn phương chấm dứt thực hiện hợp đồng trong trường hợp quy định tại khoản 2 điều 525 của bộ luật này, hành khách có quyền đơn phương chấm dứt thực hiện hợp đồng trong trường hợp bên vận chuyển vi phạm nghĩa vụ quy định tại các khoản 1, 3 và 4 điều 524 của bộ luật này ; điều 529.",
+        "qas": [
+            {
+                "question": "Bên vận chuyển có quyền đơn phương chấm dứt thực hiện hợp đồng không ?",
+                "answer": {
+                    "text": [
+                        "bên vận chuyển có quyền đơn phương chấm dứt thực hiện hợp đồng trong trường hợp quy định tại khoản 2 điều 525 của bộ luật này"
+                    ],
+                    "start": [
+                        62
+                    ]
+                }
+            }
+        ]
+    }
+]

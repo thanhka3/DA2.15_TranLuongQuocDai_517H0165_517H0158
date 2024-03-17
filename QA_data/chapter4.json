@@ -1,0 +1,751 @@
+[ 
+    {
+        "context": "một tổ chức được công nhận là pháp nhân khi có đủ các điều kiện sau đây: được thành lập theo quy định của bộ luật này, luật khác có liên quan, có cơ cấu tổ chức theo quy định tại điều 83 của bộ luật này, có tài sản độc lập với cá nhân, pháp nhân khác và tự chịu trách nhiệm bằng tài sản của mình, nhân danh mình tham gia quan hệ pháp luật một cách độc lập ; điều 74 khoản 1.",
+        "qas": [
+            {
+                "question": "Theo Bộ luật Dân sự một tổ chức được công nhận là pháp nhân trong trường hợp nào sau đây ?",
+                "answer": {
+                    "text": [
+                        "được thành lập theo quy định của bộ luật này, luật khác có liên quan, có cơ cấu tổ chức theo quy định tại điều 83 của bộ luật này, có tài sản độc lập với cá nhân, pháp nhân khác và tự chịu trách nhiệm bằng tài sản của mình, nhân danh mình tham gia quan hệ pháp luật một cách độc lập"
+                    ],
+                    "start": [
+                        73
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "một tổ chức được công nhận là pháp nhân khi có đủ các điều kiện sau đây: được thành lập theo quy định của bộ luật này, luật khác có liên quan, có cơ cấu tổ chức theo quy định tại điều 83 của bộ luật này, có tài sản độc lập với cá nhân, pháp nhân khác và tự chịu trách nhiệm bằng tài sản của mình, nhân danh mình tham gia quan hệ pháp luật một cách độc lập ; điều 74 khoản 1.",
+        "qas": [
+            {
+                "question": "điều kiện một tổ chức được công nhận là pháp nhân ?",
+                "answer": {
+                    "text": [
+                        "được thành lập theo quy định của bộ luật này, luật khác có liên quan, có cơ cấu tổ chức theo quy định tại điều 83 của bộ luật này, có tài sản độc lập với cá nhân, pháp nhân khác và tự chịu trách nhiệm bằng tài sản của mình, nhân danh mình tham gia quan hệ pháp luật một cách độc lập"
+                    ],
+                    "start": [
+                        73
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "pháp nhân thương mại là pháp nhân có mục tiêu chính là tìm kiếm lợi nhuận và lợi nhuận được chia cho các thành viên, pháp nhân thương mại bao gồm doanh nghiệp và các tổ chức kinh tế khác, việc thành lập, hoạt động và chấm dứt pháp nhân thương mại được thực hiện theo quy định của bộ luật này, luật doanh nghiệp và quy định khác của pháp luật có liên quan ; điều 75.",
+        "qas": [
+            {
+                "question": "quy định pháp nhân thương mại là gì ?",
+                "answer": {
+                    "text": [
+                        "tìm kiếm lợi nhuận và lợi nhuận được chia cho các thành viên"
+                    ],
+                    "start": [
+                        55
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "pháp nhân thương mại: pháp nhân thương mại là pháp nhân có mục tiêu chính là tìm kiếm lợi nhuận và lợi nhuận được chia cho các thành viên, pháp nhân thương mại bao gồm doanh nghiệp và các tổ chức kinh tế khác, việc thành lập, hoạt động và chấm dứt pháp nhân thương mại được thực hiện theo quy định của bộ luật này, luật doanh nghiệp và quy định khác của pháp luật có liên quan ; điều 75.",
+        "qas": [
+            {
+                "question": "pháp nhân thương mại là gì ?",
+                "answer": {
+                    "text": [
+                        "pháp nhân có mục tiêu chính là tìm kiếm lợi nhuận và lợi nhuận được chia cho các thành viên"
+                    ],
+                    "start": [
+                        46
+                    ]
+                }
+            },
+            {
+                "question": "pháp nhân thương mại bao gồm những gì ?",
+                "answer": {
+                    "text": [
+                        "Pháp nhân thương mại bao gồm doanh nghiệp và các tổ chức kinh tế khác"
+                    ],
+                    "start": [
+                        139
+                    ]
+                }
+            },
+            {
+                "question": "việc thành lập pháp nhân thương mại thực hiện theo quy định nào ?",
+                "answer": {
+                    "text": [
+                        "Việc thành lập, hoạt động và chấm dứt pháp nhân thương mại được thực hiện theo quy định của Bộ luật này, Luật doanh nghiệp và quy định khác của pháp luật có liên quan."
+                    ],
+                    "start": [
+                        210
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "pháp nhân phi thương mại là pháp nhân không có mục tiêu chính là tìm kiếm lợi nhuận; nếu có lợi nhuận thì cũng không được phân chia cho các thành viên, pháp nhân phi thương mại bao gồm cơ quan nhà nước, đơn vị vũ trang nhân dân, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp, quỹ xã hội, quỹ từ thiện, doanh nghiệp xã hội và các tổ chức phi thương mại khác, việc thành lập, hoạt động và chấm dứt pháp nhân phi thương mại được thực hiện theo quy định của bộ luật này, các luật về tổ chức bộ máy nhà nước và quy định khác của pháp luật có liên quan ; điều 76",
+        "qas": [
+            {
+                "question": "quy định pháp phi thương mại là gì ?",
+                "answer": {
+                    "text": [
+                        "pháp nhân không có mục tiêu chính là tìm kiếm lợi nhuận; nếu có lợi nhuận thì cũng không được phân chia cho các thành viên"
+                    ],
+                    "start": [
+                        28
+                    ]
+                }
+            },
+            {
+                "question": "quy định pháp nhân phi thương mại là gì ?",
+                "answer": {
+                    "text": [
+                        "pháp nhân không có mục tiêu chính là tìm kiếm lợi nhuận; nếu có lợi nhuận thì cũng không được phân chia cho các thành viên"
+                    ],
+                    "start": [
+                        28
+                    ]
+                }
+            },
+            {
+                "question": "pháp nhân phi thương mại là gì ?",
+                "answer": {
+                    "text": [
+                        "pháp nhân không có mục tiêu chính là tìm kiếm lợi nhuận; nếu có lợi nhuận thì cũng không được phân chia cho các thành viên"
+                    ],
+                    "start": [
+                        28
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "pháp nhân phi thương mại là pháp nhân không có mục tiêu chính là tìm kiếm lợi nhuận; nếu có lợi nhuận thì cũng không được phân chia cho các thành viên, pháp nhân phi thương mại bao gồm cơ quan nhà nước, đơn vị vũ trang nhân dân, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp, quỹ xã hội, quỹ từ thiện, doanh nghiệp xã hội và các tổ chức phi thương mại khác, việc thành lập, hoạt động và chấm dứt pháp nhân phi thương mại được thực hiện theo quy định của bộ luật này, các luật về tổ chức bộ máy nhà nước và quy định khác của pháp luật có liên quan ; điều 76.",
+        "qas": [
+            {
+                "question": "Pháp nhân phi thương mại là gì ?",
+                "answer": {
+                    "text": [
+                        "pháp nhân phi thương mại là pháp nhân không có mục tiêu chính là tìm kiếm lợi nhuận; nếu có lợi nhuận thì cũng không được phân chia cho các thành viên"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "Pháp nhân phi thương mại bao gồm những ai ?",
+                "answer": {
+                    "text": [
+                        "Pháp nhân phi thương mại bao gồm cơ quan nhà nước, đơn vị vũ trang nhân dân, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp, quỹ xã hội, quỹ từ thiện, doanh nghiệp xã hội và các tổ chức phi thương mại khác"
+                    ],
+                    "start": [
+                        152
+                    ]
+                }
+            },
+            {
+                "question": "việc thành lập pháp nhân phi thương mại thực hiện theo quy định nào ?",
+                "answer": {
+                    "text": [
+                        "Việc thành lập, hoạt động và chấm dứt pháp nhân phi thương mại được thực hiện theo quy định của Bộ luật này, các luật về tổ chức bộ máy nhà nước và quy định khác của pháp luật có liên quan"
+                    ],
+                    "start": [
+                        444
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "điều lệ của pháp nhân có những nội dung chủ yếu sau đây: tên gọi của pháp nhân, mục đích và phạm vi hoạt động của pháp nhân, trụ sở chính; chi nhánh, văn phòng đại diện, nếu có, vốn điều lệ, nếu có, đại diện theo pháp luật của pháp nhân, cơ cấu tổ chức; thể thức cử, bầu, bổ nhiệm, miễn nhiệm, cách chức, nhiệm vụ và quyền hạn của các chức danh của cơ quan điều hành và các cơ quan khác, điều kiện trở thành thành viên hoặc không còn là thành viên của pháp nhân, nếu là pháp nhân có thành viên, quyền, nghĩa vụ của các thành viên, nếu là pháp nhân có thành viên, thể thức thông qua quyết định của pháp nhân; nguyên tắc giải quyết tranh chấp nội bộ, thể thức sửa đổi, bổ sung điều lệ, ðiều kiện hợp nhất, sáp nhập, chia, tách, chuyển đổi hình thức, giải thể pháp nhân ; điều 77.",
+        "qas": [
+            {
+                "question": "điều lệ của pháp nhân có nội dung gì ?",
+                "answer": {
+                    "text": [
+                        "tên gọi của pháp nhân, mục đích và phạm vi hoạt động của pháp nhân, trụ sở chính; chi nhánh, văn phòng đại diện, nếu có, vốn điều lệ, nếu có, đại diện theo pháp luật của pháp nhân, cơ cấu tổ chức; thể thức cử, bầu, bổ nhiệm, miễn nhiệm, cách chức, nhiệm vụ và quyền hạn của các chức danh của cơ quan điều hành và các cơ quan khác, điều kiện trở thành thành viên hoặc không còn là thành viên của pháp nhân, nếu là pháp nhân có thành viên, quyền, nghĩa vụ của các thành viên, nếu là pháp nhân có thành viên, thể thức thông qua quyết định của pháp nhân; nguyên tắc giải quyết tranh chấp nội bộ, thể thức sửa đổi, bổ sung điều lệ, ðiều kiện hợp nhất, sáp nhập, chia, tách, chuyển đổi hình thức, giải thể pháp nhân"
+                    ],
+                    "start": [
+                        57
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "tên gọi của pháp nhân: pháp nhân phải có tên gọi bằng tiếng việt, tên gọi của pháp nhân phải thể hiện rõ loại hình tổ chức của pháp nhân và phân biệt với các pháp nhân khác trong cùng một lĩnh vực hoạt động, pháp nhân phải sử dụng tên gọi của mình trong giao dịch dân sự, tên gọi của pháp nhân được pháp luật công nhận và bảo vệ ; điều 78.",
+        "qas": [
+            {
+                "question": "quy định như thế nào về tên gọi của pháp nhân ?",
+                "answer": {
+                    "text": [
+                        "pháp nhân phải có tên gọi bằng tiếng việt, tên gọi của pháp nhân phải thể hiện rõ loại hình tổ chức của pháp nhân và phân biệt với các pháp nhân khác trong cùng một lĩnh vực hoạt động, pháp nhân phải sử dụng tên gọi của mình trong giao dịch dân sự, tên gọi của pháp nhân được pháp luật công nhận và bảo vệ"
+                    ],
+                    "start": [
+                        23
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "trụ sở của pháp nhân là nơi đặt cơ quan điều hành của pháp nhân ,trường hợp thay đổi trụ sở thì pháp nhân phải công bố công khai ; điều 79 khoản 1.",
+        "qas": [
+            {
+                "question": "trụ sở của pháp nhân là gì ?",
+                "answer": {
+                    "text": [
+                        "nơi đặt cơ quan điều hành của pháp nhân"
+                    ],
+                    "start": [
+                        24
+                    ]
+                }
+            },
+            {
+                "question": "trường hợp thay đổi trụ sở của pháp nhân cần phải làm gì ?",
+                "answer": {
+                    "text": [
+                        "trường hợp thay đổi trụ sở thì pháp nhân phải công bố công khai"
+                    ],
+                    "start": [
+                        65
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "địa chỉ liên lạc của pháp nhân là địa chỉ trụ sở của pháp nhân. pháp nhân có thể chọn nơi khác làm địa chỉ liên lạc ; điều 79 khoản 2.",
+        "qas": [
+            {
+                "question": "Địa chỉ liên lạc của pháp nhân là gì ?",
+                "answer": {
+                    "text": [
+                        "địa chỉ liên lạc của pháp nhân là địa chỉ trụ sở của pháp nhân"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "địa chỉ liên lạc của pháp nhân là địa chỉ trụ sở của pháp nhân. pháp nhân có thể chọn nơi khác làm địa chỉ liên lạc ; điều 79 khoản 2.",
+        "qas": [
+            {
+                "question": "Địa chỉ liên lạc của pháp nhân là gì ?",
+                "answer": {
+                    "text": [
+                        "địa chỉ liên lạc của pháp nhân là địa chỉ trụ sở của pháp nhân"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "quốc tịch của pháp nhân pháp nhân được thành lập theo pháp luật việt nam là pháp nhân việt nam ; điều 80.",
+        "qas": [
+            {
+                "question": "quốc tịch pháp nhân ?",
+                "answer": {
+                    "text": [
+                        "quốc tịch của pháp nhân pháp nhân được thành lập theo pháp luật việt nam là pháp nhân việt nam"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "quốc tịch của pháp nhân pháp nhân được thành lập theo pháp luật việt nam là pháp nhân việt nam ; điều 80.",
+        "qas": [
+            {
+                "question": "quốc tịch pháp nhân ?",
+                "answer": {
+                    "text": [
+                        "quốc tịch của pháp nhân pháp nhân được thành lập theo pháp luật việt nam là pháp nhân việt nam"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "tài sản của pháp nhân tài sản của pháp nhân bao gồm vốn góp của chủ sở hữu, sáng lập viên, thành viên của pháp nhân và tài sản khác mà pháp nhân được xác lập quyền sở hữu theo quy định của bộ luật này, luật khác có liên quan ; điều 81.",
+        "qas": [
+            {
+                "question": "quy định như thế nào về tài sản của pháp nhân ?",
+                "answer": {
+                    "text": [
+                        "tài sản của pháp nhân tài sản của pháp nhân bao gồm vốn góp của chủ sở hữu, sáng lập viên, thành viên của pháp nhân và tài sản khác"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "tài sản của pháp nhân gồm những gì ?",
+                "answer": {
+                    "text": [
+                        "tài sản của pháp nhân tài sản của pháp nhân bao gồm vốn góp của chủ sở hữu, sáng lập viên, thành viên của pháp nhân và tài sản khác"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "tài sản của pháp nhân tài sản của pháp nhân bao gồm vốn góp của chủ sở hữu, sáng lập viên, thành viên của pháp nhân và tài sản khác mà pháp nhân được xác lập quyền sở hữu theo quy định của bộ luật này, luật khác có liên quan ; điều 81.",
+        "qas": [
+            {
+                "question": "tài sản của pháp nhân ?",
+                "answer": {
+                    "text": [
+                        "bao gồm vốn góp của chủ sở hữu, sáng lập viên, thành viên của pháp nhân và tài sản khác mà pháp nhân được xác lập quyền sở hữu theo quy định của bộ luật này, luật khác có liên quan"
+                    ],
+                    "start": [
+                        44
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "thành lập, đăng ký pháp nhân: pháp nhân được thành lập theo sáng kiến của cá nhân, pháp nhân hoặc theo quyết định của cơ quan nhà nước có thẩm quyền, đăng ký pháp nhân bao gồm đăng ký thành lập, đăng ký thay đổi và đăng ký khác theo quy định của pháp luật, việc đăng ký pháp nhân phải được công bố công khai ; điều 82.",
+        "qas": [
+            {
+                "question": "đăng ký làm pháp nhân ?",
+                "answer": {
+                    "text": [
+                        "Pháp nhân được thành lập theo sáng kiến của cá nhân, pháp nhân hoặc theo quyết định của cơ quan nhà nước có thẩm quyền"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "Đăng ký pháp nhân bao gồm những gì ?",
+                "answer": {
+                    "text": [
+                        "Đăng ký pháp nhân bao gồm đăng ký thành lập, đăng ký thay đổi và đăng ký khác theo quy định của pháp luật."
+                    ],
+                    "start": [
+                        150
+                    ]
+                }
+            },
+            {
+                "question": "Đăng ký pháp nhân cần công bố không ?",
+                "answer": {
+                    "text": [
+                        "Việc đăng ký pháp nhân phải được công bố công khai"
+                    ],
+                    "start": [
+                        257
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "chi nhánh, văn phòng đại diện là đơn vị phụ thuộc của pháp nhân, không phải là pháp nhân, chi nhánh có nhiệm vụ thực hiện toàn bộ hoặc một phần chức năng của pháp nhân., văn phòng đại diện có nhiệm vụ đại diện trong phạm vi do pháp nhân giao, bảo vệ lợi ích của pháp nhân, việc thành lập, chấm dứt chi nhánh, văn phòng đại diện của pháp nhân phải được đăng ký theo quy định của pháp luật và công bố công khai, người đứng đầu chi nhánh, văn phòng đại diện thực hiện nhiệm vụ theo uỷ quyền của pháp nhân trong phạm vi và thời hạn được uỷ quyền, pháp nhân có quyền, nghĩa vụ dân sự phát sinh từ giao dịch dân sự do chi nhánh, văn phòng đại diện xác lập, thực hiện ; điều 84.",
+        "qas": [
+            {
+                "question": "Bộ luật Dân sự quy định như thế nào về chi nhánh,văn phòng đại diện của pháp nhân ?",
+                "answer": {
+                    "text": [
+                        "chi nhánh, văn phòng đại diện là đơn vị phụ thuộc của pháp nhân, không phải là pháp nhân"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "chi nhánh, văn phòng đại diện là đơn vị phụ thuộc của pháp nhân, không phải là pháp nhân, chi nhánh có nhiệm vụ thực hiện toàn bộ hoặc một phần chức năng của pháp nhân., văn phòng đại diện có nhiệm vụ đại diện trong phạm vi do pháp nhân giao, bảo vệ lợi ích của pháp nhân, việc thành lập, chấm dứt chi nhánh, văn phòng đại diện của pháp nhân phải được đăng ký theo quy định của pháp luật và công bố công khai, người đứng đầu chi nhánh, văn phòng đại diện thực hiện nhiệm vụ theo uỷ quyền của pháp nhân trong phạm vi và thời hạn được uỷ quyền, pháp nhân có quyền, nghĩa vụ dân sự phát sinh từ giao dịch dân sự do chi nhánh, văn phòng đại diện xác lập, thực hiện ; điều 84.",
+        "qas": [
+            {
+                "question": "Chi nhánh, văn phòng đại diện của pháp nhân ở đâu ?",
+                "answer": {
+                    "text": [
+                        "chi nhánh, văn phòng đại diện là đơn vị phụ thuộc của pháp nhân, không phải là pháp nhân"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "Chi nhánh của pháp nhân có nhiện vụ gì ?",
+                "answer": {
+                    "text": [
+                        "Chi nhánh có nhiệm vụ thực hiện toàn bộ hoặc một phần chức năng của pháp nhân"
+                    ],
+                    "start": [
+                        90
+                    ]
+                }
+            },
+            {
+                "question": "văn phòng của pháp nhân có nhiện vụ gì ?",
+                "answer": {
+                    "text": [
+                        "Văn phòng đại diện có nhiệm vụ đại diện trong phạm vi do pháp nhân giao, bảo vệ lợi ích của pháp nhân."
+                    ],
+                    "start": [
+                        170
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "đại diện của pháp nhân có thể là đại diện theo pháp luật hoặc đại diện theo ủy quyền. người đại diện của pháp nhân phải tuân theo quy định về đại diện tại chương ix phần này ; điều 85.",
+        "qas": [
+            {
+                "question": "Đại diện của pháp nhân là gì ?",
+                "answer": {
+                    "text": [
+                        "đại diện của pháp nhân có thể là đại diện theo pháp luật hoặc đại diện theo ủy quyền"
+                    ],
+                    "start": [
+                        31
+                    ]
+                }
+            },
+            {
+                "question": "Người đại diện của pháp nhân cần tuân thử những gì ?",
+                "answer": {
+                    "text": [
+                        "người đại diện của pháp nhân phải tuân theo quy định về đại diện tại chương ix phần này"
+                    ],
+                    "start": [
+                        86
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "đại diện của pháp nhân có thể là đại diện theo pháp luật hoặc đại diện theo ủy quyền. người đại diện của pháp nhân phải tuân theo quy định về đại diện tại chương ix phần này ; điều 85.",
+        "qas": [
+            {
+                "question": "quy định như thế nào về đại diện theo ủy quyền?",
+                "answer": {
+                    "text": [
+                        "đại diện theo pháp luật hoặc đại diện theo ủy quyền. người đại diện của pháp nhân phải tuân theo quy định về đại diện tại chương ix phần này"
+                    ],
+                    "start": [
+                        33
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "đại diện của pháp nhân có thể là đại diện theo pháp luật hoặc đại diện theo ủy quyền. người đại diện của pháp nhân phải tuân theo quy định về đại diện tại chương ix phần này ; điều 85.",
+        "qas": [
+            {
+                "question": "quy định như thế nào về đại diện theo pháp luật của pháp nhân?",
+                "answer": {
+                    "text": [
+                        "đại diện theo pháp luật hoặc đại diện theo ủy quyền. người đại diện của pháp nhân phải tuân theo quy định về đại diện tại chương ix phần này"
+                    ],
+                    "start": [
+                        33
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "năng lực pháp luật dân sự của pháp nhân là khả năng của pháp nhân có các quyền, nghĩa vụ dân sự, năng lực pháp luật dân sự của pháp nhân không bị hạn chế, trừ trường hợp bộ luật này, luật khác có liên quan quy định khác ; điều 86 khoản 1.",
+        "qas": [
+            {
+                "question": "năng lực pháp luật dân sự của pháp nhân có bị hạn chế không ?",
+                "answer": {
+                    "text": [
+                        "không bị hạn chế, trừ trường hợp bộ luật này, luật khác có liên quan quy định khác"
+                    ],
+                    "start": [
+                        137
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "năng lực pháp luật dân sự của pháp nhân là khả năng của pháp nhân có các quyền, nghĩa vụ dân sự, năng lực pháp luật dân sự của pháp nhân không bị hạn chế, trừ trường hợp bộ luật này, luật khác có liên quan quy định khác ; điều 86 khoản 1.",
+        "qas": [
+            {
+                "question": "Năng lực pháp luật dân sự của pháp nhân là gì ?",
+                "answer": {
+                    "text": [
+                        "năng lực pháp luật dân sự của pháp nhân là khả năng của pháp nhân có các quyền, nghĩa vụ dân sự, năng lực pháp luật dân sự của pháp nhân không bị hạn chế"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "năng lực pháp luật dân sự của pháp nhân phát sinh từ thời điểm được cơ quan nhà nước có thẩm quyền thành lập hoặc cho phép thành lập; nếu pháp nhân phải đăng ký hoạt động thì năng lực pháp luật dân sự của pháp nhân phát sinh từ thời điểm ghi vào sổ đăng ký ; điều 86 khoản 2.",
+        "qas": [
+            {
+                "question": "Năng lực pháp luật dân sự của pháp nhân được phát sinh từ thời điểm nào ?",
+                "answer": {
+                    "text": [
+                        "năng lực pháp luật dân sự của pháp nhân phát sinh từ thời điểm được cơ quan nhà nước có thẩm quyền thành lập hoặc cho phép thành lập; nếu pháp nhân phải đăng ký hoạt động thì năng lực pháp luật dân sự của pháp nhân phát sinh từ thời điểm ghi vào sổ đăng ký"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "năng lực pháp luật dân sự của pháp nhân chấm dứt kể từ thời điểm chấm dứt pháp nhân ; điều 86 khoản 3.",
+        "qas": [
+            {
+                "question": "Năng lực pháp luật dân sự của pháp nhân được xác định chấm dứt khi nào ?",
+                "answer": {
+                    "text": [
+                        "năng lực pháp luật dân sự của pháp nhân chấm dứt kể từ thời điểm chấm dứt pháp nhân"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "pháp nhân phải chịu trách nhiệm dân sự về việc thực hiện quyền, nghĩa vụ dân sự do người đại diện xác lập, thực hiện nhân danh pháp nhân, pháp nhân chịu trách nhiệm dân sự về nghĩa vụ do sáng lập viên hoặc đại diện của sáng lập viên xác lập, thực hiện để thành lập, đăng ký pháp nhân, trừ trường hợp có thỏa thuận khác hoặc luật có quy định khác ; điều 87 khoản 1.",
+        "qas": [
+            {
+                "question": "những trách nhiệm dân sự của pháp nhân ?",
+                "answer": {
+                    "text": [
+                        "pháp nhân phải chịu trách nhiệm dân sự về việc thực hiện quyền, nghĩa vụ dân sự do người đại diện xác lập, thực hiện nhân danh pháp nhân"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "hợp nhất pháp nhân các pháp nhân có thể hợp nhất thành một pháp nhân mới sau khi hợp nhất, các pháp nhân cũ chấm dứt tồn tại kể từ thời điểm pháp nhân mới được thành lập; quyền và nghĩa vụ dân sự của pháp nhân cũ được chuyển giao cho pháp nhân mới ; điều 88.",
+        "qas": [
+            {
+                "question": "các pháp nhân có thể hợp nhất thành một pháp nhân với nhau không ?",
+                "answer": {
+                    "text": [
+                        "các pháp nhân có thể hợp nhất thành một pháp nhân mới"
+                    ],
+                    "start": [
+                        19
+                    ]
+                }
+            },
+            {
+                "question": "sau khi hợp nhất các pháp nhân cũ phải làm gì ?",
+                "answer": {
+                    "text": [
+                        "các pháp nhân cũ chấm dứt tồn tại kể từ thời điểm pháp nhân mới được thành lập; quyền và nghĩa vụ dân sự của pháp nhân cũ được chuyển giao cho pháp nhân mới "
+                    ],
+                    "start": [
+                        91
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "sáp nhập pháp nhân một pháp nhân có thể được sáp nhập (sau đây gọi là pháp nhân được sáp nhập) vào một pháp nhân khác (sau đây gọi là pháp nhân sáp nhập), sau khi sáp nhập, pháp nhân được sáp nhập chấm dứt tồn tại; quyền và nghĩa vụ dân sự của pháp nhân được sáp nhập được chuyển giao cho pháp nhân sáp nhập ; điều 89.",
+        "qas": [
+            {
+                "question": "một pháp nhân có thể sát nhập vào một pháp nhân khác hay không ?",
+                "answer": {
+                    "text": [
+                        "một pháp nhân có thể được sáp nhập (sau đây gọi là pháp nhân được sáp nhập) vào một pháp nhân khác"
+                    ],
+                    "start": [
+                        20
+                    ]
+                }
+            },
+            {
+                "question": "sau khi sáp nhập pháp nhân cũ cần phải làm gì ?",
+                "answer": {
+                    "text": [
+                        "sau khi sáp nhập, pháp nhân được sáp nhập chấm dứt tồn tại; quyền và nghĩa vụ dân sự của pháp nhân được sáp nhập được chuyển giao cho pháp nhân sáp nhập"
+                    ],
+                    "start": [
+                        155
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "chia pháp nhân: một pháp nhân có thể chia thành nhiều pháp nhân, sau khi chia, pháp nhân bị chia chấm dứt tồn tại; quyền, nghĩa vụ dân sự của pháp nhân bị chia được chuyển giao cho các pháp nhân mới ; điều 90.",
+        "qas": [
+            {
+                "question": "một pháp nhân có thể chia thành nhiều pháp nhân khác không ?",
+                "answer": {
+                    "text": [
+                        "một pháp nhân có thể chia thành nhiều pháp nhân"
+                    ],
+                    "start": [
+                        16
+                    ]
+                }
+            },
+            {
+                "question": "sau khi một pháp nhân chia thành nhiều pháp nhân khác pháp nhân cũ còn tồn tại không ?",
+                "answer": {
+                    "text": [
+                        "sau khi chia, pháp nhân bị chia chấm dứt tồn tại; quyền, nghĩa vụ dân sự của pháp nhân bị chia được chuyển giao cho các pháp nhân mới "
+                    ],
+                    "start": [
+                        65
+                    ]
+                }
+            }
+        ]
+    },
+     {
+        "context": "tách pháp nhân: một pháp nhân có thể tách thành nhiều pháp nhân, sau khi tách, pháp nhân bị tách và pháp nhân được tách thực hiện quyền, nghĩa vụ dân sự của mình phù hợp với mục đích hoạt động ; điều 91.",
+        "qas": [
+            {
+                "question": "luật cho tách pháp nhân không ?",
+                "answer": {
+                    "text": [
+                        "một pháp nhân có thể tách thành nhiều pháp nhân, sau khi tách, pháp nhân bị tách và pháp nhân được tách thực hiện quyền, nghĩa vụ dân sự của mình phù hợp với mục đích hoạt động"
+                    ],
+                    "start": [
+                        16
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "tách pháp nhân: một pháp nhân có thể tách thành nhiều pháp nhân, sau khi tách, pháp nhân bị tách và pháp nhân được tách thực hiện quyền, nghĩa vụ dân sự của mình phù hợp với mục đích hoạt động ; điều 91.",
+        "qas": [
+            {
+                "question": "luật cho tách pháp nhân không ?",
+                "answer": {
+                    "text": [
+                        "một pháp nhân có thể tách thành nhiều pháp nhân, sau khi tách, pháp nhân bị tách và pháp nhân được tách thực hiện quyền, nghĩa vụ dân sự của mình phù hợp với mục đích hoạt động"
+                    ],
+                    "start": [
+                        16
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "chuyển đổi hình thức của pháp nhân: pháp nhân có thể được chuyển đổi hình thức thành pháp nhân khác, sau khi chuyển đổi hình thức, pháp nhân được chuyển đổi chấm dứt tồn tại kể từ thời điểm pháp nhân chuyển đổi được thành lập; pháp nhân chuyển đổi kế thừa quyền, nghĩa vụ dân sự của pháp nhân được chuyển đổi ; điều 92.",
+        "qas": [
+            {
+                "question": "có thể chuyển đổi hình thức của pháp nhân không ?",
+                "answer": {
+                    "text": [
+                        "pháp nhân có thể được chuyển đổi hình thức thành pháp nhân khác, sau khi chuyển đổi hình thức, pháp nhân được chuyển đổi chấm dứt tồn tại kể từ thời điểm pháp nhân chuyển đổi được thành lập; pháp nhân chuyển đổi kế thừa quyền, nghĩa vụ dân sự của pháp nhân được chuyển đổi"
+                    ],
+                    "start": [
+                        36
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "chuyển đổi hình thức của pháp nhân: pháp nhân có thể được chuyển đổi hình thức thành pháp nhân khác, sau khi chuyển đổi hình thức, pháp nhân được chuyển đổi chấm dứt tồn tại kể từ thời điểm pháp nhân chuyển đổi được thành lập; pháp nhân chuyển đổi kế thừa quyền, nghĩa vụ dân sự của pháp nhân được chuyển đổi ; điều 92.",
+        "qas": [
+            {
+                "question": "có thể chuyển đổi hình thức của pháp nhân không ?",
+                "answer": {
+                    "text": [
+                        "pháp nhân có thể được chuyển đổi hình thức thành pháp nhân khác, sau khi chuyển đổi hình thức, pháp nhân được chuyển đổi chấm dứt tồn tại kể từ thời điểm pháp nhân chuyển đổi được thành lập; pháp nhân chuyển đổi kế thừa quyền, nghĩa vụ dân sự của pháp nhân được chuyển đổi"
+                    ],
+                    "start": [
+                        36
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "pháp nhân giải thể trong trường hợp sau đây: theo quy định của điều lệ,  theo quyết định của cơ quan nhà nước có thẩm quyền, hết thời hạn hoạt động được ghi trong điều lệ hoặc trong quyết định của cơ quan nhà nước có thẩm quyền, trường hợp khác theo quy định của pháp luật ; điều 93 khoản 1.",
+        "qas": [
+            {
+                "question": "những trường hợp giải thể pháp nhân ?",
+                "answer": {
+                    "text": [
+                        "pháp nhân giải thể trong trường hợp sau đây: theo quy định của điều lệ,  theo quyết định của cơ quan nhà nước có thẩm quyền, hết thời hạn hoạt động được ghi trong điều lệ hoặc trong quyết định của cơ quan nhà nước có thẩm quyền"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "tài sản của pháp nhân bị giải thể được thanh toán theo thứ tự sau đây: chi phí giải thể pháp nhân, các khoản nợ lương, trợ cấp thôi việc, bảo hiểm xã hội, bảo hiểm y tế đối với người lao động theo quy định của pháp luật và các quyền lợi khác của người lao động theo thoả ước lao động tập thể và hợp đồng lao động đã ký kết, nợ thuế và các khoản nợ khác ; điều 94 khoản 1.",
+        "qas": [
+            {
+                "question": "thứ tự thanh toán tài sản của pháp nhân bị giải thể ?",
+                "answer": {
+                    "text": [
+                        "thứ tự sau đây: chi phí giải thể pháp nhân, các khoản nợ lương, trợ cấp thôi việc, bảo hiểm xã hội, bảo hiểm y tế đối với người lao động theo quy định của pháp luật và các quyền lợi khác của người lao động theo thoả ước lao động tập thể và hợp đồng lao động đã ký kết, nợ thuế và các khoản nợ khác"
+                    ],
+                    "start": [
+                        55
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "sau khi đã thanh toán hết chi phí giải thể pháp nhân và các khoản nợ, phần còn lại thuộc về chủ sở hữu pháp nhân, các thành viên góp vốn, trừ trường hợp quy định tại khoản 3 điều này hoặc pháp luật có quy định khác ; điều 94 khoản 2.",
+        "qas": [
+            {
+                "question": "pháp nhân bị giải thể, khi thanh toán hết nợ những tài sản còn lại thuộc về ai ?",
+                "answer": {
+                    "text": [
+                        "sau khi đã thanh toán hết chi phí giải thể pháp nhân và các khoản nợ, phần còn lại thuộc về chủ sở hữu pháp nhân, các thành viên góp vốn"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "phá sản pháp nhân việc phá sản pháp nhân được thực hiện theo quy định của pháp luật về phá sản ; điều 95.",
+        "qas": [
+            {
+                "question": "việc công bố phá sản pháp nhân như thế nào ?",
+                "answer": {
+                    "text": [
+                        "phá sản pháp nhân việc phá sản pháp nhân được thực hiện theo quy định của pháp luật về phá sản"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "phá sản pháp nhân việc phá sản pháp nhân được thực hiện theo quy định của pháp luật về phá sản ; điều 95.",
+        "qas": [
+            {
+                "question": "Sở hữu chung của cộng đồng là gì ?",
+                "answer": {
+                    "text": [
+                        "sở hữu chung của cộng đồng là sở hữu của dòng họ, thôn, ấp, bản, làng, buôn, phum, sóc, cộng đồng tôn giáo và cộng đồng dân cư khác đối với tài sản được hình thành theo tập quán"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    }
+]

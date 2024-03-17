@@ -1,0 +1,344 @@
+[
+    {
+        "context": "quyền đối với bất động sản liền kề là quyền được thực hiện trên một bất động sản (gọi là bất động sản chịu hưởng quyền) nhằm phục vụ cho việc khai thác một bất động sản khác thuộc quyền sở hữu của người khác (gọi là bất động sản hưởng quyền) ; điều 245.",
+        "qas": [
+            {
+                "question": "Quyền đối với bất động sản liền kề là gì ?",
+                "answer": {
+                    "text": [
+                        "quyền đối với bất động sản liền kề là quyền được thực hiện trên một bất động sản (gọi là bất động sản chịu hưởng quyền) nhằm phục vụ cho việc khai thác một bất động sản khác thuộc quyền sở hữu của người khác (gọi là bất động sản hưởng quyền)"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "quyền đối với bất động sản liền kề được xác lập do địa thế tự nhiên, theo quy định của luật, theo thoả thuận hoặc theo di chúc ; điều 246.",
+        "qas": [
+            {
+                "question": "Căn cứ xác lập quyền đối với bất động sản liền kề ra sao ?",
+                "answer": {
+                    "text": [
+                        "quyền đối với bất động sản liền kề được xác lập do địa thế tự nhiên, theo quy định của luật, theo thoả thuận hoặc theo di chúc"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            },
+            {
+                "question": "Căn cứ xác lập quyền đối với bất động sản liền kề gồm",
+                "answer": {
+                    "text": [
+                        "được xác lập do địa thế tự nhiên, theo quy định của luật, theo thoả thuận hoặc theo di chúc"
+                    ],
+                    "start": [
+                        35
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "quyền đối với bất động sản liền kề có hiệu lực đối với mọi cá nhân, pháp nhân và được chuyển giao khi bất động sản được chuyển giao, trừ trường hợp luật liên quan có quy định khác ; điều 247.",
+        "qas": [
+            {
+                "question": "Hiệu lực của quyền đối với bất động sản liền kề ra sao ?",
+                "answer": {
+                    "text": [
+                        "quyền đối với bất động sản liền kề có hiệu lực đối với mọi cá nhân, pháp nhân và được chuyển giao khi bất động sản được chuyển giao, trừ trường hợp luật liên quan có quy định khác "
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "việc thực hiện quyền đối với bất động sản liền kề theo thỏa thuận của các bên. trường hợp các bên không có thỏa thuận thì thực hiện theo các nguyên tắc sau đây: bảo đảm nhu cầu hợp lý của việc khai thác bất động sản hưởng quyền phù hợp với mục đích sử dụng của cả bất động sản hưởng quyền và bất động sản chịu hưởng quyền, không được lạm dụng quyền đối với bất động sản chịu hưởng quyền, không được thực hiện hành vi ngăn cản hoặc làm cho việc thực hiện quyền đối với bất động sản hưởng quyền trở nên khó khăn ; điều 248.",
+        "qas": [
+            {
+                "question": "nguyên tắc thực hiện quyền đối với bất động sản liền kề như thế nào ?",
+                "answer": {
+                    "text": [
+                        "bảo đảm nhu cầu hợp lý của việc khai thác bất động sản hưởng quyền phù hợp với mục đích sử dụng của cả bất động sản hưởng quyền và bất động sản chịu hưởng quyền, không được lạm dụng quyền đối với bất động sản chịu hưởng quyền, không được thực hiện hành vi ngăn cản hoặc làm cho việc thực hiện quyền đối với bất động sản hưởng quyền trở nên khó khăn"
+                    ],
+                    "start": [
+                        161
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "trường hợp có sự thay đổi về sử dụng, khai thác bất động sản chịu hưởng quyền dẫn đến thay đổi việc thực hiện quyền đối với bất động sản hưởng quyền thì chủ sở hữu bất động sản chịu hưởng quyền phải thông báo trước cho chủ sở hữu bất động sản hưởng quyền trong một thời hạn hợp lý. chủ sở hữu bất động sản chịu hưởng quyền phải tạo điều kiện thuận lợi cho chủ sở hữu bất động sản hưởng quyền phù hợp với thay đổi này ; điều 249.",
+        "qas": [
+            {
+                "question": "thay đổi việc thực hiện quyền đối với bất động sản liền kề ra sao? ",
+                "answer": {
+                    "text": [
+                        "trường hợp có sự thay đổi về sử dụng, khai thác bất động sản chịu hưởng quyền dẫn đến thay đổi việc thực hiện quyền đối với bất động sản hưởng quyền thì chủ sở hữu bất động sản chịu hưởng quyền phải thông báo trước cho chủ sở hữu bất động sản hưởng quyền trong một thời hạn hợp lý"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "chủ sở hữu nhà, công trình xây dựng khác phải lắp đặt đường dẫn nước sao cho nước mưa từ mái nhà, công trình xây dựng của mình không được chảy xuống bất động sản của chủ sở hữu bất động sản liền kề ; điều 250.",
+        "qas": [
+            {
+                "question": "Nghĩa vụ của chủ sở hữu trong việc thoát nước mưa ?",
+                "answer": {
+                    "text": [
+                        "chủ sở hữu nhà, công trình xây dựng khác phải lắp đặt đường dẫn nước sao cho nước mưa từ mái nhà, công trình xây dựng của mình không được chảy xuống bất động sản của chủ sở hữu bất động sản liền kề"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "chủ sở hữu nhà, công trình xây dựng khác phải làm cống ngầm hoặc rãnh thoát nước để đưa nước thải ra nơi quy định, sao cho nước thải không chảy tràn sang bất động sản của chủ sở hữu bất động sản liền kề, ra đường công cộng hoặc nơi sinh hoạt công cộng ; điều 251. ",
+        "qas": [
+            {
+                "question": "Nghĩa vụ của chủ sở hữu trong việc thoát nước thải ?",
+                "answer": {
+                    "text": [
+                        "chủ sở hữu nhà, công trình xây dựng khác phải làm cống ngầm hoặc rãnh thoát nước để đưa nước thải ra nơi quy định, sao cho nước thải không chảy tràn sang bất động sản của chủ sở hữu bất động sản liền kề, ra đường công cộng hoặc nơi sinh hoạt công cộng"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "trường hợp do vị trí tự nhiên của bất động sản mà việc cấp, thoát nước buộc phải qua một bất động sản khác thì chủ sở hữu bất động sản có nước chảy qua phải dành một lối cấp, thoát nước thích hợp, không được cản trở hoặc ngăn chặn dòng nước chảy, người sử dụng lối cấp, thoát nước phải hạn chế đến mức thấp nhất thiệt hại cho chủ sở hữu bất động sản có nước chảy qua khi lắp đặt đường dẫn nước; nếu gây thiệt hại thì phải bồi thường. trường hợp nước tự nhiên chảy từ vị trí cao xuống vị trí thấp mà gây thiệt hại cho chủ sở hữu bất động sản có nước chảy qua thì người sử dụng lối cấp, thoát nước không phải bồi thường thiệt hại ; điều 252.",
+        "qas": [
+            {
+                "question": "vị trí tự nhiên của bất động sản mà việc cấp, thoát nước buộc phải qua một bất động sản khác thì chủ sở hữu sử lý như thế nào ?",
+                "answer": {
+                    "text": [
+                        "trường hợp do vị trí tự nhiên của bất động sản mà việc cấp, thoát nước buộc phải qua một bất động sản khác thì chủ sở hữu bất động sản có nước chảy qua phải dành một lối cấp, thoát nước thích hợp, không được cản trở hoặc ngăn chặn dòng nước chảy, người sử dụng lối cấp, thoát nước phải hạn chế đến mức thấp nhất thiệt hại cho chủ sở hữu bất động sản có nước chảy qua khi lắp đặt đường dẫn nước"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "người có quyền sử dụng đất canh tác khi có nhu cầu về tưới nước, tiêu nước, có quyền yêu cầu những người sử dụng đất xung quanh để cho mình một lối dẫn nước thích hợp, thuận tiện cho việc tưới, tiêu; người được yêu cầu có nghĩa vụ đáp ứng yêu cầu đó; nếu người sử dụng lối dẫn nước gây thiệt hại cho người sử dụng đất xung quanh thì phải bồi thường ; điều 253.",
+        "qas": [
+            {
+                "question": "Quyền về tưới nước, tiêu nước trong canh tác ?",
+                "answer": {
+                    "text": [
+                        "người có quyền sử dụng đất canh tác khi có nhu cầu về tưới nước, tiêu nước, có quyền yêu cầu những người sử dụng đất xung quanh để cho mình một lối dẫn nước thích hợp, thuận tiện cho việc tưới, tiêu"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "chủ sở hữu có bất động sản bị vây bọc bởi các bất động sản của các chủ sở hữu khác mà không có hoặc không đủ lối đi ra đường công cộng, có quyền yêu cầu chủ sở hữu bất động sản vây bọc dành cho mình một lối đi hợp lý trên phần đất của họ, lối đi được mở trên bất động sản liền kề nào mà được coi là thuận tiện và hợp lý nhất, có tính đến đặc điểm cụ thể của địa điểm, lợi ích của bất động sản bị vây bọc và thiệt hại gây ra là ít nhất cho bất động sản có mở lối đi, chủ sở hữu bất động sản hưởng quyền về lối đi qua phải đền bù cho chủ sở hữu bất động sản chịu hưởng quyền, trừ trường hợp có thỏa thuận khác ; điều 254 khoản 1.",
+        "qas": [
+            {
+                "question": "Quyền về lối đi qua ?",
+                "answer": {
+                    "text": [
+                        "chủ sở hữu có bất động sản bị vây bọc bởi các bất động sản của các chủ sở hữu khác mà không có hoặc không đủ lối đi ra đường công cộng, có quyền yêu cầu chủ sở hữu bất động sản vây bọc dành cho mình một lối đi hợp lý trên phần đất của họ"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "chủ sở hữu bất động sản có quyền mắc đường dây tải điện, thông tin liên lạc qua bất động sản của các chủ sở hữu khác một cách hợp lý, nhưng phải bảo đảm an toàn và thuận tiện cho các chủ sở hữu đó; nếu gây thiệt hại thì phải bồi thường ; điều 255.",
+        "qas": [
+            {
+                "question": "Mắc đường dây tải điện, thông tin liên lạc qua bất động sản khác như thế nào ?",
+                "answer": {
+                    "text": [
+                        "chủ sở hữu bất động sản có quyền mắc đường dây tải điện, thông tin liên lạc qua bất động sản của các chủ sở hữu khác một cách hợp lý, nhưng phải bảo đảm an toàn và thuận tiện cho các chủ sở hữu đó; nếu gây thiệt hại thì phải bồi thường"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "quyền đối với bất động sản liền kề chấm dứt trong trường hợp sau đây: bất động sản hưởng quyền và bất động sản chịu hưởng quyền thuộc quyền sở hữu của một người, việc sử dụng, khai thác bất động sản không còn làm phát sinh nhu cầu hưởng quyền, theo thỏa thuận của các bên, trường hợp khác theo quy định của luật ; điều 256.",
+        "qas": [
+            {
+                "question": "Quyền đối với bất động sản liền kề chấm dứt trong trường hợp nào ?",
+                "answer": {
+                    "text": [
+                        "quyền đối với bất động sản liền kề chấm dứt trong trường hợp sau đây: bất động sản hưởng quyền và bất động sản chịu hưởng quyền thuộc quyền sở hữu của một người, việc sử dụng, khai thác bất động sản không còn làm phát sinh nhu cầu hưởng quyền, theo thỏa thuận của các bên"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "quyền hưởng dụng được xác lập theo quy định của luật, theo thoả thuận hoặc theo di chúc ; điều 258.",
+        "qas": [
+            {
+                "question": "căn cứ xác lập quyền hưởng dụng như thế nào ? ",
+                "answer": {
+                    "text": [
+                        "quyền hưởng dụng được xác lập theo quy định của luật, theo thoả thuận hoặc theo di chúc"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "quyền hưởng dụng được xác lập từ thời điểm nhận chuyển giao tài sản, trừ trường hợp có thỏa thuận khác hoặc luật liên quan có quy định khác, quyền hưởng dụng đã được xác lập có hiệu lực đối với mọi cá nhân, pháp nhân, trừ trường hợp luật liên quan có quy định khác ;điều 259.",
+        "qas": [
+            {
+                "question": "Hiệu lực của quyền hưởng dụng khi nào ?",
+                "answer": {
+                    "text": [
+                        "quyền hưởng dụng được xác lập từ thời điểm nhận chuyển giao tài sản"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "thời hạn của quyền hưởng dụng do các bên thỏa thuận hoặc do luật quy định nhưng tối đa đến hết cuộc đời của người hưởng dụng đầu tiên nếu người hưởng dụng là cá nhân và đến khi pháp nhân chấm dứt tồn tại nhưng tối đa 30 năm nếu người hưởng dụng đầu tiên là pháp nhân ; điều 260 khoản 1.",
+        "qas": [
+            {
+                "question": "thời hạn của quyền hưởng dụng ra sao ?",
+                "answer": {
+                    "text": [
+                        "thời hạn của quyền hưởng dụng do các bên thỏa thuận hoặc do luật quy định nhưng tối đa đến hết cuộc đời của người hưởng dụng đầu tiên nếu người hưởng dụng là cá nhân và đến khi pháp nhân chấm dứt tồn tại nhưng tối đa 30 năm nếu người hưởng dụng đầu tiên là pháp nhân"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "quyền hưởng dụng chấm dứt trong trường hợp sau đây: thời hạn của quyền hưởng dụng đã hết, theo thỏa thuận của các bên, người hưởng dụng trở thành chủ sở hữu tài sản là đối tượng của quyền hưởng dụng, người hưởng dụng từ bỏ hoặc không thực hiện quyền hưởng dụng trong thời hạn do luật quy định, tài sản là đối tượng của quyền hưởng dụng không còn, theo quyết định của tòa án, căn cứ khác theo quy định của luật ; điều 265.",
+        "qas": [
+            {
+                "question": "Quyền hưởng dụng chấm dứt trong trường hợp nào ?",
+                "answer": {
+                    "text": [
+                        "thời hạn của quyền hưởng dụng đã hết, theo thỏa thuận của các bên, người hưởng dụng trở thành chủ sở hữu tài sản là đối tượng của quyền hưởng dụng, người hưởng dụng từ bỏ hoặc không thực hiện quyền hưởng dụng trong thời hạn do luật quy định, tài sản là đối tượng của quyền hưởng dụng không còn, theo quyết định của tòa án, căn cứ khác theo quy định của luật"
+                    ],
+                    "start": [
+                        52
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "tài sản là đối tượng của quyền hưởng dụng phải được hoàn trả cho chủ sở hữu khi chấm dứt quyền hưởng dụng, trừ trường hợp có thỏa thuận khác hoặc luật có quy định khác ; điều 266.",
+        "qas": [
+            {
+                "question": "Hoàn trả tài sản khi chấm dứt quyền hưởng dụng như thế nào ?",
+                "answer": {
+                    "text": [
+                        "tài sản là đối tượng của quyền hưởng dụng phải được hoàn trả cho chủ sở hữu khi chấm dứt quyền hưởng dụng, trừ trường hợp có thỏa thuận khác hoặc luật có quy định khác"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "quyền bề mặt được xác lập theo quy định của luật, theo thỏa thuận hoặc theo di chúc ; điều 268.",
+        "qas": [
+            {
+                "question": "Căn cứ xác lập quyền bề mặt ra sao ?",
+                "answer": {
+                    "text": [
+                        "quyền bề mặt được xác lập theo quy định của luật, theo thỏa thuận hoặc theo di chúc"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },  {
+        "context": "quyền bề mặt có hiệu lực từ thời điểm chủ thể có quyền sử dụng đất chuyển giao mặt đất, mặt nước, khoảng không gian trên mặt đất, mặt nước và lòng đất cho chủ thể có quyền bề mặt, trừ trường hợp có thỏa thuận khác hoặc luật liên quan có quy định khác, quyền bề mặt có hiệu lực đối với mọi cá nhân, pháp nhân, trừ trường hợp luật liên quan có quy định khác ; điều 269.",
+        "qas": [
+            {
+                "question": "Hiệu lực của quyền bề mặt ?",
+                "answer": {
+                    "text": [
+                        "quyền bề mặt có hiệu lực từ thời điểm chủ thể có quyền sử dụng đất chuyển giao mặt đất, mặt nước, khoảng không gian trên mặt đất, mặt nước và lòng đất cho chủ thể có quyền bề mặt"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },{
+        "context": "thời hạn của quyền bề mặt được xác định theo quy định của luật, theo thoả thuận hoặc di chúc nhưng không vượt quá thời hạn của quyền sử dụng đất ; điều 270 khoản 1.",
+        "qas": [
+            {
+                "question": "Thời hạn của quyền bề mặt khi nào ?",
+                "answer": {
+                    "text": [
+                        "thời hạn của quyền bề mặt được xác định theo quy định của luật, theo thoả thuận hoặc di chúc nhưng không vượt quá thời hạn của quyền sử dụng đất"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "quyền bề mặt chấm dứt trong trường hợp sau đây: thời hạn hưởng quyền bề mặt đã hết, chủ thể có quyền bề mặt và chủ thể có quyền sử dụng đất là một, chủ thể có quyền bề mặt từ bỏ quyền của mình, quyền sử dụng đất có quyền bề mặt bị thu hồi theo quy định của luật đất đai, theo thỏa thuận của các bên hoặc theo quy định của luật ; điều 272.",
+        "qas": [
+            {
+                "question": "Quyền bề mặt chấm dứt trong trường hợp nào ?",
+                "answer": {
+                    "text": [
+                        "thời hạn hưởng quyền bề mặt đã hết, chủ thể có quyền bề mặt và chủ thể có quyền sử dụng đất là một, chủ thể có quyền bề mặt từ bỏ quyền của mình, quyền sử dụng đất có quyền bề mặt bị thu hồi theo quy định của luật đất đai, theo thỏa thuận của các bên hoặc theo quy định của luật"
+                    ],
+                    "start": [
+                        48
+                    ]
+                }
+            }
+        ]
+    }, {
+        "context": "khi quyền bề mặt chấm dứt, chủ thể quyền bề mặt phải trả lại mặt đất, mặt nước, khoảng không gian trên mặt đất, mặt nước và lòng đất cho chủ thể có quyền sử dụng đất theo thỏa thuận hoặc theo quy định của pháp luật ; điều 273 khoản 1.",
+        "qas": [
+            {
+                "question": "Xử lý tài sản khi quyền bề mặt chấm dứt như thế nào ? ",
+                "answer": {
+                    "text": [
+                        "khi quyền bề mặt chấm dứt, chủ thể quyền bề mặt phải trả lại mặt đất, mặt nước, khoảng không gian trên mặt đất, mặt nước và lòng đất cho chủ thể có quyền sử dụng đất theo thỏa thuận hoặc theo quy định của pháp luật"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    }
+]

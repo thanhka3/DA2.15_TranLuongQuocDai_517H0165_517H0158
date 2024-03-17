@@ -1,0 +1,146 @@
+[
+    {
+        "context": "nghĩa vụ hoàn trả hoa lợi, lợi tức: người chiếm hữu, người sử dụng tài sản, người được lợi về tài sản mà không có căn cứ pháp luật và không ngay tình thì phải hoàn trả hoa lợi, lợi tức thu được từ thời điểm chiếm hữu, sử dụng tài sản, được lợi về tài sản không có căn cứ pháp luật, người chiếm hữu, người sử dụng tài sản, người được lợi về tài sản mà không có căn cứ pháp luật nhưng ngay tình thì phải hoàn trả hoa lợi, lợi tức thu được từ thời điểm người đó biết hoặc phải biết việc chiếm hữu, sử dụng tài sản, được lợi về tài sản không có căn cứ pháp luật, trừ trường hợp quy định tại điều 236 của bộ luật này ; điều 581.",
+        "qas": [
+            {
+                "question": "Người chiếm hữu tài sản được lợi về tài sản mà không có căn cứ pháp luật có phải hoàn trả lợi nhuận không?",
+                "answer": {
+                    "text": [
+                        " phải hoàn trả hoa lợi, lợi tức thu được từ thời điểm chiếm hữu, sử dụng tài sản, được lợi về tài sản không có căn cứ pháp luật"
+                    ],
+                    "start": [
+                        154
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "việc thực hiện công việc không có ủy quyền chấm dứt trong trường hợp sau đây: theo yêu cầu của người có công việc được thực hiện, người có công việc được thực hiện, người thừa kế hoặc người đại diện của người có công việc được thực hiện tiếp nhận công việc, người thực hiện công việc không có ủy quyền không thể tiếp tục thực hiện công việc theo quy định tại khoản 5 điều 575 của bộ luật này, người thực hiện công việc không có ủy quyền chết, nếu là cá nhân hoặc chấm dứt tồn tại, nếu là pháp nhân ; điều 578.",
+        "qas": [
+            {
+                "question": "Việc thực hiện công việc không có ủy quyền chấm dứt trong trường hợp nào ?",
+                "answer": {
+                    "text": [
+                        "trường hợp sau đây: theo yêu cầu của người có công việc được thực hiện, người có công việc được thực hiện, người thừa kế hoặc người đại diện của người có công việc được thực hiện tiếp nhận công việc, người thực hiện công việc không có ủy quyền không thể tiếp tục thực hiện công việc theo quy định tại khoản 5 điều 575 của bộ luật này, người thực hiện công việc không có ủy quyền chết"
+                    ],
+                    "start": [
+                        58
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "nghĩa vụ bồi thường thiệt hại: khi người thực hiện công việc không có ủy quyền cố ý gây thiệt hại trong khi thực hiện công việc thì phải bồi thường thiệt hại cho người có công việc được thực hiện, nếu người thực hiện công việc không có ủy quyền do vô ý mà gây thiệt hại trong khi thực hiện công việc thì căn cứ vào hoàn cảnh đảm nhận công việc, người đó có thể được giảm mức bồi thường ; điều 577.",
+        "qas": [
+            {
+                "question": "Khi người thực hiện công việc không có ủy quyền cố ý gây thiệt hại có phải bồi thường ?",
+                "answer": {
+                    "text": [
+                        "phải bồi thường thiệt hại cho người có công việc được thực hiện"
+                    ],
+                    "start": [
+                        132
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "nghĩa vụ thanh toán của người có công việc được thực hiện: người có công việc được thực hiện phải tiếp nhận công việc khi người thực hiện công việc không có ủy quyền bàn giao công việc và thanh toán các chi phí hợp lý mà người thực hiện công việc không có ủy quyền đã bỏ ra để thực hiện công việc, kể cả trường hợp công việc không đạt được kết quả theo ý muốn của mình, người có công việc được thực hiện phải trả cho người thực hiện công việc không có ủy quyền một khoản thù lao khi người này thực hiện công việc chu đáo, có lợi cho mình, trừ trường hợp người thực hiện công việc không có ủy quyền từ chối ; điều 576.",
+        "qas": [
+            {
+                "question": "Người có công việc được thực hiện phải làm sao khi người thực hiện công việc không có ủy quyền bàn giao công việc ?",
+                "answer": {
+                    "text": [
+                        "người có công việc được thực hiện phải tiếp nhận công việc khi người thực hiện công việc không có ủy quyền bàn giao công việc và thanh toán các chi phí hợp lý mà người thực hiện công việc không có ủy quyền đã bỏ ra để thực hiện công việc"
+                    ],
+                    "start": [
+                        59
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "Thực hiện công việc không có ủy quyền là việc một người không có nghĩa vụ thực hiện công việc nhưng đã tự nguyện thực hiện công việc đó vì lợi ích của người có công việc được thực hiện khi người này không biết hoặc biết mà không phản đối ; điều 574.",
+        "qas": [
+            {
+                "question": "Thực hiện công việc không có ủy quyền là gì ?",
+                "answer": {
+                    "text": [
+                        " việc một người không có nghĩa vụ thực hiện công việc nhưng đã tự nguyện thực hiện công việc đó vì lợi ích của người có công việc được thực hiện"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "việc tổ chức các cuộc thi văn hoá, nghệ thuật, thể thao, khoa học, kỹ thuật và các cuộc thi khác không được vi phạm điều cấm của luật, không trái đạo đức xã hội ; điều 573 khoản 1.",
+        "qas": [
+            {
+                "question": "Việc tổ chức các cuộc thi văn hóa, nghệ thuật, thể thao phải tuân thủ luật pháp như thế nào ?",
+                "answer": {
+                    "text": [
+                        "không được vi phạm điều cấm của luật, không trái đạo đức xã hội"
+                    ],
+                    "start": [
+                        97
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "trường hợp một công việc được hứa thưởng do một người thực hiện thì khi công việc hoàn thành, người thực hiện công việc đó được nhận thưởng ; điều 572 khoản 1.",
+        "qas": [
+            {
+                "question": "Trả thưởng như thế nào ?",
+                "answer": {
+                    "text": [
+                        "một công việc được hứa thưởng do một người thực hiện thì khi công việc hoàn thành, người thực hiện công việc đó được nhận thưởng"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "khi một công việc được hứa thưởng do nhiều người cùng thực hiện nhưng mỗi người thực hiện độc lập với nhau thì người hoàn thành đầu tiên được nhận thưởng ; điều 572 khoản 2.",
+        "qas": [
+            {
+                "question": "Trả thưởng cho nhiều người như thế nào ?",
+                "answer": {
+                    "text": [
+                        "khi một công việc được hứa thưởng do nhiều người cùng thực hiện nhưng mỗi người thực hiện độc lập với nhau thì người hoàn thành đầu tiên được nhận thưởng"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "context": "người đã công khai hứa thưởng phải trả thưởng cho người đã thực hiện công việc theo yêu cầu của người hứa thưởng, công việc được hứa thưởng phải cụ thể, có thể thực hiện được, không vi phạm điều cấm của luật, không trái đạo đức xã hội ; điều 570.",
+        "qas": [
+            {
+                "question": "Hứa thưởng như thế nào ?",
+                "answer": {
+                    "text": [
+                        "người đã công khai hứa thưởng phải trả thưởng cho người đã thực hiện công việc theo yêu cầu của người hứa thưởng"
+                    ],
+                    "start": [
+                        0
+                    ]
+                }
+            }
+        ]
+    }
+]
